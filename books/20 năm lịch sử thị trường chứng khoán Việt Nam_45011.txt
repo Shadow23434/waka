@@ -1,0 +1,981 @@
+20 NĂM LỊCH SỬ THỊ TRƯỜNG CHỨNG KHOÁN VIỆT NAM
+
+LÊ HOÀI ÂN, CFA
+
+----------------*----------------
+
+NHÀ XUẤT BẢN LAO ĐỘNG
+
+Địa chỉ: Số 175 Giảng Võ - Hà Nội
+
+Điện thoại: (024) 3851 5380
+
+Fax: (024) 3851 5381
+
+Email: info@nxblaodong.com.vn
+
+Website: www.nxblaodong.com.vn
+
+Chịu trách nhiệm xuất bản:
+
+MAI THỊ THANH HẰNG
+
+Biên tập: Lê Thị Hằng
+
+Trình bày: R Books Co.,Ltd
+
+Sửa bản in: R Books Co.,Ltd
+
+Thiết kế và thực hiện: R Books Co.,Ltd
+
+LIÊN KẾT XUẤT BẢN
+
+RBOOKS.VN
+
+CÔNG TY CỔ PHẦN TNHH R BOOKS
+
+Địa chỉ: L4-42.OT05 (officetel), Tòa Landmark 4 Vinhomes Central Park, Số 720A Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Tp.HCM
+
+Điện thoại: 028 3636 4405
+
+Email: info@rbooks.vn
+
+Hotline: 08 4966 4005
+
+Website: www.rbooks.vn
+
+In 2.000 cuốn, khổ 15x23 cm, tại Công Ty TNHH In Ấn Quan Bình.
+
+Địa chỉ: 264/29 Lê Văn Quới, Phường Bình Hưng Hòa A, Quận Bình
+
+Tân, TP.HCM. Xác nhận ĐKXB số: 2070-2021/CXBIPH/02-115/LĐ ngày 10/6/2021.
+
+QĐXB số: 1012/QĐ-NXBLĐ ngày 10/6/2021.
+
+Mã ISBN: 978-604-325-741-0.
+
+In xong và nộp lưu chiểu năm 2021.
+
+Lời mở đầu
+
+N
+ăm 2020 đã đánh dấu cột mốc 20 năm thành lập của thị trường chứng khoán Việt Nam. Hai mươi năm không phải là quãng thời gian quá dài, tuy nhiên cũng không quá ngắn cho hành trình phát triển của một thị trường.
+
+Trong thời gian đó, thị trường chứng khoán Việt Nam đã chứng kiến sự tăng trưởng vượt bậc về số lượng doanh nghiệp niêm yết. Ban đầu, thị trường bắt đầu chỉ với vài doanh nghiệp thì hiện nay con số này đã hơn 1.600 doanh nghiệp niêm yết trên cả ba sàn chứng khoán. Bắt đầu với giá trị vốn hóa rất nhỏ thì thị trường chứng khoán Việt Nam giờ đây có mức vốn hóa lên đến hàng trăm tỷ đô la. Thị trường chứng khoán ra đời đánh dấu một cột mốc quan trọng trong quá trình phát triển hệ thống tài chính của Việt Nam. Khi các hoạt động kinh tế ngày càng mở rộng thì yêu cầu thị trường tài chính phải có một sự phát triển tương ứng.
+
+Nền kinh tế Việt Nam giống như nhiều nền kinh tế khác ở Châu Á, phụ thuộc rất nhiều vào nguồn vốn ngân hàng trong quá trình phát triển. Từ sau giai đoạn đổi mới, hệ thống ngân hàng cung cấp nguồn vốn chính yếu cho nền kinh tế để tạo động lực tăng trưởng. Tuy nhiên, khi quy mô ngày càng tăng đã dẫn đến việc hệ thống ngân hàng đang phải gồng mình và không đủ để đáp ứng nhu cầu vốn ngày càng đa dạng của các doanh nghiệp. Khi đó, sự ra đời của thị trường chứng khoán sẽ giúp giảm tải áp lực trong nguồn vốn của ngân hàng, vốn thường chỉ được tài trợ trong nhu cầu vốn ngắn hạn. Những nhu cầu vốn trung, dài hạn của doanh nghiệp có thể được hỗ trợ qua kênh huy động thị trường chứng khoán.
+
+Thị trường chứng khoán mang lại rất nhiều cơ hội gia tăng giá trị tài sản cho nhà đầu tư. Tuy nhiên, đó cũng là nơi chứng kiến rất nhiều nước mắt của bao nhà đầu tư cá nhân bị thua lỗ từ thị trường chứng khoán. Nơi đó cũng chứng kiến các doanh nghiệp đã từng rất huy hoàng và từng sụp đổ như thế nào theo thời gian. Sự biến động thị trường rất lớn đã để lại nhiều bài học cho những nhà đầu tư trên thị trường. Nói cách khác, thị trường chứng khoán không khác gì cuốn nhật ký ghi lại hành trình phát triển của nền kinh tế Việt Nam trong 20 năm qua. Những vấn đề về lịch sử khá khô khan và không dễ để truyền đạt một cách sinh động cho người đọc.
+
+Về cách viết của cuốn sách này, tác giả dựa trên những nền tảng lý thuyết kinh tế liên quan đến dòng vốn của doanh nghiệp niêm yết trong 20 năm qua để đánh giá xu hướng của từng cổ phiếu riêng lẻ, nhóm ngành nghề và cả toàn thị trường. Thị trường chứng khoán và nền kinh tế luôn luôn có một mối quan hệ chặt chẽ với nhau trong dài hạn. Mặc dù có thể trong ngắn hạn giữa hai thị trường có sự mất kết nối nhất định, tuy nhiên, trong dài hạn thì những sự cải thiện trong hiệu quả hoạt động của doanh nghiệp, các ngành nghề hoặc nền kinh tế luôn luôn được phản ánh vào giá cổ phiếu. Với cách tiếp cận như vậy, chúng ta sẽ dựa trên việc các doanh nghiệp niêm yết trên sàn đã thu hút dòng vốn qua từng năm, tập hợp dòng vốn huy động của các doanh nghiệp chính là dòng vốn huy động của các ngành. Tổng thể hơn là nền kinh tế đã huy động vốn như thế nào qua từng năm để giải thích sự biến động của thị trường qua từng giai đoạn. Những biến động trên thị trường vốn sẽ thể hiện những quyết định tài chính của doanh nghiệp qua từng năm và các quyết định này sẽ mang đến thành công hoặc thất bại cho doanh nghiệp trong tương lai.
+
+Đối tượng độc giả chính của cuốn sách là những nhà đầu tư cá nhân, và cho cả nhà đầu tư tổ chức trong và ngoài nước, những đơn vị quan tâm đến thị trường chứng khoán Việt Nam. Tuy nhiên, tác giả dành sự lưu tâm đặc biệt cho nhóm đối tượng nhà đầu tư cá nhân. Trên thị trường chứng khoán, nếu so sánh giữa nhà đầu tư cá nhân và nhà đầu tư tổ chức thì nhà đầu tư tổ chức có một lợi thế hơn hẳn cả về nguồn lực, năng lực phân tích và cả nền tảng của đội ngũ quản lý.
+
+Với những nhà đầu tư mới tham gia vào thị trường thì lịch sử chỉ là những con số khô khan, về các lần thị trường tăng giảm cũng như sự biến động của các ngành nghề. Nhưng cuốn sách sẽ kết nối các nền tảng lý luận chặt chẽ về những vấn đề cơ bản tác động đến thị trường chứng khoán, qua đó sẽ giúp cho nhà đầu tư cá nhân nắm bắt được những gì đã diễn ra trên thị trường chứng khoán trong suốt 20 năm qua. Đặc biệt, việc nhìn nhận vấn đề tổng thể theo một chuỗi cơ sở lý luận rõ ràng sẽ giúp cho nhà đầu tư cá nhân cân bằng về lợi thế với những nhà đầu tư tổ chức trong quá trình giao dịch chứng khoán. Việc có một phương pháp phân tích tốt cùng với việc nhìn nhận lại hoặc đánh giá hiệu nghiệm của phương pháp sẽ giúp họ nhanh chóng cập nhật lại kiến thức thị trường và hình thành những kinh nghiệm về đầu tư cho mình trong một thời gian ngắn. Cấu trúc cuốn sách sẽ chia ra ba phần:
+
+Phần 1: Chúng ta sẽ nói về vấn đề tổng quan của thị trường chứng khoán. Sau đó, chúng ta sẽ thảo luận và trả lời câu hỏi cách tiếp cận phân tích phù hợp với những gì đã thảo luận ở trên, thông qua đó chúng ta có thể phân tích và diễn giải phân tích những vấn đề của thị trường. Những nội dung này sẽ được thảo luận trong hai chương đầu tiên.
+
+Phần 2: Đây cũng là phần chính của sách, chúng ta sẽ đi qua từng năm của thị trường từ năm 2000-2019 để đánh giá lại vấn đề phát triển thị trường qua từng giai đoạn. Nội dung 14 chương tiếp theo sẽ thảo luận về vấn đề trên.
+
+Phần 3: Sau khi đã điểm qua lịch sử, với cách phân tích trên chúng ta sẽ nhìn về thị trường trong giai đoạn tới dựa trên việc phân tích những biến động kinh tế toàn cầu, kinh tế khu vực kết hợp những xu hướng thay đổi và tái cấu trúc trong nền kinh tế và thị trường tài chính Việt Nam.
+
+Cuốn sách này được kỳ vọng là cẩm nang cho những nhà đầu tư, đặc biệt là những nhà đầu tư mới tham gia thị trường đang tìm kiếm một phương pháp phân tích đánh giá thị trường cho riêng mình trong điều kiện đặc thù của Việt Nam.
+
+Tác giả rất mong nhận được sự đóng góp nhiệt tình từ bạn bè độc giả gần xa để cuốn sách hoàn thiện hơn trong lần tái bản sau. Mọi thông tin góp ý và chia sẻ xin gởi về địa chỉ email lehoaian.bu@gmail.com. Cuốn sách này sẽ trở thành cầu nối để tác giả kết nối với cộng đồng nhà đầu tư gần xa, để những câu chuyện tiếp theo của chúng ta sẽ giúp cuốn sách có nhiều thông tin chiều sâu hơn trong những lần tái bản sau.
+
+Lời cảm ơn
+
+N
+hìn lại chặng đường từ lúc những ý tưởng ban đầu về việc ấn phẩm nào đó cho chứng khoán Việt Nam, cuốn sách được xuất bản hôm nay là thành quả nỗ lực của một tập thể đầy đam mê cũng như là sự đúc kết của những câu chuyện và thảo luận bất tận về thị trường chứng khoán cùng các chuyên gia. Tôi muốn bày tỏ những tri ân sâu sắc của mình với các cộng sự đã hỗ trợ tôi trong suốt thời gian qua.
+
+Đầu tiên, tôi cũng muốn dành lời cảm ơn đến các anh/chị đang công tác tại các quỹ đầu tư, công ty chứng khoán và các cơ quan quản lý thị trường vì những câu chuyện rất thực tế và sinh động từ họ. Những chia sẻ trải nghiệm đầu tư cũng như những phê bình chân thành giúp cuốn sách thêm đa dạng.
+
+Tôi muốn dành lời cảm ơn đến Viết Lảm và Duy Khánh bởi những nỗ lực miệt mài trong việc sắp xếp và biên tập các đồ thị, điều đó giúp chúng ta có một cuốn sách đầy ắp các số liệu được trình bày một cách chuyên nghiệp và đồng bộ.
+
+Ngoài ra, đóng góp của các cộng sự khác từ nhóm nghiên cứu tại trường Đại học Ngân hàng TP.HCM như Thành Nam, Như Hảo và Thảo Nguyên là rất lớn. Sự kỹ lưỡng của các bạn giúp cuốn sách trở nên hoàn thiện hơn.
+
+Bên cạnh đó, có rất nhiều cộng sự đã không thể đi đến đích cuối cùng của cuốn sách này. Tuy nhiên, những đóng góp của họ là rất lớn để cùng tôi khái quát lại một lượng thông tin khổng lồ trải dài trên nhiều ngành nghề trong 20 năm qua.
+
+Cuối cùng, xin gửi lời cảm ơn đến vợ tôi, dù không nói ra nhưng vẫn luôn ủng hộ tôi trong suốt những năm qua. Những sao lãng với gia đình của tôi trong quá trình tập trung cho cuốn sách này đã được bù đắp bằng sự tận tụy của cô ấy. Đó là nguồn động lực lớn giúp tôi vượt qua những khó khăn.
+
+Một hành trình đã kết thúc nhưng nó lại mở ra cho tôi và các cộng sự những hành trình khác, về việc chia sẻ những kiến thức và kinh nghiệm cho cộng đồng nhà đầu tư ở Việt Nam.
+
+Danh mục từ viết tắt
+
+Từ viết tắt
+
+Diễn giải
+
+ASEAN
+
+Hiệp hội các nước Đông Nam Á
+
+BOT
+
+Build - Operate - Transfer (Xây dựng - Vận hành - Chuyển giao)
+
+CAR
+
+Capital Adequacy Ratio - Tỷ lệ an toàn vốn
+
+CBRE
+
+Công ty đầu tư và dịch vụ bất động sản thương mại của Mỹ
+
+CMV
+
+Công ty Cổ phần Thương Nghiệp Cà Mau
+
+CNG
+
+Công ty Cổ phần CNG Việt Nam
+
+DIG
+
+Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng
+
+DPR
+
+Công ty Cổ phần Cao su Đồng Phú
+
+EVN
+
+Tập đoàn Điện lực Việt Nam
+
+FED
+
+Cục dự trữ Liên Bang Hoa Kỳ
+
+GDP
+
+Tổng sản phẩm quốc nội
+
+GIL
+
+Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh
+
+GMC
+
+Công ty TNHH Thương mại Dịch vụ GMC Việt Nam
+
+HAG
+
+Tập đoàn Hoàng Anh Gia Lai
+
+HAT
+
+Công ty Cổ phần Thương mại Bia Hà Nội
+
+(Habeco Trading)
+
+HAX
+
+Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh
+
+HVG
+
+Công ty Cổ phần Hùng Vương
+
+IMF
+
+Quỹ tiền tệ Quốc tế
+
+IPO
+
+Phát hành chứng khoán lần đầu
+
+ITA
+
+Công ty Cổ phần Khu công nghiệp Tân Tạo
+
+(ITACO)
+
+KBNN
+
+Kho bạc Nhà nước
+
+KDC
+
+Công ty Cổ phần Tập đoàn KIDO - Kinh Đô
+
+Việt Nam
+
+KHP
+
+Công ty Cổ phần Điện lực Khánh Hòa
+
+Lehman
+
+Brothers
+
+Tập đoàn Chứng khoán và tập đoàn Ngân hàng lớn thứ 4 Mỹ
+
+LPG
+
+Khí hóa lỏng
+
+MSCI
+
+Morgan Stanley Capital International
+
+MSN
+
+Công ty Cổ phần Tập đoàn Masan
+
+NAV
+
+Net Asset Value - Giá trị tài sản ròng
+
+NHNN
+
+Ngân hàng Nhà nước
+
+NHTM
+
+Ngân hàng thương mại
+
+NHTMCP
+
+Ngân hàng thương mại cổ phần
+
+NHTMNN
+
+Ngân hàng thương mại Nhà nước
+
+NHTW
+
+Ngân hàng Trung ương
+
+NLG
+
+Công ty Cổ phần Đầu tư Nam Long
+
+NT2
+
+Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2
+
+NTL
+
+Công ty Cổ phần Phát triển Đô thị Từ Liêm
+
+OECD
+
+Tổ chức Hợp tác và Phát triển Kinh tế
+
+OPEC
+
+Tổ chức các nước xuất khẩu dầu mỏ
+
+POM
+
+Công ty Cổ phần Thép Pomina
+
+POSCO
+
+Công ty sản xuất Thép lớn nhất Hàn Quốc
+
+PPC
+
+Công ty Cổ phần Nhiệt điện Phả Lại
+
+PVG
+
+Công ty Cổ phần Kinh doanh LPG Việt Nam
+
+PVT
+
+Tổng Công ty Cổ phần Vận tải Dầu khí - PV TRANS
+
+PVX
+
+Tổng Công ty Cổ phần Xây lắp Dầu khí Việt
+
+Nam
+
+QCG
+
+Công ty Cổ phần Quốc Cường Gia Lai
+
+REE
+
+Công ty Cổ phần Cơ Điện Lạnh
+
+SBT
+
+Công ty Cổ Phần Mía Đường Bourbon Tây
+
+Ninh
+
+SCIC
+
+Tổng công ty Đầu tư và Kinh doanh vốn Nhà nước
+
+SCR
+
+Công ty Cổ phần Địa ốc Sài Gòn Thương Tín
+
+SJD
+
+Công ty Cổ phần Thủy Điện Cần Đơn
+
+SJS
+
+Công ty Cổ phần Đầu tư Phát triển Đô thị và
+
+Khu công nghiệp Sông Đà
+
+SZL
+
+Công ty Cổ phần Sonadezi Long Thành
+
+TCBF
+
+Công ty Quản lý quỹ đầu tư Kỹ Thương
+
+Techcombank Capital
+
+TCM
+
+Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công
+
+TCTD
+
+Tổ chức tín dụng
+
+TDH
+
+Công ty Cổ phần Phát triển Nhà Thủ Đức
+
+TNG
+
+Công ty Cổ phần Đầu Tư và Thương Mại TNG
+
+TNHH
+
+Trách nhiệm hữu hạn
+
+TNHH MTV
+
+Trách nhiệm hữu hạn một thành viên
+
+TPP
+
+Hiệp định đối tác xuyên Thái Bình Dương
+
+TRC
+
+Công ty Cổ phần Cao su Tây Ninh
+
+TTCK
+
+Thị trường chứng khoán
+
+UBCKNN
+
+Ủy ban Chứng khoán Nhà nước
+
+VAMC
+
+Công ty Quản lý tài sản VAMC
+
+VCG
+
+Tổng Công ty cổ phần Xuất nhập khẩu và Xây dựng Việt Nam
+
+VIC
+
+Tập đoàn Vingroup
+
+World Bank
+
+Ngân hàng Thế giới
+
+WTO
+
+Tổ chức Thương mại Thế giới
+
+Chương 1
+Kinh tế và thị trường chứng khoán Việt Nam
+
+Giới thiệu Chương 1
+
+Đ
+ể có thể đánh giá lịch sử hình thành và phát triển thị trường chứng khoán một cách thấu đáo trong 20 năm qua, thì đòi hỏi người đọc cần phải có những hiểu biết cơ bản về bản chất của quá trình hình thành và phát triển của thị trường. Thị trường chứng khoán và thị trường tài chính nói chung ra đời nhằm mục tiêu xây dựng kênh dẫn vốn kết nối giữa bên thừa vốn và bên thiếu vốn. Sự hình thành và phát triển của thị trường chứng khoán sẽ gắn chặt với sự phát triển của hoạt động kinh tế thực. Khi nền kinh tế phát triển đến một mức độ nhất định thì sẽ yêu cầu sự thay đổi tương ứng của thị trường tài chính. Do đó, để hiểu sự phát triển của thị trường tài chính, đặc biệt là thị trường chứng khoán thì đòi hỏi người đọc phải bắt đầu từ những đánh giá về sự thay đổi trong cấu trúc của nền kinh tế cùng giai đoạn.
+
+Thị trường tài chính giống như một “siêu thị”, nơi nhưng sản phẩm nguồn vốn ngắn hạn và dài hạn đang được các bên thừa vốn cung cấp. Những sản phẩm nguồn vốn ngắn hạn được cung cấp ở một siêu thị nhỏ hơn gọi là thị trường tiền tệ, trong khi đó những sản phẩm nguồn vốn dài hạn lại được cung cấp trên một siêu thị nhỏ tên là thị trường vốn. Thị trường vốn sẽ bao gồm thị trường nguồn vốn vay trung dài hạn ngân hàng, thị trường chứng khoán với thị trường cổ phiếu và thị trường trái phiếu. Mỗi cấu trúc nền kinh tế sẽ tác động đến cấu trúc của thị trường tài chính tương ứng.
+
+Thị trường chứng khoán sẽ dựa trên sự phát triển của thị trường tài chính và nền kinh tế để có từng bước phát triển phù hợp qua các giai đoạn. Đối với những thị trường chứng khoán còn non trẻ thì trong giai đoạn đầu phát triển sẽ có những đặc điểm như vốn hóa thị trường hạn chế, mức độ tập trung vốn hóa và thanh khoản vào một số ngành nghề hoặc một số doanh nghiệp.
+
+Cuối cùng, một đặc điểm quan trọng để đánh giá mức độ phát triển của thị trường đó là sự tham gia của những nhà đầu tư tổ chức. Những nhà đầu tư tổ chức ở đây có thể là công ty chứng khoán, quỹ đầu tư, quỹ hưu trí… vốn là những nhà đầu tư kinh nghiệm trên thị trường với những đội ngũ nhân sự được đào tạo bài bản và chuyên nghiệp. Những nhà đầu tư tổ chức này là nền tảng cho quá trình phát triển bền vững của thị trường chứng khoán theo thời gian.
+
+Đặc điểm của nền kinh tế
+
+Những đặc điểm cơ bản chúng ta cần nắm đối với một nền kinh tế đó là những yếu tố cơ bản tác động và duy trì động lực tăng trưởng kinh tế. Chúng ta sẽ thường nghe trên những phương tiện truyền thông đề cập đến chính sách tiền tệ, tăng trưởng tín dụng của hệ thống ngân hàng, chính sách tỷ giá, kinh tế Nhà nước và kinh tế tư nhân cũng như hoạt động đầu tư và đóng góp của khu vực đầu tư nước ngoài FDI. Những yếu tố này là những gia vị cần thiết để tạo nên mỗi cấu trúc của từng nền kinh tế. Nội dung bên dưới sẽ trình bày cho chúng ta thấy những yếu tố cơ bản của nền kinh tế Việt Nam.
+
+• Đặc điểm 1: Chính sách tiền tệ đóng vai trò quan trọng trong việc bơm vốn cho nền kinh tế thông qua hệ thống ngân hàng
+
+Chính sách tiền tệ đề cập đến các hoạt động của Ngân hàng Trung ương - NHTW (Ở Việt Nam gọi là Ngân hàng Nhà nước - NHNN) liên quan chủ yếu đến việc điều chỉnh mức lãi suất, lượng cung tiền và tăng trưởng tín dụng trong nền kinh tế, qua đó tác động đến mức tăng trưởng kinh tế.
+
+NHTW thực hiện rất nhiều mục tiêu quan trọng liên quan đến tính ổn định của hệ thống tài chính và đối với hệ thống thanh toán. Một số NHTW sẽ được quy những trách nhiệm liên quan đến việc duy trì mức tăng trưởng sản lượng kinh tế, cũng như mức tỷ lệ thất nghiệp mục tiêu nhưng một số cũng liên quan đến vai trò rõ ràng hơn là duy trì niềm tin của hệ thống tài chính và thậm chí có thể giúp thúc đẩy việc phát triển của hệ thống tài chính. Bên cạnh đó, sẽ có một mục tiêu rất quan trọng là các NHTW đặt làm trọng tâm việc ổn định về giá cả đồng tiền.
+
+Biểu đồ 1.1: Tăng trưởng tín dụng và GDP ở Việt Nam giai đoạn 1997-2019
+
+Tại Châu Á, tăng trưởng tín dụng từ hệ thống ngân hàng đóng một vai trò quan trọng trong việc đảm bảo mức tăng trưởng kinh tế tại những quốc gia. Những quốc gia này có dân số rất trẻ nên hàng năm đều có một lượng lớn lao động mới gia nhập thị trường. Điều đó dẫn đến áp lực tăng trưởng kinh tế để có thể tạo việc làm mới cho lực lượng lao động. Việc làm mới được tạo ra đóng góp một vai trò quan trọng trong việc giữ ổn định xã hội.
+
+Nợ vay từ hệ thống ngân hàng được những quốc gia này xem là công cụ đơn giản nhất để duy trì mức tăng trưởng kinh tế. Tăng trưởng kinh tế thông qua việc sử dụng chính sách tiền tệ cũng chính là lý do làm cho lạm phát tại nhiều nước đang phát triển như Việt Nam luôn xoay quanh mức cao trong suốt quá trình phát triển. Những nghiên cứu chỉ ra rằng có một mối quan hệ rất chặt chẽ giữa tăng trưởng tín dụng và lạm phát ở các quốc gia. Thông thường, khi chúng ta gia tăng tín dụng cho nền kinh tế trong năm hiện tại thường tác động tiêu cực lên lạm phát trong năm tiếp theo.
+
+Để hạn chế tác động tiêu cực lên lạm phát, những quốc gia phát triển luôn duy trì một sự độc lập lớn giữa NHTW với Chính phủ. Tại những quốc gia Châu Á và đặc biệt là Việt Nam thì mức độ độc lập đó ở mức thấp, khi NHNN chỉ là một cơ quan ngang Bộ để phối hợp chung cùng với các Bộ ngành của Chính phủ trong việc thực thi các chính sách kinh tế. Chính sự phối hợp đó, đã đặt chính sách tăng trưởng là mục tiêu hàng đầu so với chính sách lạm phát. Phần nội dung chi tiết về tính độc lập của NHTW tại Việt Nam sẽ nằm ngoài nội dung thảo luận của cuốn sách này.
+
+Điều chúng ta cần nhận thức ở đây, đó là chính sách tiền tệ đóng một vai trò quan trọng để tác động lên mức tăng trưởng kinh tế của quốc gia thì khi đó NHNN sẽ luôn thiết lập một mức tăng trưởng tín dụng hằng năm mà hệ thống ngân hàng phải đạt được. Tăng trưởng của hệ thống ngân hàng về bản chất sẽ phụ thuộc vào nhu cầu và mức độ hấp thụ của nền kinh tế. Khi người dân có niềm tin tiêu dùng cao họ sẵn sàng chi tiêu hơn và có thể họ sẽ tiếp cận nguồn vốn vay của ngân hàng để hỗ trợ. Tương tự như vậy đối với doanh nghiệp, khi doanh nghiệp lạc quan về triển vọng kinh tế họ mới mạnh tay gia tăng đầu tư và sẵn sàng vay nợ ngân hàng. Khi các chủ thể trong nền kinh tế không sẵn sàng hấp thụ thì chỉ tiêu kinh tế sẽ trở thành một gánh nặng hơn là một động lực phát triển.
+
+• Đặc điểm 2: Vai trò của hệ thống ngân hàng đối với nền kinh tế
+
+Về cơ bản thì thị trường tài chính chính là nơi tập hợp các nguồn tiền nhàn rỗi từ các hộ gia đình và doanh nghiệp. Nguồn vốn nhàn rỗi đó sẽ thông qua những trung gian tài chính bao gồm hệ thống ngân hàng, công ty bảo hiểm, công ty chứng khoán và quỹ đầu tư để có thể đầu tư vào những chủ thể đang cần vốn như doanh nghiệp và Chính phủ. Tài sản của cả quốc gia được phân bổ trong hệ thống tài chính nói trên. Tuy nhiên, nhìn vào biểu đồ bên dưới thì chúng ta có thể thấy rằng hơn 90% tổng tài sản của người dân Việt Nam đang nằm trong hệ thống ngân hàng thương mại. Trong khi đó, những định chế tài chính khác như quỹ đầu tư,công ty bảo hiểm hay công ty chứng khoán chỉ nắm giữ phần còn lại rất nhỏ. Việc tại sao hệ thống ngân hàng Việt Nam lại giữ một vị trí quan trọng bên trong hệ thống tài chính sẽ là một câu hỏi lớn chúng ta sẽ trả lời xuyên suốt trong chương này.
+
+Biểu đồ 1.2: Tổng cơ cấu tài sản của hệ thống tài chính
+
+• Đặc điểm 3: Vai trò giảm dần của khu vực kinh tế Nhà nước
+
+Khu vực kinh tế Nhà nước luôn giữ một vai trò nhất định trong mọi cấu trúc kinh tế. Tuy nhiên, đối với nền kinh tế Việt Nam thì kinh tế Nhà nước giữ một vị trí quan trọng trong quá trình định hướng phát triển. Những thành phần kinh tế khác luôn mang lại lợi nhuận cao hơn trong khi đó các doanh nghiệp Nhà nước hoạt động trong những ngành, lĩnh vực kinh doanh mang lại ít lợi nhuận thậm chí không có lợi nhuận.
+
+Biểu đồ 1.3: Mức sinh lời trên vốn đầu tư giai đoạn 2007-2014
+
+Tuy hiệu quả tài chính không cao nhưng các doanh nghiệp đóng vai trò quan trọng trong việc phục vụ lợi ích công cộng do các thành phần kinh tế khác không đủ sức đầu tư vì đó là những lĩnh vực kinh doanh đòi hỏi vốn lớn. Hiện tại, Việt Nam đang trong quá trình chuyển đổi sang nền kinh tế thị trường, nhiều doanh nghiệp tư nhân được khuyến khích thành lập. Chính phủ Việt Nam đã có những chủ trương về việc đẩy mạnh cơ cấu lại các tập đoàn kinh tế và tổng công ty, thực hiện quá trình thoái vốn Nhà nước tại một số lĩnh vực và chỉ tập trung vào những ngành nghề then chốt của nền kinh tế, thu hẹp độc quyền Nhà nước và xóa bỏ bao cấp.
+
+Trong mọi giai đoạn kinh tế vừa qua của Việt Nam thì kinh tế Nhà nước luôn giữ vai trò chủ đạo. Nhưng thực tế cho thấy, doanh nghiệp Nhà nước luôn kém hiệu quả hơn so với các doanh nghiệp tư nhân, cũng như các doanh nghiệp có vốn đầu tư nước ngoài. Thậm chí, mức đóng góp cho phát triển kinh tế xã hội phần lớn thuộc về khu vực FDI và khu vực doanh nghiệp ngoài Nhà nước, chưa kể mức đóng góp của khối này ngày một tăng. Đóng góp GDP của khu vực tư nhân luôn chiếm hơn 40% và ngày càng tăng. Đến năm 2018, mức đóng góp vào GDP của khu vực kinh tế này đạt 42,1% GDP trong khi đó khu vực Nhà nước chỉ loanh quanh ở mức 28%.
+
+Bảng 1.1: Đóng góp vào GDP của các thành phần kinh tế giai đoạn 2010-2018
+
+Nguồn: Tổng cục Thống kê
+
+Tuy nhiên, ai đã từng có cái nhìn rộng hơn về quá trình hình thành và phát triển của các nền kinh tế Châu Á, sẽ hiểu hơn về hoạt động của những doanh nghiệp Nhà nước như vậy là một điều rất phổ biến tại nước khu vực này. Khác với nhiều quốc gia phương Tây, những quốc gia Châu Á phát triển trong một bối cảnh khó khăn và đòi hỏi sự phát triển nhanh chóng trong thời gian ngắn, để đáp ứng những xu hướng thay đổi của thời đại nên việc tập trung phát triển các tập đoàn kinh tế lớn của Nhà nước như ở Việt Nam và Trung Quốc hoặc liên quan đến Nhà nước như tại Nhật Bản hay Hàn Quốc là một yêu cầu tất yếu. Để xây dựng một nền kinh tế tư nhân như ngày nay thì những quốc gia phương Tây thậm chí cũng đã từng phải trải qua thời kỳ kinh tế Nhà nước giữ vai trò chủ đạo trong giai đoạn đầu của thế kỷ 19.
+
+Yếu tố cốt lõi của mô hình phát triển kinh tế này là vai trò định hướng của Chính phủ cả về hoạt động kinh tế lẫn xu hướng dòng vốn. Bộ Tài chính và NHTW đóng vai trò quan trọng như tay trái và tay phải của Chính phủ trong việc điều hành chính sách kinh tế. Bộ tài chính đóng vai trò quản lý và sử dụng nguồn ngân sách vào các lĩnh vực Chính phủ định hướng phát triển. Trong khi đó, NHTW đóng vai trò điều phối nguồn tiết kiệm và thông qua hệ thống ngân hàng thương mại vào các lĩnh vực ưu tiên phát triển. Trong cấu trúc này, sự phối hợp nhịp nhàng giữa Chính phủ và NHTW đóng một vai trò rất quan trọng, nhằm đảm bảo dòng vốn được bơm đúng thời điểm vào các ngành nghề trọng yếu trong các giai đoạn của nền kinh tế theo định hướng dài hạn của Chính phủ.
+
+Biểu đồ 1.4: Mô hình phát triển kinh tế của các quốc gia Châu Á
+
+Nguồn: Tổng hợp của tác giả
+
+• Đặc điểm 4: Hiệu quả sử dụng vốn của các doanh nghiệp tư nhân
+
+Từ những kết quả thống kê cho thấy, sau khi hội nhập năm 2007 thì nợ vay đã gia tăng với tốc độ rất nhanh tại Việt Nam để đảm bảo nền kinh tế vẫn duy trì mức độ tăng trưởng cao hằng năm. Đi kèm với đà tăng trưởng nợ thì hiệu quả sử dụng vốn của các doanh nghiệp Việt Nam cũng bắt đầu giảm dần. Những năm gần đây, chỉ khi cải cách thị trường được thực hiện mạnh mẽ mới tạo điều kiện để các doanh nghiệp có thể nâng cao hiệu quả sử dụng vốn của mình. So với những quốc gia phát triển thì thực tế hiệu quả sử dụng vốn của các doanh nghiệp Việt Nam vẫn còn thấp hơn rất nhiều.
+
+Biểu đồ 1.5: Hiệu quả sử dụng vốn của doanh nghiệp giai đoạn 2002-2017
+
+• Đặc điểm 5: Tỷ giá hỗ trợ tăng trưởng kinh tế
+
+Các quốc gia Châu Á nói chung và Việt Nam nói riêng là bậc thầy trong việc sử dụng nguồn vốn tín dụng để tạo nên sự thịnh vượng cho quốc gia thông qua việc thúc đẩy xuất khẩu. Chỉ trong một thời gian ngắn, thị trường Châu Á đã nhanh chóng chiếm lĩnh thị trường xuất khẩu toàn cầu bằng các tập đoàn kinh tế khổng lồ. Với quy mô to lớn của mình, các tập đoàn kinh tế này đã nhanh rút ngắn khoảng cách với những doanh nghiệp phương Tây về mặt công nghệ và nguồn vốn, thậm chí họ còn nhận được sự hậu thuẫn rất lớn từ nhiều chính sách bảo hộ của Chính phủ.
+
+Tạo ra lợi thế đã khó, nhưng để duy trì lợi thế thì còn khó hơn, do khi tích trữ một lượng lớn ngoại hối từ xuất khẩu thì lẽ ra đồng tiền của các quốc gia Châu Á sẽ tăng giá đáng kể so với đồng đô la. Tuy nhiên, một lần nữa họ lại can thiệp vào thị trường ngoại hối như cách họ đã can thiệp vào thị trường tín dụng. Lượng ngoại hối tích lũy không được đưa vào sản xuất, thay vào đó sẽ tích lũy trong quỹ dự trữ ngoại hối của NHTW, nhằm mục tiêu tác động vào xu hướng biến động của tỷ giá. Tỷ giá các đồng tiền như đồng nhân dân tệ của Trung Quốc, đồng yên của Nhật và đồng won của Hàn Quốc luôn biến động theo một xu hướng có lợi nhất cho cán cân mậu dịch của các quốc gia này. Với quy mô qũy dự trữ ngoại hối lớn nhất thế giới, những quốc gia Châu Á luôn được gắn mác thao túng giá trị đồng tiền để tạo lợi thế trong thương mại.
+
+Biểu đồ 1.6: Dự trữ ngoại hối của các quốc gia năm 2018
+
+Nguồn: Tổng hợp của tác giả
+
+Một trong những thông tin nhiều quốc gia Châu Á thường công bố mỗi tháng là mức dự trữ ngoại hối của những quốc gia này. Dự trữ ngoại hối được hiểu là nhiều loại tiền tệ hay tài sản mệnh giá bằng đồng tiền của những quốc gia khác được NHNN nắm giữ. Thông thường, những quốc gia sẽ dự trữ vàng hoặc những loại ngoại tệ mạnh như đô la, bảng Anh, euro… Do việc nắm giữ vàng không được trả lãi nên nhiều quốc gia thường dự trữ các tài sản mệnh giá bằng đồng đô la như trái phiếu của Chính phủ Mỹ.
+
+Đô la được xem là đồng tiền có khả năng chuyển đổi lớn nhất trên thế giới, do đó việc dự trữ đồng đô la sẽ giúp cho quốc gia đó đảm bảo khả năng thanh toán các hàng hóa và mua dịch vụ từ những quốc gia khác. Tuy nhiên, có bao giờ chúng ta đặt câu hỏi là tại sao những quốc gia thuộc nhiều châu lục khác có mức dự trữ ngoại hối rất thấp, trong khi những quốc gia Châu Á lại là trung tâm của giá trị dự trữ ngoại hối toàn cầu như bản đồ bên trên.
+
+Vai trò của quỹ dự trữ ngoại hối này là nhằm can thiệp vào thị trường ngoại hối, để duy trì tỷ giá trong một biên độ mong muốn của Chính phủ. Quốc gia có dự trữ ngoại hối càng lớn thì khả năng can thiệp của Chính phủ vào thị trường ngoại hối càng cao. Chính phủ cũng như một chủ thể trên thị trường ngoại hối, nếu với quy mô dự trữ ngoại hối lớn thì các hoạt động mua bán của Chính phủ sẽ có tác động rất mạnh lên xu hướng tỷ giá.
+
+Như chúng ta cũng thấy trên biểu đồ, phần lớn những quốc gia có dự trữ ngoại hối lớn đều nằm tại Châu Á. Quy mô dự trữ lớn nhất và thứ hai thế giới là Trung Quốc và Nhật Bản, với mức dự trữ vào khoảng 3.162 tỷ đô la và 1.205 tỷ đô la. Những quốc gia có quy mô nhỏ hơn như Hàn Quốc, Đài Loan và Singapore thì mức dự trữ cũng lớn hơn rất nhiều so với những quốc gia phương Tây.
+
+Tỷ giá đóng vai trò rất quan trọng, để các doanh nghiệp định hướng xuất khẩu có thể có được những lợi thế về giá trên thị trường thương mại quốc tế. Quốc gia nào có xuất khẩu đóng vai trò nòng cốt thì sẽ càng đặt nặng vai trò quan trọng của việc can thiệp tỷ giá. Khi đó, dự trữ ngoại hối sẽ đóng vai trò đặc biệt trong mô hình phát triển kinh tế tại những quốc gia này. Suốt một thời gian dài, Trung Quốc đã bị Mỹ cáo buộc về việc thao túng tỷ giá, khi duy trì đồng nhân dân tệ ở mức giá thấp, qua đó tạo mức thâm hụt khổng lồ trong cán cân thương mại giữa Mỹ và Trung Quốc.
+
+Câu chuyện tương tự cũng diễn ra ở Việt Nam, khi nỗ lực gia tăng dự trữ ngoại hối liên tục theo thời gian đã giữ một vai trò quan trọng trong quá trình hỗ trợ cho các hoạt động xuất khẩu. Trong giai đoạn 2007-2014, quỹ dự trữ ngoại hối của Việt Nam không ổn định, xuất phát từ việc nhập siêu với tỷ lệ lớn. Cũng trong giai đoạn này, tỷ giá biến động rất thất thường qua từng năm, từ đó ảnh hưởng đến ổn định kinh tế vĩ mô cũng như xu hướng tăng trưởng xuất khẩu bền vững của Việt Nam. Kể từ 2015, khi quỹ trữ ngoại hối tăng trưởng ổn định, khả năng can thiệp vào thị trường ngoại hối của Việt Nam tốt hơn đã giúp tỷ giá được ổn định trong những năm qua. Tuy nhiên, một hiệu ứng phụ của việc gia tăng tỷ lệ ngoại hối đó là Chính phủ phải tăng cường phát hành trái phiếu nhằm trung hòa lượng tiền đồng NHNN phải tung ra để mua vào ngoại tệ. Điều đó cũng góp phần dẫn đến việc nợ công của Việt Nam tăng nhanh qua từng năm.
+
+Biểu đồ 1.7: Dự trữ ngoại hối và tỷ lệ nợ công của Việt Nam giai đoạn 2002-2019
+
+• Đặc điểm 6: Vai trò ngày càng lớn của các doanh nghiệp FDI
+
+Vai trò của các doanh nghiệp FDI đối với nền kinh tế Việt Nam đang ngày một quan trọng hơn. Số liệu cho thấy khối FDI đang đóng góp hơn 70% vào kim ngạch xuất khẩu của Việt Nam và do đó những tăng trưởng tích cực của nền kinh tế Việt Nam trong suốt những năm qua có sự đóng góp không hề nhỏ từ khu vực kinh tế này. Với nguồn lực phát triển kinh tế còn hạn chế, việc thu hút nguồn vốn FDI luôn được Chính phủ xem là một trong những chính sách quan trọng.
+
+Biểu đồ 1.8: Dòng vốn FDI thực hiện giai đoạn 2015-2019
+
+Tuy nhiên, điều đó dẫn đến một hệ lụy đó là ngày càng có một sự sai lệch lớn giữa kết quả của các hoạt động kinh tế thực và triển vọng tăng trưởng của doanh nghiệp niêm yết trên sàn chứng khoán. Với thực tế là các doanh nghiệp FDI phần lớn là không niêm yết, thị trường chứng khoán lại cho thấy một bức tranh hoàn toàn khác về hoạt động kinh tế của các doanh nghiệp niêm yết trong nước.
+
+Chính đặc điểm này đã khiến cho việc phân tích triển vọng của thị trường chứng khoán dựa trên những đánh giá vĩ mô ở Việt Nam trở nên khó khăn hơn rất nhiều so với ở các quốc gia khác. Ví dụ, bức tranh kinh tế vĩ mô tươi sáng dưới sự hỗ trợ từ khu vực kinh tế nước ngoài, đang che đậy những vấn đề khó khăn của các doanh nghiệp đang niêm yết, vốn là nguyên nhân chính khiến cho thị trường chứng khoán không thể tăng trưởng trong giai đoạn 2018-2019. Khi đó, dù các hoạt động kinh tế vẫn duy trì tăng trưởng tốt tuy nhiên đã có sự sụt giảm đáng kể trong nhu cầu huy động và sử dụng vốn của các doanh nghiệp niêm yết.
+
+Biểu đồ 1.9: Đóng góp của khối FDI trong xuất khẩu giai đoạn 2013-2019
+
+Cấu trúc đặc thù của thị trường tài chính
+
+Thị trường tài chính đóng vai trò quan trọng trong việc phát triển và định hình nền kinh tế của quốc gia. Tại mỗi giai đoạn và ở từng quốc gia khác nhau thì thị trường tài chính đều có các đặc điểm đặc thù. Việt Nam là một nền kinh tế đang trong giai đoạn phát triển. Chính mức độ phát triển thấp và chưa hoàn chỉnh của nền kinh tế sẽ khiến cho thị trường tài chính ở Việt Nam lệch pha so với thị trường tài chính ở những quốc gia phát triển khi tập trung xoay quanh hệ thống ngân hàng thay vì thị trường vốn bao gồm thị trường cổ phiếu và thị trường trái phiếu.
+
+• Đặc điểm 1: Ngành ngân hàng chiếm tỷ trọng tuyệt đối
+
+Nguồn vốn ngân hàng đóng một vai trò hết sức quan trọng trong hệ thống thị trường vốn tại Việt Nam đối với việc cung ứng nguồn vốn dài hạn cho nền kinh tế.
+
+Biểu đồ 1.10: Cơ cấu quy mô thị trường vốn của một số quốc gia năm 2018
+
+Tại những thị trường phát triển như Mỹ, đây là một chiếc kiềng ba chân cung cấp nguồn vốn đa dạng cho các doanh nghiệp, với tỷ trọng nguồn vốn từ ngân hàng chỉ chiếm một phần nhỏ so với nguồn vốn các doanh nghiệp tự huy động. Tuy nhiên, tại Việt Nam có đến hơn 2/3 nguồn vốn dài hạn cho doanh nghiệp đang được cung cấp bởi hệ thống ngân hàng. Như chúng ta cũng đã thấy, có một sự tương đồng trong tỷ lệ tài trợ từ nguồn vốn của hệ thống ngân hàng thương mại giữa những quốc gia Châu Á, rất khác so với thị trường Mỹ.
+
+• Đặc điểm 2: Ngành ngân hàng trong xu hướng giảm tỷ trọng nguồn vốn trung dài hạn
+
+Việc ngân hàng thực hiện liên tục giảm tỷ lệ nguồn vốn ngắn hạn, cho vay trung dài hạn liên quan đến các vấn đề về đảm bảo tính an toàn, cơ cấu lại hoạt động tín dụng của hệ thống ngân hàng cũng như nhằm đáp ứng được những chuẩn mực quốc tế về hoạt động ngân hàng.
+
+Biểu đồ 1.11: Tỷ lệ nguồn vốn ngắn hạn cho vay trung – dài hạn giai đoạn 2014-2020
+
+Đặc biệt, từ 2016 xảy ra hiện tượng giá đất tăng nhanh và sốt cục bộ, việc giảm tỷ lệ cho vay đối với ngành bất động sản được kỳ vọng sẽ giảm nguy cơ dẫn đến hiện tượng bong bóng giá nhà đất. Mặt khác, hệ thống tài chính của Việt Nam đang có sự mất cân bằng do nguồn vốn dựa quá nhiều vào hệ thống ngân hàng. Việc giảm tỷ lệ nguồn vốn ngắn hạn cho vay trung dài hạn của hệ thống ngân hàng sẽ thúc đẩy các doanh nghiệp tích cực huy động vốn hơn trên thị trường chứng khoán, qua đó khắc phục được sự mất cân bằng trong hệ thống tài chính.
+
+• Đặc điểm 3: Xu hướng tái cơ cấu hệ thống ngân hàng
+
+Câu chuyện về việc tái cơ cấu hệ thống ngân hàng là xu hướng chính của các ngân hàng Việt Nam trong những năm gần đây sau giai đoạn tăng trưởng quá nóng trong quá khứ. Trong giai đoạn trước thì hệ thống ngân hàng phát triển rất nhanh về quy mô dư nợ. Với tốc độ tăng trưởng tín dụng nhanh, các doanh nghiệp tiếp cận nguồn tín dụng dễ dàng đã đầu tư tràn lan kém hiệu quả và nợ xấu chính là vấn đề đáng quan tâm của ngành ngân hàng.
+
+Bảng 1.2: Số lượng ngân hàng giai đoạn 1997-2019
+
+Nguồn: Tổng cục Thống kê
+
+Không ít các ngân hàng sau đó đã gặp khó khăn về thanh khoản, nợ xấu cao, có nguy cơ đổ vỡ, đe dọa sự an toàn của hệ thống ngân hàng. Khi đó, yêu cầu đặt ra là hệ thống ngân hàng cần phải thực hiện tái cơ cấu, nhằm khắc phục những yếu kém nội tại của ngành, lành mạnh hóa tình trạng tài chính và củng cố năng lực hoạt động của toàn hệ thống. Quá trình tái cơ cấu đã khiến cho số lượng ngân hàng giảm dần trong những năm gần đây, thông qua việc xử lý các ngân hàng hoạt động không hiệu quả.
+
+Từ giai đoạn năm 2007 đến nay, hệ thống ngân hàng luôn nỗ lực giải quyết nợ xấu, đây là một vấn đề lớn cần giải quyết trong suốt chiều dài phát triển, đặc biệt tỷ lệ nợ xấu liên quan đến lĩnh vực bất động sản chiếm tỷ lệ khá cao.
+
+Vốn tự có tối thiểu của nhiều ngân hàng ở Việt Nam đã đạt tỷ lệ đảm bảo (Capital Adequacy Ratio - CAR) trên 8%, tỷ lệ này cũng rất khác giữa các ngân hàng và nhóm ngân hàng trên bình diện chung. Đặc biệt hơn, nếu như hạch toán đúng dự phòng cho các khoản nợ xấu, cũng như nếu tuân theo chuẩn quốc tế Basel 21 thì hệ số an toàn vốn CAR sẽ còn giảm hơn rất nhiều. Việc hạn chế trong hoạt động huy động vốn cổ phần đã khiến cho các ngân hàng thương mại Việt Nam, thậm chí cả các ngân hàng lớn gặp nhiều vấn đề khó khăn trong việc duy trì tăng trưởng, khi hoạt động huy động vốn cổ phần bị hạn chế. Những ngân hàng nào không giải quyết tốt vấn đề trên sẽ bị bỏ lại phía sau trong quá trình cạnh tranh.
+
+1. Basel 2: Hiệp ước Basel phiên bản thứ hai, bao gồm các nguyên tắc chung và các luật ngân hàng của ủy ban Basel về giám sát hoạt động các ngân hàng thương mại.
+
+Lịch sử các giai đoạn phát triển của thị trường
+
+Thị trường chứng khoán Việt Nam đã trải qua 20 năm thăng trầm và đang ngày càng từng bước phát triển bền vững. Phiên giao dịch đầu tiên của thị trường diễn ra vào giai đoạn cuối tháng 7/2000 chỉ với vỏn vẹn hai mã cổ phiếu niêm yết. Thời điểm đó, hai cổ phiếu này chỉ được giao dịch trên một sàn chứng khoán duy nhất gọi là Trung tâm Giao dịch chứng khoán TP.HCM. Trong 5 năm sau đó, Trung tâm Giao dịch chứng khoán Hà Nội cũng được ra mắt.
+
+Giai đoạn 2000-2005, là giai đoạn chập chững bước đi của thị trường chứng khoán Việt Nam khi vốn hóa thị trường trong giai đoạn này chỉ dao động quanh mức 1% GDP. Đây là giai đoạn các doanh nghiệp lớn ở Việt Nam bắt đầu nhận thức về tầm quan trọng của kênh huy động vốn từ thị trường chứng khoán so với kênh ngân hàng tryền thống. Trong giai đoạn này, số lượng doanh nghiệp niêm yết tăng trưởng liên tục qua từng năm trước khi thực sự bùng nổ năm 2006.
+
+Năm 2006, Luật Chứng khoán được ban hành và chính thức có hiệu lực vào đầu năm 2007, từ đó đã tạo ra một cơ sở pháp lý vững chắc cho thị trường chứng khoán Việt Nam, qua đó giảm dần những xung đột cũng như bất cập với những văn bản pháp lý khác. Thị trường chứng khoán Việt Nam thực sự bùng nổ với quy mô lên đến 43% GDP năm 2007. Dòng vốn quốc tế cũng bắt đầu chảy mạnh vào thị trường, với quy mô tài khoản nhà đầu tư nước ngoài tăng mạnh chỉ từ 30.000 tài khoản năm 2005 lên đến 312.000 tài khoản cuối năm 2007. Giai đoạn này, được xem là một giai đoạn tăng trưởng mạnh nhất và lập đỉnh lần đầu tiên về quy mô thị trường so với GDP.
+
+Tuy nhiên, 2008 là một năm tồi tệ với hệ thống tài chính toàn cầu. Hoạt động cho vay thế chấp dưới chuẩn thiếu kiểm soát của Mỹ đã châm ngòi cho một cuộc khủng hoảng tài chính. Bóng đen từ nước Mỹ bao trùm khắp tất cả các châu lục và Việt Nam cũng không ngoại lệ. Vốn hóa thị trường chứng khoán Việt Nam sụt giảm nghiêm trọng khi chỉ còn 18% GDP, tức là giảm hơn phân nửa so với năm 2007. Trong cơn hoảng loạn của nhà đầu tư, Ủy ban Chứng khoán Nhà nước (UBCKNN) phải hạ biên độ dao động trong ngày của chứng khoán và SCIC2 can thiệp vào thị trường thông qua việc mua cổ phiếu bình ổn.
+
+Từ đó thị trường hồi phục nhẹ trong giai đoạn 2009-2010, vốn hóa thị trường đã tăng lên trở lại với vốn hóa đạt 48% GDP. Tính đến hết năm 2009, VN-Index tăng đến 57% so với thời điểm cuối năm 2008. Trong năm, tổng số vốn huy động đã tăng lên hơn 50% so với năm 2008. Giai đoạn 2011-2016 là giai đoạn phát triển bùng nổ của thị trường chứng khoán với khởi đầu là hàng loạt các doanh nghiệp Nhà nước tiến hành đấu giá cổ phần lần đầu ra công chúng, mặc dù bối cảnh thị trường thứ cấp là không thuận lợi. Giai đoạn đánh dấu năm tăng trưởng kỷ lục của thị trường Trái phiếu Chính phủ với mức tăng đến 90%, góp phần thúc đẩy sự đa dạng của các kênh phân bổ vốn cho thị trường. Thêm vào đó, thị trường còn chứng kiến sự ra đời của kênh đầu tư thụ động là quỹ hoán đổi danh mục ETF3 nội đầu tiên.
+
+2 . SCIC: Tổng công ty Đầu tư và Kinh doanh vốn Nhà nước
+
+3 . ETF (Exchange Traded Fund): Quỹ đầu tư thụ động mô phỏng biến động của một chỉ số chứng khoán
+
+Thị trường chứng khoán phái sinh Việt Nam chính thức đưa vào vận hành ngày 10/8/2017, với sản phẩm đầu tiên là hợp đồng tương lai dựa trên chỉ số VN30 Index. Chỉ 5 tháng sau khi đưa vào vận hành quy mô thị trường chứng khoán phái sinh tăng theo cấp số nhân. Song song đó, hoạt động thoái vốn cũng diễn ra hết sức thuận lợi với hai thương vụ đình đám lớn nhất khu vực trong vòng 10 năm. Đầu tiên là thương vụ thoái vốn thành công 3,33% cổ phần Vinamilk trị giá gần 9.000 tỷ đồng, tiếp theo là thương vụ thoái vốn 53,5% cổ phần Sabeco trị giá gần 110.000 tỷ đồng cho các nhà đầu tư Thái Lan.
+
+Năm 2018, thị trường chứng khoán Việt Nam chứng kiến những thăng trầm khó quên. Từ vị trí là một trong những thị trường chứng khoán tăng trưởng mạnh nhất thế giới, thị trường Việt Nam tụt xuống thành thị trường giảm mạnh nhất. Chỉ số VN-Index đạt đỉnh 1.200 điểm, mức cao nhất qua mọi thời đại của chỉ số này vào tháng 3, nhưng cũng từ đó thị trường chỉ số bắt đầu giảm mạnh liên tục trong bối cảnh Fed ba lần tăng lãi suất và những leo thang trong chiến tranh thương mại Mỹ – Trung. Thêm vào đó, cục diện của các doanh nghiệp lớn nhất thị trường bị xoay chuyển với hàng loạt doanh nghiệp lớn niêm yết trên thị trường chứng khoán, nổi bật là Vinhomes với giá trị 1,35 tỷ đô la – thương vụ IPO thành công nhất khu vực Châu Á. Nhờ đó, quy mô thị trường liên tục phá vỡ kỷ lục. Tuy nhiên, quá trình bán vốn Nhà nước thì không thực sự khởi sắc, mặc dù vẫn có những điểm sáng như thương vụ bán vốn của Vinaconex.
+
+Một năm sau đó, thị trường chứng khoán Việt Nam tiếp tục nhận về những thông tin tích cực khi giá trị vốn hóa toàn thị trường tiếp tục gia tăng, bên cạnh thông tin về việc tổ chức xếp hạng thị trường thế giới FTSE Russell đưa vào danh sách theo dõi nâng hạng, từ thị trường cận biên lên thị trường mới nổi. Sự kiện đó kỳ vọng giúp Việt Nam đón nhận dòng vốn ngoại khổng lồ chảy vào thị trường trong tương lai. Song song đó là thông tin về Luật Chứng khoán sửa đổi sẽ mang đến hành lang pháp lý vững chắc nhằm đưa thị trường Việt Nam hội nhập hơn với các tiêu chuẩn quốc tế. Những yếu tố này là nền tảng quan trọng giúp thị trường chứng khoán Việt Nam có thể phát triển mạnh trong thời gian tới, đặc biệt là trong giai đoạn thị trường tài chính thế giới và khu vực đang chứng kiến những thay đổi sâu sắc trong những năm qua.
+
+Năm 2020, sau 12 năm kể từ cuộc khủng hoảng tài chính năm 2008, thị trường chứng khoán thế giới nói chung và Việt Nam nói riêng đã đối mặt với đợt sụt giảm chưa từng có bởi ảnh hưởng của đại dịch Covid-19. Tâm lý bi quan bao trùm lên toàn thị trường chứng khoán. Tuy nhiên, dịch bệnh kỳ vọng sẽ làm thay đổi chuỗi cung ứng toàn cầu và làn sóng dịch chuyển sản xuất từ Trung Quốc sang những thị trường mới nổi trong khu vực Đông Nam Á như Việt Nam, việc dịch chuyển sản xuất sẽ thúc đẩy các dịch vụ tài chính đi kèm. Điều đó cộng với những thông tin xoay quanh việc ban hành Luật Chứng khoán sửa đổi, kỳ vọng giúp Việt Nam nâng hạng thị trường mới nổi, qua đó thúc đẩy Việt Nam trở thành điểm hút dòng vốn đầu tư mới trong tương lai.
+
+Đặc điểm của thị trường chứng khoán
+
+Một điều rất quan trọng, khi chúng ta nghiên cứu về quá trình phát triển của một sự vật hiện tượng thì đòi hỏi chúng ta phải có sự hiểu biết thấu đáo về quá trình phát triển và những đặc điểm đặc thù. Việc điểm qua sự phát triển theo các giai đoạn sẽ chỉ là một phần trong quá trình tìm hiểu về các đặc điểm của thị trường chứng khoán Việt Nam.
+
+• Đặc điểm 1: Số lượng doanh nghiệp niêm yết lớn trên cả 3 sàn
+
+Đôi khi, chúng ta cần phải tìm hiểu từ những điều cơ bản nhất để tất cả những ai không chuyên về kiến thức đầu tư cũng có thể bắt đầu. Đặc điểm của nguồn vốn từ cổ phiếu là doanh nghiệp phải đăng ký niêm yết trên các sàn Giao dịch Chứng khoán để có thể huy động vốn ngoài thị trường. Hiện tại, Việt Nam có hai sàn giao dịch chứng khoán chính là sàn HOSE tại TP.HCM và sàn HNX tại Hà Nội. Ngoài ra, chúng ta còn có một sàn giao dịch Upcom và đây là sàn giao dịch cho cổ phiếu của các doanh nghiệp chuẩn bị niêm yết trên hai sàn còn lại. Mặc dù quy mô còn nhỏ hơn rất nhiều so với những thị trường chứng khoán những nước trong khu vực, tuy nhiên số lượng doanh nghiệp đang niêm yết trên sàn chứng khoán Việt Nam là không hề thua kém. Kết thúc năm 2019 thì có khoảng 1.600 doanh nghiệp đang niêm yết trên cả ba sàn chứng khoán Việt Nam, trong đó sàn chứng khoán HOSE đóng góp 378 doanh nghiệp niêm yết.
+
+Biểu đồ 1.12: Số lượng doanh nghiệp niêm yết trên cả 3 sàn giai đoạn 2000-2019
+
+• Đặc điểm 2: Quy mô vốn hóa thị trường còn thấp
+
+Mặc dù là thị trường có tốc độ tăng trưởng rất cao, tuy nhiên tổng giá trị vốn hóa của thị trường chứng khoán Việt Nam vẫn thấp hơn nhiều so với nhiều nước trong khu vực. So với Việt Nam, thị trường có giá trị vốn hóa thấp kế tiếp là Philippines đạt 240 tỷ đô la, tức là cũng gấp đôi mức vốn hóa hiện tại của thị trường cổ phiếu Việt Nam vào cuối năm 2018. Những quốc gia khác trong khu vực như Thái Lan, Malaysia, Indonesia và Singapore cũng có tổng mức vốn hóa thị trường gấp 3-5 lần thị trường Việt Nam.
+
+Biểu đồ 1.13: Tổng vốn hóa thị trường chứng khoán Việt Nam giai đoạn 2008-2019
+
+Chính bởi mức độ phát triển của thị trường còn kém, nên thị trường cổ phiếu của Việt Nam hiện lại chỉ đang được xếp vào nhóm những thị trường cận biên. Trên cơ sở những chỉ số này thì các quỹ đầu tư trên thế giới sẽ mô phỏng các danh mục đầu tư tương ứng. Dựa trên mức độ phát triển của các thị trường, MSCI chia làm ba nhóm: Thị trường cổ phiếu phát triển tại những quốc gia như Mỹ, Canada, Nhật, Hong Kong, Singapore; thị trường cổ phiếu đang phát triển tại những quốc gia như Hàn Quốc, Trung Quốc, Malaysia, Thái Lan… và những thị trường cận biên như Việt Nam. Việc một quốc gia như Việt Nam có thể nâng bậc cho thứ hạng thị trường của mình sẽ có tác động thu hút dòng vốn quốc tế rất nhiều cho thị trường chứng khoán. Chính mức hạng thị trường cận biên làm cho việc huy động nguồn vốn từ nước ngoài của các quỹ đầu tư, để đầu tư vào thị trường Việt Nam gặp khó khăn trong nhiều năm qua.
+
+• Đặc điểm 3: Mức độ tập trung vốn hóa cao cho một số ngành nghề và nhóm cổ phiếu
+
+Tỷ trọng vốn hóa các ngành nghề trên sàn chứng khoán Việt Nam thể hiện sự thiên lệch rất rõ cho ba nhóm ngành nghề: Tài chính, bất động sản và tiêu dùng thiết yếu. Chỉ tính riêng cặp ngành nghề tài chính và bất động sản thì đã chiếm gần 55% giá trị vốn hóa toàn thị trường, nếu tính thêm ngành tiêu dùng thiết yếu vào thì con số này hơn 70%. Tiêu biểu của nhóm cổ phiếu ngành tài chính, đó chính là các ngân hàng thương mại lớn như Ngân hàng TMCP Ngoại thương Việt Nam (Mã cổ phiếu: VCB), Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (Mã cổ phiếu: BID). Trong khi đó, tiêu biểu cho nhóm cổ phiếu bất động sản là nhóm cổ phiếu của tập đoàn Vingroup (Mã cổ phiếu: VIC). Đối với những cổ phiếu ngành tiêu dùng thiết yếu thì có các đại diện như Công ty Cổ phần Sữa Việt Nam (Mã cổ phiếu: VNM) hay Công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn (Mã cổ phiếu: SAB).
+
+Biểu đồ 1.14: Tỷ trọng vốn hóa của các ngành nghề trên thị trường chứng khoán (TTCK) Việt Nam năm 2019
+
+Tại sao ba nhóm ngành nói trên chiếm tỷ trọng lớn trong chỉ số chứng khoán? Nguyên nhân chính xuất phát từ cấu trúc đặc thù của nền kinh tế của Việt Nam nói riêng và những quốc gia đang phát triển ở Châu Á nói chung. Nếu chúng ta so sánh cấu trúc cơ cấu ngành của chỉ số chứng khoán Việt Nam và chỉ số chứng khoán Shanghai của Trung Quốc, chúng ta sẽ thấy có một sự tương đồng rất lớn. Ba nhóm ngành nghề tài chính, bất động sản và tiêu dùng thiết yếu cũng chiếm tỷ trọng rất cao trong chỉ số. Ở những quốc gia này, hệ thống ngân hàng đóng vai trò huyết mạch trong việc cung cấp nguồn vốn cả ngắn hạn và dài hạn cho các doanh nghiệp, cho nên ngân hàng thường giữ vai trò rất quan trọng trong cấu trúc của hệ thống tài chính. Kế đến là lĩnh vực bất động sản luôn là động lực tăng trưởng chính, các hoạt động xây dựng và phát triển hạ tầng ở những quốc gia đang phát triển cũng là một ngành nghề chiếm tỷ trọng rất lớn. Cuối cùng, nhóm ngành tiêu dùng thiết yếu đại diện cho xu hướng tăng trưởng tiêu dùng ở những quốc gia đông dân và có tốc độ tăng trưởng dân số cao. Rõ ràng, những đặc thù trong mức độ phát triển của hoạt động kinh tế thực đóng một vai trò quan trọng trong việc chi phối hoạt động niêm yết của các doanh nghiệp trên sàn.
+
+Cơ cấu ngành nghề trong chỉ số S&P 500 của Mỹ cho thấy sự khác biệt hoàn toàn. Những ngành nghề chiếm tỷ trọng lớn lại là công nghệ, viễn thông, chăm sóc sức khỏe… Đây là những ngành nghề thiên về lĩnh vực dịch vụ cao cấp, vốn phù hợp với cấu trúc của hoạt động kinh tế thực của nền kinh tế Mỹ. Với những nền kinh tế phát triển như nền kinh tế Mỹ thì hoạt động sản xuất sẽ được gia công ở những thị trường đang phát triển như những gì chúng ta thấy ở các doanh nghiệp đầu tư FDI đầu tư vào những quốc gia Châu Á. Bên cạnh đó, thị trường bất động sản ở những quốc gia này cũng đã đi vào trạng thái bão hòa do nhu cầu nhà cửa và hạ tầng đã hoàn chỉnh.
+
+Các ngành nghề chính yếu trong cấu trúc nền kinh tế thực sẽ có những ảnh hưởng nhất định trong cấu trúc ngành của thị trường chứng khoán.
+
+Biểu đồ 1.15: Tỷ trọng vốn hóa các ngành nghề của TTCK Trung Quốc và TTCK Mỹ
+
+Không chỉ mức vốn hóa tập trung vào một số nhóm ngành nghề mà mức vốn hóa của thị trường chứng khoán còn tập trung vào chỉ một vài cổ phiếu vốn hóa lớn. Thống kê cho thấy, 10 cổ phiếu có vốn hóa lớn nhất thị trường đã chiếm gần 50% tổng giá trị vốn hóa toàn thị trường năm 2019. Nếu chúng ta mở rộng những con số thống kê cho top 30 và top 50 thì tỷ lệ bao phủ vốn hóa toàn thị trường sẽ lên đến 70% và 80% tổng giá trị vốn hóa. Tỷ lệ thống trị cao của các cổ phiếu vốn hóa lớn cho thấy chỉ số VN-Index sẽ có thể bị dẫn dắt bởi sự biến động của một vài cổ phiếu có vốn hóa lớn.
+
+Bảng 1.3: Top 10 cổ phiếu có vốn hóa lớn nhất toàn thị trường chứng khoán Việt Nam trong năm 2019
+
+Nguồn: Bloomberg
+
+Có hai điểm chúng ta có thể lưu ý từ danh sách top 10 cổ phiếu có giá trị vốn hóa lớn nhất. Thứ nhất, các cổ phiếu của tập đoàn Vingroup và các công ty con (VIC, VHM và VRE) chiếm tỷ trọng rất lớn trong giá trị vốn hóa toàn thị trường. Điều đó có nghĩa là: Những biến động trong tình hình kinh doanh của tập đoàn Vingroup sẽ có thể ảnh hưởng rất lớn đến xu hướng biến động chung của thị trường. Thứ hai, nhóm các cổ phiếu ngân hàng cũng thể hiện tầm ảnh hưởng rất lớn đến xu hướng chung của thị trường. Tóm lại, dù có số lượng cổ phiếu niêm yết rất lớn trên ba sàn chứng khoán dựa trên quy mô của nền kinh tế Việt Nam, tuy nhiên thị trường chứng khoán Việt Nam có mức độ tập trung rất lớn vào một số ít nhóm ngành nghề cũng như một vài cổ phiếu rất cao, qua đó làm giảm tính đại diện của chỉ số.
+
+• Đặc điểm 4: Hạn chế về thanh khoản của các cổ phiếu đang giao dịch trên thị trường
+
+Thanh khoản của cổ phiếu niêm yết, cũng là một tiêu chí chúng ta cần phải đánh giá khi lựa chọn những cơ hội đầu tư. Với hơn 380 cổ phiếu đang niêm yết trên Sàn Chứng khoán TP.HCM (HOSE), có gần 200 công ty có khối lượng giao dịch thấp hơn 100.000 cổ phiếu/ngày, trong đó nhiều cổ phiếu gần như không có thanh khoản. Số lượng cổ phiếu có thanh khoản trên 1.000.000 cổ phiếu/ngày chỉ là 37 cổ phiếu. Thanh khoản thấp trở thành một nỗi lo rất lớn cho các quỹ đầu tư, khi đưa ra các quyết định đầu tư vào một công ty niêm yết nào đó.
+
+Biểu đồ 1.16: Thống kê mức độ thanh khoản của các công ty niêm yết năm 2019
+
+• Đặc điểm 5: Khả năng huy động vốn của thị trường chứng khoán
+
+Đôi khi chúng ta bị hoa mắt bởi những con số về giá trị vốn hóa, cũng như tỷ lệ vốn hóa thị trường trên GDP của Việt Nam đã gia tăng như thế nào, tuy nhiên hiệu quả của thị trường chứng khoán được thể hiện ở lượng vốn có thể huy động cho các doanh nghiệp hằng năm. Trong khi đó, nếu xét về số vốn thực sự doanh nghiệp huy động thì các doanh nghiệp có thể huy động từ thị trường chứng khoán thấp hơn rất nhiều so với nguồn vốn vay từ hệ thống ngân hàng. Số liệu thống kê cho thấy mức chênh lệch huy động vốn rất lớn từ kênh ngân hàng và kênh thị trường chứng khoán qua các năm.
+
+Nguồn vốn huy động chủ yếu tập trung vào các nhóm ngành bất động sản, tài chính và ngành tiêu dùng thiết yếu với những tên tuổi như Vingroup, Masan và Vietcombank. Ngược lại các ngành khác huy động vốn khó hơn rất nhiều. Một thống kê ngân hàng năm 2019, chỉ có khoảng 5% doanh nghiệp trên sàn có thể huy động vốn từ thị trường chứng khoán và trong đó 10 doanh nghiệp lớn nhất đã chiếm hơn
+
+80% tổng nguồn vốn huy động của toàn thị trường. Rõ ràng, cơ hội để tất cả các doanh nghiệp có thể hưởng lợi từ thị trường chứng khoán như một kênh huy động vốn là rất thấp. Khi đó, thậm chí cơ hội để các doanh nghiệp SME4 huy động vốn từ thị trường sẽ càng thấp hơn rất nhiều. Vì thế, phần lớn nguồn vốn của các doanh nghiệp có thể huy động để hỗ trợ tăng trưởng vẫn sẽ chủ yếu đến từ các khoản vay ngân hàng.
+
+Biểu đồ 1.17: Cơ cấu tăng vốn và huy động vốn cổ phần
+
+4 . SME (Small and Medium Enterprise): Doanh nghiệp có quy mô vừa và nhỏ
+
+Thực trạng hoạt động bảo lãnh phát hành
+
+Hoạt động bảo lãnh phát hành chứng khoán đề cập đến vai trò của công ty chứng khoán trong việc thực hiện những nghiệp vụ bảo lãnh phát hành cho các chứng khoán bao gồm cả cổ phiếu và trái phiếu cho các doanh nghiệp. Thông qua nghiệp vụ bảo lãnh phát hành thì công ty chứng khoán sẽ giúp doanh nghiệp lên kế hoạch chuẩn hóa hoạt động của doanh nghiệp liên quan đến xây dựng hệ thống báo cáo và quản lý tài chính, kế hoạch huy động và sử dụng nguồn vốn, kế hoạch làm việc với những nhà đầu tư tiềm năng, định giá mức giá trị hợp lý của các cổ phần và cuối cùng là quá trình chào bán chứng khoán ra công chúng. Ngoài ra, đơn vị bảo lãnh phát hành cũng sẽ có thể thực hiện những nghiệp vụ cao cấp hơn thông qua việc cam kết mua lại toàn bộ chứng khoán nếu như đợt phát hành không tìm đủ người mua như dự kiến ban đầu. Đổi lại, các công ty chứng khoán sẽ nhận được phần phí bảo lãnh phát hành từ doanh nghiệp. Mức phí này sẽ phụ thuộc vào mức độ đóng góp của đơn vị bảo lãnh vào quá trình phát hành chứng khoán, vai trò của đơn vị phát hành càng lớn thì mức phí thu được của họ càng lớn.
+
+Thu nhập hoạt động bảo lãnh phát hành của công ty chứng khoán cũng tăng trưởng đều qua từng năm. Thu nhập từ mảng này đã tăng mạnh trong năm 2019 từ mảng bảo lãnh phát hành trái phiếu. Năm 2019 khi dòng tiền từ ngân hàng bị siết lại thì các doanh nghiệp bất động sản đã gia tăng việc phát hành trái phiếu từ thị trường chứng khoán để bù đắp nguồn vốn dài hạn. Xu hướng trên đã tạo ra nguồn thu cho công ty chứng khoán từ hoạt động bảo lãnh phát hành trong năm.
+
+Biểu đồ 1.18: Doanh thu hoạt động bảo lãnh phát hành giai đoạn 2009-2019
+
+Trong phần trước chúng ta đã thảo luận về việc thực tế doanh nghiệp rất khó huy động vốn cổ phần trên thị trường chứng khoán Việt Nam. Hơn nữa, những doanh nghiệp có thể huy động vốn cổ phần rất khó khăn từ những nhà đầu tư mới do sự hạn chế về cơ sở nhà đầu tư trên thị trường phát hành chứng khoán sơ cấp. Thay vào đó, doanh nghiệp phần lớn sẽ huy động vốn chủ yếu phát hành cho các cổ đông hiện hữu. Khi đó, vai trò của các đơn vị bảo lãnh phát hành trong trường hợp này là rất hạn chế. Có những trường hợp doanh nghiệp huy động 200 tỷ đồng từ cổ đông hiện hữu và phần phí trả cho đơn vị tư vấn chỉ là chưa đến 200 triệu đồng, tương đương với mức phí tương ứng chỉ vào khoảng 0,1% trên giá trị phát hành mới của doanh nghiệp. Trong khi đó, mức phí trung bình từ 2-7% trên giá trị phát hành dành cho đơn vị phát hành chỉ khi vai trò huy động vốn của đơn vị phát hành lớn hơn. Thực tế đó đã góp phần giải thích tại sao quy mô mức phí tư vấn bảo lãnh phát hành của công ty chứng khoán là rất thấp mặc dù giai đoạn những năm vừa qua có rất nhiều doanh nghiệp niêm yết và huy động thêm vốn trên thị trường chứng khoán.
+
+Thị phần hoạt động bảo lãnh phát hành có sự phân hóa rất lớn giữa các công ty chứng khoán khi 5 công ty chứng khoán lớn nhất là SHS, VCBS, SSI, BSI và VCI gần như chiếm hết thị phần tư vấn bảo lãnh phát hành, dựa trên số liệu từ báo cáo tài chính của các công ty chứng khoán niêm yết trên thị trường giai đoạn 2016-2019.
+
+Biểu đồ 1.19: Doanh thu hoạt động phát hành của 10 công ty chứng khoán hàng đầu tại Việt Nam giai đoạn 2016-2019
+
+• Sự thay đổi của hành lang pháp lý trong 20 năm
+
+Nếu quan sát kỹ thì chúng ta sẽ thấy lĩnh vực tài chính là lĩnh vực bị quản lý chặt chẽ nhất trong tất cả các ngành nghề kinh tế. Hơn nữa, các quy định về những văn bản pháp lý luôn được hoàn thiện theo thời gian, theo hướng nâng cao việc siết chặt quy định hơn. Phần trình bày bên dưới sẽ liệt kê lại sự phát triển của hành lang pháp lý theo thời gian.
+
+Ngày 11/07/1988, Chính phủ đã ban hành Nghị định số 48/1988/NĐ-CP về chứng khoán và TTCK. Đây là văn bản pháp lý cao nhất, điều đó chứng tỏ rằng thị trường sớm được khởi động nhờ vào khuôn khổ pháp lý ban đầu này, đồng thời tính linh hoạt được bảo đảm và TTCK dễ sửa đổi nhằm phù hợp với điều kiện ban đầu.
+
+Năm 2003: Nghị định 48 năm 1988 đã được Chính phủ thay bằng Nghị định 144 năm 2003 về chứng khoán và TTCK. Đây là nghị định phù hợp với thực tiễn phát triển của thị trường với nhiều nội dung đổi mới.
+
+Năm 2006: Luật Chứng khoán sửa đổi năm 2006 đã chính thức thông qua, trong cuộc họp khóa 9, Quốc Hội khóa XI. Ngày 29/06/2006 bộ luật chính thức ban hành và luật có hiệu lực thi hành từ ngày 01 tháng 01 năm 2007.
+
+Năm 2007: Thủ tướng Chính phủ đã ban hành Nghị định số 14/2007/NĐ-CP về quy định chi tiết thi hành một số điều của Luật Chứng khoán.
+
+Năm 2010: Một số điều trong Luật Chứng khoán năm 2006 được bổ sung và sửa đổi.
+
+Song song đó, nhiều đề án quan trọng như Chiến lược phát triển thị trường chứng khoán giai đoạn 2011-2020 như mô hình tổng thể thị trường chứng khoán, đề án chống khủng hoảng, đề án tái cấu trúc thị trường chứng khoán và Đề án quản lý vốn đầu tư gián tiếp nước ngoài đã được xây dựng trong quá trình phát triển của thị trường chứng khoán. Bên cạnh đó, vào năm 2012 thì hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán đã được Chính phủ ban hành.
+
+Trong năm 2013, thị trường chứng khoán Việt Nam đã dự thảo quyết định về việc tham gia của các tổ chức và cá nhân nước ngoài. Đồng thời, trình Thủ tướng Chính phủ văn bản hoàn tất về điều chỉnh đối với người trực tiếp là nhà đầu tư nước ngoài.
+
+Như vậy đến năm 2018, thị trường chứng khoán Việt Nam có khả năng hội nhập với các thị trường vốn quốc tế và khu vực. Do Việt Nam đã xây dựng đồng bộ khung pháp lý từ thị trường sơ cấp đến thị trường chứng khoán phái sinh, góp phần nâng cao tính minh bạch, công khai của thị trường, đồng thời góp phần nâng cao hiệu quả quản lý, cũng như giám sát và cưỡng chế thực thi của cơ quan ban quản lý, từ đó từng bước phù hợp với hệ thống pháp luật và thông lệ quốc tế.
+
+Mặc dù Việt Nam đã có khung hành lang pháp lý đồng bộ trên thị trường. Tuy nhiên, trên thị trường chứng khoán Việt Nam vẫn còn tồn tại nhiều bất cập, một số nội dung chưa phù hợp và rõ ràng với thực tế khi thực hiện, đặc biệt là với thông lệ quốc tế. Chính vì vậy, thị trường cần phải nâng cao chất lượng, sự ổn định của công ty đại chúng và phù hợp với thông lệ quốc tế cũng như quy mô của thị trường. Năm 2019, tại kỳ họp lần 8 đã ban hành Luật Chứng khoán sửa đổi với nhiều điểm mới hơn và luật sẽ có hiệu lực từ ngày 1/1/2021.
+
+Sự thay đổi của hành lang pháp lý đều gắn liền với từng giai đoạn phát triển của thị trường. Sự hoàn thiện của hành lang pháp lý là nền tảng quan trọng cho sự phát triển trong dài hạn của thị trường.
+
+Biểu đồ 1.20: Sự thay đổi hành lang pháp lý của thị trường chứng khoán Việt Nam trong 20 năm qua
+
+Hoạt động của các quỹ đầu tư ở Việt Nam
+
+Các nhà đầu tư tổ chức hay các quỹ đầu tư đóng vai trò rất quan trọng trong quá trình phát triển của thị trường, giúp cho thị trường có thể tăng trưởng bền vững. Cuối năm 2017, thị trường chứng khoán Việt Nam ghi nhận có 36 quỹ cổ phiếu thực hiện huy động vốn trong và ngoài nước với 10 quỹ thành viên, 2 quỹ ETF, 22 quỹ mở, 1 quỹ bất động sản và 1 quỹ đóng. Số lượng quỹ mở tiếp tục gia tăng trong năm 2018 và 2019, góp phần đưa tổng số lượng quỹ đầu tư ở Việt Nam lên con số 48 quỹ vào cuối năm 2019.
+
+Biểu đồ 1.21: Số lượng các quỹ đại chúng ở Việt Nam giai đoạn 2006-2019
+
+Hiện tại số lượng nhà đầu tư mua chứng chỉ quỹ mở thấp hơn nhiều so với số lượng nhà đầu tư đang mở tài khoản ở các công ty chứng khoán. Cuối năm 2019, thị trường chỉ có khoảng 19.000 nhà đầu tư sản phẩm chứng chỉ quỹ trong khi đó có đến 1.900.000 tài khoản nhà đầu tư trong và ngoài nước tham gia thị trường chứng khoán, tức là gấp đến 100 lần. Qua đó, thể hiện quy mô thị trường quỹ mở ở Việt Nam cả về giá trị tài sản quản lý và cơ sở nhà đầu tư vẫn còn rất thấp so với mức tiềm năng.
+
+Ngược lại với những thị trường phát triển, phần lớn giao dịch trên thị trường chứng khoán Việt Nam đến từ những nhà đầu tư cá nhân, thay vì 80-85% đến từ tổ chức bao gồm các quỹ như thị trường đang phát triển khác. Hiện tại, nhà đầu tư cá nhân đang xem xét và tìm hiểu về hình thức đầu tư ủy thác này như là một hình thức mới có tiềm năng. Xu hướng tất yếu trong tương lai của những khoản đầu tư cá nhân sẽ được ủy quyền cho các quỹ mở, thay vì tự quản lý bởi những nhà đầu tư cá nhân như hiện nay. Tài sản của nhà đầu tư sẽ được đảm bảo an toàn hơn, bởi chuyên gia có đủ kinh nghiệm chuyên môn để đưa ra những quyết định đầu tư đúng đắn và làm tốt trong việc quản trị rủi ro.
+
+• Đối với các quỹ nội
+
+Tổng quy mô của thị trường quản lý quỹ mở nội địa Việt Nam chỉ vào khoảng hơn 16.000 tỷ đồng vào đầu năm 2019. Quy mô các quỹ nội của Việt Nam vẫn đang nhỏ hơn nhiều so với các quỹ ngoại đã có lịch sử thành lập ở Việt Nam từ rất lâu. Phần lớn những công ty quản lý quỹ có quy mô rất nhỏ, trong đó thị phần chủ yếu nằm trong tay hai công ty quản lý quỹ lớn nhất là Công ty Quản lý quỹ đầu tư Việt Nam (VFM) và Công ty Quản lý quỹ đầu tư Kỹ Thương Techcombank Capital (TCBF). Hai công ty này chiếm gần 80% tổng tài sản quản lý của những quỹ đại chúng ở thị trường Việt Nam. Trong khi phần lớn tài sản các quỹ của VFM tập trung vào những quỹ cổ phiếu và quỹ cân bằng, thì phần lớn tài sản của các quỹ TCBF tập trung vào quỹ trái phiếu.
+
+Biểu đồ 1.22: Thị phần của các công ty quản lý quỹ nội địa năm 2018
+
+Xét về mức sinh lời thì mức sinh lời của các quỹ tương đối đồng đều trong 4 năm qua, từ 2015-2018. Trong khi chỉ số VN-Index tăng trưởng trung bình ở mức 14%/năm thì phần lớn quỹ đều đạt mức sinh lời xung quanh giá trị trung bình kể trên. Một số quỹ đầu tư đạt kết quả vượt trội hơn mức trung bình của VN-Index có thể kể đến như quỹ VFMVF1 và VFMVF4 do công ty quản lý quỹ VFM quản lý.
+
+Bảng 1.4: Mức sinh lời của một số quỹ đầu tư giai đoạn 2015-2018
+
+Nguồn: Báo cáo kết quả đầu của các quỹ
+
+• Đối với các quỹ ngoại
+
+Về mức sinh lời thì phần lớn quỹ ngoại đều đạt mức tăng trưởng trong dài hạn tốt hơn mức tăng trưởng của chỉ số chứng khoán VN-Index. Những quỹ ngoại đạt mức tăng trưởng tốt hơn là do phần lớn những quỹ đầu tư ngoại vào thị trường chứng khoán đúng thời điểm giá của các cổ phiếu ở Việt Nam còn rất rẻ. Tiêu chí lựa chọn của quỹ rất khắt khe, khi luôn lựa chọn những cổ phiếu có nền tảng cơ bản và định hướng phát triển trong dài hạn.
+
+Việc đầu tư vốn vào công ty tốt giúp quỹ đầu tư hưởng lợi từ xu hướng tăng trưởng trong dài hạn của nền kinh tế Việt Nam trong những năm qua.
+
+Biểu đồ 1.23: Kết quả đầu tư của các quỹ ngoại tiêu biểu giai đoạn 2009-2019
+
+Tóm tắt Chương 1
+
+Những nội dung được thảo luận trong Chương 1 giúp cho người đọc có một cái nhìn tổng quan về đặc điểm cơ bản của nền kinh tế và thị trường chứng khoán Việt Nam. Hệ thống kinh tế của một quốc gia là tổng hòa của rất nhiều biến số vĩ mô trong sự tác động tương hỗ. Thông qua những đặc điểm đặc thù của quá trình phát triển kinh tế, thị trường chứng khoán sẽ phát triển tương ứng.
+
+Những thông tin về đặc điểm cơ bản của thị trường chứng khoán cũng giúp cho độc giả có cái nhìn sâu sắc hơn về cấu trúc của thị trường chứng khoán Việt Nam, trong lộ trình phát triển của một thị trường chứng khoán vẫn còn trong giai đoạn sơ khai. Việc hiểu các vấn đề đặc thù của nền kinh tế sẽ giúp cho người đọc có thể đánh giá những xu hướng phát triển sắp tới. Nội dung này sẽ được chúng ta thảo luận chi tiết ở chương cuối của sách này, sau khi chúng ta điểm qua quá trình phát triển của thị trường trong 20 năm qua.
+
+Việc hiểu các vấn đề đặc thù của nền kinh tế và thị trường chứng khoán chỉ giúp chúng ta có thể hiểu được cơ chế vận hành. Tuy nhiên, vấn đề đặt ra là chúng ta cần có một lăng kính tốt để soi rọi và phân tích những gì đã diễn ra trong quá khứ. Lịch sử sẽ không phải chỉ là những sự kiện rời rạc, khô khan mà nó là tổng hợp của tất cả các vấn đề mang tính quy luật. Trong chương tới, chúng ta sẽ đánh giá xem đâu là một phương pháp tối ưu để xây dựng một khung phân tích nhất quán cho những vấn đề đã diễn ra trên thị trường.
+
+Chương 2
+Phương pháp phân tích chứng khoán
+
+Giới thiệu Chương 2
+
+C
+ó rất nhiều phương pháp phân tích chứng khoán được trình bày trong các giáo trình phân tích đầu tư. Mục tiêu của những phương pháp phân tích đầu tư là nhằm tìm ra một phương pháp chuẩn hóa trong việc đánh giá cơ hội đầu tư. Tuy nhiên, những phương pháp phân tích truyền thống đã bộc lộ nhiều hạn chế trong việc diễn giải sự kết nối giữa các phân tích vĩ mô đến thị trường chứng khoán.
+
+Đầu tiên, chúng ta sẽ phân tích các vấn đề trong phương pháp phân tích truyền thống theo mô hình top-down5. Phương pháp phân tích cơ bản có một nền tảng lý luận chặt, tuy nhiên lại không đưa ra quy trình chuẩn hóa để những phân tích có thể diễn giải chi tiết tác động của thông tin vĩ mô đến thị trường chứng khoán. Đằng sau sự thay đổi trong lãi suất hay lạm phát là những tác động đa chiều và không rõ ràng đến những cơ hội đầu tư trên thị trường. Khi đó, người phân tích dễ rơi vào tình huống không thể đưa ra kết luận phân tích nhất quán theo thời gian.
+
+Diễn biến của thị trường chứng khoán sẽ phản ánh những thay đổi trong triển vọng của hoạt động kinh tế thực. Do đó, chúng ta cần tìm ra một biến số nào đó vừa có thể đại diện cho sự thay đổi trong hoạt động của nền kinh tế thực, vừa cũng thể hiện sự kết nối với ngay chính các cơ hội đầu tư.
+
+Cuối cùng, chúng ta thảo luận đâu là những yếu tố cơ bản trong hoạt động kinh doanh, từ đó giúp giải thích tốt nhất sự biến động trong giá cổ phiếu. Trong những biến số tài chính sẽ có các biến số mang tính chỉ báo và các biến số mang tính kết quả. Chỉ những thông tin hoặc những chỉ số mang tính chỉ báo mới có ý nghĩa trong việc định hướng quyết định đầu tư.
+
+5 . Mô hình top-down: là phương pháp phân tích yêu cầu trước hết phải xem xét tình hình vĩ mô tổng thể của nền kinh tế, sau đó lần lượt mới xem xét được từng ngành và từng công ty cụ thể.
+
+Nền kinh tế thực và thị trường chứng khoán
+
+Thị trường tài chính là một thể thống nhất không thể tách rời với hoạt động kinh tế thực vì nếu không có nền kinh tế thực thì không thể có thị trường tài chính.
+
+Mục tiêu cuối cùng của mọi trường phái đầu tư đều là giúp chúng ta gia tăng giá trị vốn đầu tư. Tuy nhiên, mỗi nhà đầu tư cần có một triết lý hay một phương pháp đầu tư để giúp bản thân cảm thấy tự tin và an tâm trong quá trình ra quyết định. Một ý nghĩa sâu xa hơn nữa của phương pháp đầu tư là có thể giúp chúng ta trưởng thành hơn sau mỗi giao dịch. Điều đó thể hiện qua việc triết lý và phương pháp đầu tư của chúng ta được rút ra từ trải nghiệm sống và quá trình chiêm nghiệm của chính bản thân trong quá trình phân tích đầu tư. Khi quá trình chiêm nghiệm thay đổi thì triết lý đầu tư của chúng ta cũng sẽ được điều chỉnh. Trong khi đó, quá trình thực chiến các triết lý đầu tư sẽ giúp bản thân chúng ta rút ra kinh nghiệm thực tế để làm giàu hơn sự trải nghiệm của chính mình. Với việc theo đuổi một triết lý đầu tư và một phương pháp đầu tư phù hợp, chúng ta sẽ cảm thấy trưởng thành hơn sau mỗi khoản đầu tư, đặc biệt là những khoản đầu tư thất bại.
+
+Để có thể xây dựng một phương pháp đầu tư tốt chúng ta cần phải có một nhận thức tốt về những bản chất thực tế của những gì đang diễn ra trong thị trường đang đầu tư. Kế đến, việc thị trường tài chính hoạt động như thế nào đến hiệu quả hoạt động của các doanh nghiệp niêm yết cũng là vấn đề chúng ta cần lưu ý. Cuối cùng, chúng ta cần đánh giá liệu những thay đổi trong tình hình hoạt động của những doanh nghiệp này sẽ thay đổi như thế nào mức định giá của cổ phiếu.
+
+Thị trường chứng khoán được xem là nơi cung cấp nguồn vốn dài hạn cho các doanh nghiệp. Thay vì đi vay ngân hàng thì các doanh nghiệp có thể phát hành những giấy tờ có giá ra công chúng. Những giấy tờ có giá trị này được gọi là chứng khoán bao gồm cả trái phiếu là giấy nhận nợ của doanh nghiệp và cổ phiếu là giấy chứng nhận quyền sở hữu một phần của doanh nghiệp. Như vậy, thị trường chứng khoán hàm ý bao gồm cả thị trường cổ phiếu và thị trường trái phiếu. Tuy nhiên do thị trường trái phiếu doanh nghiệp trong nước chưa phát triển còn thị trường Trái phiếu Chính phủ chủ yếu được thực hiện giao dịch giữa các ngân hàng với nhau, nên sản phẩm tài chính phần lớn mọi người đang thấy ngoài thị trường chỉ là những cổ phiếu của doanh nghiệp.
+
+Thực tế, ở bất kỳ thị trường nào sẽ luôn luôn tồn tại một mối quan hệ rất chặt chẽ giữa các hoạt động kinh tế và thị trường tài chính, đặc biệt là thị trường vốn. Thị trường tài chính ra đời là từ yêu cầu và sự phát triển của nền kinh tế thực. Khi nền kinh tế thực cần nguồn vốn để có thể đẩy nhanh quá trình phát triển thì thị trường tài chính đóng vai trò là nguồn cung vốn. Trên thị trường tài chính có nguồn cung vốn ngắn hạn từ thị trường tiền tệ và nguồn cung vốn dài hạn từ thị trường vốn.
+
+Tùy vào mức độ phát triển của nền kinh tế thực mà thị trường tài chính có những mức độ phát triển tương ứng. Nếu như những hoạt động trong nền kinh tế thực đang có nhiều yếu tố sai lệch do những yếu tố phi thị trường sẽ khiến cho thị trường tài chính cũng có những sai lệch tương ứng. Ví dụ như ở thị trường Việt Nam, khi chúng ta bàn về vấn đề “Tại sao Việt Nam không có thị trường trái phiếu doanh nghiệp phát triển?”, có nghĩa là thị trường tài chính của Việt Nam đang bị lệch so với một thị trường tài chính hoàn chỉnh. Ở một thị trường tài chính phát triển bình thường sẽ có một kiềng ba chân giữa thị trường trái phiếu, thị trường cổ phiếu và thị trường ngân hàng để cung cấp nguồn vốn trung dài hạn cho các doanh nghiệp. Các ngân hàng chủ yếu tập trung vào cung cấp nguồn vốn ngắn hạn tại vì lý do cơ bản nguồn vốn của ngân hàng chủ yếu là nguồn vốn ngắn hạn được huy động từ dân cư. Thông thường, người gửi tiền chỉ thường gửi tiền kỳ hạn ngắn thay vì kỳ hạn dài. Do đó, sẽ phù hợp hơn khi ngân hàng là đơn vị chuyên cung cấp nguồn vốn ngắn hạn cho doanh nghiệp dưới hình thức là những khoản vay vốn lưu động. Trong khi đó, những đơn vị nhu cầu vốn dài hạn sẽ tìm đến thị trường trái phiếu và thị trường cổ phiếu.
+
+Tuy nhiên, khi cấu trúc nền kinh tế bị lệch, ở đó nguồn vốn ngân hàng vẫn đang tiếp tục tài trợ mạnh cho nhu cầu vay dài hạn của các doanh nghiệp. Doanh nghiệp có thể dễ dàng hơn khi tiếp cận các khoản vay dài hạn từ những ngân hàng thương mại thì khi đó thị trường trái phiếu sẽ gặp khó khăn để phát triển. Lý do cơ bản có thể bắt nguồn từ việc nền kinh tế ở Việt Nam phát triển ban đầu với vai trò rất lớn của những tập đoàn kinh tế Nhà nước. Điều đó hình thành một mối quan hệ rất chặt chẽ giữa nền kinh tế Nhà nước với hệ thống ngân hàng thương mại, ban đầu là những ngân hàng thương mại quốc doanh. Điều này tạo nên một thói quen của doanh nghiệp khi nghĩ đến các giải pháp về nguồn vốn. Thậm chí sau khi quá trình tư nhân hóa diễn ra rất mạnh sau này thì nguồn vốn ngân hàng vẫn là nguồn vốn phổ biến nhất.
+
+Chính phủ sử dụng hệ thống ngân hàng như là một kênh tạo động lực tăng trưởng và duy trì động lực tăng trưởng kinh tế ở mức cao như chúng ta đã thảo luận ở phần trước. Mức tăng trưởng tín dụng ở Việt Nam hàng năm được duy trì rất cao để có thể giữ mức tăng trưởng kinh tế mục tiêu, qua đó đáp ứng nhu cầu tăng trưởng và an sinh xã hội. Vì thế, với một nền kinh tế mà hệ thống ngân hàng giữ vai trò thống trị như vậy trong việc cung cấp nguồn vốn cả ngắn hạn và dài hạn đã khiến cho thị trường vốn của chúng ta phát triển không đồng đều. Chỉ có những doanh nghiệp rất lớn mới có thể phát hành được nguồn vốn trên thị trường chứng khoán để huy động vốn từ cổ phiếu. Ngược lại, những doanh nghiệp lớn đó cũng không mặn mà trong việc phát hành trái phiếu vì họ hoàn toàn tiếp cận nguồn vốn từ ngân hàng với chi phí rẻ. Trong khi đó, không có gì đảm bảo rằng chi phí phát hành trên thị trường trái phiếu có thể rẻ hơn so với chi phí vay vốn từ hệ thống ngân hàng.
+
+Trong những giai đoạn gần đây từ 2016-2019, Chính phủ bắt đầu siết chặt về việc cho vay trung dài hạn của ngân hàng thương mại thông qua việc giảm tỷ lệ nguồn vốn ngắn hạn có thể được sử dụng cho vay trung dài hạn. Khi đó, các ngân hàng bắt buộc phải cơ cấu lại nguồn vốn khi họ phải giảm tỷ trọng cho vay trung dài hạn xuống. Điều đó dẫn đến một số doanh nghiệp gặp khó khăn trong việc tiếp cận nguồn vốn trung dài hạn của ngân hàng. Ngân hàng phải sàng lọc hơn, khi đó những doanh nghiệp nào khó tiếp cận trong nguồn vốn trung dài hạn thì họ bắt buộc phải tìm đến thị trường trái phiếu, qua đó tạo ra những gia tăng đột biến trên thị trường trái phiếu trong cùng giai đoạn.
+
+Tuy nhiên, dựa vào thực tế bản chất của nền kinh tế thì nhu cầu vay vốn trung dài hạn của các doanh nghiệp từ hệ thống ngân hàng vẫn chiếm vai trò chủ đạo và sẽ tiếp tục duy trì trong thời gian tới. Chúng ta thấy rằng, khi hệ thống ngân hàng đóng một vai trò rất quan trọng trong nền kinh tế thì các ngân hàng thường có quy mô rất lớn. Với quy mô rất lớn của hệ thống ngân hàng như vậy dẫn đến phần lớn ngân hàng đều là những doanh nghiệp niêm yết có quy mô rất lớn trên các sàn chứng khoán. Quy mô vốn hóa lớn khiến tác động của sự biến động trong giá cổ phiếu ngân hàng sẽ ảnh hưởng lớn đến xu hướng chung của thị trường.
+
+Đến đây, chúng ta cũng hoàn toàn có thể lập luận tại sao tỷ trọng vốn hóa của các cổ phiếu ngân hàng như đã thảo luận ở Chương 1 tại Mỹ lại không lớn như so với cổ phiếu ngân hàng trên thị trường chứng khoán Việt Nam. Ở Việt Nam, tỷ trọng cổ phiếu ngân hàng trong tổng giá trị vốn hóa lên đến 30% nhưng tỷ trọng cổ phiếu ngân hàng ở Mỹ chỉ chiếm khoảng 10%. Vấn đề là do cấu trúc nền kinh tế ở Mỹ có nguồn vốn đa dạng từ cả nguồn vốn ngân hàng, nguồn vốn cổ phiếu và trái phiếu nên do đó ngân hàng ở Mỹ mặc dù có quy mô rất lớn tuy nhiên những định chế tài chính khác như là quỹ đầu tư thị trường trái phiếu và cổ phiếu vẫn cung cấp những nguồn vốn lớn không kém cho các doanh nghiệp. Do đó, vai trò của hệ thống ngân hàng ở Mỹ tuy vẫn lớn nhưng không độc tôn như trong trường hợp thị trường vốn ở Việt Nam.
+
+Điều chúng ta đã nhấn mạnh rất nhiều lần đó là mối quan hệ hữu cơ rất lớn giữa cấu trúc của nền kinh tế và cấu trúc của thị trường tài chính: Khi có những độ lệch trong cấu trúc của nền kinh tế sẽ dẫn đến độ lệch trong thị trường tài chính, qua đó khiến cho thị trường hoạt động không hiệu quả so với cơ chế vận hành trong lý thuyết. Cuối cùng, điều đó rõ ràng ảnh hưởng đến quá trình phân tích đầu tư của những nhà đầu tư.
+
+Yếu tố cơ bản doanh nghiệp và mức định giá
+
+Nhiều nhà đầu tư cho rằng việc thị trường chứng khoán Việt Nam hoàn toàn không tuân theo các yếu tố cơ bản, việc phân tích các doanh nghiệp hoàn toàn không giúp ích gì cho quá trình ra quyết định đầu tư. Họ cho rằng thị trường chứng khoán bị thao túng bởi thế lực lớn và các dòng tiền lớn, chính những yếu tố đó quyết định giá của cổ phiếu. Thực tế thị trường có thể khiến những lập luận đó không phải là không có cơ sở khi thị trường chứng khoán Việt Nam vẫn còn được xếp vào nhóm thị trường biên vào thời điểm cuốn sách này được phát hành. Tuy nhiên, nếu chúng ta xem mối quan hệ giữa yếu tố cơ bản với mức giá cổ phiếu trong phân tích sau đây thì chúng ta có thể suy nghĩ khác về vấn đề trên vì xét đến cùng thì thị trường vẫn chứng khoán Việt Nam vẫn đang được chi phối bởi yếu tố cơ bản, liên quan đến tính hiệu quả trong hoạt động kinh doanh của doanh nghiệp.
+
+Khi đánh giá về mức tăng trưởng giá cổ phiếu của một doanh nghiệp trong 5 năm cũng như mức tăng trưởng chỉ số EPS và mức tăng trưởng doanh thu, chúng ta cũng có thể thấy rằng những doanh nghiệp có mức tăng trưởng EPS cao cũng là những doanh nghiệp có mức tăng trưởng trong giá cổ phiếu cao. Điều này hoàn toàn có thể được lý giải bằng công thức giá chỉ số P/E chúng ta vẫn theo dõi thấy ngoài thị trường. Chỉ số P/E thể hiện mối tương quan giữa mức giá cổ phiếu, cái mà nhà đầu tư phải trả để có được cổ phiếu và EPS thể hiện mức lợi nhuận của doanh nghiệp được đầu tư vào.
+
+Với một ngành nghề có triển vọng ổn định thì chỉ số P/E tương đối ổn định theo thời gian. Khi đó, chính yếu tố thu nhập trên mỗi cổ phần (EPS) thay đổi là yếu tố quan trọng có thể thúc đẩy sự thay đổi trong mức giá cổ phiếu. Khi EPS thay đổi sẽ dẫn đến giá cổ phiếu thay đổi theo. Giả sử tương ứng với mức P/E dài hạn không đổi trong một nhóm doanh nghiệp hoặc nhóm ngành nhất định thì thu nhập một cổ phần càng tăng trưởng, giá cổ phiếu sẽ càng tăng. Sự tăng trưởng trong EPS thể hiện hoạt động kinh doanh của doanh nghiệp cải thiện như doanh thu tăng trưởng, khả năng kiểm soát chi phí tốt hơn, bán sản phẩm với mức giá cao hơn trước, từ đó đạt được mức biên lợi nhuận tốt hơn… Tất cả các yếu tố đó được tính vào trong mức độ tăng trưởng thu nhập trên một cổ phần, qua đó là động lực tăng trưởng chính của giá cổ phiếu trong tương lai.
+
+Biểu đồ 2.1: Tăng trưởng giá cổ phiếu và EPS của các ngành nghề ở Việt Nam
+
+Khi nhìn trong đoạn thời gian dài, chúng ta có thể thấy được mối quan hệ khá rõ ràng nhưng thực tế không phải doanh nghiệp nào tăng trưởng EPS thì giá cổ phiếu của doanh nghiệp cũng thay đổi theo tương ứng một cách tuyến tính. Thị trường sẽ không phản ánh một cách hoàn hảo nhất những thông tin cơ bản đó cho chúng ta. Tùy vào đặc thù của mỗi ngành nghề, mối quan hệ giữa EPS và giá của cổ phiếu có thể theo một cách khác nhau.
+
+Có những ngành nghề khi EPS tăng nhẹ, giá cổ phiếu đã tăng rất mạnh bởi vì người ta kỳ vọng sự tăng trưởng EPS tiếp tục được duy trì tăng mạnh hơn trong thời gian tới. Ngược lại, cũng có những ngành EPS tăng trong 1-2 quý trong năm nhưng giá cổ phiếu vẫn không tăng. Bởi vì thị trường cho rằng những mức tăng trưởng EPS như vậy không bền vững hoặc đang chờ những tín hiệu xa hơn để xác nhận được xu hướng thay đổi trong mức độ sinh lời của một doanh nghiệp.
+
+Chính vì những yếu tố đặc thù đó khác nhau làm cho việc dựa trên EPS để tìm kiếm những cơ hội tiềm năng quá trễ hoặc quá sớm. Có những trường hợp sau khi giá cổ phiếu đã tăng 30-40% thì khi đó hiệu quả hoạt động mới được phản ánh vào EPS, chúng ta mua cổ phiếu ở thời điểm công bố EPS tăng thì đã là quá trễ. Ngược lại, cổ phiếu chúng ta mua nhưng vẫn giữ giá thấp suốt một thời gian dài cho đến khi ta muốn bán cổ phiếu đó ra, khi đó thị trường mới nhận ra xu hướng tăng trưởng của cổ phiếu mới chỉ bắt đầu.
+
+Chính độ trễ về thời gian giữa sự thay đổi giá và sự thay đổi trong yếu tố cơ bản phản ánh qua EPS đã khiến cho quá trình phân tích đầu tư thực tế của chúng ta không đơn giản như quá trình phân tích trên. Tuy nhiên, điều đó vẫn có những giá trị về mặt lý luận khi thể hiện rằng những doanh nghiệp làm ăn tốt thì giá cổ phiếu mới tăng trưởng tốt trong dài hạn.
+
+Bởi vì giá cổ phiếu sẽ phản ánh chân thực mức lợi nhuận nhà đầu tư có thể nhận được từ phía doanh nghiệp, do đó EPS là biến số kết quả xác nhận rằng những cổ phiếu tăng giá thường có EPS tăng nhưng mục tiêu của chúng ta với nhà đầu tư là phải tìm ra những biến số leading6 - những biến xảy ra trước để chúng ta có thể dự báo được khả năng một cổ phiếu sẽ tăng trưởng, nó sẽ có nhiều ý nghĩa với nhà đầu tư hơn là những biến lagging7 như EPS.
+
+6 . Biến số leading: Những biến số mang tính chất chỉ báo cho xu hướng của biến cần xem xét
+
+7 . Biến số lagging: Những biến số mang tính chất xác nhận cho xu hướng của biến cần xem xét
+
+Giá trị của phân tích vừa rồi cho chúng ta cũng thể hiện rằng ở bất kỳ thị trường nào, không riêng Việt Nam, thì thị trường cổ phiếu đều tuân theo quy tắc cơ bản về mối quan hệ giữa hiệu quả kinh doanh và giá cổ phiếu của doanh nghiệp. Tuy nhiên, tùy vào mức độ phát triển mỗi thị trường và đặc thù của mỗi ngành nghề ở mỗi thời điểm khác nhau mà mối quan hệ giữa giá cổ phiếu và các yếu tố cơ bản sẽ tuân theo những quy luật phi tuyến khác nhau. Trong dài hạn, những yếu tố cơ bản luôn chi phối sự thay đổi trong giá cổ phiếu của doanh nghiệp. Điều quan trọng nhất là nhà đầu tư cần tìm ra những chỉ báo thể hiện tiềm năng thay đổi trong hoạt động kinh doanh của doanh nghiệp. Trong những phần tiếp theo, chúng ta sẽ thảo luận chi tiết hơn về những biến chỉ báo đánh giá xu hướng vừa được đề cập.
+
+Phương pháp truyền thống trong việc phân tích
+
+Việc đánh giá tình hình vĩ mô của một nền kinh tế hay một quốc gia nào đó là một vấn đề rất cơ bản đầu tiên mà chúng ta cần phải trả lời trước khi có thể ra quyết định đầu tư kinh doanh hay thậm chí là quyết định đầu tư tài chính trên thị trường chứng khoán. Những ai đã từng đọc qua báo cáo phân tích cổ phiếu của các công ty chứng khoán sẽ có thể đồng ý về nhận định sau đây. Rõ ràng, báo cáo phân tích cổ phiếu của công ty chứng khoán thể hiện những phân tích rất tỉ mỉ và tận tâm của chuyên viên phân tích của những công ty này. Tuy nhiên, chúng ta sẽ nhận ra rằng những báo cáo này không thể đưa ra các kết luận có tính liên quan về những gì người đọc đang cần để có thể hỗ trợ họ ra quyết định đầu tư.
+
+Vấn đề nằm ở chỗ đôi khi báo cáo phân tích chỉ đang nhằm vào mục tiêu trình bày các số liệu vĩ mô thay vì cố gắng diễn giải các thông điệp dễ hiểu và có ý nghĩa. Điều thị trường cần là một cách phân tích nhất quán qua từng cơ hội đầu tư, từng ngành nghề và cả từng nền kinh tế khác nhau dưới những điều kiện kinh tế vĩ mô đa dạng. Để có được sự nhất quán đó chúng ta cần xây dựng những mô hình phân tích mà tại đó chúng ta có thể sử dụng chúng để đánh giá mức độ phát triển và triển vọng của từng nền kinh tế khác nhau. Nếu chúng ta từng có con nhỏ và phải đi khám định kỳ thì chúng ta có thể thấy cách bác sĩ sẽ khám cho con mình để đánh giá tình trạng và quá trình phát triển của chúng như thế nào. Thông số về chiều cao, cân nặng nhịp tim hay hô hấp giúp các bác sĩ có thể đánh giá tình trạng phát triển qua các giai đoạn của trẻ. Trong hồ sơ, chúng ta có thể thấy có rất nhiều những con số chuyên môn được trình bày, nhưng chúng ta đều thấy rằng không có bác sĩ nào lại ngồi diễn giải những con số trên. Thay vào đó, những bác sĩ sẽ đưa ra những nhận xét, khuyến nghị hay lời khuyên cho chúng ta về chế độ ăn và cách chăm sóc cho trẻ để chúng có thể phát triển hoàn thiện nhất với thể trạng của mình. Điều tuyệt vời nhất là các bác sĩ hoàn toàn có thể lặp lại kỹ thuật khám sức khỏe này cho hàng nghìn đứa trẻ khác. Đó là một phương pháp phân tích mà họ hoàn toàn có thể áp dụng cho nhiều đối tượng khác nhau.
+
+Hãy so với những gì chúng ta đang đối mặt trong lĩnh vực kinh tế, phần lớn những nhà kinh tế và phân tích đang làm rắc rối vấn đề, khiến cho các vấn đề kinh tế vốn liên quan đến cuộc sống hằng ngày trở nên quá xa lạ với đại chúng.
+
+Thông qua lăng kính và những mô hình phân tích ở đây, nhà đầu tư sẽ có cái nhìn đơn giản hơn về những gì thực tế đang diễn ra xung quanh, có thể hiểu những xu hướng đang thay đổi trong nền kinh tế, để từ đó có thể đưa ra những quyết định kinh tế – tài chính phù hợp. Điều này không chỉ được áp dụng cho nền kinh tế tại Việt Nam mà chúng ta có thể áp dụng cho bất kỳ nền kinh tế nào trên thế giới. Tuy nhiên, mô hình phân tích này được áp dụng tốt nhất khi phân tích các nền kinh tế Châu Á, đặc biệt là mô hình kinh tế của Việt Nam.
+
+Mỗi một mô hình sẽ luôn có một biến số chính để giải thích phần lớn sự thay đổi của đối tượng nghiên cứu. Việc đưa vào quá nhiều biến số trong khi không xác định đâu là biến số quan trọng nhất, khiến chúng ta rơi vào trạng thái quan trọng hóa tất cả các yếu tố. Biến số quan trọng nhất chúng cần theo dõi đó là dòng vốn huy động của doanh nghiệp, đặc biệt là sự thay đổi nợ vay. Hãy thử tưởng tượng chúng ta là chuyên viên phê duyệt tín dụng tại hội sở của một trong những ngân hàng lớn nhất tại Việt Nam, khi đó rõ ràng chúng ta sẽ có cơ hội rất lớn để nhìn thấy bức tranh thay đổi của nền kinh tế trước những gì được công bố ngoài thị trường từ 3 tháng đến 6 tháng. Nếu được chắt lọc với một mô hình tốt thì những phân tích và kết luận khi đó có thể tốt hơn so với các chuyên gia kinh tế.
+
+Thứ nhất, vì chúng ta chỉ đang tập trung vào một biến số vĩ mô quan trọng nhất đó là nợ vay, điều mà phần lớn nhiều chuyên gia kinh tế đang bị xao nhãng vì tập trung quan sát quá nhiều biến số vĩ mô. Thứ hai, vị trí công việc giúp chúng ta sẽ có thể quan sát những tín hiệu về thay đổi của nguồn vốn từ hệ thống ngân hàng đang được phân bổ cho các ngành nghề như thế nào. Những thông tin đó là những thông tin mang tính chất dự báo. Khi đó, chúng ta đang có một lợi thế rất lớn về mặt thông tin so với những nhà đầu tư thông thường khác, tuy nhiên hãy thận trọng để đảm bảo chúng ta đang không sử dụng thông tin nội gián để ra quyết định đầu tư.
+
+❖ Giới thiệu các nhóm chỉ số vĩ mô
+
+Phần nội dung bên dưới sẽ giới thiệu cho người đọc về những nhóm chỉ báo vĩ mô, trong mối tương quan với mức tăng trưởng kinh tế của một quốc gia. Với vai trò là biến số vĩ mô quan trọng nhất của nền kinh tế thì mức tăng trưởng kinh tế sẽ có mối quan hệ chặt chẽ với tất cả các biến số vĩ mô. Dựa trên những nhóm chỉ số vĩ mô này thì nhà kinh tế cũng như nhà phân tích sẽ đưa ra những đánh giá về thực trạng và xu hướng của nền kinh tế. Những xu hướng và sự thay đổi trong những chỉ số vĩ mô này sẽ cung cấp nhiều thông tin để nhà phân tích xem xét những vấn đề trong mức tăng trưởng kinh tế sắp tới của một quốc gia, để từ đó có thể đưa ra các khuyến nghị và phân tích ở cả tầm vĩ mô cho Chính phủ và tầm vi mô cho các doanh nghiệp.
+
+Tuy nhiên, mối quan hệ giữa những cặp biến số này không đồng bộ cũng như không dễ dàng để có thể diễn giải ý nghĩa nếu chúng ta không thực hiểu bản chất kinh tế của những chỉ tiêu này. Nhằm thấy rõ mối quan hệ này thì người ta chia các nhóm chỉ báo trong mối quan hệ với mức tăng trưởng kinh tế, bao gồm nhóm chỉ báo sớm (leading indicators), nhóm chỉ báo đồng thời (coincident indicators) và nhóm chỉ báo xác nhận xu hướng (lagging indicators).
+
+1. Những chỉ báo sớm là những chỉ báo diễn ra trước diễn biến của nền kinh tế. Những chỉ báo này được xem là rất có giá trị trong việc dự báo tình hình tương lai của nền kinh tế, thường là trong ngắn hạn. Chúng cũng đại diện cho các hoạt động kinh tế thể hiện cho những xu hướng thay đổi trong hoạt động kinh tế thực của những chủ thể tham gia. Điều này tương tự như khi chúng ta phân tích những chỉ báo về tăng hàng tồn kho và đầu tư ở trên đối với doanh nghiệp. Những thay đổi trong hoạt động đầu tư cho thấy xu hướng lạc quan hay bi quan của doanh nghiệp đối với triển vọng kinh doanh của nền kinh tế hoặc ngành nghề họ đang kinh doanh.
+
+2. Những chỉ báo đồng thời là những chỉ báo thể hiện những xu hướng đang diễn ra trong chỉ số vĩ mô đang phân tích cùng với xu hướng của mức tăng trưởng của hoạt động kinh tế thực. Nói một cách đơn giản hơn thì những thay đổi trong xu hướng của mức tăng trưởng và mức thay đổi của chỉ số này đang diễn ra đồng thời cùng với nhau. Hai biến số này có thể đều là kết quả của những tác động trong các xu hướng thay đổi chung trong hoạt động kinh tế thực.
+
+3. Những chỉ báo xác nhận là những chỉ báo giúp xác nhận về tình trạng của nền kinh tế. Những chỉ báo này diễn ra sau diễn biến của nền kinh tế nói chung. Những chỉ báo này có giá trị trong cung cấp thêm thông tin cho bức tranh hiện tại của nền kinh tế. Những tín hiệu kinh tế thường diễn biến rất phức tạp và chịu sự tác động của rất nhiều biến số. Do đó, việc sử dụng phân tích các biến số xác nhận cũng giống như cách chúng ta đang thực hiện để xác nhận một lần nữa những xu hướng của hoạt động kinh tế thực. Việc sử dụng những chỉ báo xác nhận sẽ không có nhiều giá trị trong việc đưa ra các dự báo tuy nhiên những chỉ báo này giúp cho nhà phân tích đánh giá lại những nhận định ban đầu.
+
+Việc theo dõi những chỉ báo là một trong những phương pháp hữu ích để giúp cho nhà phân tích này có thể phân tích và đánh giá tình trạng của nền kinh tế. Những bộ chỉ số kinh tế này được sử dụng kết hợp để đánh giá đâu là những giai đoạn nền kinh tế đang đi vào các giai đoạn mang tính chu kỳ và những gì đang diễn ra đồng thời hoặc là những chỉ báo xác nhận những xu hướng đang diễn ra như thế nào. Những chỉ báo này thường có đặc điểm là mang tính chất cung cấp thông tin nhiều hơn và quá trình diễn giải cũng đơn giản hơn. Tùy vào kinh nghiệm và khả năng diễn giải kết quả từ các chỉ báo mà các nhà phân tích có thể phác thảo bức tranh về diễn biến của nền kinh tế.
+
+Bảng bên dưới trình bày 8 chỉ báo sớm, 3 chỉ báo đồng thời và 7 chỉ báo kinh tế theo biến trễ xác nhận xu hướng được sử dụng phổ biến ở những thị trường phát triển. Ở thị trường Việt Nam, thông tin về những chỉ báo nói trên có thể được tiếp cận hạn chế hơn so với những thị trường phát triển tuy nhiên một số thông tin chúng ta vẫn có thể hoàn toàn tiếp cận dễ dàng ở Việt Nam thông qua các nguồn thông tin như Tổng cục Thống kê hoặc từ Bộ tài chính hoặc NHNN.
+
+Bảng 2.1: Phân loại các nhóm chỉ báo kinh tế
+
+Tìm kiếm các chỉ số mang tính dự báo
+
+Nếu chỉ dựa vào những biến đã xảy ra như: biến tăng trưởng doanh thu và EPS thì rất khó khăn trong việc dự báo được xu hướng của giá cổ phiếu và mua trước khi cổ phiếu thực sự tăng giá. Để đưa ra quyết định lựa chọn mua các cổ phiếu trước khi nó tăng giá đòi hỏi phải tìm ra được những biến số xảy ra trước khi có sự thay đổi của kết quả hoạt động kinh doanh của doanh nghiệp. Nói cách khác, Những biến số này xảy trước sự tăng trưởng doanh thu và EPS. Vậy chỉ báo nào là chỉ báo quan trọng để đánh giá một doanh nghiệp, một ngành hay dự báo cho cả nền kinh tế.
+
+Thứ nhất, chỉ số đầu tư là chỉ báo thiết yếu cho thấy quyết định quan trọng của doanh nghiệp trong đầu tư mới hoặc đầu tư mở rộng. Hoạt động đầu tư này có thể là đầu tư tài sản mới, đầu tư nâng cấp sản phẩm cũ, đầu tư vào những dự án liên doanh hay liên kết hoặc đầu tư vào hàng tồn kho. Kết quả của quá trình đầu tư sẽ gia tăng doanh thu và lợi nhuận cho doanh nghiệp. Đây là các hoạt động nhằm thúc đẩy tăng trưởng lợi nhuận của doanh nghiệp trong dài hạn. Động lực chính này làm thay đổi EPS hoặc ít nhất thay đổi mức tăng trưởng của EPS vượt ra khỏi sự kỳ vọng của thị trường và được phản ánh vào trong giá cổ phiếu.
+
+Thứ hai, chỉ số thay đổi nợ cho chúng ta thấy các quyết định tài trợ của doanh nghiệp thông qua những quyết định tăng hay giảm cơ cấu nợ. Những chỉ số này cho thấy mức độ lạc quan của doanh nghiệp về triển vọng trong tương lai. Việc một doanh nghiệp sẵn sàng gia tăng tỷ lệ nợ trên vốn chủ sở hữu sẽ là những chỉ báo doanh nghiệp đang gia tăng đòn bẩy tài chính, doanh nghiệp đang tận dụng cơ hội để gia tăng lợi nhuận và chấp nhận mức rủi ro tài chính cao hơn để đạt được mục tiêu kỳ vọng. Chúng ta hoàn toàn có thể dựa vào chỉ số đầu tư và cơ cấu nợ này để lựa chọn ra một cổ phiếu có câu chuyện hay kế hoạch thể hiện triển vọng tăng trưởng trong tương lai. Nếu như hai chỉ số này được kết hợp với bức tranh tổng thể của doanh nghiệp trong cùng ngành hoặc các doanh nghiệp khác nhau trong nền kinh tế thì chúng ta sẽ nhìn thấy bức tranh tổng thể về những chỉ số chính đối với doanh nghiệp như thế nào. Nếu những chỉ số cho thấy sự gia tăng mạnh nguồn vốn đầu tư của doanh nghiệp và nhiều doanh nghiệp trong mỗi ngành để gia tăng đầu tư, thì chúng ta có thể đánh giá mức độ lạc quan của các doanh nghiệp trong nền kinh tế.
+
+Mặc dù những nhà đầu tư chứng khoán luôn cố gắng tìm kiếm những cơ hội tốt nhất trên thị trường, nhưng thực sự doanh nghiệp mới là người nghiên cứu, tìm kiếm và đưa ra những quyết định đầu tư mỗi ngày một cách kỹ càng. Doanh nghiệp phải cân nhắc rất nhiều yếu tố, đắn đo hơn nhiều so với những nhà đầu tư cá nhân hay các nhà phân tích, vốn chỉ để đưa ra thời điểm và quyết định phù hợp trong đầu tư. Để có được những quyết định đó thì doanh nghiệp phải đánh giá triển vọng vĩ mô, xu hướng ngành và những đối thủ cạnh tranh có những động thái gì để ra quyết định đầu tư. Trong trường hợp tất cả những đối thủ trong một ngành đều cùng đưa ra quyết định đầu tư, thì đây là một chỉ báo cho thấy rằng tất cả họ đang tin vào một xu hướng chung, thuận lợi cho các doanh nghiệp trong ngành. Nếu tất cả những ngành nghề trong nền kinh tế đều gia tăng đầu tư thì họ cho rằng vấn đề cạnh tranh không còn quan trọng, vì cơ hội hiện tại lớn hơn nhiều để có thể gia tăng đầu tư trong thời gian tới. Nhà đầu tư nhìn vào kế hoạch đầu tư của các doanh nghiệp trong ngành, giữa các ngành nghề có thể thấy bức tranh về triển vọng kinh tế vĩ mô, thông qua chính hoạt động của những nhà làm kinh tế.
+
+Bức tranh nguồn vốn của doanh nghiệp sẽ cho chúng ta thấy xu hướng sử dụng nợ của doanh nghiệp và được đánh giá tốt ra sao khi làm cơ sở xác định xu hướng giá cổ phiếu.
+
+Các chỉ số vĩ mô chính trong nền kinh tế, cũng chính là những chỉ số mà những nhà kinh tế học cũng đang sử dụng để đánh giá triển vọng của nền kinh tế. Những chỉ số đánh giá mức độ lạc quan của nền kinh tế như hoạt động đầu tư của tư nhân, đầu tư công và chi tiêu của hộ gia đình. Bên cạnh đó, tăng trưởng tín dụng cũng là yếu tố quan trọng được xem xét quan tâm khi nó giúp chúng ta đánh giá xu hướng của nền kinh tế trong thời gian tới như thế nào. Mặc dù các đánh giá trên rất có lợi trong việc đưa ra quyết định đầu tư. Tuy nhiên, những chỉ số vĩ mô quá tổng thể và trừu tượng, nên chúng ta không thấy tác động của từng yếu tố riêng lẻ, đặc thù trong bức tranh vĩ mô như thế nào. Hơn nữa, đối với những nước có chỉ số vĩ mô bị sai lệch bởi cấu trúc đặc thù của nền kinh tế như Việt Nam thì vấn đề trên lại càng trầm trọng.
+
+Điển hình như năm 2018, khi nền kinh tế trong nước đang diễn biến rất tốt nhưng những kết quả trên thị trường chứng khoán lại diễn ra không tương xứng. Mặc dù mức tăng trưởng tín dụng của thị trường đang duy trì tốt, nhưng chúng ta biết mức tăng trưởng này lại đến từ khu vực hộ gia đình và khu vực các doanh nghiệp. Trong tăng trưởng từ khu vực các doanh nghiệp được chia thành: doanh nghiệp lớn niêm yết trên sàn, doanh nghiệp vừa và nhỏ. Tuy mức tăng trưởng tín dụng có thể cho thấy nền kinh tế đang tốt, nhưng thực tế mức tăng trưởng tín dụng của các doanh nghiệp trên sàn lại ở mức thấp so với những năm trước. Những chỉ số vĩ mô lại không thể hiện điều này, ngược lại xu hướng sẽ được nhìn thấy rõ khi nhìn vào chỉ số đầu tư của các doanh nghiệp niêm yết.
+
+Tiếp đến, mặc dù mức đầu tư trong nền kinh tế lớn nhưng thực tế điều đó chưa nói lên nhiều vấn đề về nền kinh tế. Thứ nhất về đầu tư, tuy đầu tư trong nền kinh tế tăng nhưng thực tế lại đến từ các doanh nghiệp FDI, nghĩa là dòng vốn trong nước đến từ những doanh nghiệp nước ngoài thay vì nhóm doanh nghiệp trong nước. Thứ hai về xuất khẩu, kim ngạch xuất khẩu tăng trưởng tốt hàng năm đến từ các doanh nghiệp FDI không phải đến từ doanh nghiệp niêm yết. Sự đóng góp của khu vực FDI thông qua hoạt động đầu tư và xuất khẩu đã làm sai lệch về mức tăng trưởng của nền kinh tế. Từ đó, chúng ta hiểu được tại sao lại có mức tương phản giữa bức tranh thị trường tài chính và triển vọng của nền kinh tế thực trong một số giai đoạn. Như vậy, chúng ta cần phải tìm được những chỉ số dự báo chính, bám sát vào từng doanh nghiệp niêm yết hay từng ngành mà chúng ta đang phân tích. Phân tích những chỉ số chính nêu trên có nhiều ưu điểm và tốt hơn nhiều so phân tích những chỉ số vĩ mô, đặc biệt trong bối cảnh kinh tế đặc thù ở thị trường Việt Nam.
+
+Các quyết định tài chính của doanh nghiệp
+
+Trong quá trình hoạt động và phát triển, doanh nghiệp luôn phải đối mặt với ba câu hỏi quan trọng trong việc tạo ra giá trị cho cổ đông của doanh nghiệp. Những câu hỏi đó là:
+
+• Thứ nhất: Doanh nghiệp sẽ lựa chọn cơ hội đầu tư lĩnh vực nào có mức sinh lời hiệu quả nhất?
+
+• Thứ hai: Doanh nghiệp nên dùng nguồn tài trợ nào cho kế hoạch đầu tư?
+
+• Thứ ba: Doanh nghiệp nên phân bổ kết quả hoạt động như thế nào? Hay nói cách khác, doanh nghiệp nên thực hiện chính sách phân phối như thế nào?
+
+Các quyết định tài chính quan trọng của doanh nghiệp này sẽ tác động đến các yếu tố trên bảng cân đối kế toán của doanh nghiệp như hình bên dưới.
+
+Hình 2.1: Cấu trúc bảng cân đối kế toán và quyết định tài chính
+
+Nguồn: Tổng hợp của tác giả
+
+Giám đốc điều hành có hai chức năng quản lý chính: quản lý hoạt động và quản lý nguồn vốn. Tuy nhiên, chức năng quản lý hoạt động thường được đề cập hơn, vì liên quan đến việc quản lý công việc hàng ngày của doanh nghiệp, duy trì hiệu suất của tài sản dài hạn và quản lý vốn lưu động để đảm bảo sử dụng tốt nguồn vốn của doanh nghiệp. Trong khi đó, chúng ta ít được đề cập đến một trong những quyết định quan trọng của giám đốc điều hành về các quyết định liên quan đến phân bổ nguồn vốn của doanh nghiệp.
+
+Quyết định phân bổ nguồn vốn thực tế quan trọng hơn nhiều so với việc quản lý công việc hàng ngày của giám đốc điều hành. Quyết định phân bổ nguồn vốn sẽ quyết định phân bổ nguồn tiền nhàn rỗi doanh nghiệp đang tạo ra vào trong các hoạt động sử dụng vốn một cách có hiệu quả. Những quyết định sử dụng vốn đó có thể liên quan đến việc đầu tư mở rộng, đầu tư vào sản phẩm mới, mua cổ phần ở những doanh nghiệp khác hoặc đầu tư vào chính cổ phiếu của doanh nghiệp thông qua việc mua cổ phiếu quỹ.
+
+Thông thường, khi một doanh nghiệp hoạt động tạo mức sinh lời nhưng không có những mục đích sử dụng tiền sắp tới, thì về cơ bản họ sẽ phân phối hết dòng tiền tạo ra cho cổ đông. Ví dụ như đối với các doanh nghiệp thủy điện, sau khi xây nhà máy thủy điện thì lúc dự án đi vào vận hành sẽ tạo ra dòng tiền ổn định dựa trên công suất đã được thiết kế của nhà máy. Khi đó, dòng tiền ròng tạo ra sẽ có hai mục tiêu sử dụng chính là thực hiện trả nợ ngân hàng và phân phối cho cổ đông dưới dạng cổ tức. Trong trường hợp này, giám đốc điều hành của doanh nghiệp thủy điện sẽ không cần phải đưa ra các quyết định phân bổ nguồn vốn. Về cơ bản, những quyết định phân phối này đã mặc định theo như trong hợp đồng nợ là nghĩa vụ phải trả trong thời gian thỏa thuận ban đầu với ngân hàng, sau đó mới được thực hiện phân phối cổ tức của doanh nghiệp. Doanh nghiệp trong trường hợp này hoạt động với tính chất dự án, với tuổi thọ và mục tiêu xác định.
+
+Tuy nhiên, đối với những loại hình doanh nghiệp thông thường, khi doanh nghiệp tạo ra dòng tiền ròng họ sẽ quyết định tỷ lệ phân phối và tỷ lệ giữ lại để dùng cho các quyết định phân bổ. Với một doanh nghiệp có tỷ lệ dòng tiền tự do được giữ lại đáng kể thì nếu dòng tiền này được tích lũy từ 3-5 năm có nghĩa là doanh nghiệp có một lượng tiền mặt rất lớn mà giám đốc điều hành của doanh nghiệp sẽ phải lên kế hoạch phân phối hoặc sử dụng. Dưới góc độ nhà đầu tư, khi đầu tư vào các doanh nghiệp không trả cổ tức tỷ lệ cao thì chúng ta đang đặt cược vào triển vọng tăng trưởng trong dài hạn, có thể là từ tăng trưởng doanh thu hoặc tăng trưởng EPS của doanh nghiệp. Như vậy, các quyết định liên quan đến phân bổ nguồn vốn sẽ quyết định tốc độ tăng trưởng này. Khi đó, có hai quyết định quan trọng nhất mà các giám đốc điều hành có thể tạo ra giá trị gia tăng EPS trong trung hạn đó quyết định mua lại cổ phiếu quỹ và quyết định M&A.
+
+Đối với quyết định thâu tóm M&A thì doanh nghiệp sẽ lựa chọn những doanh nghiệp mục tiêu để mua lại. Những doanh nghiệp này có thể là những doanh nghiệp hoạt động trong cùng ngành nghề, nhà cung cấp, hoặc có thể hoạt động giống như kênh phân phối của doanh nghiệp. Việc tích hợp doanh nghiệp này vào bên trong mô hình kinh doanh của doanh nghiệp thâu tóm hiện tại sẽ góp phần tạo ra giá trị cộng hưởng, qua đó làm gia tăng giá trị của doanh nghiệp thâu tóm.
+
+Khi mua lại cổ phiếu quỹ tức là chúng ta đang đầu tư vào chính cổ phiếu của doanh nghiệp. Với vai trò là những người đang điều hành và đưa ra những quyết định chiến lược của doanh nghiệp, ban quản lý hoàn toàn biết được giá trị thực của doanh nghiệp một cách đáng tin cậy hơn những nhà đầu tư bên ngoài. Trong những giai đoạn khi giá cổ phiếu sụt giảm nghiêm trọng ở mức chiết khấu lớn so với giá trị thực thì doanh nghiệp có thể thực hiện mua vào cổ phiếu. Lý do giá cổ phiếu sụt giảm có thể đến từ việc thị trường chung sụt giảm, hoặc đến từ doanh nghiệp không đạt mục tiêu tăng trưởng doanh thu và EPS trong ngắn hạn khiến thị trường bán mạnh cổ phiếu. Thông qua việc mua lại cổ phiếu quỹ, doanh nghiệp đã làm giảm bớt một lượng lớn cổ phần đang được mua với giá trị thấp, qua đó làm tăng giá trị cho những cổ đông còn lại.
+
+Chúng ta thấy rằng, những quyết định phân bổ này có thể tạo ra giá trị cho doanh nghiệp trong dài hạn. Dựa vào đó thì nhà đầu tư có thể xem lại lịch sử những lần ra quyết định của giám đốc điều hành để đánh giá khả năng tạo ra giá trị. Đối với những doanh nghiệp có lượng tiền nhàn rỗi lớn thì những dự án doanh nghiệp đã thực hiện, các hoạt động thâu tóm M&A doanh nghiệp đã thực hiện, những lần doanh nghiệp mua lại cổ phiếu quỹ và hiệu quả của các quyết định trên sẽ là cơ sở để đánh giá chức năng phân bổ nguồn vốn của giám đốc điều hành.
+
+Vai trò của mô hình phân tích
+
+Nền kinh tế và thị trường tài chính chịu sự tác động tổng hợp của rất nhiều biến số, qua đó khiến cho quá trình phân tích trở nên khó khăn và phức tạp. Hơn nữa, các biến số lại tuân theo nhiều quy luật quan hệ khác nhau, có những cặp biến số theo quan hệ tuyến tính nhưng cũng có những cặp biến số theo quan hệ phi tuyến. Để có thể đánh giá và phân tích mối quan hệ, xu hướng tác động và mức độ mạnh yếu trong mối quan hệ thì những nhà kinh tế cũng như nhiều nhà phân tích chứng khoán sẽ tìm kiếm và xây dựng các mô hình phân tích phù hợp.
+
+Mô hình phân tích chính là sự đơn giản hóa của những gì diễn ra trong thế giới thực, để giúp con người có thể hiểu hơn những gì đang diễn ra, thông qua việc tập trung vào những yếu tố chi phối quan trọng nhất vào đối tượng đang cần phân tích. Kết quả của mô hình phân tích sẽ giúp đưa ra những nhận định cũng như những dự báo về xu hướng của các sự vật, hiện tượng đang xem xét trong tương lai.
+
+Mỗi ngày khi bật các bản tin thời sự thì ắt hẳn chúng ta sẽ bắt gặp những tin tức về dự báo thời tiết, dự báo về lượng mưa, cho đến những dự báo về mức tăng trưởng của nền kinh tế, dự báo xu hướng thay đổi của lạm phát, lãi suất, xu hướng của thị trường chứng khoán.
+
+Chúng ta có thể tự đặt cho mình câu hỏi là làm sao những nhà khoa học hay các trung tâm khí tượng thủy văn có thể đưa ra những dự báo về thời tiết. Hoạt động dự báo thời tiết là một lĩnh vực ứng dụng khoa học và công nghệ để đưa ra các tiên đoán về trạng thái và vị trí của bầu khí quyển trong những khoảng thời gian sau đó. Loài người chúng ta đã rất nỗ lực từ nhiều thiên niên kỷ trước để cố gắng dự báo diễn biến xu hướng thời tiết.
+
+Ai trong chúng cũng từng nghe qua câu nói dân gian này: “Chuồn chuồn bay thấp thì mưa, bay cao thì nắng bay vừa thì râm”. Xét một cách đơn giản thì câu truyền miệng dân gian đó đang thể hiện một dạng mô hình đơn giản trong việc dự báo thời tiết. Đó là họ đang dùng biến số về khoảng cách bay trung bình của chuồn chuồn so với mặt đất như một yếu tố duy nhất để dự báo thời tiết.
+
+Các hoạt động dự báo thời tiết chính thức của nhân loại chỉ bắt đầu ra đời trong thế kỷ 19, khi hoạt động thu thập các số liệu đầu vào về trạng thái hiện tại của bầu khí quyển được hỗ trợ bằng những tiến bộ của khoa học, cũng như những hiểu biết của con người về sự vận động và thay đổi của bầu khí quyển dần được hoàn thiện. Do tính chất hỗn loạn của khí quyển, nên con người vẫn đang gặp nhiều vấn đề trong việc dự báo chính xác các hiện tượng bất thường như động đất hay sóng thần, nhưng thực tế so với 1.000 năm trước đây thì những mô hình dự báo đã thực sự giúp con người hiểu hơn rất nhiều về sự vận động của tự nhiên.
+
+Trong hoạt động kinh tế, các nhà kinh tế học đã tìm hiểu đâu là những yếu tố quyết định sự tăng trưởng của một nền kinh tế trong dài hạn. Đó chính là ba yếu tố liên quan đến: thứ nhất là số lượng lao động một nền kinh tế đang có, thứ hai là lượng vốn nền kinh tế đang huy động để có thể cơ giới hóa cho lao động và yếu tố thứ ba là sự phát triển của công nghệ và năng suất của người lao động. Trong giai đoạn trước khi các cuộc cách mạng công nghiệp diễn ra tại Châu Âu (EU), thì hầu như tất cả những quốc gia đều bị giới hạn trong quy mô dân số của mình. Quốc gia nào có dân số càng lớn thì quy mô của nền kinh tế càng lớn. Đó là lý do đơn giản giải thích tại sao trong một thời gian dài trước thế kỷ 17 thì Trung Quốc và Ấn Độ cộng lại luôn chiếm hơn một nửa GDP của thế giới dựa trên quy mô dân số của mình. Sau giai đoạn cách mạng công nghiệp thì máy móc trở thành một yếu tố quyết định bên cạnh dân số trong việc tạo ra GDP, những quốc gia nào thu hút nhiều vốn để đầu tư vào máy móc thiết bị thì sẽ có thể tạo ra tăng trưởng kinh tế cao hơn. Vốn và lao động là hai yếu tố chính quyết định quy mô của nền kinh tế, cho tới khi sự ra đời của các đột phá trong công nghệ đã khiến năng suất lao động dần trở thành yếu tố thứ 3 được đưa vào trong mô hình phân tích tăng trưởng kinh tế. Sự bùng nổ của nền kinh tế tri thức khiến cho lao động và vốn sẽ không đủ để giải thích quy mô của nền kinh tế. Với những công ty như Facebook, Google, hay những khu vực kinh tế như thung lũng Silicon về công nghệ, hay các hãng phim Hollywood của Mỹ, nơi trí tuệ và hàm lượng chất xám mới quyết định giá trị của sản phẩm, năng suất lao động và công nghệ mới có thể giải thích được sự thay đổi trong giá trị kinh tế họ tạo ra chứ không phải yếu tố số lượng lao động và vốn nữa.
+
+Điều chúng cần hiểu ở đây đó là mô hình phản ánh các yếu tố cơ bản mà chúng ta đang muốn phân tích để giải thích hoặc dự báo một vấn đề nào đó. Mô hình sẽ thay đổi khi nhận thức của chúng ta về bản chất của sự vật thay đổi.
+
+Mỗi người chúng ta có thể tự đưa ra cách tư duy để phát triển một mô hình về cách nhìn nhận của chính bản thân mình với sự vật hiện tượng. Sự khác biệt về những mô hình của mỗi người sẽ giúp chúng ta có thể tạo ra được lợi thế của riêng mình. Mô hình giúp chúng ta đơn giản hóa vấn đề phức tạp để tập trung vào một số những yếu tố quan trọng nhất trong việc đánh giá một vấn đề. Ai có mô hình phân tích tốt thì có thể giúp loại bỏ phần lớn yếu tố gây nhiễu trong quá trình ra quyết định. Khi có thể loại được những yếu tố nhiễu thì xác suất để bạn có thể ra quyết định đúng sẽ cao hơn nhiều so với những người khác.
+
+Thị trường tài chính cũng giống như nền kinh tế, nó cũng cần một mô hình phân tích để có thể theo dõi những hoạt động đầu tư, từ các yếu tố vĩ mô, xu hướng chuyển dịch của các yếu tố ngành nghề và những câu chuyện của doanh nghiệp. Thị trường thay đổi từng ngày, từ những yếu tố cơ bản của doanh nghiệp cho đến yếu tố kỹ thuật trong giá cả giao dịch của cổ phiếu. Những thông tin quan trọng đang nằm lẫn trong vô vàn thông tin nhiễu, qua đó làm cho nhà đầu tư rất khó khăn trong quá trình ra quyết định. Chúng ta và những nhà đầu tư cần một hệ thống phân tích phù hợp, để vừa có thể đánh giá được các biến số mang tính chất dự báo và vừa có thể theo sát những diễn biến trong tình hình cơ bản của các doanh nghiệp niêm yết. Đó là nội dung sẽ được trình bày trong phần kế tiếp, về phương pháp sẽ sử dụng trong việc đánh giá lại diễn biến của thị trường chứng khoán, các ngành nghề và cổ phiếu trong 20 năm qua.
+
+Phương pháp theo dõi dòng vốn và đầu tư của doanh nghiệp niêm yết
+
+So với mô hình phân tích top-down trong phân tích cơ bản, thì phương pháp phân tích được trình bày trong cuốn sách này cũng có những điểm tương tự. Nếu việc phân tích top- down sẽ bắt đầu từ nền kinh tế vĩ mô, đến triển vọng của các ngành nghề sau đó đến cơ hội đầu tư của từng doanh nghiệp cụ thể trong ngành, thì phương pháp phân tích được đề xuất ở đây cũng thực hiện việc xem xét dòng vốn huy động và đầu tư của nhiều doanh nghiệp tương tự như vậy. Ưu điểm vượt trội trong cách tiếp cận này là chúng ta sẽ sử dụng những chỉ tiêu hoạt động đầu tư và huy động vốn của doanh nghiệp niêm yết, để thực hiện cho cả việc phân tích vĩ mô và phân tích ngành. Tập hợp hoạt động đầu tư của các doanh nghiệp niêm yết trong một ngành sẽ đại diện cho xu hướng đầu tư chung của ngành. Tương tự như vậy, tập hợp hoạt động đầu tư của các ngành nghề khác nhau sẽ đại diện cho xu hướng hoạt động đầu tư chung của nền kinh tế.
+
+Dựa trên cách tiếp cận này, giúp chúng ta vượt qua những diễn giải trừu tượng của các biến số vĩ mô trong tác động đến ngành và doanh nghiệp, đồng thời cũng giúp chúng ta giải quyết các vấn đề đặc thù của hoạt động kinh tế thực, vốn bị ảnh hưởng của doanh nghiệp FDI và trong một vài giai đoạn không giải thích cho hoạt động của các doanh nghiệp trên sàn.
+
+Quy trình phân tích sẽ được thực hiện theo 3 bước sau:
+
+- Bước 1: Đánh giá chuyển động thị trường vốn khu vực và Việt Nam, tác động đến tốc độ tăng trưởng kinh tế và vận động của thị trường chứng khoán
+
+Dòng vốn mới đang chảy vào nền kinh tế theo từng quý, sẽ được ước tính từ việc theo dõi dòng vốn huy động từ các doanh nghiệp niêm yết để mở rộng hoạt động sản xuất kinh doanh. Dòng vốn huy động tăng lên hay giảm đi cho thấy sự lạc quan hay thận trọng của các chủ doanh nghiệp và những nhà đầu tư góp vốn cổ phần vào những doanh nghiệp trong nền kinh tế nói chung. Mức tăng giảm giá trong quá khứ trên thị trường chứng khoán có một mối quan hệ mật thiết với mức huy động vốn của thị trường. Trong những giai đoạn thị trường chứng khoán tăng trưởng tốt thì việc huy động vốn của các doanh nghiệp sẽ dễ dàng hơn bởi những trạng thái tích cực diễn ra trên thị trường.
+
+Biểu đồ 2.2: Huy động vốn của thị trường và hoạt động kinh tế thực
+
+Tuy nhiên, khi chúng ta nhìn ở chiều ngược lại thì chúng ta sẽ thấy việc theo dõi dòng vốn huy động sẽ là một biến dự báo để giúp chúng ta đánh giá về xu hướng của thị trường. Việc một thị trường chứng khoán có dòng vốn huy động tăng trưởng nhanh so với những năm trước sẽ cho thấy những kỳ vọng vào sự phát triển của nền kinh tế nói chung và doanh nghiệp nói riêng. Khi doanh nghiệp nhận vốn thì những dự án đầu tư mở rộng cũng như việc gia tăng hàng tồn kho sẽ được triển khai, từ đó tạo ra sự gia tăng trong hiệu quả của doanh nghiệp trong dài hạn.
+
+Cuối cùng, những dòng vốn huy động của một thị trường sẽ đảm bảo liệu xu hướng tăng giá trong ngắn hạn của thị trường có tiếp tục được kéo dài hay không. Việc theo dõi tốc độ luân chuyển của dòng vốn vào một thị trường cũng như hiệu quả sử dụng vốn của các doanh nghiệp nói chung trên sàn chứng khoán sẽ cho chúng ta thấy sự gắn bó mật thiết giữa hoạt động kinh tế thực, thị trường tài chính và các hoạt động giao dịch chứng khoán.
+
+- Bước 2: Lựa chọn các ngành đang được hưởng lợi từ sự tăng trưởng của thị trường vốn
+
+Trong bước này, chúng ta sẽ lựa chọn các ngành có sự tăng trưởng về dòng vốn đầu tư mới kèm theo đầu tư vào sản xuất kinh doanh để tạo ra tăng trưởng doanh thu và lợi nhuận cho doanh nghiệp trong thời gian tới. Dòng vốn đầu tư mới bao gồm cả vốn vay từ ngân hàng, vay từ thị trường vốn và vốn cổ phần từ việc phát hành cổ phiếu cho cổ đông cũ và mới.
+
+Chúng ta sẽ xem được xu hướng biến động của dòng vốn vào các ngành tại Việt Nam. Việc đánh giá dòng vốn chảy vào từng ngành trên thị trường cho chúng ta một góc nhìn toàn cầu về xu hướng vận động của các nhóm ngành.
+
+Mô hình hoàn toàn có thể mở rộng tạo ra việc đánh giá dòng vốn chảy vào những ngành nghề ở thị trường tài chính của nhiều nước trong khu vực.
+
+Biểu đồ 2.3: Huy động vốn của ngành và giá cổ phiếu
+
+- Bước 3: Lựa chọn cổ phiếu cổ phiếu phù hợp với xu hướng
+
+Tại bước 3, bằng các dữ liệu tài chính quý, chúng ta sẽ tiến hành phân tích lịch sử biến động các dòng vốn chảy vào doanh nghiệp. Việc doanh nghiệp sử dụng vốn để đầu tư mua sắm tài sản phục vụ cho quá trình sản xuất kinh doanh nhằm tạo động lực tăng trưởng cho hiệu quả hoạt động kinh doanh của doanh nghiệp như thế nào.
+
+Việc đầu tiên của bước này sẽ là việc thực hiện phân tích mối tương quan giữa hoạt động đầu tư và hoạt động huy động vốn của doanh nghiệp. Kết quả phân tích sẽ cung cấp cho chúng ta các thông tin về mức độ "đặt cược" của doanh nghiệp đối với triển vọng mở rộng như thế nào. Kế đến, lịch sử về hiệu quả sử dụng vốn của doanh nghiệp trong việc tạo ra mức tăng trưởng trong hiệu quả hoạt động là yếu tố chúng ta có thể sử dụng để đưa ra những kỳ vọng. Cuối cùng, mối quan hệ giữa những kỳ vọng của thị trường thông qua sự biến động của giá cổ phiếu trước những kế hoạch đầu tư và huy động vốn sẽ giúp chúng ta hiểu hơn về xu hướng đánh giá của thị trường đối với các kế hoạch đầu tư của doanh nghiệp trong quá khứ. Những thông tin trên rất hữu ích để giúp chúng ta đánh giá và dự báo xu hướng giá cổ phiếu trong giai đoạn tới.
+
+Biểu đồ 2.4: Huy động vốn của các doanh nghiệp niêm yết
+
+Các hệ thống phân loại ngành
+
+Một hệ thống phân loại ngành được thiết kế tốt đóng vai trò là điểm khởi đầu cho quá trình phân tích ngành. Phân tích ngành cho phép nhà phân tích so sánh xu hướng ngành và định giá theo phương pháp so sánh giữa các công ty trong một nhóm. Hệ thống phân loại thiết kế trên quan điểm toàn cầu cho phép nhà quản lý danh mục đầu tư và nhà phân tích thực hiện so sánh toàn cầu những công ty trong cùng ngành.
+
+Có nhiều hệ thống phân loại ngành được sử dụng trên toàn cầu. Tuy nhiên, hệ thống phân loại ngành phổ biến nhất và đã cũng được các sàn giao dịch chứng khoán ở Việt Nam áp dụng để phân ngành cho các doanh nghiệp niêm yết là GICS (Global Industry Classification System). GICS được đồng phát triển vào năm 1999 bởi Standard & Poor và MSCI Barra, hai trong số những nhà cung cấp chỉ số chứng khoán lớn nhất toàn cầu. Đúng như tên gọi, GICS được thiết kế để tạo điều kiện so sánh các ngành trong nền kinh tế toàn cầu.
+
+Hình 2.2: Các lĩnh vực kinh tế theo chuẩn GICS
+
+Nguồn: GICS
+
+Theo đó, mỗi công ty trong toàn cầu được gán cho một tiểu ngành (sub-industry) tùy theo hoạt động kinh doanh chính của doanh nghiệp. Mỗi tiểu ngành thuộc về ngành (industry) riêng biệt, mỗi ngành thuộc về một nhóm ngành (industry group) và mỗi nhóm thuộc về một lĩnh vực kinh doanh (sector ). Vào tháng 6 năm 2009, GICS phân nhóm các ngành theo bốn cấp, từ tổng quát đến chi tiết, bao gồm 154 tiểu ngành, 68 ngành, 24 nhóm ngành và 10 lĩnh vực. Cấu trúc của chuẩn phân ngành của GICS đã và đang có những điều chỉnh theo thời gian để phản ánh sự thay đổi trong cấu trúc các ngành nghề toàn cầu. Gần đây nhất thì vào tháng 9/2018, GICS đã nâng lên 11 lĩnh vực.
+
+Hình 2.3: Phân nhóm ngành theo ngành tiêu dùng thiết yếu
+
+Nguồn: GICS
+
+Tại Việt Nam, Sở Giao dịch Chứng khoán TP.HCM chính thức công bố Bộ Chỉ số ngành gồm 10 chỉ số của HOSE theo chuẩn phân ngành quốc tế GICS . Theo thỏa thuận giữa HOSE và MSCI sẽ trực tiếp thực hiện phân ngành doanh nghiệp niêm yết theo dữ liệu thị trường nhằm nâng cao tính khách quan và minh bạch của thị trường, tiến đến hội nhập sâu hơn vào thị trường chứng khoán thế giới. Theo đó, chuẩn phân ngành GICS được sử dụng để xác định hoạt động kinh doanh chính của mỗi công ty ở Việt Nam dựa theo quy tắc: Một công ty sẽ được phân loại vào tiểu ngành nếu doanh thu từ tiểu ngành đó chiếm tối thiểu 60% cơ cấu doanh thu của công ty. Trường hợp công ty kinh doanh đa ngành nghề mà không có tiểu ngành nào đóng góp hơn 60% doanh thu thì công ty sẽ được phân vào tiểu ngành tạo ra doanh thu chủ đạo. Trường hợp không có tiểu ngành nào tạo ra doanh thu chủ đạo, việc phân ngành sẽ dựa vào các phân tích cụ thể hơn, sâu hơn dựa vào dữ liệu sẵn có và thông tin thị trường. Đối với các trường hợp niêm yết mới, việc phân loại sẽ dựa vào mô tả hoạt động của công ty và kết quả kinh doanh trong bản cáo bạch.
+
+Trong bối cảnh toàn cầu hóa và hội nhập của các thị trường tài chính, việc sàn chứng khoán HOSE áp dụng chuẩn phân ngành GICS sẽ giúp thị trường chứng khoán Việt Nam có được ngôn ngữ chung với thị trường chứng khoán quốc tế, giúp nâng cao khả năng tiếp cận của những nhà đầu tư nước ngoài vào Việt Nam, giúp những nhà đầu tư cá nhân và tổ chức, đặc biệt là các quỹ đầu tư tăng hiệu quả trong việc đa dạng hóa danh mục đầu tư, tăng chất lượng nghiên cứu phân tích ngành và phân tích doanh nghiệp.
+
+Dựa trên những chuẩn phân loại ngành trên thì chúng ta sẽ phân nhóm các doanh nghiệp trên sàn để phục vụ cho quá trình phân tích về diễn biến của từng ngành nghề.
+
+❖ Phương pháp sử dụng số liệu
+
+Báo cáo tài chính quý của doanh nghiệp sẽ được tổng hợp để thống kê lại việc huy động vốn và sử dụng vốn của các doanh nghiệp. Trên cơ sở phân ngành theo chuẩn GICS thì các mức đầu tư và huy động vốn của những cổ phiếu trong một ngành sẽ được tổng hợp lại để có mức đầu tư và huy động vốn của ngành trong một giai đoạn nhất định.
+
+Đối với hoạt động đầu tư thì sẽ bao gồm hoạt động đầu tư mở rộng, đầu tư và hàng tồn kho đầu tư và hoạt động góp vốn đầu tư vào các doanh nghiệp khác. Trong khi đó, hoạt động huy động vốn sẽ tính đến phần vốn vay ngắn hạn và dài hạn huy động cũng như phần vốn cổ phần đã phát hành trong năm. Tùy vào từng trường hợp cụ thể mà số liệu quý và số liệu năm sẽ được linh hoạt sử dụng để có đánh giá những vấn đề của doanh nghiệp, ngành và toàn bộ thị trường.
+
+Biểu đồ dữ liệu giá, được trình bày với lịch sử đầu tư và huy động vốn của doanh nghiệp để đánh giá mối quan hệ của các cặp biến số trên. Để đánh giá hiệu quả hoạt động kinh doanh của doanh nghiệp đến từ các hoạt động đầu tư thì chúng ta chỉ phân tích hai chỉ số đơn giản là mức doanh thu và biên lợi nhuận gộp của doanh nghiệp qua các quý.
+
+Mức sinh lời của các loại tài sản tài chính
+
+Nhà đầu tư có thể lựa chọn các loại tài sản để đầu tư và chứng khoán chỉ là một phần trong số đó. Tùy thuộc vào những điều kiện vĩ mô nhất định mà các loại tài sản tài chính sẽ có mức sinh lời khác nhau qua từng giai đoạn. Bảng bên dưới thể hiện mức sinh lời trung bình cho các tài sản tài chính có thể được đầu tư trong 10 năm qua ở thị trường Việt Nam. Mặc dù thị trường tài chính Việt Nam có mức độ phát triển thấp hơn rất nhiều so với những thị trường đang phát triển, tuy nhiên chúng ta hoàn toàn cũng có thể tập hợp những dữ liệu trong quá khứ, để ước lượng mức sinh lời trung bình của các loại tài sản này.
+
+Về cơ bản, mối quan hệ giữa mức sinh lời và rủi ro (đại diện bởi hệ số độ lệch chuẩn của mức sinh lời) của các loại tài sản cũng tuân theo nguyên tắc tài chính trong lý luận, đó là các loại tài sản có mức độ sinh lời cao thì cũng sẽ có mức biến động cao hơn, qua đó thể hiện mức rủi ro đầu tư cao hơn. Các tài sản tài chính sẽ bao gồm cổ phiếu, trái phiếu doanh nghiệp, trái phiếu Chính phủ, tiền gửi ngân hàng, vàng và ngoại tệ. Dựa trên các dữ liệu biến động giá của các loại tài sản tài chính thì chúng ta tính mức sinh lời trung bình của từng loại tài sản qua các năm, từ đó xác định mức sinh lời trung bình của từng loại tài sản trong đoạn thời gian đó. Chúng ta cũng so sánh mức sinh lời của các nhóm tài sản tài chính trong tương qua với mức lạm phát.
+
+Biểu đồ 2.5: Mức sinh lời các tài sản tài chính giai đoạn 2009-2019
+
+Theo đó, cổ phiếu là nhóm tài sản tài chính có mức sinh lời cao nhất, kế đó là trái phiếu doanh nghiệp, tiền gửi ngân hàng và Trái phiếu Chính phủ. Nhóm vàng và ngoại tệ có mức sinh lời thấp nhất, thậm chí thấp hơn mức lạm phát trung bình trong 10 năm qua ở Việt Nam. Điều này khá tương đồng với những gì diễn ra ở các thị trường tài chính khác, tài sản có mức rủi ro cao hơn sẽ tiềm năng có mức sinh lời cao hơn.
+
+Biểu đồ ở trên cũng thể hiện mức độ biến động lớn trong mức sinh lời của cổ phiếu, kế đến là trái phiếu doanh nghiệp so với các công cụ đầu tư khác.
+
+Bảng 2.2: Mức sinh lời quá khứ của các loại tài sản
+
+Nguồn: Tổng hợp của tác giả
+
+Chu kỳ đầu tư của các ngành nghề
+
+Nếu chỉ xét trong cổ phiếu thì tính chu kỳ của các ngành nghề cũng thể hiện rất rõ. Những cổ phiếu thuộc các ngành nghề khác nhau không tăng giảm cùng chiều giống nhau mà chia ra thành những giai đoạn biến động khác nhau, tùy thuộc vào những điều kiện vĩ mô khác nhau. Dựa trên những thay đổi trong điều kiện vĩ mô nhất định thì một số ngành nghề sẽ hưởng lợi hoặc gặp bất lợi. Dựa trên những chu kỳ lớn của nền kinh tế mà những xu hướng tăng trưởng ngành nghề sẽ kéo dài trong các chu kỳ ngắn dài khác nhau.
+
+Biểu đồ bên dưới thể hiện tính chu kỳ trong mức tăng trưởng của những ngành nghề ở Việt Nam trong giai đoạn từ năm 2009-2019. Trong suốt 10 năm qua, chỉ số VN-Index đã tăng 207% từ mức 313 điểm đầu năm 2009 lên mức 961 điểm cuối năm 2019. Thị trường chứng khoán tăng trưởng cao như vậy, tuy nhiên giá cổ phiếu tăng trưởng giữa các ngành nghề không giống nhau. Trong khi những ngành tăng trưởng cao nhất là bán lẻ, bất động sản, dệt may, còn những ngành như thủy điện hay vật liệu lại có mức tăng thấp hơn nhiều so với mức bình quân của thị trường.
+
+Năm 2014 là một cột mốc đặc biệt khi thu nhập bình quân của Việt Nam vượt mốc 2.000 đô la/năm. Những nghiên cứu trên thế giới chỉ ra rằng, mốc trên là một cột mốc đặc biệt quan trọng vì nền kinh tế tiêu dùng ở nhiều nước thường bùng nổ sau giai đoạn trên. Lịch sử của nền kinh tế Việt Nam cũng đã cho thấy các lập luận trên là có cơ sở. Từ sau năm 2014, xu hướng tiêu dùng và nợ tiêu dùng đóng vai trò quan trọng trong động lực tăng trưởng kinh tế. Bối cảnh kinh tế đó khiến cho những ngành nghề liên quan đến yếu tố tiêu dùng cá nhân như bất động sản và bán lẻ sẽ có nhiều động lực tăng trưởng hơn.
+
+Việc theo dõi hoạt động đầu tư và huy động vốn của ngành nghề theo thời gian, sẽ có thể giúp chúng ta đánh giá được xu hướng mở rộng hoặc thu hẹp hoạt động sản xuất kinh doanh của từng ngành nghề theo thời gian. Trong khi đó, việc so sánh mức độ thu hút dòng vốn giữa các ngành nghề, sẽ giúp chúng ta có thể đánh giá sự thay đổi trong định hướng của ngành nghề, vào từng nhóm thị trường. Thông thường, những ngành nghề có triển vọng tăng trưởng hưởng lợi sẽ gia tăng mạnh đầu tư hơn so với những ngành nghề khác.
+
+Việc phân tích mức độ đồng thuận trong gia tăng đầu tư của các doanh nghiệp trong ngành, sẽ lại giúp cho chúng ta thấy được mức độ chắc chắn của làn sóng đầu tư của ngành, liệu hoạt động đầu tư chỉ diễn ra ở cá biệt hay trên diện rộng của ngành. Cuối cùng, việc so sánh mức độ tương quan giữa hoạt động đầu tư và hoạt động huy động vốn sẽ lại cho chúng ta một lăng kính khác về mức độ “đặt cược”, hay thận trọng của các doanh nghiệp đối với cơ hội đầu tư. Tất nhiên, những yếu tố đặc thù ngành nghề sẽ khiến cho quá trình phân tích diễn ra không đồng nhất ở những ngành nghề khác nhau.
+
+Phân tích ngành nghề sẽ giúp chúng ta có thể đánh giá được đâu là những ngành nghề có được mức tăng trưởng vượt trội hơn những ngành nghề khác trong điều kiện vĩ mô hiện tại. Việc phân tích và lựa chọn ngành nghề hiệu quả dựa trên các phân tích kinh tế sẽ giúp cho nhà đầu tư có thể lựa chọn các cơ hội đầu tư. Những cơ hội đầu tư trung bình trong những ngành tốt, có thể sẽ vẫn tốt hơn rất nhiều so với những cơ hội đầu tư tốt trong những ngành nghề có mức triển vọng kém. Dựa trên đặc điểm vĩ mô của từng giai đoạn mà sẽ có một số ngành nghề hưởng lợi hoặc gặp bất lợi hơn so với các ngành nghề khác.
+
+Biểu đồ 2.6: Tỷ suất sinh lời của các ngành nghề ở Việt Nam
+
+Dựa vào số liệu thì chúng ta có thể thấy mức sinh lời trung bình của những ngành nghề như bán lẻ, bất động sản và dệt may cao hơn hẵn so với những ngành nghề khác. Thời gian hơn 10 năm qua là giai đoạn mà xu các ngành nghề thiên về phục vụ tiêu dùng hộ gia đình và các ngành nghề thiên về xuất khẩu liên quan đến các hiệp định tự do thương mại được hưởng lợi so với các ngành nghề khác. Ngược lại, những ngành nghề có mức tăng trưởng ổn định như thủy điện và nhiệt điện có mức tăng trưởng thấp.
+
+Nhận thức về tính chu kỳ trong hiệu quả đầu tư đóng vai trò rất quan trọng trong việc phát triển tư duy đầu tư của nhà đầu tư. Nhà đầu tư cần hiểu những sự thay đổi trong diễn biến vĩ mô, cũng như việc tìm cách kết nối những thông điệp trên với sự tác động khác nhau lên từng nhóm ngành nghề. Sự kết nối này sẽ tạo ra cho nhà đầu tư những lợi thế cạnh tranh trong quá trình phân tích, diễn giải các thông tin để đưa ra các quyết định đầu tư.
+
+Bảng 2.3: Mức sinh lời của các ngành nghề giai đoạn 2007-2019
+
+Nguồn: Tổng hợp của tác giả
+
+Tóm tắt Chương 2
+
+Việc tìm ra một phương pháp phân tích đóng vai trò rất quan trọng, không chỉ đối với những nhà đầu tư mà còn với tất cả những nhà phân tích và nhà quan sát thị trường. Một phương pháp phân tích phù hợp sẽ có thể giúp cho chúng ta nhanh chóng cập nhật những yếu tố quan trọng của thị trường trong thời gian ngắn mà vẫn có thể rút ra các thông tin có ý nghĩa về diễn biến của thị trường.
+
+Phương pháp phân tích theo dõi dòng vốn huy động và đầu tư của các doanh nghiệp niêm yết sẽ được chúng ta sử dụng một cách nhất quán trong việc đánh giá lại những diễn biến của thị trường trong 20 năm qua. Một mô hình hữu ích, trước khi nó có thể mang tính chất dự báo thì nó phải có khả năng giải thích những quan sát xảy ra trong quá khứ một cách nhất quán. Tất nhiên, trong điều kiện những thị trường chứng khoán còn chưa phát triển như Việt Nam thì các yếu tố sai lệch thị trường sẽ là rất lớn, qua đó có thể ảnh hưởng đến tính hiệu quả của mô hình phân tích. Do đó, những yếu tố kinh nghiệm và hiểu biết sâu sắc về những vấn đề sẽ được khuyến khích kết hợp với phương pháp phân tích, nhằm đảm bảo có thể giải quyết cả những vấn đề đặc thù.
+
+Nền kinh tế không những mang tính chất chu kỳ mà cả diễn biến các ngành nghề cũng mang tính chất chu kỳ. May mắn thay, việc theo dõi chuyển dịch của những dòng vốn đang giúp chúng ta giải thích được rất tốt những sự thay đổi trong mức tăng giảm giá cổ phiếu của những yếu tố ngành nghề. Những dòng vốn đó là tổng hòa những định hướng chính sách của Chính phủ thông qua hệ thống ngân hàng và cả những quyết định quản trị của từng doanh nghiệp niêm yết trong các ngành nghề.
+
+Việc trang bị những kiến thức về phương pháp luận trong Chương 2 sẽ chuẩn bị sẵn sàng cho chúng ta bắt đầu khám phá những gì đã diễn ra trên thị trường chứng khoán Việt Nam trong suốt chiều dài lịch sử.

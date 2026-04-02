@@ -1,0 +1,252 @@
+Scott Galloway
+
+Lương Trọng Vũ dịch
+
+TỨ ĐẠI QUYỀN LỰC
+
+ First News
+
+Chịu trách nhiệm xuất bản:
+
+Giám đốc - Tổng Biên tập
+
+ĐINH THỊ THANH THỦY
+
+Biên tập: Đào Thị Thúy Ngần
+
+Sửa bản in: Bảo Trang
+
+NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH
+
+62 Nguyễn Thị Minh Khai - Q.1 - TP. HCM
+
+ĐT: (028) 38225340 - 38296764 - 38247225
+
+Fax: (028) 38222726
+
+Email: tonghop@nxbhcm.com.vn
+
+Website: www.nxbhcm.com.vn
+
+Sách điện tử: www.sachweb.vn
+
+NHÀ SÁCH TỔNG HỢP 1
+
+62 Nguyễn Thị Minh Khai, Q.1, TP. HCM
+
+ĐT: 38 256 804
+
+NHÀ SÁCH TỔNG HỢP 2
+
+86 - 88 Nguyễn Tất Thành, Q.4. TP. HCM
+
+ĐT: 39 433 868
+
+GIAN HÀNG M01 ĐƯỜNG SÁCH TP. HCM
+
+Đường Nguyễn Văn Bình, Q. 1, TP. HCM
+
+Thực hiện liên kết:
+
+CÔNG TY TNHH VĂN HÓA SÁNG TẠO TRÍ VIỆT (First News)
+
+11H Nguyễn Thị Minh Khai, P. Bến Nghé, Q. 1, TP. HCM
+
+In 5.000 cuốn, khổ 16 x 24 cm tại Công Ty Cổ phần In Scitech (D20/532H Nguyễn Văn Linh, Huyện Bình Chánh, TP. HCM). Xác nhận ĐKXB số 618-2018/CXBIPH/01-41/THTPHCM ngày 26/02/2018 - QĐXB số 1130/QĐ-THTPHCM-2018 cấp ngày 05/10/2018. In xong và nộp lưu chiểu quý IV/2018.
+
+ISBN: 978-604-58-7446-2.
+
+Mục lục
+Lời nói đầu
+Chương 1: Bộ tứ quyền lực
+Chương 2: Amazon
+Chương 3: Apple
+Chương 4: Facebook
+Chương 5: Google
+Chương 6: Nói một đàng, làm một nẻo
+Chương 7: Doanh nghiệp và cơ thể con người
+Chương 8: Thuật toán T
+Chương 9: Ai sẽ là chàng kỵ binh thứ năm?
+Chương 10: Bộ tứ quyền lực và bạn
+Chương 11: Hậu bốn chàng kỵ binh
+
+LỜI NÓI ĐẦU
+
+V
+ào một ngày của tháng 5 năm 2014, trong một dịp tác giả quyển The World Is Flat (Thế giới Phẳng), Thomas Friedman đến Việt Nam để giới thiệu phiên bản tái bản lần thứ 14, tôi may mắn sắp xếp được một cuộc phỏng vấn riêng với ông tại Tp. HCM. Tôi đã tranh luận với Friedman rằng liệu có phải thế giới không còn phẳng như phiên bản đầu tiên ông viết, bằng chứng là đến phiên bản mới nhất, ông đã bổ sung thêm hai chương. Ở đó, ông cho rằng một số từ vựng như “quyền riêng tư” (privacy), “trung bình” (average) hay “để sau” (later) dần dần ít được sử dụng và sẽ biến mất trong tự điển vào một ngày gần đây. Về điểm này, tôi hoàn toàn đồng ý với Friedman.
+
+Trong quyển sách bạn đang cầm trên tay, Scott Galloway cũng đề cập đến quyền riêng tư khá nhiều, khi chúng ta chấp nhận đánh đổi để nhận lấy sự thuận tiện trong kết nối. Galloway cũng nói về viễn cảnh người máy sẽ áp đảo con người trong sản xuất – cũng là ý nghĩa của từ “trung bình” mà Friedman nhắc đến, sẽ không có năng suất trung bình do con người tạo ra nữa – tương lai chỉ nói đến tối ưu hóa bằng thuật toán mà Galloway đã chỉ ra tại Amazon, Google. Còn “để sau” tức là mọi việc diễn ra quá nhanh, không còn thời gian cho chúng ta chần chừ bất cứ việc gì.
+
+Nhanh đến mức, trong khi Galloway viết cuốn sách này, xuất bản tháng 10 năm 2017 và tôi chấp bút biên dịch vào tháng 12 năm 2017, đã có nhiều sự kiện đề cập trong quyển sách đã chuyển biến rất nhiều.
+
+Tháng 11 năm 2017, Amazon công bố đã hoàn tất mua bản quyền truyện The Lord of the Rings (Chúa tể những chiếc nhẫn) của tác giả J. R. R. Tolkien để chuyển thể thành phim truyền hình và chiếu trên hệ thống dịch vụ trực tuyến phục vụ các thành viên Amazon Prime. Amazon không chỉ là một ông chủ bán sách, rồi bán lẻ tiêu dùng, họ đã dần dần trở thành một công ty truyền thông số.
+
+Tháng 12 năm 2017, Eric Schmidt, chủ tịch của Alphabet, công ty mẹ của Google, tuyên bố rút lui khỏi ghế chủ tịch sau 17 năm góp phần tạo ra đế chế Google mà Scott Galloway gọi là “thượng đế” trong quyển sách này. Tôi rất thích cách gọi của tác giả, đơn giản vì Google lắng nghe được tất cả tâm tư của chúng ta, đôi khi là những điều thầm kín nhất. Trong buổi công bố những hạng mục top vào cuối năm 2017 của Google và Youtube tại Tp. HCM, tôi nhìn thấy thoáng qua chiếc loa Google Home Mini bản demo ngay trên bàn tiệc cuối năm này. Không chỉ là một chiếc loa Bluetooth bình thường, đó là một sản phẩm AI (trí tuệ nhân tạo), có thể lắng nghe và thi hành những gì chúng ta muốn làm. Google hiểu chúng ta muốn gì và sẽ muốn làm gì. Scott Galloway cho rằng điều đó còn hơn cả Thượng đế.
+
+Có thể khi đọc quyển sách này, có đôi chỗ, độc giả sẽ dừng lại suy ngẫm liệu Scott Galloway có nói quá hay không? Hay có tư tưởng hơi cực đoan? Theo tôi, ông lập luận rất có lý bằng những dữ kiện mà mình đã thu thập trong quá trình giảng dạy, và quan trọng ông là một doanh nhân. Không phải là ông cay cú bốn đại gia công nghệ này, nhưng chính kinh nghiệm thương trường, nhất là đã từng trải nghiệm thất bại của mình, ông giúp chúng ta hiểu vì sao họ làm được như vậy.
+
+Thuật toán T (thực chất là 8 yếu tố cơ bản) mà ông phân tích rất kỹ ở chương 8 sẽ là cánh cửa làm sáng tỏ những điều đôi khi bị thêu dệt trở thành huyền thoại của bộ tứ quyền lực trong làng công nghệ thế giới.
+
+Tôi cũng rất thích cách Galloway quan sát về cách thức mà Apple chọn để phát triển thương hiệu – kết hợp giữa thứ mà ông giỏi nhất là marketing và kinh nghiệm thương trường trong ngành công nghệ cao. Apple đã xây những “chiến hào” xung quanh mình như thế nào mà chưa một cuộc khủng hoảng nào có thể đánh bại được họ, từ cái chết của Steve Jobs, đến iPhone X mới ra bị BKAV của Việt Nam thách thức công nghệ FaceID, rồi mới đây truyền thông công bố hai lỗ hổng của chip trên các thiết bị iOS. Cuối năm 2017, CNBC nhận định Apple có khả năng trở thành công ty ngàn tỷ đô la đầu tiên trong bộ tứ Amazon, Apple, Facebook và Google, về đích khi giá trị thị trường đã đạt 900 tỷ đô la.
+
+Cuối năm 2017, thống kê cho thấy Việt Nam đã có 45 triệu người sử dụng Facebook, đứng thứ 10 trên thế giới. Facebook hiểu chúng ta hơn chính bản thân mình. Đó là điều khiến cho họ sẽ trở thành công ty truyền thông quảng cáo lớn nhất thế giới. Nhưng không, Facebook không muốn nhận danh hiệu đó, họ chỉ tự nhận là một “môi trường công nghệ”.
+
+Scott Galoway không muốn độc giả đọc quyển sách này lo sợ cho tương lai, hay tẩy chay sản phẩm của bộ tứ quyền lực. Ông dành những chương cuối để bàn luận với chúng ta nên làm gì để thích ứng và giàu có cùng với họ. Đây cũng là quyển sách hiếm hoi mà tôi được đọc có cách giải quyết vấn đề thú vị.
+
+Ông bà ta có nói “Trăng bao nhiêu tuổi trăng già? Đá bao nhiêu tuổi đá mòn?”, còn chúng ta thì cũng không ngoài trăm năm. Vì thế, sống thế nào cho đáng, giống như cảnh cuối cùng trong phim Saving Private Ryan, chàng đại úy John Miller thì thào vào tai chàng binh nhì James Francis Ryan trước khi chết “Earn… this” – sống cho đáng trong kỷ nguyên số đầy những điều thú vị đang ở phía trước.
+
+- Nhà báo Lương Trọng Vũ
+
+Phóng viên thời sự Đài phát thanh TP. HCM (1993 – 2000)
+
+Kỹ sư công nghệ One Connection (2000 – 2005)
+
+Phóng viên công nghệ Vietnamnet (2005 – 2008)
+
+Phóng viên công nghệ Khoa học và Đời sống (2008 – 2010)
+
+Phóng viên công nghệ và kinh tế FBNC (2010 – 2017)
+
+Chương 1
+BỘ TỨ QUYỀN LỰC
+
+S
+uốt 20 năm qua, bốn đại gia công nghệ mà tôi sẽ đề cập đến trong quyển sách này đã truyền khá nhiều cảm hứng cho cuộc sống của chúng ta, từ niềm vui, kết nối bạn bè, sự giàu có và cả khám phá những điều mới mẻ, nhiều hơn bất cứ một ai trong lịch sử nhân loại.
+
+Hơn nữa, Apple, Amazon, Facebook và Google cũng đã tạo ra hàng trăm ngàn công việc lương cao ngất ngưởng. Sản phẩm và dịch vụ của họ đã quấn chặt vào cuộc sống thường ngày của hàng tỷ người trên Trái đất này.
+
+Họ đặt chiếc siêu máy tính vào túi mọi người, phổ cập Internet đến các quốc gia đang phát triển và lập bản đồ đến từng hang cùng ngỏ hẻm trên quả địa cầu này, kể cả những nơi sâu thẳm trong lòng đại dương.
+
+Bốn đại gia này đã đóng góp một giá trị chưa từng có lên đến 2,3 ngàn tỷ đô la Mỹ. Thông qua cổ phiếu của họ, hàng triệu gia đình đã an cư lạc nghiệp. Nói tóm lại, họ đã làm cho thế giới này tốt hơn.
+
+Tất cả những điều đó là đúng cả và những lời tán dương không ngừng nghỉ trên hàng ngàn trang báo, được lặp đi lặp lại tại các hội nghị, buổi họp báo, các trường đại học và ngay cả ở những phiên điều trần của chính phủ.
+
+Nhưng chúng ta hãy cùng nhau nhìn họ ở một khía cạnh khác, xù xì hơn, góc cạnh hơn.
+
+Bốn chàng kỵ binh
+
+Hãy tưởng tượng một nhà bán lẻ từ chối đóng thuế doanh thu, đối xử với nhân viên thật tệ bạc, cắt giảm hàng trăm ngàn công ăn việc làm và rồi được xưng tụng như một hình mẫu về sự sáng tạo trong kinh doanh.
+
+Một công ty điện toán từ chối cung cấp thông tin về một vụ khủng bố trong nước cho các nhân viên điều tra liên bang với sự ủng hộ cuồng nhiệt của những fan trung thành xem công ty này như một tôn giáo.
+
+Một mạng xã hội, phân tích hàng ngàn bức ảnh của chúng ta và con cái chúng ta, biến chiếc điện thoại của chúng ta thành vật bất ly thân và rồi bán thông tin này cho những công ty nằm trong danh sách Fortune 500.
+
+Một công ty quảng cáo đang nắm 90% thị phần ở một số thị trường của ngành ăn nên làm ra nhất của truyền thông, đang cố tránh né những qui định về chống độc quyền bằng những vụ kiện tụng hung hăng và thủ thuật vận động hành lang tinh vi.
+
+Những câu chuyện thế này, chúng ta dường như cũng được nghe nói đến ở đâu đó nhưng bằng những giọng điệu bưng bít. Chúng ta đều biết những công ty này không phải là những “thiện nam, tín nữ” gì nhưng chúng ta vẫn mời mọc họ bước vào chốn riêng tư nhất của cuộc sống chúng ta. Chúng ta sẵn sàng tiết lộ những thay đổi trong suy nghĩ và hành động của mình cho họ biết, mặc dù dư sức biết họ sẽ dùng những điều đó để kinh doanh kiếm lời. Truyền thông tâng bốc những ông giám đốc của những công ty này thành những anh hùng, những thiên tài đáng tin và đáng noi gương. Các chính phủ cũng cho phép họ có những đặc quyền về chống lũng đoạn thị trường, về thuế và ngay cả nương tay về luật lao động. Các nhà đầu tư thì thay nhau đẩy giá cổ phiếu của họ lên, cung cấp tài chính gần như vô hạn và cả ma lực để thu hút nhân tài trên thế giới, cũng như ép uổng đối thủ.
+
+Có phải đây là hiện thân của bốn chàng kỵ binh cho 4 nhu cầu của chúng ta: tín ngưỡng, tình yêu, quyến rũ và mua sắm? Hay họ chính là bốn chàng kỵ binh của khải huyền trong Kinh Tân Ước?
+
+Câu trả lời là cả hai đều đúng. Đó là lý do tôi gọi họ là “bốn chàng kỵ binh”.
+
+Làm thế nào họ tích tụ quyền lực mạnh mẽ đến thế? Làm thế nào một công ty lạnh lùng đặt lợi nhuận lên trên hết lại có tác động mạnh mẽ đến tâm lý và hành vi của chúng ta để trở thành người đặt ra luật chơi trên thương trường cho các công ty khác? Tầm vóc và sức ảnh hưởng của họ đến tương lai của nền kinh tế thế giới như thế nào? Hay cũng giống như những anh khổng lồ trước đây, họ sẽ bị người trẻ hơn qua mặt và bị đối thủ khác lấn lướt rồi đè bẹp? Hay là họ cát cứ đến nổi không một ai, công ty hay chính phủ nào, có thể chạm vào được?
+
+Thực trạng
+
+Đây là những con số, hình ảnh về bốn đại gia vào thời điểm chấp bút quyển sách này (2017):
+
+Amazon: có thể mua từ chiếc siêu xe Porsche Panamera Turbo S đến đôi giày cao gót Louboutin, hay bình dân hơn như tuýp kem đánh răng, vài bịch tả trẻ em sản xuất bằng công nghệ thân thiện môi trường đều có. Amazon trở thành nhà bán lẻ cho mọi lựa chọn của người Mỹ, hay đại ngôn hơn, cho cả thế giới. Amazon làm giảm đi sự nhàm chán và khổ sở của các bà nội trợ, phải đi chợ lo bữa ăn cho gia đình. Không cần làm gì lớn lao, không cần lùng sục khắp chợ hay siêu thị mà chỉ cần vài cú click chuột.
+
+GIÁ TRỊ VỐN HÓA THỊ TRƯỜNG, 25/4/2017
+
+Yahoo! Finance. https://finance.yahoo.com/
+
+Công thức của Amazon là: đầu tư “khủng” vào công đoạn phân phối cuối cùng, bắt tay với các nhà băng cho vay “xài trước, trả sau”, chơi với các nhà bán lẻ khắp thế giới để hình thành một câu chuyện ly kỳ hấp dẫn chưa bao giờ được kể - Ngôi Chợ Lớn Nhất Hành Tinh.
+
+Một nhà bán lẻ mà giá trị của họ bằng tất cả các nhà bán lẻ khác như Walmart, Target, Macy’s, Kroger, Nordstrom, Tiffany & Co., Coach, Williams-Sonoma, Tesco, Ikea, Carrefour và The Gap cộng lại.
+
+Trong lúc tôi viết quyển sách này thì Jeff Bezos, nhà sáng lập Amazon đang là người giàu thứ ba trên thế giới sau Bill Gates và Warren Buffet. Nhưng tôi đoán ông ấy chẳng mấy chốc sẽ trở thành người giàu nhất. Bill Gates trong ngành phần mềm, Warren Buffet trong ngành bảo hiểm, cũng không kém hấp dẫn nhưng làm sao họ có thể ngồi yên ở vị trí đó khi so sánh với một công ty có mức tăng trưởng 20% mỗi năm, đang tấn công vào một ngành trị giá hàng chục tỷ đô la béo bở.
+
+Apple: Chiếc logo trái táo làm duyên trên những chiếc laptop và những thiết bị di động là biểu tượng cho sự giàu có, có học vấn và tôn vinh giá trị phương Tây. Thực chất, Apple đã thỏa mãn được hai bản năng của chúng ta: sùng bái và thu hút người khác phái!
+
+Apple tạo ra sự tín ngưỡng, sùng bái như một thứ tôn giáo và thu hút những tín đồ của mình bằng biểu tượng đó. Họ đã khôn ngoan chọn những tín đồ của mình chính là tầng lớp được xem là sáng tạo trong xã hội. Bằng triết lý kinh doanh khá ngược đời, đó là sản phẩm chi phí thấp mà lại bán được giá cao, Apple đã trở thành một công ty kiếm lời giỏi nhất trong lịch sử. Lợi nhuận của Apple tương đương với hai hãng xe hơi Farrari và Toyota cộng lại.
+
+Quý 4 năm 2016, Apple công bố lợi nhuận ròng đạt gấp đôi con số tổng cộng của 23 năm kể từ ngày thành lập. Vốn tiền mặt lưu động của Apple gần bằng tổng sản phẩm quốc nội (GDP) của Đan Mạch.
+
+Facebook: Dựa vào yếu tố được chấp nhận và sử dụng rộng rãi, Facebook trở thành hiện tượng thành công nhất trong lịch sử nhân loại. Có 7 tỷ rưỡi người trên trái đất thì 1 tỷ 2 đã sử dụng Facebook. Facebook, Facebook Messenger và Instagram là những ứng dụng được sử dụng nhiều nhất tại Mỹ. Facebook và các ứng dụng đi kèm đã chiếm trung bình 50 phút của một người trong một ngày. Cứ mỗi sáu phút thì có một phút lên mạng để lướt Facebook và cứ mỗi năm phút dùng điện thoại lại dành ra một phút cho Facebook.
+
+Google: Được xem là ông bụt thời hiện đại. Từ việc cập nhật kiến thức từng giây từng phút, đọc được những điều thầm kín nhất trong cõi lòng chúng ta, đến việc đi đâu về đâu cũng phải nhờ đến Google giúp đỡ và luôn sẵn lòng trả lời tất cả các câu hỏi thượng vàng hạ cám của bất cứ ai. Không một cơ quan hay tổ chức nào được quần chúng tín nhiệm và tin tưởng như Google.
+
+Một khảo sát vô cùng lý thú: cứ trong 6 câu hỏi được đẩy lên trang tìm kiếm của Google thì có 1 câu hỏi chưa từng được ai hỏi! Ai mà có sự tin tưởng và sức hấp dẫn đến mức như vậy?
+
+Một công ty con của Alphabet Inc., năm 2016, Google đã kiếm được 20 tỷ đô la lợi nhuận, doanh số tăng 23% và giảm chi phí quảng cáo được 11%, những con số mà các đối thủ của họ thèm thuồng. Khác với những sản phẩm khác, thường trở nên già cỗi theo thời gian, Google càng ngày càng có giá trị. Google kiểm soát hành vi của 2 tỷ người, 24 giờ một ngày, kết nối với những gì người ta muốn và những điều người ta chọn.
+
+Thấu hiểu được hành vi tiêu dùng bằng cách phân tích gần 3 tỷ rưỡi yêu cầu nhận được mỗi ngày đã giúp Google trở thành “đao phủ” của những nhãn hàng và truyền thông. Google sẽ nhận biết được một nhãn hiệu mới mà chúng ta ưa thích chưa đến một phần triệu giây sau khi nhấp chuột.
+
+Giá trị thật sự nằm ở đâu?
+
+Trong khi hàng tỷ người nhận được những giá trị đáng kể từ những sản phẩm hay dịch vụ của các công ty này thì ngược lại, khi xét về lợi ích kinh tế, người được hưởng lợi chỉ đếm được trên đầu ngón tay.
+
+GIÁ TRỊ NGUỒN VỐN CON NGƯỜI TẠO RA
+
+Forbes, May, 2016.
+
+https://www.forbes.com/companies/general-motors/
+
+Facebook, Inc. https://newsroom.fb.com/company-info/
+
+Yahoo! Finance. https:// finance.yahoo.com/
+
+(Hình)
+
+Số lượng nhân công
+
+Giá trị vốn hóa/nhân viên
+
+Hãng xe General Motors tạo ra giá trị kinh tế trên mỗi đầu người làm thuê cho họ xấp xỉ 231.000 đô la (giá trị vốn hóa/số nhân viên). Con số đó được xem là khá ấn tượng cho đến khi Facebook xuất hiện. 20,5 triệu đô la là con số của Facebook, cao gần hơn 100 lần so với một hãng xe một thời đã từng được xem là biểu tượng của giới doanh nghiệp ở thế kỷ trước. Con số này bằng với tổng sản lượng hàng hóa dịch vụ của quận Manhattan, thành phố New York, nước Mỹ, đứng đầu danh sách 10 quốc gia công nghiệp phát triển nhất thế giới, gọi tắt là G-10.
+
+5 CÔNG TY LỚN NHẤT NĂM 2006
+
+Taplin, Jonathan. “Is It Time to Break Up Google?” The New York Times.
+
+Sự gia tăng về giá trị vốn hóa thị trường ở đây dường như không còn tuân theo các định luật về kinh tế nữa, ví dụ như “luật số lớn”. Khi một công ty liên tục mở rộng quy mô, để duy trì tốc độ tăng trưởng cao thì họ phải liên tục đẩy mạnh giá trị vốn hóa thị trường lên rất cao, mà điều này là không thể được. Nhưng bốn đại gia công nghệ này đã làm được: trong bốn năm liên tục từ tháng 4/2013 đến tháng 4/2017, họ đã tăng giá trị vốn hóa thị trường lên xấp xỉ 1300 tỷ đô la, gần bằng GDP của nước Nga.
+
+NHỮNG NGUỒN TÌM KIẾM THÔNG TIN VỀ SẢN PHẨM
+
+Soper, Spencer. “More Than 50% of Shoppers Turn First to Amazon in Product Search”. Bloomberg.
+
+Những công ty công nghệ khác, cũ có mới có, lớn có nhỏ có, đang mất dần vị thế. Những ông khổng lồ nặng nề, chậm chạp như Hewlett Packard (HP) hay IBM hầu như đều dè chừng bốn đại gia này. Hàng ngàn công ty khởi nghiệp (start-up) xuất hiện đông như muỗi cũng chưa đủ sức để bốn đại gia này phải dùng đến vũ lực. Bất kỳ công ty nào tiềm tàng khả năng gây khó khăn cho họ thì trước sau gì cũng bị thu mua với một cái giá mà những công ty này khó có thể từ chối. Facebook đã bỏ ra 20 tỷ đô la để mua một công ty 5 năm tuổi với 50 nhân viên và sản phẩm nhắn tin - WhatsApp đã biến mất khỏi thị trường. Rốt cuộc thì trên thị trường chỉ còn bốn đại gia này cạnh tranh với nhau mà thôi.
+
+Họ cạnh tranh đối đầu với nhau
+
+Chính phủ, luật lệ và những công ty nhỏ dường như không có đủ khả năng dừng bước tiến của bốn đại gia này, bất chấp tác động của họ lên xã hội và nền kinh tế như thế nào. Tuy nhiên, nơi nguy hiểm vẫn còn chỗ trú ẩn an toàn. Đó là bốn đại gia này “không ưa nhau”. Họ đang cạnh tranh trực tiếp với nhau, họ lấn sân lẫn nhau.
+
+Google cho thấy họ đã chấm dứt giai đoạn gầy dựng thương hiệu như là một cỗ máy tìm kiếm thông tin mà đã bành trướng sang các “lãnh địa” khác, gây tổn thương cho Apple. Bản thân Apple cũng đang cạnh tranh trực tiếp với Amazon trong lĩnh vực nhạc số và phim trực tuyến. Trong khi đó, Amazon là khách hàng lớn nhất của Google nhưng cũng đang đe dọa mảng tìm kiếm thông tin của Google. Một thống kê gần đây cho thấy 55% người tìm kiếm thông tin sản phẩm lên thẳng Amazon, trong khi chỉ có 28% tìm qua Google. Apple và Amazon đang chạy đua hết tốc lực trong mảng màn hình tivi và điện thoại. Google và Apple thì chạy đua chiếm thế thượng phong về hệ điều hành điện thoại thông minh.
+
+Công nghệ thoại Siri của Apple và Alexa của Amazon thì cùng bước vào một trường đấu tỷ thí mà chỉ còn một người sống sót bước ra.
+
+Trong lĩnh vực quảng cáo trực tuyến, Facebook đang “gặm” vào thị phần của Google khi Facebook đã chiếm được cứ điểm quan trọng nhất của cuộc đua, đó là thay đổi thói quen từ máy tính để bàn sang chiếc điện thoại thông minh.
+
+Điện toán đám mây, một loại dịch vụ lưu trú trên máy chủ đặt trên Internet, một trong những công nghệ tạo ra sự đột phá lớn nhất trong 10 năm tới, được giới công nghệ ví von như trận đấu quyền anh thế kỷ giữa Ali và Frazier khi Amazon và Google trực tiếp cạnh tranh đối đầu nhau.
+
+Cả bốn ông lớn này đang cố gắng vươn lên trong một cuộc đua lịch sử để trở thành “hệ điều hành” của cuộc đời chúng ta. Và phần thưởng cuối cùng của cuộc đua là gì? Có thêm hàng ngàn tỷ đô la, quyền lực và sức ảnh hưởng lớn hơn bất cứ ai trong lịch sử nhân loại?
+
+Vậy thì sao?
+
+Hiểu được sự lựa chọn của bộ tứ quyền lực là hiểu được mô hình kinh doanh và cách họ tạo ra giá trị trong kỷ nguyên số. Trong nửa đầu quyển sách, chúng ta sẽ cùng nhau xem xét từng chàng kỵ binh và phân tích những chiến lược của họ. Các doanh nghiệp khác có thể học gì từ những chiến lược này.
+
+Trong phần thứ hai của quyển sách, chúng ta sẽ nhận diện những thế mạnh cạnh tranh của bộ tứ này và xem cách kinh doanh mới của họ dựa vào việc khai thác những bản năng cơ bản của con người. Bên cạnh đó, chúng ta cũng sẽ thấy được cách thức bộ tứ bảo vệ thị trường của mình như thế nào bằng cách xây những “chiến hào” trên thị trường để làm nhụt chí đối thủ cạnh tranh.
+
+Đâu là tội lỗi của bốn chàng kỵ binh này? Họ đã lợi dụng các chính phủ và đối thủ cạnh tranh như thế nào trong việc bảo vệ sở hữu trí tuệ? Tất cả sẽ có trong chương 8. Ai sẽ có khả năng trở thành chàng kỵ binh thứ năm – ở chương 9? Chúng ta sẽ lướt qua các ứng cử viên từ Netflix đến chàng trai đến từ Trung hoa, Alibaba, một Amazon thu nhỏ, đến Uber và những người khổng lồ một thời từng làm mưa làm gió như IBM, Microsoft, liệu họ có thể quay lại đường đua hay không? Ai trong số họ có khả năng phát triển một nền tảng chi phối hơn so với bộ tứ hiện tại?
+
+Cuối cùng, trong chương 10, chúng ta sẽ nhìn vào bản thân mình xem những tính chất nghề nghiệp nào giúp chúng ta tồn tại và có thể hưởng lợi trong kỷ nguyên của bộ tứ quyền lực này. Chương 11 sẽ nói đến việc bộ tứ sẽ đưa chúng ta đi đến đâu.
+
+Tôi là ai?
+
+Tất nhiên tôi là Scott Galloway, nhưng khi bạn tìm tên tôi trên Alexa thì sẽ cho kết quả thế này “Scott Robert Galloway là một cầu thủ bóng đá người Úc, chơi ở vị trí hậu vệ cho đội Central Coast Marines ở giải vô địch Úc châu”.
+
+Thật vớ vẩn!
+
+Dầu sao chăng nữa, tôi cũng không thích hậu vệ, tôi thích vị trí tiền đạo hơn. Tôi lớn lên trong một gia đình trung lưu, được nuôi nấng bởi một bà mẹ đơn thân siêu đẳng làm nghề thư ký. Sau đại học, tôi bỏ ra hai năm làm việc ở ngân hàng đầu tư Morgan Stanley với một nỗ lực sai lầm là thành công và gây chú ý với phụ nữ. Công việc ở một ngân hàng đầu tư thật khủng khiếp. Tôi lại không có những kỹ năng như sự chín chắn, tính kỷ luật, thái độ nhún nhường, ý thức tổ chức để làm việc ở một công ty lớn, vì vậy tôi quyết định làm một doanh nhân.
+
+Sau khi kết thúc ở Morgan Stanley, tôi mở công ty Prophet, chuyên về chiến lược thương hiệu, có lúc phát triển lên đến 400 nhân viên. Năm 1997, tôi lại mở công ty Red Envelope, một công ty bán lẻ đa kênh và lên sàn vào năm 2002 nhưng sau đó chết dần chết mòn vì Amazon. Năm 2010, tôi lại mở công ty L2, cung cấp dữ liệu viễn thông, tìm kiếm thông tin, dữ liệu xã hội và các chỉ số đánh giá hoạt động của các trang web cho những thương hiệu bán lẻ tiêu dùng. Chúng tôi cung cấp dữ liệu cho Nike, Chanel, L’Oreal, P&G… Tháng 3 năm 2017, L2 của tôi bị Gartner mua lại.
+
+Trong cùng thời gian đó, tôi cũng có cơ may phục vụ trong ban giám đốc của một vài công ty truyền thông (như New York Times, Dex Media, Advanstar) – tất cả những công ty này đều bị Google và Facebook tấn công tan nát. Tôi cũng từng nằm trong ban giám đốc của Gateway, công ty hàng năm bán máy tính ra thị trường nhiều gấp ba lần Apple. Cuối cùng, tôi cũng từng tham gia trong ban quản trị của Urban Outfitters và Eddie Bauer, đang vẫy vùng để bảo vệ mảnh đất bán lẻ nhỏ nhoi trước hàm cá mập trắng Amazon.
+
+Tuy nhiên, trên danh thiếp của tôi chỉ ghi vỏn vẹn “Giáo sư Marketing”. Năm 2002, tôi gia nhập khoa kinh doanh Stern của Đại học New York, nơi tôi dạy cho hơn 6.000 sinh viên về chiến lược thương hiệu và marketing số. Đó là một ân sủng dành cho tôi. Tôi là sản phẩm của một chính phủ lớn, đặc biệt là của trường Đại học California, mặc dù tôi là một đứa trẻ hết sức bình thường, họ đã cho tôi những thứ phi thường: tiếp cận với một nền giáo dục đẳng cấp thế giới.
+
+Những trụ cột của ngành học kinh doanh là tài chính, marketing, điều hành và quản lý, lấy mất hai năm học của sinh viên với học phí từ 70.000 đô la (năm đầu) và hơn 111.000 đô la (tốt nghiệp). Trong năm đầu tiên, sinh viên học những kiến thức sẽ phục vụ cho họ trong suốt sự nghiệp của mình. Nhưng năm thứ hai thì, theo tôi, hết sức lãng phí: đó là những môn học tự chọn, sinh viên thoải mái uống bia và đi thực địa tìm dữ liệu cho những bài thuyết trình như “Làm sao để kinh doanh ở Chile?”, nhưng lại là bài thi cuối khóa cho sinh viên ra trường.
+
+Chúng tôi yêu cầu phải học năm thứ hai để thu thêm học phí 110.000 đô la nhằm hỗ trợ cho những chương trình học khác không thật sự có ích lợi lắm. Nếu cứ tiếp tục tăng học phí nhanh hơn tốc độ lạm phát, chúng ta nên xem xét xây dựng một nền tảng giáo dục tốt hơn cho những sinh viên năm thứ hai. Tôi tin rằng những nền tảng kiến thức trong năm thứ nhất cần được bổ sung những vấn đề mang tính thực tiễn, làm sao để ứng dụng những lý thuyết đó trong nền kinh tế hiện đại. Những môn học ở năm thứ hai nên tập trung nghiên cứu sâu bộ tứ quyền lực này và những ngành nghề họ đang hoạt động (tìm kiếm dữ liệu, mạng xã hội, thương hiệu và bán lẻ). Để hiểu rõ hơn những công ty này, những bản năng mà họ đang tập trung, sự nhập nhằng giữa công nghệ và giá trị cổ đông, chúng ta phải tìm hiểu sâu vào bên trong những ngành kinh doanh này, thế giới chúng ta đang sống và chính bản thân chúng ta.
+
+Vào những lúc bắt đầu và kết thúc khóa học tại Đại học New York, tôi thường nói với sinh viên mục đích của khóa học là cung cấp những công cụ sắc bén để họ có thể tạo dựng sự an toàn kinh tế cho gia đình và bản thân họ. Tôi viết quyển sách này cũng vì mục đích đó. Tôi hy vọng độc giả sẽ có được cái nhìn thấu đáo và nhận ra được thế mạnh của doanh nghiệp trong một nền kinh tế mà chưa bao giờ dễ trở thành tỷ phú như bây giờ, nhưng cũng chưa bao giờ trở thành triệu phú khó đến vậy!

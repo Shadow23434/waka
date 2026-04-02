@@ -1,0 +1,124 @@
+Mục lục
+GOVALUE 101: Vol 2 - Chọn lọc cổ phiếu: Những bộ lọc tốt nhất trên thị trường Việt Nam
+Tại sao những bộ lọc cổ phiếu hiện tại không hiệu quả?
+Bộ lọc cổ phiếu theo Warren Buffett
+Bộ lọc cổ phiếu theo Benjamin Graham
+Bộ lọc cổ phiếu theo Philip Fisher
+Bộ lọc cổ phiếu theo Peter Lynch
+Bộ lọc cổ phiếu theo Piotroski F-score
+Bộ lọc cổ phiếu theo Go Value Advisor
+Bộ lọc cổ phiếu Canslim của William O’ Neil
+Bộ lọc cổ phiếu theo 4M
+
+GOVALUE 101
+Vol 2 - Chọn lọc cổ phiếu: Những bộ lọc tốt nhất trên thị trường Việt Nam
+
+B
+ất kỳ một nhà đầu tư nào muốn thành công trên thị trường đều phải có cho mình 1 bộ lọc cổ phiếu tốt nhất. Bộ lọc này sẽ giúp bạn liên tục có được những ý tưởng để bắt đầu tìm hiểu và đầu tư.
+
+Có những giai đoạn bạn không thể nào tìm ra những cổ phiếu đạt những tiêu chuẩn đầu tư của mình. Chính vì thế bạn thường tìm đến bạn bè, đồng nghiệp hay thậm chí là những group chứng khoán để hỏi xem nên mua mã nào.
+
+Đây là cách bạn thường làm:
+
+Tôi tin rằng bạn đã không ít lần mất tiền vì những nguồn thông tin có được từ cách này.
+
+Tin tốt là…
+
+Tôi chuẩn bị chia sẻ cho bạn 6 bộ lọc cổ phiếu chất lượng nhất mà GoValue áp dụng hàng ngày.
+
+Những bộ lọc này bao gồm bộ lọc theo những tiêu chí được tổng hợp từ những nhà đầu tư vĩ đại, bao gồm: Warren Buffett, Benjamin Graham, Peter Lynch, Philip Fisher, William O’ Neil… và 1 bộ lọc riêng mang thương hiệu Go Value.
+
+Còn gì nữa?
+
+Đây là những bộ lọc đánh bại thị trường đã được GoValue chọn lọc dựa trên kiểm định dữ liệu quá khứ ở thị trường Mỹ, thị trường Anh và thị trường Việt Nam.
+
+Trong hàng ngàn bộ lọc cổ phiếu hiện tại mà mỗi người đang sử dụng, hầu hết đều không hiệu quả.
+
+Tại sao những bộ lọc cổ phiếu hiện tại không hiệu quả?
+
+T
+heo thống kê của tôi, hiện tại phần lớn nhà đầu tư cá nhân đang sử dụng bộ lọc cổ phiếu là bộ lọc dựa trên tín hiệu kỹ thuật.
+
+Tín hiệu kỹ thuật là gì?
+
+Tín hiệu kỹ thuật là những tín hiệu mua bán dựa vào những chỉ báo (indicators) được tạo ra từ 2 yếu tố: giá và khối lượng giao dịch.
+
+Các phần mềm thông dụng hỗ trợ xây dựng các chỉ báo này như Amibroker, Metastock hay Fireant.
+
+Một số website và công ty chứng khoán cũng có những công cụ lọc các chỉ báo kỹ thuật như cafef, vietstock, cophieu68 hay vndirect…
+
+Rất nhiều đội nhóm cũng cung cấp các phần mềm hoặc robot (thu phí) đưa các tín hiệu mua/bán dựa trên chỉ báo kỹ thuật.
+
+Bản chất của tất cả các chỉ báo này đối với tín hiệu mua là:
+
+Giá cổ phiếu tăng trong 1 giai đoạn nào đó (ngày, tuần, tháng) với mức tăng đủ lớn. Thông thường là tăng cao hơn so với giá bình quân của 1 giai đoạn trước đó, ví dụ: bình quân 20 phiên, 50 phiên, 100 phiên…
+
+Khối lượng trong cùng giai đoạn cũng gia tăng đáng kể. Thể hiện xu hướng dòng tiền tập trung vào cổ phiếu đó.
+
+Nếu bạn không tin vào điều này?
+
+Cách đơn giản nhất là hãy viết công thức toán học của tất cả các chỉ báo đó ra giấy. Tôi dám cược với bạn rằng, tất cả các chỉ báo mua cuối cùng đều quy về: giá cổ phiếu tăng.
+
+Tôi muốn hỏi bạn thêm 1 điều nếu bạn đã từng sử dụng chỉ báo kỹ thuật để mua cổ phiếu:
+
+Có khi nào bạn mua 1 cổ phiếu bằng tín hiệu kỹ thuật nhưng công ty bất ngờ ra 1 thông tin tiêu cực về kết quả kinh doanh…
+
+…Và cổ phiếu của bạn rớt giá liên tục bất chấp chỉ ngày hôm qua thôi các đồ thị (chart) kỹ thuật vẫn đang còn rất đẹp?
+
+Điều này có ý nghĩa gì?
+
+ĐÂY LÀ 1 CÁI BẪY DÀNH CHO BẠN!
+
+Việc sử dụng tín hiệu kỹ thuật giúp bạn chọn ra được những cổ phiếu có Momentum (Động lực) cao. Hiểu đơn giản là cổ phiếu đó sẽ có nhiều “động lực” để tiếp diễn xu hướng (giá tăng) hiện tại.
+
+Tuy nhiên những người đầu tư lâu năm đều hiểu rằng Momentum chỉ là 1 trong 3 yếu tố tạo nên sự thành công của 1 cổ phiếu.
+
+Ba yếu tố này bao gồm: #Quality (Chất lượng), #Value (Giá trị) và #Momentum.
+
+Một số nhà đầu tư có thể đưa thêm yếu tố #Growth (Tăng trưởng). Tuy nhiên tôi thường gộp chung yếu tố tăng trưởng vào trong #Value, giống như cách Warren Buffett vẫn làm.
+
+Công thức thành công đã được kiểm chứng ở đây là:
+
+Bạn phải chọn được 1 cổ phiếu có tối thiểu 2/3 yếu tố tốt. Nếu không thì sẽ có 3 cái bẫy chờ đợi bạn, đó là:
+
+BẪY KỸ THUẬT
+
+Cổ phiếu của bạn có #Momentum cao nhưng chỉ số #Quality thấp (cổ phiếu zombie, “móc cống”) và chỉ số #Value thấp (giá thị trường cao hơn so với giá trị thực).
+
+Đây thường là những cổ phiếu penny có kết quả kinh doanh kém, nợ vay nhiều nhưng được đồn thổi, làm giá. Đồ thị kỹ thuật có vẻ tốt nhưng thực tế là giá có thể rơi bất kỳ lúc nào.
+
+BẪY GIÁ TRỊ
+
+Cổ phiếu của bạn có chỉ số #Value cao (định giá hấp dẫn, P/E, P/B, EV/EBITDA thấp) nhưng #Quality và #Momentum thấp. Những cổ phiếu này có thể sẽ không bao giờ tăng, thậm chí sẽ còn giảm trong dài hạn (vì #Quality thấp).
+
+BẪY CHẤT LƯỢNG
+
+Tôi hay gọi vui đây là những ngôi sao “hết thời”. Những cổ phiếu này có chất lượng #Quality cao (như Vinamilk, REE hay GAS) nhưng định giá đã quá cao (chỉ số #Value thấp) và cũng không có động lực tăng giá (chỉ số #Momentum thấp).
+
+Riêng đối với những cổ phiếu không có cả 3 yếu tố trên thì đó chắc chắn là những cổ phiếu “rác”. Bạn nên tránh xa hoàn toàn.
+
+Trong đánh giá của GoValue, Momentum bao gồm nhiều yếu tố rộng hơn. Không chỉ là phân tích về giá và khối lượng.
+
+Momentum còn đánh giá kết quả vượt kỳ vọng trong hoạt động kinh doanh so với ước lượng của các công ty chứng khoán và giới phân tích.
+
+Hoặc Momentum cũng bao gồm sự chuyển biến tích cực trong hoạt động kinh doanh.
+
+Tôi gọi chung là Fundamental Momentum, hay động lực từ các yếu tố cơ bản.
+
+Kết luận?
+
+Bộ lọc cổ phiếu dựa trên chỉ báo kỹ thuật chỉ phản ánh được 1 phần nhỏ trong Momentum và vì thế không đủ đảm bảo sự thành công của cổ phiếu. Nếu bạn sử dụng nó mà vẫn không thua lỗ (hoặc vẫn có lãi) thì hãy cảm ơn ông trời đã cho bạn may mắn.
+
+Bởi vì…
+
+May mắn #1: Chỉ báo đó may mắn tìm đến những cổ phiếu trong thời điểm đang bị thị trường định giá thấp.
+
+May mắn #2: Chỉ báo đó may mắn tìm đến đúng cổ phiếu có chất lượng tốt.
+
+Bạn có muốn phó mặc hoàn toàn cho may mắn? Bạn có thể may mắn được bao nhiêu lần?
+
+Cách đầu tư của Warren Buffett không bao giờ nhờ cậy vào may mắn. Ông phát triển cho mình những tiêu chí lựa chọn doanh nghiệp một cách thận trọng để giành được lợi thế ngay từ đầu.
+
+Tôi sẽ không để bạn phải đợi thêm.
+
+Chúng ta sẽ bắt đầu với các tiêu chí chọn cổ phiếu của nhà đầu tư vĩ đại nhất mọi thời đại: Warren Buffett
