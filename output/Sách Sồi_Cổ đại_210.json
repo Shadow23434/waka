@@ -1,0 +1,51 @@
+[
+  {
+    "id": 52366,
+    "title": "Án vô danh triều Đường - Quỷ môn liêu",
+    "price": 199000,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/52366.jpg?v=1&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Th&agrave;nh Trường An li&ecirc;n tiếp xảy ra những vụ &aacute;n kỳ lạ: h&agrave;ng loạt bia thạch cảm đương bị đ&aacute;nh cắp, vị c&ocirc;ng tử nh&agrave; quyền qu&yacute; chết một c&aacute;ch b&iacute; ẩn, hỏa hoạn b&ugrave;ng l&ecirc;n bất chợt l&uacute;c nửa đ&ecirc;m... khiến cả kinh th&agrave;nh ch&igrave;m trong hoang mang, lo lắng. Bắt đầu từ một lời đồn đại về t&ograve;a phủ đệ của quỷ - Quỷ m&ocirc;n li&ecirc;u, cho đến những &acirc;m mưu đe dọa đến ho&agrave;ng quyền v&agrave; vận mệnh quốc gia, Sử V&ocirc; Danh v&agrave; L&yacute; Trung Khanh quyết định hợp lực truy &aacute;n, dấn th&acirc;n v&agrave;o một h&agrave;nh tr&igrave;nh quỷ dị để t&igrave;m ra kẻ đứng sau l&agrave;n sương mờ, &acirc;m mưu thao t&uacute;ng nhiễu loạn cả th&agrave;nh Trường An. Liệu quỷ m&ocirc;n li&ecirc;u c&oacute; thực sự tồn tại? V&agrave; Sử V&ocirc; Danh c&ugrave;ng L&yacute; Trung Khanh sẽ phải đối mặt với những hiểm nguy ra sao?</p>\r\n<p>Waka tr&acirc;n trọng giới thiệu <strong>&Aacute;n v&ocirc; danh triều Đường - Quỷ m&ocirc;n li&ecirc;u</strong> - t&aacute;c giả <strong>Viễn Ninh.</strong></p>",
+    "authors": [
+      {
+        "id": "16285",
+        "name": "Viễn Ninh"
+      }
+    ],
+    "audio_id": 6394,
+    "liked": 0
+  },
+  {
+    "id": 50611,
+    "title": "Kim phấn",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/1/50611.jpg?v=1&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Kh&oacute; khăn lắm L&yacute; Nam Phong mới bước l&ecirc;n đỉnh cao cuộc sống, n&agrave;o ngờ đời n&agrave;ng bỗng dưng đứt đoạn dưới tay t&ecirc;n nh&atilde;i Yến H&agrave;nh l&ograve;ng dạ hiểm &aacute;c kia, sau khi tỉnh lại, n&agrave;ng chuẩn bị chiến lược cuộc đời d&agrave;i tới bốn mươi trang, quyết ch&iacute; trừ hại cho m&igrave;nh.</p>\r\n<p>L&yacute; Nam Phong v&agrave; Yến H&agrave;nh c&ugrave;ng bị s&eacute;t đ&aacute;nh rồi tr&ugrave;ng sinh về 27 năm trước, khi tất cả bi kịch cuộc đời của cả hai người đều chưa xảy ra.</p>\r\n<p>Cả hai bỗng ph&aacute;t hiện những sự thật m&agrave; họ chưa từng nhận ra ở kiếp trước, dường như c&oacute; một b&agrave;n tay n&agrave;o đ&oacute; đ&atilde; thao t&uacute;ng hết thảy...</p>",
+    "authors": [
+      {
+        "id": "10903",
+        "name": "Thanh Đồng Tuệ"
+      }
+    ],
+    "liked": 0
+  }
+]
