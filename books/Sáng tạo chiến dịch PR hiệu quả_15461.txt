@@ -1,0 +1,345 @@
+Mục lục
+Lời giới thiệu
+1. Công tác hoạch định và quản lý
+2. PR trong bối cảnh thực tiễn
+3. Bắt đầu quá trình hoạch định
+4. Phân tích
+5. Thiết lập mục tiêu
+6. Tìm hiểu công chúng và nội dung của thông điệp
+7. Chiến lược và chiến thuật
+8. Khung thời gian và nguồn lực
+9. Đánh giá và rà soát
+Lời cuối cùng
+
+LỜI GIỚI THIỆU
+
+N
+gày nay, khi mở bất kỳ một tờ báo, một kênh truyền hình hay radio nào, chúng ta cũng đều có thể đọc thấy hay nghe thấy những thông tin về một tổ chức, cá nhân nào đó trong xã hội. Những thông tin này giống như các nét vẽ, dần xuất hiện theo thời gian bởi bàn tay của giới truyền thông và giúp hoàn chỉnh bức tranh toàn cảnh về hình dáng, phong cách và những điểm đặc trưng của tổ chức hay cá nhân ấy trong nhận thức của công chúng.
+
+Đó chính là nghệ thuật thể hiện của PR, một công việc vốn đòi hỏi sự đầu tư nghiêm túc và xuyên suốt trong nhiều năm nhằm mục đích chăm sóc danh tiếng và tác động đến hành vi, thái độ của công chúng và các giới hữu quan đối với một tổ chức, cá nhân nhất định. Và bởi vì danh tiếng là điều không thể đạt được trong ngày một ngày hai, bạn không những cần nắm vững các khái niệm cơ bản về PR mà còn phải biết sáng tạo trong bước hoạch định và quản lý các chiến dịch PR sao cho hợp lý, hiệu quả nhất qua 4 giai đoạn phát triển cơ bản của một tổ chức: khởi đầu, tăng trưởng, trưởng
+
+thành và suy thoái. Để làm được điều đó, bạn phải xem xét đến rất nhiều các yếu tố tác động có liên quan như công chúng, nguồn lực, đặc điểm tổ chức, quỹ thời gian, sự tác động của ngành... và có những kế hoạch, mục tiêu cụ thể. Đây là một công việc khá phức tạp nhưng không kém phần thú vị, mang đến cho bạn cơ hội kiểm nghiệm và thể hiện tài năng của chính mình trong bối cảnh sôi động của công luận.
+
+Sáng tạo chiến dịch PR hiệu quả là quyển sách được biên soạn cẩn thận nhằm cung cấp cho bạn những kiến thức và công cụ hữu ích nhất về kỹ năng hoạch định và quản lý chiến dịch PR. Dĩ nhiên, mỗi tình huống PR mà bạn phải đối diện có thể khác nhau, nhưng chung quy mọi sự khác biệt ấy đều dựa trên một nền tảng nhất định, với những giải pháp căn bản mà chúng tôi sẽ trình bày trong quyển sách này. Một khi đã có được những kiến thức tổng quát và hữu dụng nhất, bạn hoàn toàn có thể tự tin tìm lấy một giải pháp sáng tạo và phù hợp nhất cho vấn đề của mình.
+
+Với cách viết dễ hiểu, phân loại theo từng đề mục lớn giúp bạn khám phá dần các vấn đề quan trọng cần lưu ý trong việc hoạch định và quản lý chiến dịch PR, chúng tôi tin bạn sẽ dễ dàng nắm bắt những thông điệp được chuyển tải và nhanh chóng bị cuốn hút vào các phần nội dung liền mạch được trình bày ở đây. Tác giả quyển sách này, Anne Gregory, là một trong những viện sĩ PR hàng đầu của Vương quốc Anh. Bà là Hiệu trưởng của Trường Chiến lược Kinh doanh và là Hiệu phó Trường Kinh doanh Leeds, một đơn vị của Đại học Leeds Metropolitan. Trước khi trở thành viện sĩ, bà đã có 12 năm hoạt động trong lĩnh vực PR và đảm nhận vị trí chuyên viên cao cấp của bộ phận PR nội bộ lẫn công ty tư vấn. Hiện nay bà vẫn tiếp tục tham gia công tác tư vấn với vị trí Giám đốc phi điều hành cho Bradford Community Health Trust, với trọng trách đặc biệt về các vấn đề truyền thông. Nhờ kiến thức sâu rộng cũng như những kinh nghiệm thực tế của Anne Gregory, bạn có thể tin rằng mình đang cầm trong tay một quyển sách thật sự cần thiết cho công việc hoạch định và quản lý chiến dịch PR hàng ngày, kể cả khi mục đích của bạn chỉ là nhằm thỏa mãn ước muốn được tìm hiểu thêm về lĩnh vực năng động này.
+
+Chúc bạn tìm thấy sự sáng tạo cần thiết cho chính mình trong việc hoạch định và quản lý chiến dịch PR!
+
+- First News
+
+1.
+CÔNG TÁC HOẠCH ĐỊNH VÀ QUẢN LÝ
+
+BẤT KỲ AI CŨNG CÓ KHẢ NĂNG HOẠCH ĐỊNH VÀ QUẢN LÝ
+
+K
+hi đề cập đến công việc "hoạch định" hay "quản lý", ngay lập tức nhiều người trong chúng ta thường tỏ vẻ e ngại và dè dặt, nhất là những người thuộc giới sáng tạo chỉ quen làm việc theo cảm hứng. Còn khi nói đến thuật ngữ "phong cách quản lý", đa số mọi người lại liên tưởng đến một khả năng đặc biệt mà không phải ai cũng có được. Vì vậy, họ luôn cảm thấy vui vẻ khi thực hiện các chỉ thị, yêu cầu do những người có khả năng đặc biệt đó đưa ra.
+
+Thật ra, đó là những suy nghĩ sai lầm! Bất kỳ ai trong chúng ta cũng đều có khả năng hoạch định và quản lý, và trong thực tế cuộc sống, chúng ta đang thực hiện công việc đó mỗi ngày. Từ việc lên thực đơn cho một bữa cơm gia đình, hoặc cho một bữa tiệc thết đãi bạn bè tại nhà; việc chọn lựa địa điểm mua sắm, chuẩn bị kế hoạch cho kỳ nghỉ mát của gia đình cho đến việc dự định thực hiện những mục tiêu lớn lao trong cuộc đời hay việc giải quyết những mâu thuẫn trong quan hệ gia đình hay tình yêu đôi lứa... tất cả đều liên quan đến công việc hoạch định và quản lý.
+
+Những hoạt động diễn ra trong cuộc sống và nhất là trong công việc đòi hỏi mỗi chúng ta phải biết một chút về hoạch định. Đôi khi chúng ta cần phải suy nghĩ và tính toán thật kỹ lưỡng nhưng cũng có những lúc chúng ta chỉ cần làm theo thói quen. Và dĩ nhiên nếu muốn nâng cao chất lượng cuộc sống và hiệu quả công việc thì chúng ta cần biết cách lập kế hoạch sao cho có thể vừa hoàn thành tốt nhiệm vụ và trách nhiệm của mình, đồng thời vừa có thời gian để nghỉ ngơi và giải trí.
+
+Đó chính là vai trò trọng tâm của việc hoạch định và quản lý. Có người cho rằng cuộc sống sẽ trở nên đơn điệu và khô cứng nếu lúc nào chúng ta cũng lên kế hoạch và kiểm soát mọi chuyện. Thế nhưng, chính công việc hoạch định và quản lý này sẽ giúp chúng ta bảo đảm mọi việc diễn ra suôn sẻ. Khi đó, chúng ta có thể kiểm soát tốt hơn những sự việc bất ngờ xảy đến cũng như không để bản thân bị cuốn vào vòng xoáy của những rắc rối.
+
+Thực hiện việc hoạch định và quản lý tốt sẽ mang đến cho chúng ta cảm giác phấn khởi, thú vị bởi đây là một quá trình đầy tính sáng tạo, vừa nâng cao khả năng hiểu biết vừa mang lại sự hài lòng cho bản thân và quan trọng nhất là có thể giúp chúng ta đạt hiệu quả tối ưu trong công việc của mình.
+
+VAI TRÒ CỦA HOẠCH ĐỊNH TRONG CÔNG TÁC PR
+
+Trước khi nói đến PR và vai trò của hoạch định trong công tác PR, chúng ta hãy cùng tìm hiểu một số định nghĩa mới nhất về PR. Theo Học viện PR Anh Quốc:
+
+Hoạt động PR là một nỗ lực có kế hoạch và mang tính lâu dài nhằm thiết lập và duy trì sự tín nhiệm cũng như sự hiểu biết lẫn nhau giữa một tổ chức và các đối tượng công chúng có liên quan.
+
+Theo định nghĩa trên đây, chúng ta có thể dễ dàng nhận thấy rằng hoạt động PR không thể thiếu sự hoạch định. Không chỉ thế, đây còn là một quá trình có chủ ý, được tư duy cẩn thận và đòi hỏi phải được duy trì liên tục, chứ không mang tính đối phó hay ngẫu hứng. Và hoạt động này liên quan đến cả một quá trình thiết lập và duy trì sự hiểu biết lẫn nhau giữa tổ chức và đối tượng công chúng có liên quan. Nói cách khác, nó liên quan đến cuộc đối thoại giữa tổ chức và công chúng, mà qua đó tổ chức và công chúng hiểu nhau hơn. Chính điều này sẽ làm thay đổi thái độ, hành động và quan điểm của các bên theo chiều hướng tích cực hơn.
+
+Vấn đề ở đây là những người làm công tác PR phải xem xét cẩn thận để biết cách khai thác, phát triển và duy trì các chương trình PR sao cho hiệu quả nhất nhằm mang lại lợi ích không chỉ cho tổ chức của họ mà còn cho các đối tượng công chúng có liên quan.
+
+Những định nghĩa gần đây của Học viện PR Anh Quốc cho rằng:
+
+PR chủ yếu liên quan đến danh tiếng, nghĩa là liên quan đến kết quả của những điều bạn làm, những điều bạn nói và của những điều người khác nói về bạn.
+Hoạt động PR là một biện pháp chăm sóc danh tiếng nhằm tạo ra sự hiểu biết, tìm kiếm sự ủng hộ cũng như tác động đến ý kiến và hành vi của đối tượng công chúng có liên quan.
+
+Chúng ta không thể tạo dựng danh tiếng trong ngày một ngày hai mà để có được danh tiếng, đòi hỏi chúng ta phải thiết lập trong sự cẩn trọng và có mục đích hẳn hoi, cụ thể hơn đó chính là sự quan tâm và ủng hộ của công chúng đối với tổ chức của chúng ta. Tuy nhiên, bản chất của danh tiếng là rất mong manh nên sẽ rất "dễ vỡ" nếu những lời nói hay việc làm của tổ chức không tạo được sự thông cảm đối với công chúng hoặc nếu xảy ra những lời phát ngôn bất cẩn gây hậu quả nghiêm trọng. Vì thế, việc quản lý danh tiếng luôn đòi hỏi sự tỉ mỉ, liêm chính và trung thực.
+
+Danh tiếng và sản phẩm/dịch vụ của một tổ chức có mối quan hệ mật thiết với nhau. Một khi danh tiếng của tổ chức tăng lên, công chúng sẽ tin tưởng và đánh giá cao sản phẩm/dịch vụ của tổ chức đó, và chính điều này lại góp phần nâng cao thêm danh tiếng của tổ chức ấy. Và cứ thế, mối liên kết giữa danh tiếng và sản phẩm/dịch vụ luôn luôn bổ trợ cho nhau để đưa tổ chức vươn đến một tầm cao hơn.
+
+Hoạt động PR đòi hỏi sự đầu tư nghiêm túc
+
+Qua phân tích ở trên, chúng ta có thể khẳng định rằng vai trò của hoạt động PR là rất quan trọng - hoạt động PR phải góp phần trực tiếp đem lại sự thành công cho tổ chức. Với nhiệm vụ bảo vệ và quản lý uy tín cũng như các mối quan hệ của một tổ chức, hoạt động PR không chỉ dừng lại ở những kết quả "chấp nhận được" mà phải tạo nên một hiệu quả rõ rệt. Một khi đã chi tiêu ngân sách cho việc thiết lập kênh đối thoại với các đối tượng công chúng có liên quan và xây dựng uy tín đối với các nhóm đối tượng này thì bất kỳ tổ chức nào cũng mong đợi những kết quả hữu hình, nghĩa là họ phải tác động bằng được đến công chúng theo chiều hướng mong muốn.
+
+Một công ty thật sự có danh tiếng tốt khi mọi người có xu hướng:
+
+Dùng thử các sản phẩm của công ty;
+Mua cổ phiếu của công ty;
+Tin vào quảng cáo của công ty;
+Muốn làm việc cho công ty;
+Giao dịch với công ty khi các công ty khác cũng đưa ra điều kiện tương tự;
+Hỗ trợ công ty trong những giai đoạn khó khăn;
+Đánh giá công ty cao hơn về mặt tài chính.
+
+Tạo dựng và duy trì danh tiếng đối với các đối tượng công chúng có liên quan là một công việc tốn nhiều thời gian và công sức, đòi hỏi các nhà hoạch định và quản lý phải có năng lực và phẩm chất nhất định. Vì vậy, có thể nói việc xây dựng và duy trì danh tiếng cho một công ty là một nhiệm vụ không hề dễ dàng chút nào.
+
+VAI TRÒ CỦA CÔNG TÁC PR TRONG KINH DOANH
+
+Để có thể hiểu được những cách thức hoạch định và quản lý các chương trình và chiến dịch PR, điều quan trọng đầu tiên là chúng ta cần phải hiểu được vai trò của PR trong kinh doanh.
+
+Tất cả những người làm công tác PR cần phải nắm rõ cơ cấu tổ chức, cách thức quản lý cũng như cơ cấu hoạt động của các tổ chức. Nếu không, họ sẽ không thể hoàn thành tốt vai trò của mình đối với tổ chức, và dĩ nhiên sẽ không thể điều hành công việc trong vai trò của một nhà quản lý cấp cao.
+
+Nói một cách đơn giản, một tổ chức được cấu thành từ 3 yếu tố:
+
+Tài sản cố định, như nhà xưởng, văn phòng, máy móc, thiết bị, phương tiện vận chuyển và sản phẩm;
+Tài sản lưu động, như tiền mặt giúp bôi trơn các hoạt động của doanh nghiệp;
+Con người.
+
+Tài sản cố định của tổ chức luôn có một giá trị nhất định, và có thể đong đếm trên bản cân đối kế toán. Tương tự, lượng tài sản lưu động mà tổ chức sở hữu cũng có thể đếm được. Và cuối cùng, chúng ta cũng có thể thống kê được số lượng nhân viên của bất kỳ một tổ chức nào. Thế nhưng khi xét trên nhiều khía cạnh khác nhau thì lực lượng lao động của tổ chức là tài sản không định lượng được. Năng lực của họ về cơ bản là vô hạn. Họ là những người truyền sức sống cho tổ chức, nhằm tạo ra các giá trị gia tăng; họ sử dụng sức sáng tạo và tài năng vốn có để tạo ra những sản phẩm mới cho thị trường; họ cung cấp dịch vụ khách hàng; và họ thúc đẩy hoạt động của tổ chức. Họ là một dạng tài sản đặc biệt, trong khi tài sản cố định và tài sản lưu động chỉ là những hàng hóa vô tri.
+
+Thông qua giao tiếp, họ còn tạo ra các mối quan hệ với gia đình và bạn bè - đây chính là những khách hàng tiềm năng của tổ chức. Hơn nữa, họ còn là người làm việc trực tiếp với các nhà cung cấp, với chính quyền địa phương và trung ương, với cộng đồng ...
+
+Hình 1.1 - Cách con người mở rộng ranh giới của tổ chức.
+
+Con người là một nguồn lực có thể mở rộng không giới hạn. Họ xóa mờ các ranh giới bằng cách thu hút các đối tượng bên ngoài tham gia vào hoạt động của doanh nghiệp. Ngoài ra, còn có một số nhân viên tuy thuộc các nhóm nằm ngoài doanh nghiệp nhưng lại đóng vai trò rất quan trọng đối với sự thành công của doanh nghiệp. Họ vừa có thể là nhân viên, vừa là khách hàng, là cổ đông hay cũng có thể là thành viên của cộng đồng địa phương.
+
+Vai trò chính của giám đốc điều hành trong một doanh nghiệp là đưa ra định hướng cho mọi thành viên còn lại. Họ cần phải có một tầm nhìn chiến lược để nâng cao hiệu quả hoạt động, và quan trọng hơn cả là họ phải định hướng phát triển cho doanh nghiệp ấy. Những công ty được quản lý kém không có phương hướng và mục tiêu dài hạn rõ ràng, thường xuyên phải đối mặt với những khủng hoảng, khó khăn phát sinh.
+
+VAI TRÒ CỦA CHUYÊN VIÊN PR
+
+Chiến lược hoạt động của một doanh nghiệp, bao gồm định hướng phát triển cũng như phạm vi hoạt động của doanh nghiệp đó, là kết quả từ những nỗ lực phân tích, đánh giá và ra quyết định của rất nhiều người, cả bên trong lẫn bên ngoài doanh nghiệp. Sau khi hoạch định xong, chiến lược đó cần được truyền đạt đến mọi người để được ủng hộ và triển khai. Đó là lý do vì sao công tác PR lại đóng vai trò thiết yếu cả trong việc phát triển chiến lược lẫn trong các hoạt động truyền thông.
+
+Truyền thông là một hoạt động tình báo tin tức
+
+Nhiệm vụ của chuyên viên PR là truyền dẫn thông tin và xây dựng mối quan hệ với các đối tượng công chúng có liên quan đến hoạt động của doanh nghiệp. Vì vậy, các chuyên viên PR cần phải nhận thức rõ môi trường hoạt động của doanh nghiệp bởi đó chính là môi trường mà các đối tượng công chúng có liên quan tồn tại, và những người làm công tác PR không thể hiểu được các nhóm đối tượng này một cách toàn diện nếu không có sự nghiên cứu sâu sắc về các yếu tố xã hội, công nghệ, kinh tế, chính trị và văn hóa vốn tác động trực tiếp cũng như định hướng cuộc sống của họ.
+
+Sau đó chuyên viên PR sẽ cung cấp những thông tin này cho các nhà hoạch định chiến lược. Do đó, có thể nói vai trò của các chuyên viên PR chính là "mở rộng ranh giới", nghĩa là giúp xóa bỏ khoảng cách giữa tổ chức và các đối tượng công chúng bên ngoài. Họ vừa là người của doanh nghiệp, vừa là người của công chúng nên họ được xem như là đại diện cho các quan điểm khách quan và những phản ứng có thể xảy ra ở công chúng. Đây cũng là nhiệm vụ thiết yếu mà các chuyên viên PR có thể đóng góp cho quá trình hoạch định chiến lược. Ngoài ra, các chuyên viên PR còn đảm nhiệm vai trò giám đốc truyền thông trong nội bộ doanh nghiệp và công việc của họ là tập hợp những thông tin có liên quan đến giới công chúng bên trong chính tổ chức đó.
+
+Tất nhiên, các thông tin chuyên biệt như dữ liệu kinh doanh, tài chính, mức độ phát triển khoa học công nghệ sẽ do các chuyên gia thuộc những bộ phận khác nhau trong doanh nghiệp cung cấp. PR, với vai trò "mở rộng ranh giới", có chức năng hoạt động như một đơn vị tập hợp các dữ liệu thông tin; và nếu có đủ nguồn nhân lực được đào tạo bài bản, bộ phận PR cũng có thể thực hiện việc phân tích và xử lý các thông tin thu thập được. Thông qua những điều đã tìm hiểu về các đối tượng công chúng có liên quan, các chuyên viên PR còn có thể hỗ trợ tổ chức/doanh nghiệp hoạt động phù hợp với quan điểm và thái độ của các cổ đông đang nắm giữ vận mệnh của doanh nghiệp.
+
+Vai trò mang tính chiến lược của PR như đã phân tích trên đây chứng tỏ rằng các cấp quản lý đã thừa nhận vị thế của PR. PR không chỉ đơn thuần là một công cụ để truyền đạt thông tin hay nâng cao ý nghĩa của thông tin mà PR còn là một bộ phận không thể tách rời trong chiến lược phát triển dựa trên các kết quả nghiên cứu toàn diện và những phân tích chuyên nghiệp, có mục tiêu rõ rệt.
+
+Một số quan hệ chuyên môn mà bộ phận PR tạo dựng được trở thành những nguồn lực vô giá trong việc cung cấp những thông tin ban đầu và có thể chỉ ra cụ thể những vấn đề đang nổi lên có khả năng tác động sâu sắc đến tổ chức. Ví dụ, việc phân tích nội dung truyền thông có thể giúp chúng ta nhận diện được tầm quan trọng của một vấn đề, hay hướng đánh giá của công chúng đối với một vấn đề nào đó. Các mối quan hệ công vụ có thể tiết lộ đôi chút về quan điểm của chính quyền đối với những hoạt động lập pháp sắp diễn ra.
+
+Bằng sự nhạy bén với môi trường, các chuyên viên PR không chỉ cung cấp những thông tin hữu ích cho quá trình phát triển chiến lược mà còn đóng góp rất nhiều cho quá trình ra quyết định bên trong doanh nghiệp. Nhờ thường xuyên tiếp xúc với các thông tin bên trong lẫn bên ngoài có liên quan đến doanh nghiệp nên họ có thể đưa ra những ý kiến khách quan và cần thiết cho quá trình ra quyết định của các nhà quản lý - những người khó có thể hành động một cách khách quan vì thường xuyên phải tiếp xúc trực tiếp với sự việc, hoặc không nắm được những ngóc ngách của vấn đề từ góc nhìn của người ngoài cuộc. Và thật ra cũng cần phải đánh giá tính đúng đắn, hợp lý của vấn đề trên một phạm vi khác rộng hơn. Ví dụ, xét về mặt lợi ích kinh doanh thì không gì bằng khi có thể tìm được những nguồn cung cấp đầu vào rẻ nhất, đáng tin cậy nhất. Thế nhưng điều gì sẽ xảy ra nếu doanh nghiệp sử dụng nhân lực là trẻ em chưa đến tuổi lao động?
+
+Do đó, ở đây các chuyên viên PR đóng vai trò kép đối với các doanh nghiệp. Trước hết, họ giúp đội ngũ quản trị cấp cao nắm bắt thông tin về những gì đang diễn ra trong môi trường xã hội, mà đại diện là các cổ đông của doanh nghiệp, để từ đó doanh nghiệp có thể sử dụng những thông tin hữu ích này trong quá trình ra quyết định. Quá trình truyền thông diễn ra hai chiều như hình 1.2.
+
+Thứ hai, dựa trên những dự đoán phản ứng của các đối tượng công chúng có liên quan tác động trực tiếp đến sự phát triển của tổ chức, các chuyên viên PR còn tư vấn cho đội ngũ quản trị về ảnh hưởng của những quyết định của họ. Chuyên viên PR chính là người quan sát ý kiến của công chúng, và là người cố vấn lương tâm và đạo đức cho tổ chức.
+
+Hình 1.2 - Luồng thông tin hai chiều giữa tổ chức và những môi trường có liên quan.
+
+KỸ NĂNG TRUYỀN THÔNG
+
+Một chiến dịch sau khi hoạch định xong cần được truyền đạt đến tất cả mọi người có liên quan. Khi đó, các chuyên viên PR sẽ cố vấn cho đội ngũ quản trị cấp cao về cả nội dung truyền thông lẫn các cơ chế cần thiết để chuyển tải thông tin đến công chúng và thu thập phản hồi từ phía họ. Bất kỳ chiến dịch nào cũng đều quan trọng nên hầu hết các nhà quản trị thường truyền đạt bằng những ngôn ngữ khoa trương và bằng những hình thức không phù hợp. Các chuyên viên PR cần phải ngăn chặn những hành động như thế xảy ra và đưa ra những lời khuyên về cách thực hiện công tác truyền thông sao cho thật chuyên nghiệp.
+
+Chính vì phải chuyển tải những thông điệp rõ ràng đến các đối tượng công chúng nên đòi hỏi cần phải có sự khắt khe và cẩn trọng trong quá trình tư duy chiến lược và ra quyết định. Điều này còn giúp làm sáng tỏ những sáng kiến không thực tế và buộc các cấp quản trị phải tư duy toàn diện về ý nghĩa thực tiễn của kế hoạch mà họ đã đặt ra. Việc diễn đạt các ý tưởng bằng những ngôn từ đơn giản là một cách để kiểm tra tính thực tế của các ý tưởng đó, và góp phần làm đơn giản hóa việc so sánh, đánh giá giữa những gì đã nói và những gì đã làm.
+
+Về chiến thuật thực hiện, các chuyên viên PR có nhiệm vụ là quản lý mối quan hệ truyền thông giữa một tổ chức và các cổ đông hay ngược lại bằng cách bảo đảm nội dung truyền thông và phương thức thực hiện công tác truyền thông luôn phù hợp và kịp thời.
+
+Ví dụ, trong trường hợp các cổ đông muốn có được những thông tin chi tiết về kế hoạch phát triển của công ty, kể cả tham vọng mở rộng toàn cầu của tổ chức này thì khi đó, cách thức và thời điểm truyền đạt những thông tin này đến họ là hết sức quan trọng.
+
+Tầm quan trọng của công tác truyền thông
+
+Trước hết, truyền thông giúp nâng cao các mục tiêu chiến lược của tổ chức, nhờ thu hút được sự hỗ trợ từ nhiều nhóm công chúng chủ chốt thông qua việc thể hiện rõ tầm nhìn cũng như những giá trị của doanh nghiệp. Đây không đơn thuần là công việc chuyển tải một tầm nhìn đến với công chúng, mà công tác truyền thông còn tạo ra động lực để theo đuổi những mục tiêu đó hoặc ít nhất là nhận được sự tán thành từ phía công chúng - bởi mục đích cốt lõi của truyền thông là tác động đến hành vi của người khác.
+
+Dĩ nhiên, nếu tổ chức biết tiếp thu những ý kiến đóng góp từ các nhóm công chúng chủ chốt khi phát ngôn và hành động, thì hoạt động truyền thông sẽ ít nhiều chịu ảnh hưởng bởi những quan điểm khách quan của công chúng. Nhờ thế, hoạt động truyền thông của doanh nghiệp sẽ ngày càng hiệu quả hơn vì luôn theo sát được mong muốn của đối tượng công chúng liên quan.
+
+Thứ hai, truyền thông giúp củng cố các mối quan hệ với những nhóm công chúng chủ chốt - những nhóm công chúng có vai trò rất lớn trong việc thành công hay thất bại của một doanh nghiệp. Việc củng cố những mối quan hệ tích cực đó sẽ gia tăng cơ hội nắm bắt thông tin cho doanh nghiệp, giúp doanh nghiệp sớm nhận diện và triển khai các hoạt động cần thiết (có thể là một cơ hội bán hàng, hoặc một cơ hội tác động đến hoạt động lập pháp). Điều này còn giúp giảm thiểu các mối đe dọa nhờ phát hiện sớm các vấn đề hay những mâu thuẫn tiềm ẩn (ví dụ, nhận ra được sự bất mãn hoặc không hài lòng của nhân viên đối với một hoạt động nào đó của công ty).
+
+Vị trí của PR trong tổ chức
+
+Để đánh giá tầm quan trọng của PR trong một tổ chức bất kỳ là xem xét vai trò và chức năng của PR trong tổ chức đó. Nếu những nhà quản trị PR cấp cao cũng đồng thời là thành viên trong "liên minh thống trị", tức là những người ra quyết định trong tổ chức, thì điều đó có nghĩa là PR đóng vai trò chiến lược trong tổ chức đó. Những cá nhân này thường đảm nhiệm các hoạt động nghiên cứu và tư vấn đã được phác họa trước. Trong trường hợp ngược lại, PR chủ yếu chỉ mang tính chiến thuật. Nó cũng có thể chỉ được xem là một phần của truyền thông tiếp thị hỗn hợp hoặc chủ yếu chỉ để giải quyết vấn đề trình bày thông tin của tổ chức qua những hình thức phù hợp, ví dụ như các hoạt động tuyên truyền hay quảng bá.
+
+Cũng có thể xem xét mức độ chuyên nghiệp của PR trong một tổ chức bằng cách đánh giá xem hoạt động này chủ yếu mang tính đối phó hay chủ động. Dĩ nhiên, mọi chương trình PR ít nhiều đều mang tính đối phó trước một tình huống hay một vấn đề nào đó. Thế nhưng dù có hoạch định và chuẩn bị tốt đến mấy thì một tổ chức cũng có thể phải đối diện với những tình huống ngoài dự tính. Đôi khi tình huống bất ngờ đó cũng có thể là những cơ hội vàng cho tổ chức. Ví dụ, giới truyền thông đang quan tâm đến nạn đói ở châu Phi. Và nếu tổ chức của bạn đảm nhiệm các hoạt động từ thiện để giúp đỡ trẻ em mồ côi ở châu Phi thì đó chính là cơ hội vàng để tổ chức của bạn quảng bá về mình.
+
+Tại những công ty thực hiện công tác PR nghiêm túc và chủ động, thông thường nhà quản trị PR cấp cao sẽ đảm nhận một vị trí quan trọng trong tổ chức đó. Nhiệm vụ của họ là tư vấn cho những nhà quản trị cấp cao khác, và có trách nhiệm toàn diện đối với chiến lược truyền thông của tổ chức (có thể bao gồm chiến lược tiếp thị, quảng cáo và quảng bá toàn diện). Dĩ nhiên để làm được điều đó, cần có sự phối hợp chặt chẽ với các lĩnh vực chuyên môn có liên quan.
+
+Mục tiêu của các hoạt động PR là nhằm xây dựng danh tiếng cho một tổ chức trên cơ sở một kế hoạch chiến lược bài bản. Vì thế, những vấn đề như trách nhiệm xã hội hay mối quan hệ với các cấp chính quyền luôn được xem xét một cách nghiêm túc. Mọi chương trình hoạt động đều được xây dựng dựa trên những kết quả khảo sát chính thức hoặc không chính thức nhưng phải tuyệt đối tin cậy, sự hiểu biết về các đối tượng công chúng có liên quan, nhận xét của các đối tượng công chúng này đối với tổ chức và mức độ ưu tiên của tổ chức trong suy nghĩ của họ. Hoạt động truyền thông với công chúng là một quá trình hai chiều, trong đó tổ chức là đối tượng luôn sẵn sàng thay đổi khi cần thiết. Các chương trình được vạch ra sẽ phải tính đến hiệu quả tác động của nó dựa trên mục đích làm thay đổi thái độ, ý kiến và hành vi của công chúng. Ở đây, tính hiệu quả được đặt lên hàng đầu chứ không phải là số lượng thông tin đưa ra trong một hoạt động PR. Thông thường các tổ chức quan tâm nghiêm túc đến hoạt động PR là những công ty đầu ngành và tạo nên tốc độ phát triển trên thị trường. Họ chính là tiếng nói đại diện cho ngành và là bộ mặt truyền thông tiêu biểu trước công chúng. Đó là những tổ chức truyền thông thật sự cởi mở, sẵn sàng đối thoại với công chúng.
+
+Ngược lại, trong những tổ chức có hoạt động PR chỉ ở vị trí thấp kém và mang tính đối phó, chúng ta có thể dễ dàng nhận thấy một số đặc điểm rất rõ rệt. Người thực thi chức năng PR sẽ không đồng thời nắm giữ vị trí quản lý cấp cao và không được tham gia vào quá trình ra quyết định của doanh nghiệp. Nhiệm vụ PR của họ chủ yếu là để đối phó với các sự kiện và thường chỉ mang tính tự vệ. Các hoạt động PR này chỉ nhằm truyền đạt những gì đã xảy ra, và phần lớn diễn ra một chiều, nghĩa là tổ chức sẽ thông báo cho các đối tượng công chúng có liên quan biết họ đã, đang và sẽ làm gì; nhưng đồng thời sẽ không bị ảnh hưởng bởi bất kỳ sự phản hồi nào từ bên ngoài. Người thực thi chức năng PR sẽ cảm thấy không được đánh giá cao và không hề có mặt trong "liên minh thống trị".
+
+Một phần đó là do bản chất của lĩnh vực PR và cá nhân những người thực hiện công tác PR thường chỉ quan tâm đến vai trò mang tính chất đối phó, thiên về kỹ thuật đối với hoạt động này. Nói đến PR, đa phần mọi người chỉ nghĩ đến những mối quan hệ với giới truyền thông, cụ thể hơn là đến sự quảng bá miễn phí từ giới truyền thông, hay chỉ là một phần của hoạt động truyền thông tiếp thị. Hình vẽ trong sơ đồ 1.3 thể hiện mối quan hệ giữa PR và marketing, chỉ ra những lĩnh vực hoạt động chung, cũng như những lĩnh vực mà PR có các phạm vi hoạt động khá tách biệt.
+
+Những người thực hiện công tác PR cần phải trang bị đủ kiến thức chuyên môn cần thiết cũng như nắm vững cơ chế hoạt động của lĩnh vực này. Có như thế họ mới tự tin ngồi vào bàn để hoạch định, quản lý và ra quyết định.
+
+Kết quả nghiên cứu cho thấy các thiếu sót lớn nhất của những người làm PR là thiếu kỹ năng phân tích tài chính và ngân sách. Ngoài ra, họ còn yếu kém ở những kỹ năng khác như kỹ năng giải quyết vấn đề, ra quyết định, thiết lập mục tiêu, xác lập thứ tự ưu tiên, hoạch định và tổ chức, phân tích và quản lý thời gian.
+
+Để phát triển trở thành một lĩnh vực độc lập, PR phải đảm nhận tốt những chức năng về tri thức, hoạch định và quản lý cũng giống như bao chức năng kinh doanh khác. Ví dụ, người làm PR cần có những khả năng cơ bản như đọc hiểu bản cân đối kế toán, biết cách triển khai những nghiên cứu cần thiết, v.v.
+
+CÁCH THỨC TỔ CHỨC HOẠT ĐỘNG PR
+
+Để tổ chức một hoạt động PR, cách thông thường nhất là phân chia theo tuyến nhiệm vụ hoặc chức năng. Dĩ nhiên, nếu doanh nghiệp chỉ có vài chuyên viên PR đơn lẻ thì những người này sẽ phải đảm nhiệm tất cả mọi công việc có liên quan.
+
+Tại một số tổ chức, cơ cấu hoạt động thường được phân chia theo nhiệm vụ, nghĩa là phân chia công việc trên cơ sở trách nhiệm hay nhiệm vụ cá nhân, rồi chuyển giao cho từng nhóm nhỏ hay các cá nhân để triển khai. Cụ thể như sau:
+
+Trong khi đó, những tổ chức khác lại phân chia cơ cấu hoạt động theo chức năng. Nghĩa là, các lĩnh vực hoạt động được phân chia tách biệt nhau, trong đó những nhóm nhỏ hay các cá nhân sẽ đảm nhận toàn bộ công việc có liên quan. Cụ thể như sau:
+
+Khi tiến hành hoạt động PR ở một tập đoàn đa chi nhánh thì chắc chắn sẽ có nhiều điều khác biệt. Một số tập đoàn lớn thường có các bộ phận chức năng quy mô, đảm nhiệm hoạt động PR cho cả tập đoàn và cho từng chi nhánh. Trong khi đó, tại các tập đoàn khác chỉ có một bộ phận chức năng nhỏ chuyên đảm trách các hoạt động lớn của doanh nghiệp như hoạt động tài chính, quan hệ chính quyền, và có thể cả mảng tài trợ doanh nghiệp. Các hoạt động còn lại sẽ do các chi nhánh đảm nhiệm. Thông thường, phương thức hoạt động chung của cả tổ chức cũng sẽ được áp dụng cho hoạt động PR, nghĩa là, nếu hoạt động của chi nhánh phần lớn chịu sự quản lý từ trụ sở trung tâm thì hoạt động PR cũng sẽ chịu sự quản lý đó. Ngược lại, nếu những chi nhánh được quyền hoạt động độc lập thì hoạt động PR cũng có thể được chi nhánh tự do quản lý.
+
+CÁC VAI TRÒ CHÍNH TRONG HOẠT ĐỘNG PR
+
+Theo các nhà nghiên cứu về PR như Glen Broom và David Dozier, có hai vai trò nổi trội nhất trong hoạt động PR:
+
+Chuyên viên truyền thông: Tuy không tham gia vào việc ra các quyết định có liên quan đến tổ chức nhưng lại chịu trách nhiệm triển khai những chương trình PR như viết thông cáo báo chí, biên tập tạp chí nội bộ, hay thiết kế trang web. Chuyên viên truyền thông sẽ không tham gia nhiều vào việc triển khai các chương trình nghiên cứu hay đánh giá mà chỉ chuyên tâm vào quá trình thực hiện kế hoạch.
+Nhà quản lý truyền thông: Lên kế hoạch và quản lý các chương trình PR, tư vấn cho các nhà quản lý, ra các quyết định về chính sách truyền thông...
+
+Ở cấp độ quản lý truyền thông, có ba vai trò quản lý chính như sau:
+
+Chuyên gia thẩm định: Là người nghiên cứu và xác định các vấn đề về PR, thiết lập và triển khai các chương trình cùng với sự hỗ trợ của những người khác.
+Điều phối viên truyền thông: Là người đóng vai trò trung gian, duy trì mối liên lạc hai chiều giữa tổ chức và công chúng. Nhiệm vụ chính của họ là kết nối, phiên dịch hoặc hòa giải ổn thỏa giữa hai bên.
+Điều phối viên giải quyết sự cố: Là người chuyên hỗ trợ những người khác trong tổ chức để giải quyết những rắc rối về PR. Họ đóng vai trò là người tư vấn trong quá trình hoạch định và triển khai các chương trình hành động. Vai trò này thường do những nhà tư vấn chuyên môn đảm nhiệm.
+
+Ngoài ra, ở cấp độ trung gian giữa cấp quản lý và chuyên viên cũng có hai vai trò:
+
+Vai trò quan hệ truyền thông: Đây là một chức năng mang tính hai chiều, trong đó người đảm nhiệm vai trò này một mặt sẽ duy trì sự liên hệ với giới truyền thông, mặt khác sẽ cung cấp thông tin cho tổ chức về những nhu cầu và mối quan tâm của giới truyền thông. Đây là một vai trò đòi hỏi phải có kỹ năng cao và kiến thức chuyên sâu để có thể nắm bắt nhanh chóng về giới truyền thông. Vai trò này thích hợp nhất cho những người đã từng làm phóng viên bởi yêu cầu chính để đảm nhận tốt vai trò này là khả năng quan hệ rộng rãi với giới truyền thông.
+Vai trò truyền thông và liên kết: Hỗ trợ các nhà quản lý PR cấp cao bằng cách đại diện cho tổ chức ở những lễ hội hay sự kiện, và tích cực tạo cơ hội cho cấp quản lý giao tiếp với các đối tượng công chúng nội bộ lẫn bên ngoài.
+
+Vai trò quản lý và chuyên viên ở mỗi doanh nghiệp sẽ khác nhau. Nếu xét ở cấp thấp nhất, thì tại những tổ chức lớn các vai trò này được phân chia theo tuyến nhiệm vụ, một chuyên viên PR có thể chỉ có mỗi một nhiệm vụ là viết bản tin nội bộ. Trong khi ở những tổ chức khác, người này lại có thể đảm nhiệm cả những công việc viết lách khác, như soạn thảo các bài diễn văn, đặc biệt nếu phòng ban PR được phân chia theo chức năng hay có quy mô nhỏ.
+
+Trong khi đó, ở cấp trung gian, những người thực thi hoạt động PR có thể chịu trách nhiệm đối với toàn bộ chương trình quan hệ truyền thông hoặc chỉ chuyên lo về các vấn đề PR nội bộ. Đôi khi, họ tham gia vào cả hai vai trò. Một số người có thể chuyên về nghiên cứu hay hoạch định, ít liên quan đến hoạt động triển khai, hoặc họ có thể là một nhân viên quan hệ khách hàng trong một tổ chức tư vấn và tham gia vào hầu hết các nhiệm vụ hoạch định và triển khai PR.
+
+Và ở cấp độ cao hơn, các nhà quản lý PR sẽ lên kế hoạch cho toàn bộ những chương trình PR, đồng thời tư vấn cho những nhà quản trị cấp cao về các chính sách cũng như giám sát những người thực thi cấp dưới.
+
+Trên thực tế, hầu hết các hoạt động PR đều đòi hỏi cả hai vai trò kỹ thuật chuyên môn lẫn quản lý. Trong quá trình phát triển sự nghiệp, mặc dù có nhiều vị lãnh đạo đã lần lượt hoặc cùng lúc nắm giữ các vai trò quản lý khác nhau, nhưng hầu như lúc nào nhiệm vụ của họ cũng ít nhiều liên quan đến quá trình thực thi hoạt động PR.
+
+Vì các vấn đề cần được giải quyết ngày càng trở nên phức tạp nên tính chuyên môn trong hoạt động PR cũng ngày càng tăng cao. Bạn có thể nhìn thấy rõ điều này qua việc nhiều tư vấn viên giờ đây tính phí dịch vụ theo từng lĩnh vực chuyên môn cụ thể, ví dụ, thời trang, sản phẩm công nghệ cao...; còn ở những tổ chức lớn hơn, họ sẽ cung cấp dịch vụ trọn gói với đội ngũ chuyên viên sẵn có trong tổ chức.
+
+2.
+PR TRONG BỐI CẢNH THỰC TIỄN
+
+MÔI TRƯỜNG THỰC TIỄN ĐÓNG VAI TRÒ CỰC KỲ QUAN TRỌNG
+
+Đ
+ể đạt được hiệu quả trong việc hoạch định và quản lý chiến dịch PR, điều quan trọng nhất mà chúng ta cần phân tích thật kỹ là bối cảnh thực tiễn mà hoạt động PR sẽ diễn ra - đó là những yếu tố có khả năng tác động đến tổ chức. Hình 2 sẽ cung cấp cho chúng ta những thông tin cơ sở cần thiết để có thể thực hiện hoạt động hoạch định và quản lý PR hiệu quả.
+
+Hình 2 - Các yếu tố cần xem xét khi nghiên cứu bối cảnh thực tiễn của hoạt động PR.
+
+CÔNG CHÚNG
+
+Chúng ta sẽ có cơ hội tìm hiểu sâu hơn về từng nhóm công chúng cụ thể trong chương 6, tuy nhiên ngay từ đầu, chúng ta cần phải có cái nhìn bao quát về các đối tượng công chúng có liên quan đến hoạt động PR của mình. Việc am hiểu các đối tượng công chúng là một yếu tố rất quan trọng trong việc xác định những công tác PR cụ thể mà chúng ta cần phải thực hiện vì mỗi nhóm công chúng khác nhau sẽ có những nhu cầu truyền thông khác nhau - mặc dù nội dung thông tin cần chuyển tải đến cho tất cả các nhóm này đều phải thống nhất.
+
+Ngoài mục đích xây dựng danh tiếng, các hoạt động PR còn nhằm tranh thủ sự hỗ trợ từ các nhóm công chúng. Đó có thể là sự hỗ trợ mang tính tích cực và nhanh chóng, chẳng hạn như các hoạt động PR nhằm tăng doanh số hay hạn chế các cổ đông bán cổ phiếu ra bên ngoài. Hoặc cũng có khi là sự hỗ trợ mang tính dài lâu, như các hoạt động PR nhằm mục đích cảm ơn cộng đồng vì họ đã mang đến cho tổ chức của chúng ta một lực lượng lao động đáng kể. Dù hoạt động PR thứ hai này không nhắm đến một mục đích kinh doanh cụ thể nào nhưng chính động thái đó lại giúp tạo thêm thiện cảm của công chúng đối với tổ chức của chúng ta. Điều này sẽ mang đến cho tổ chức của chúng ta nhiều thuận lợi hơn trong quá trình tuyển dụng, hoặc khi mở rộng quy mô trong tương lai. Hơn nữa, sau khi đã tiến hành chương trình PR xây dựng thiện chí như vậy, chúng ta có thể thực hiện những chương trình PR khác nhằm tìm kiếm sự hỗ trợ tích cực và nhanh chóng từ phía cộng đồng.
+
+Đối với mỗi nhóm công chúng khác nhau, chúng ta cũng có những mong muốn khác nhau. Ví dụ, chúng ta muốn thay đổi ý kiến và hành vi của nhóm công chúng này, nhưng lại muốn xác nhận những hành vi hay ý kiến hiện hữu của nhóm công chúng khác, hoặc muốn gây ảnh hưởng đến kiểu hành vi hay ý kiến của một nhóm công chúng mà trước đây họ tỏ thái độ trung lập.
+
+Những yếu tố cần ghi nhớ khi xem xét các nhóm công chúng:
+
+Phạm vi đối tượng: Là sự đa dạng của các nhóm công chúng có liên quan. Ví dụ, đối tượng công chúng của một nhà sản xuất các thiết bị quân sự chuyên môn hóa cao thì rất hạn chế; nhưng đối tượng công chúng của những tổ chức như Sở Y tế, Giáo dục thì lại rất rộng lớn.
+Số lượng và khu vực: Một số tổ chức có số lượng công chúng rất lớn và trải rộng trên nhiều khu vực địa lý hay tầng lớp kinh tế xã hội khác nhau, ví dụ như hệ thống cửa hàng bán lẻ sẽ có những nhóm công chúng trực tiếp như khách hàng, nhà phân phối dịch vụ và chính quyền địa phương. Trong khi đó, những tổ chức khác như công ty xây dựng chỉ có một số lượng công chúng nhất định, thường không lớn lắm, gắn liền với từng dự án riêng biệt.
+Quyền lực và tầm ảnh hưởng: Một số nhóm công chúng có quyền lực và tầm ảnh hưởng rất lớn, đặc biệt nếu họ hiểu được những suy nghĩ của công chúng. Tuy những đối tượng này có thể có quy mô nhỏ và không có bất kỳ sự liên hệ trực tiếp nào với tổ chức, nhưng họ lại có khả năng ảnh hưởng mạnh mẽ đến cách thức hoạt động của tổ chức. Chẳng hạn như vụ Shell buộc phải hủy bỏ quyết định đánh chìm dàn khoan dầu Brent Spar ở Biển Bắc do tác động của Greenpeace(*), một tổ chức tuy nhỏ nhưng vô cùng năng động và có khả năng thu hút được sự chú ý và ủng hộ của công chúng. Ngoài ra, các cổ đông là những người nắm giữ quyền lực không nhỏ. Họ có những quyền lợi rất rõ ràng trong tổ chức và có thể quyết định tương lai của nó chỉ sau một đêm. Nhiệm vụ của người làm PR là phải xác định được quyền lực và mức độ ảnh hưởng của tất cả các nhóm công chúng có liên quan để căn cứ vào đó mà quyết định tính chất quan trọng của các chương trình PR. Điều này không có nghĩa là bạn phải chi tiêu thật nhiều cho những nhóm công chúng quan trọng nhất, nhưng bạn cũng cần phải chú ý đến các mối quan tâm và nhu cầu truyền thông của họ.
+Sự liên kết với tổ chức: Về cơ bản, có một số nhóm công chúng luôn có mối liên hệ với tổ chức, chẳng hạn như thông qua nhân viên của công ty hoặc thông qua trang web của công ty. Đó có thể là những mối quan hệ thân thiện hay đối lập. Một lần nữa, những người làm PR cần phải nhận thức rõ về những mối quan hệ này; đồng thời, phải có khả năng dự đoán diễn biến của các mối quan hệ đó. Theo thời gian, một số mối quan hệ sẽ trở nên xa cách hoặc xấu đi, nhưng một số khác lại trở nên tốt đẹp hơn. Hơn nữa, trong một số nhóm lớn lại có những nhóm nhỏ vô cùng tích cực, do đó, bên trong mỗi nhóm đều có thể ẩn chứa những tiềm năng lớn nếu được khai thác kịp thời, đúng cách. Các cổ đông là những điển hình tiêu biểu cho nhóm công chúng này. Do đó, những người làm PR không chỉ phải xét đến toàn thể các nhóm công chúng mà còn phải chú ý đến cả những thành phần bên trong nhóm đó.
+
+TÁC ĐỘNG CỦA LĨNH VỰC, NGÀNH NGHỀ
+
+Lĩnh vực hoạt động của tổ chức sẽ có tác động sâu sắc đến phương thức triển khai hoạt động PR. Ví dụ, hoạt động PR của một nhà sản xuất hàng tiêu dùng dẫn đầu thị trường sẽ hoàn toàn khác với hoạt động PR của một trường đại học.
+
+Mỗi lĩnh vực hoạt động sẽ có những cơ hội, rủi ro và hạn chế riêng biệt. Sau đây là một số lĩnh vực hoạt động phi lợi nhuận hay công ích:
+
+Giáo dục
+Chính quyền
+Dịch vụ y tế quốc gia • Tổ chức tình nguyện
+Tổ chức từ thiện
+Các dịch vụ cứu hộ, cứu nạn
+Lực lượng vũ trang
+Tổ chức phi chính phủ, như Tổ chức Y tế Thế giới
+
+Một số tổ chức trong những lĩnh vực này có quy mô rất lớn, và đối với những Bộ lớn trong chính phủ như Bộ Y tế, thì hoạt động PR cũng mang tính phức tạp và có quy mô giống như bất kỳ tập đoàn thương mại nào trong khu vực tư nhân. Trên thực tế, chính những tổ chức này lại chịu nhiều áp lực PR hơn so với các tổ chức tư nhân vì nghĩa vụ của họ là gắn liền trực tiếp với xã hội.
+
+Ngay cả khu vực kinh tế tư nhân cũng không thể được xem là một thể đồng nhất. Khu vực này có thể được phân chia thành những lĩnh vực khác nhau như:
+
+Thương mại
+Tài chính
+Sản xuất
+Dịch vụ
+Bán lẻ
+
+Riêng lĩnh vực thương mại điện tử đang trên đà phát triển mạnh mẽ và gần như có thể được xếp vào một lĩnh vực mới riêng biệt.
+
+Ngoài ra, bạn cũng có thể nhận thấy rằng làm việc trong môi trường sản xuất, vốn tập trung nhiều đến các hoạt động truyền thông tiếp thị về khuyến mãi bán hàng như triển lãm, giới thiệu sản phẩm mới, hội nghị..., có thể hoàn toàn khác biệt với làm việc trong lĩnh vực dịch vụ thương mại, nơi mà các tổ chức thường tiến hành các hoạt động PR chủ yếu bằng hình thức văn bản, giấy tờ. Dĩ nhiên, còn phải kể đến những phương tiện truyền thông đa phương tiện mới như truyền hình tương tác (I-TV - Interactive Television) và Internet đã mở ra những kênh PR hiện đại, và mang lại các cơ hội tuyệt vời cho những chuyên viên PR.
+
+MỨC ĐỘ PHÁT TRIỂN CỦA TỔ CHỨC
+
+Những hoạt động PR thường phụ thuộc vào các giai đoạn phát triển của tổ chức và quá trình phát triển này lại phụ thuộc vào lĩnh vực hoạt động của tổ chức đó. Ví dụ, trong lĩnh vực thời trang hay các ngành công nghệ cao, quá trình phát triển hay suy thoái thường diễn ra rất nhanh. Những ngành khác, như mua bán xe hơi hay bán lẻ thực phẩm, thường tăng trưởng chậm nhưng lại duy trì được vị thế lâu dài. Công ty xe hơi Ford Motor là một ví dụ điển hình về hình ảnh một công ty đã trưởng thành và có uy tín.
+
+Hơn nữa, tình hình phát triển trong mỗi lĩnh vực luôn có những biến động. Ví dụ như công ty máy tính Microsoft đã phát triển và chiếm thị phần nhanh chóng trong một ngành vốn đã nhiều năm chịu sự thống trị của những tên tuổi lớn như IBM.
+
+Các yếu tố ảnh hưởng đến sự phát triển của tổ chức:
+
+Bản chất của ngành hoạt động;
+Hoạt động của đối thủ cạnh tranh;
+Tác động công nghệ;
+Quyền lực của nhà cung cấp;
+Quyền lực của người tiêu dùng;
+Các quyết định của cấp quản trị về phương hướng phát triển;
+Các nguồn lực, cả tài chính và nhân lực.
+
+Việc xem xét các giai đoạn phát triển khác nhau của tổ chức sẽ giúp bạn rút ra được yêu cầu cụ thể cho các hoạt động PR tại những thời điểm khác nhau:
+
+Khởi đầu: Đại đa số các công ty thường khởi đầu với quy mô nhỏ. Người chủ công ty sẽ tạo mối liên hệ với nhà cung cấp, khách hàng và nhân viên; và thường không có bộ phận chức năng PR riêng biệt. Ở giai đoạn này, PR sẽ mang hình thức tiếp xúc cá nhân với nhiều nhóm công chúng khác nhau, có thể sử dụng một số tài liệu và trang web làm công cụ hỗ trợ cho quá trình này. Trọng tâm chính sẽ được đặt vào truyền thông tiếp thị, bởi vào thời điểm này, sự tăng trưởng của tổ chức là mối ưu tiên hàng đầu.
+Phát triển: Khi số lượng nhân viên và khách hàng tăng lên, việc tiếp xúc trực tiếp sẽ trở nên khó khăn vì người quản lý cần phải dành phần lớn thời gian cho việc quản lý tổ chức. Vì thế, ở giai đoạn này, công tác PR sẽ được giao cho một chuyên viên PR hoặc một công ty tư vấn PR bên ngoài. Tuy nhiên, chức năng PR vẫn còn khá hạn hẹp, chủ yếu vẫn còn kết hợp với truyền thông tiếp thị. Về mặt đối ngoại, các hoạt động sẽ tập trung vào việc nâng cao nhận thức của công chúng về công ty, về sản phẩm và dịch vụ của công ty. Về mặt đối nội, một chương trình truyền thông chính thức sẽ bắt đầu triển khai bao gồm những hoạt động như phổ biến bản hướng dẫn công việc, sử dụng e- mail, bản thông báo, các hoạt động xã hội.
+
+Ở quá trình này, hoạt động tăng trưởng và mở rộng được ưu tiên hàng đầu, do đó chi phí vốn sẽ tăng khá cao, đặc biệt khi tổ chức đề ra những tiền đề hoạt động mới. Sự thúc ép về mặt nguồn lực thường sẽ trở thành yếu tố ảnh hưởng chính đến vai trò của PR. Tuy nhiên, đây vẫn chưa phải lúc để chú trọng đến một hoạt động mang tính quan hệ cộng đồng toàn diện.
+
+Trưởng thành: Ở giai đoạn này, tổ chức thường đã được xây dựng hoàn chỉnh. Vì thế, chức năng PR sẽ được mở rộng và tăng cường, và dĩ nhiên, phạm vi các hoạt động mà tổ chức tham gia cũng sẽ được mở rộng đáng kể.
+
+Tổ chức sẽ quan tâm đến những biến động trên thị trường chứng khoán, và cần bổ sung nguồn vốn để phục vụ cho hoạt động mở rộng tổ chức hay thu mua lại các tổ chức khác. Khi đó, tổ chức cần triển khai một chiến dịch PR quy mô nhằm huy động tài chính.
+
+Song song đó, quan hệ với nhân viên sẽ được phát triển cao hơn, nhằm tạo ra một đội ngũ nhân viên làm việc hiệu quả và tích cực, cùng chung sức hướng đến mục tiêu mà tổ chức đã đề ra, cũng như duy trì lợi thế cạnh tranh của tổ chức. Cũng trong giai đoạn này, nhu cầu thu hút nhân tài tăng cao. Vì lý do đó, tổ chức sẽ chú trọng đến việc phát triển một chương trình quan hệ với nhân viên thông qua những hình thức như bản mô tả công việc cho nhân viên, tổ chức hội nghị, bản tin định kỳ và giao tiếp truyền thông qua máy tính. Khi đó, vai trò của PR có thể là tham gia hỗ trợ hoạt động đào tạo nhằm tạo nên những chương trình đào tạo có tính tương tác, và triển khai các phương tiện truyền thông tương tác đối với kênh truyền thông đối nội lẫn đối ngoại.
+
+Phòng PR có thể cần đến sự hỗ trợ của một hay nhiều nhà tư vấn PR để triển khai một chương trình PR toàn diện cho tổ chức cũng như tiếp tục hỗ trợ các nỗ lực tiếp thị. Ở giai đoạn này, tổ chức nên hình thành một bản sắc doanh nghiệp thống nhất, xuyên suốt và tạo ra uy tín vững chắc. Hơn nữa, tổ chức cũng nên kiến tạo được tinh thần trách nhiệm cao, bởi điều này sẽ ngày càng tác động đến môi trường hoạt động của tổ chức (cả ở địa phương lẫn các khu vực ở xa). Bên cạnh đó, tổ chức cũng có đủ tiềm và lực để tham gia tích cực vào nhiều dự án quan hệ cộng đồng như các hoạt động tài trợ, từ thiện, hỗ trợ các chính sách của địa phương, cho những hoạt động chính nghĩa ...
+
+Suy thoái: Để tránh rơi vào giai đoạn suy thoái, nhiều công ty tiến hành điều chỉnh định hướng hoạt động hoặc chuyển sang hẳn một lĩnh vực mới. Tuy nhiên, cho dù với bất cứ lý do gì như sáp nhập, thay đổi về tài chính hay cơ cấu tổ chức, do quản lý kém..., một số tổ chức vẫn phải trải qua một giai đoạn suy thoái tạm thời hay lâu dài. Công tác PR trong giai đoạn này đóng vai trò hết sức quan trọng vì phải nhận diện được vấn đề trước khi chúng biến thành một cuộc khủng hoảng nghiêm trọng (xem cụ thể ở chương 4). Và nếu khủng hoảng có xảy ra thì việc xử lý khủng hoảng với thái độ trung thực và chính trực (như thu hồi sản phẩm) sẽ giúp duy trì uy tín và giảm thiểu nguy cơ cuộc khủng hoảng lan rộng mất kiểm soát.
+
+Xét cho cùng, nếu một doanh nghiệp không có khả năng duy trì sự tồn tại lâu dài của mình thì PR cũng không thể làm gì để cứu lấy doanh nghiệp đó. Tuy nhiên, việc đáp lại những kỳ vọng của công chúng cũng như nỗ lực tác động đến hành vi của họ, vốn là những yếu tố có thể quyết định số phận của tổ chức đang gặp suy thoái, lại hầu như phụ thuộc vào hoạt động PR của tổ chức đó. Việc xử lý khủng hoảng trong giai đoạn này không phải là che đậy, lừa dối công chúng mà phải xử lý một cách chuyên nghiệp và có cân nhắc đến quyền lợi của tất cả các đối tượng có liên quan.
+
+NHỮNG ĐẶC ĐIỂM CỦA TỔ CHỨC
+
+Các chuyên viên PR cần phải hiểu rõ về tổ chức của mình ở mọi khía cạnh như: lịch sử hình thành và phát triển, hiện trạng, các kế hoạch tương lai,... Sau đây là danh sách các mục cơ bản mà những người làm PR cần tìm hiểu về tổ chức:
+
+Tính chất của lĩnh vực hoạt động: Lĩnh vực hoạt động của tổ chức đang mở rộng, hay thu hẹp? Có những thị trường mới và thú vị nào không? Môi trường hoạt động ra sao? Nền kinh tế có đang suy thoái, hay có một số vấn đề lớn mà công ty và ngành đang phải đối mặt, như quy định pháp lý mới, các yêu cầu bảo vệ môi trường khắt khe, hay không? Uy tín của ngành thuộc mức độ nào? (Nếu toàn ngành đều mang tiếng xấu thì đó lại chính là một rắc rối mới.)
+Hoạt động cạnh tranh: Tổ chức đứng ở vị trí nào so với các đối thủ cạnh tranh? Tổ chức có khả năng chiếm lĩnh thị trường ở một số hay tất cả các lĩnh vực không? Các đối thủ cạnh tranh có phải là những tổ chức mới, năng động, có khả năng chiếm thị phần của tổ chức không? Có ít hay nhiều đối thủ cạnh tranh trong ngành? Và tổ chức nào đang chiếm lĩnh vị trí hàng đầu? Những điểm yếu của họ là gì?
+Sứ mệnh: Sứ mệnh của tổ chức là gì? Có phải là mục tiêu trở thành một tổ chức hùng mạnh, uy tín nhất không? Tổ chức có khả năng tạo sự khác biệt cho mình không, hay chỉ hoạt động như các đối thủ cạnh tranh? Sứ mệnh của tổ chức có khả năng thực thi không, hay chỉ là một hy vọng hảo huyền cần phải điều chỉnh?
+Quy mô và cơ cấu: Tổ chức có quy mô lớn hay nhỏ so với các công ty trong và ngoài ngành? Tầm ảnh hưởng của tổ chức ra sao? Tổ chức có cơ cấu đơn giản hay là một tập đoàn phức tạp, có nhiều hệ cấp hay tương đối bằng phẳng? Tổ chức đang được tái lập cơ cấu và chuyển đổi cơ chế hoạt động? Tổ chức hoạt động tại một hay nhiều quốc gia? (Điều này khá quan trọng vì những nước khác nhau có uy tín khác nhau: uy tín của một công ty công nghệ của Đức sẽ khác với một công ty công nghệ của Trung Quốc.) Cơ cấu hoạt động PR trong lĩnh vực này ra sao? Cơ cấu đó có thích hợp không? Nên nhờ đến các nhà tư vấn hay sử dụng nguồn lực nội tại của tổ chức?
+Bản chất của tổ chức: Các hoạt động chính của tổ chức là gì? Sản phẩm đa dạng hay chỉ có một loại? Vai trò của các chuyên gia PR có cần thiết không, ví dụ họ có cần phòng công nghệ cao không, hay tất cả các hoạt động đều được triển khai từ một bộ phận PR thống nhất?
+Truyền thống và lịch sử: Công ty mới được thành lập hay đã có từ lâu đời? Có phải công ty đang hướng đến vị thế mới không? Công ty có nổi tiếng vì những phương thức hoạt động đặc trưng hay không có điều gì cụ thể? Đi liền chặt chẽ với điều này là phương châm và văn hóa của tổ chức. Có phải đó là một tổ chức cởi mở và khuyến khích mọi người tham gia, hay phân quyền theo hệ cấp và mang tính chỉ đạo?
+Hình ảnh của tổ chức: Hình ảnh của tổ chức trong công chúng ra sao trong những năm qua? Có phải tổ chức là người dẫn đầu thị trường, năng động, sáng tạo, đáng tin cậy, hay chậm chạp và thiếu nhạy bén? Hình ảnh tổ chức có luôn thống nhất, hay thay đổi nhanh chóng và thường xuyên biến động?
+Đội ngũ nhân viên: Họ là những nhân viên văn phòng hay công nhân? Trình độ của họ ra sao? Tay nghề thế nào? Tập thể đó có phải là một sự pha trộn hoàn hảo?
+
+Tất cả các yếu tố thuộc về tổ chức này sẽ ảnh hưởng sâu sắc đến cách thức xây dựng chức năng PR, hình thức và nội dung của các hoạt động cần được triển khai.
+
+CÁC VẤN ĐỀ NỔI BẬT
+
+Rõ ràng các yếu tố ảnh hưởng đến xã hội hay ngành hoạt động của tổ chức, cũng như những vấn đề cụ thể mà tổ chức phải đối mặt sẽ quyết định nội dung những chương trình PR của tổ chức. Các vấn đề này thường rơi vào các trường hợp sau:
+
+Cơ cấu: Các khuynh hướng dài hạn cốt lõi trong xã hội, như sự già đi của dân số, sự phát triển của công nghệ, những vấn đề mà từng tổ chức riêng lẻ ít có khả năng kiểm soát.
+Tác nhân bên ngoài: Những vấn đề thuộc bình diện rộng như các mối quan tâm về môi trường, về cộng đồng, những ràng buộc chính trị.
+Khủng hoảng: Thường mang tính ngắn hạn và bất ngờ, như một thảm họa của nhà máy, chiến tranh, thu hồi sản phẩm.
+Tác nhân nội bộ: Những vấn đề ngắn hạn hay dài hạn mà công ty đang đối mặt từ bên trong nội bộ, như chính sách kế nhiệm hay các mối quan hệ công việc.
+Những sự kiện thời sự: Những điều thu hút ngay lập tức sự quan tâm của công chúng và xuất hiện thường xuyên trên các kênh truyền thông, ví dụ các quy định mới về bảo vệ môi trường sau khi hàng loạt thông tin về tình trạng dân cư gần các khu công nghiệp có dấu hiệu bị nhiễm bệnh do ô nhiễm môi trường, ...
+Các vấn đề tiềm ẩn: Là những vấn đề chưa xuất hiện. Tuy có vẻ không thích hợp trong danh sách này, nhưng đây lại chính là trường hợp một số vụ khủng hoảng xảy ra từ những nguyên nhân thật khó ngờ, trừ phi hệ thống thu thập thông tin của người làm PR có khả năng cảnh báo sớm về khả năng xảy ra của những vấn đề tiềm ẩn. Việc phân tích các nội dung trên phương tiện truyền thông đại chúng cũng có thể cho thấy dấu hiệu về những mối quan tâm sắp đến của công chúng, nhưng nguồn này thường không được các tổ chức quan tâm sử dụng đúng mức. Ngoài ra, các mối liên hệ với những nhà nghiên cứu, cộng đồng khoa học và những nhà dự báo tương lai cũng có thể cung cấp một hình ảnh sinh động về viễn cảnh có khả năng xảy ra.
+
+CÔNG LUẬN
+
+Công luận hay ý kiến công chúng thường được thể hiện qua các phương tiện truyền thông (đôi khi còn được giới truyền thông khuyến khích như thế) có khả năng gây ảnh hưởng rất lớn đến các tổ chức. Ví dụ chiến dịch chống lại cơ chế chuyển đổi gien ở nước Anh đã dẫn đến việc thu hồi thực phẩm chuyển đổi gien khỏi nhiều siêu thị. Những tổ chức đi đầu trong lĩnh vực hoạt động nghiên cứu này, như Monsanto, đã phải điều chỉnh kế hoạch phát triển của mình và những dự án thử nghiệm được chính phủ phê duyệt cũng đã phải bị ngưng lại.
+
+Giới truyền thông như một tấm gương phản ánh ý kiến của công chúng nên có vai trò cực kỳ quan trọng trong hoạt động PR, bởi kênh này thường được sử dụng để chuyển tải những thông điệp PR. Giới truyền thông thường xác định và làm rõ cảm xúc của công chúng, mặc dù đôi khi sức ảnh hưởng của giới truyền thông được đề cao quá mức.
+
+Sự thật là giới truyền thông có thể hủy hoại uy tín của một tổ chức hay cá nhân. Đôi khi xảy ra điều này là do tổ chức thực sự có lỗi, và giới truyền thông hoạt động vì lợi ích của công chúng. Nhưng cũng có những sự việc mà giới truyền thông tấn công vô căn cứ.
+
+Ngược lại, chính giới truyền thông cũng có thể là người nâng cao uy tín của tổ chức bằng cách quảng bá rộng rãi cho những việc làm tốt mà tổ chức đang thực hiện, hoặc báo cáo về tình hình hoạt động thành công của tổ chức. Điều này đặc biệt đúng khi những nhận xét như vậy xuất hiện trên những tờ báo chuyên ngành, ví dụ Financial Times trong trường hợp báo cáo về tài chính công ty, trên những tờ báo tổng hợp hay tạp chí người tiêu dùng nếu đó là một sản phẩm hàng tiêu dùng.
+
+KẾ HOẠCH VỀ THỜI GIAN TRIỂN KHAI
+
+Rõ ràng khung thời gian là một yếu tố hết sức quan trọng khi quyết định các chương trình PR. Cũng có khi, người làm công tác PR không gặp áp lực về thời gian khi lên kế hoạch cho các chương trình hoạt động. Tuy nhiên, trên thực tế một kế hoạch thời gian cụ thể sẽ được quyết định bởi các yếu tố ràng buộc nội tại và khách quan khi xét đến thời gian triển khai:
+
+Khung thời gian do các yếu tố khách quan quyết định: Trường hợp này rất thường xuyên diễn ra. Ví dụ, nếu một tổ chức muốn thay đổi một điều khoản trong các văn bản pháp lý nào đó, họ phải triển khai các hoạt động vận động trong khung thời gian mà Quốc hội đã quy định. Những hoạt động khác như thời gian công bố các kết quả tài chính là do Sở Giao dịch Chứng khoán quy định.
+Khung thời gian do các yếu tố nội tại quyết định: Ví dụ như các hạn chót được áp đặt ngay từ trong nội bộ đối với việc giới thiệu một sản phẩm mới, việc bổ nhiệm một giám đốc điều hành mới, quyết định xây dựng dây chuyền sản xuất mới, việc nhận được sự công nhận đạt tiêu chuẩn quốc tế...
+
+CÁC NGUỒN LỰC
+
+Mức độ đầu tư nguồn lực vào chức năng PR hay bộ phận PR sẽ xác định rõ mức độ và phạm vi hoạt động của các hoạt động PR được triển khai. (Việc tìm kiếm nguồn lực cho các chương trình cụ thể sẽ được trình bày ở chương 8.)
+
+Thông thường có hai cách đầu tư nguồn lực cho hoạt động PR. Cách thứ nhất là xác định một cơ chế tổ chức thích hợp cho những hoạt động cần được triển khai, và căn cứ vào đó để cung cấp nguồn nhân lực và tài lực.
+
+Cách thứ hai là dành một khoản ngân sách cho hoạt động PR, tương đương với nguồn lực phân bổ cho các bộ phận khác trong tổ chức, có thể là 10% trên tổng ngân sách tiếp thị. Vấn đề còn lại là xác lập mức độ ưu tiên cho các hoạt động PR và triển khai những yếu tố thiết yếu của chương trình trong phạm vi ngân sách được phân bổ.
+
+Trên thực tế, ngân sách lý tưởng luôn vượt quá ngân sách được phân bổ. Vì vậy, những người làm PR cần phải cân nhắc kỹ lưỡng mọi việc trong phạm vi ngân sách mình có.
+
+Trong khi sáu yếu tố đã nêu trong chương này tạo ra bối cảnh tổng quan cho hoạt động PR thì kế hoạch về thời gian triển khai và nguồn lực là hai yếu tố chủ yếu ràng buộc đối với các hoạt động này.

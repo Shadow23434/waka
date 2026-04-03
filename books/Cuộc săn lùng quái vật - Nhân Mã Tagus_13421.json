@@ -1,0 +1,246 @@
+{
+  "item_id": 13421,
+  "title": "Cuộc săn lùng quái vật - Nhân Mã Tagus",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:36:07.033Z",
+  "input_book": {
+    "id": 13421,
+    "title": "Cuộc săn lùng quái vật - Nhân Mã Tagus",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13421.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng h&igrave;nh tượng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Trong một lần chăn thả gia s&uacute;c, cậu b&eacute; Victor mất t&iacute;ch. Gia s&uacute;c hoảng loạn th&aacute;o chạy. Lửa lan khắp đồng cỏ. Những người n&ocirc;ng d&acirc;n v&ocirc; c&ugrave;ng hoang mang.</p>\r\n<p>Tom v&agrave; Elenna đang tăng tốc đến đồng cỏ ngăn chặn Tagus trước khi g&atilde; g&acirc;y th&ecirc;m tai họa. Nhưng việc Tom xuất hiện v&agrave;o thời điểm n&agrave;y khiến người ta ho&agrave;i nghi cậu. Tom bị nhốt v&agrave;o t&ugrave;. Liệu cậu c&oacute; gi&agrave;nh được sự tin tưởng của mọi người v&agrave; t&igrave;m lại tự do trước khi qu&aacute; muộn để ngăn Tagus kh&ocirc;ng?</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5984",
+        "name": "Adam Blade"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Sách thiếu nhi_92.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json",
+      "e:\\Crawl\\waka\\output\\Truyện tranh_Xuyên không_34.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-02 18:54:22",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13421,
+      "title": "Cuộc săn lùng quái vật - Nhân Mã Tagus",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng h&igrave;nh tượng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Trong một lần chăn thả gia s&uacute;c, cậu b&eacute; Victor mất t&iacute;ch. Gia s&uacute;c hoảng loạn th&aacute;o chạy. Lửa lan khắp đồng cỏ. Những người n&ocirc;ng d&acirc;n v&ocirc; c&ugrave;ng hoang mang.</p>\r\n<p>Tom v&agrave; Elenna đang tăng tốc đến đồng cỏ ngăn chặn Tagus trước khi g&atilde; g&acirc;y th&ecirc;m tai họa. Nhưng việc Tom xuất hiện v&agrave;o thời điểm n&agrave;y khiến người ta ho&agrave;i nghi cậu. Tom bị nhốt v&agrave;o t&ugrave;. Liệu cậu c&oacute; gi&agrave;nh được sự tin tưởng của mọi người v&agrave; t&igrave;m lại tự do trước khi qu&aacute; muộn để ngăn Tagus kh&ocirc;ng?</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "22/07/2015",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/cuoc-san-lung-quai-vat-nhan-ma-tagus-adam-blade-bqzrbW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/cuoc-san-lung-quai-vat-nhan-ma-tagus-adam-blade-bqzrbW.html?std=type%3D1%26data%3D13421%26title%3DCu%25E1%25BB%2599c%2Bs%25C4%2583n%2Bl%25C3%25B9ng%2Bqu%25C3%25A1i%2Bv%25E1%25BA%25ADt%2B-%2BNh%25C3%25A2n%2BM%25C3%25A3%2BTagus%26mini_app%3D1&type=1&data=13421&title=Cu%E1%BB%99c+s%C4%83n+l%C3%B9ng+qu%C3%A1i+v%E1%BA%ADt+-+Nh%C3%A2n+M%C3%A3+Tagus&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "44",
+          "name": "NXB Văn Hóa Văn Nghệ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5984",
+          "name": "Adam Blade",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5984\",\"name\":\"Adam Blade\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Adam Blade",
+      "author_id": "5984",
+      "category_id": "34",
+      "category_name": "Viễn tưởng ",
+      "categories": [
+        {
+          "id": "34",
+          "name": "Viễn tưởng ",
+          "parent_id": 83
+        },
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        },
+        {
+          "id": "92",
+          "name": "Giáo dục - Sách thiếu nhi",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "Viễn tưởng ",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 6,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 20,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13421&title=cuoc-san-lung-quai-vat-nhan-ma-tagus",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13421&title=cuoc-san-lung-quai-vat-nhan-ma-tagus#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1467077110,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13421.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3717,
+      "number_view": 3053,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/gAqr",
+      "read_link": "https://ebook.waka.vn/cuoc-san-lung-quai-vat-nhan-ma-tagus-rqzrbW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 3,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/content.opf?token=0c3a4z2911cd1445db16c75dddf0e94cc6bec013421",
+        "id": 13421,
+        "chapter_trail": 3,
+        "name": "Cuộc săn lùng quái vật - Nhân Mã Tagus",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/cuoc-san-lung-quai-vat-nhan-ma-tagus-rqzrbW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nMở đầu\nChương một: Bầy gia súc\nChương hai: Mắc kẹt\nChương ba: Trong tù\nChương bốn: Tiếng vó ngựa\nChương năm: Victor\nChương sáu: Trở lại thị trấn\nChương bảy: Lùa gia súc\nChương tám: Vượt sông\nChương chín: Rượt đuổi lên đồi\nChương mười: Lời nguyền của Malvel"
+    },
+    {
+      "chapterIndex": "page0015.xhtml",
+      "chapterHref": "contents/page0015.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/contents/page0015.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Gửi lời cám ơn đặc biệt tới Cherrith Baldry\n\nDành tặng Sarah"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "H\noan nghênh đã đến vương quốc Avantia. Ta là Aduro – một phù thủy tốt bụng hiện đang sống trong cung điện của Vua Hugo. Các bạn đến với chúng tôi ngay vào thời điểm khó khăn. Hãy để ta giải thích...\n\nCác Văn bản Cổ đại đã ghi lại rằng, một ngày nào đó, vương quốc thanh bình của chúng tôi sẽ lâm nguy.\n\nVà giờ đây thời khắc ấy đang đến.\n\nDưới tác động từ lời nguyền độc ác của Phù thủy Hắc ám Malvel, sáu con Quái vật – rồng lửa, thuồng luồng biển, người núi khổng lồ, nhân mã, quái vật tuyết và chim lửa – đã trở nên hung hãn và tàn phá vùng đất chúng từng bảo vệ.\n\nAvantia đang trong tình trạng cực kỳ nguy hiểm.\n\nCác Văn bản Cổ đại còn đưa ra tiên đoán về một vị anh hùng bất đắc dĩ. Người đó sẽ gánh vác Cuộc săn lùng nhằm giải thoát các Quái vật khỏi lời nguyền và cứu lấy vương quốc.\n\nChúng tôi không biết chàng trai đó là ai, chỉ biết khi nào cậu ấy xuất hiện...\n\nChúng tôi cầu nguyện rằng vị anh hùng trẻ tuổi sẽ có đủ can đảm và nhiệt tâm để đảm trách Cuộc săn lùng. Các bạn sẽ cùng chờ đợi và dõi theo với chúng tôi chứ?\n\nAvantia chào đón các bạn, Aduro"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Mở đầu",
+      "progress": null,
+      "text": "MỞ ĐẦU\n\nV\nictor giật mình tỉnh giấc. Chộp lấy kiếm, cậu ngồi dậy, e dè nhìn ngó xung quanh. Sớm tinh mơ, bầu trời phía đông đang dần hửng sáng. Vụn than trong đống lửa trại tối hôm qua vẫn còn đỏ rực. Victor nhìn kỹ đồng cỏ tối lờ mờ và bầy gia súc ngoài đó. Dường như chẳng có gì bất thường.\n\n“Chỉ là ác mộng,” cậu nghĩ nghĩ rồi chui lại vào chăn.\n\nThế nhưng cậu không sao chợp mắt tiếp. Tuần rồi đã có ba vụ tấn công gia súc trong đêm. Trong lần tấn công cuối cùng, bốn con bê bị giết. Tới bây giờ người ta vẫn chưa tìm được thủ phạm – là ai, hay cái gì. Victor không biết phải nghĩ sao nữa, nhưng rõ ràng cậu rất vui vì đêm sắp tàn. Cậu chỉ cần trông bầy gia súc đến sáng là xong. Nhóm đàn ông vẫn còn say giấc nồng bên lửa trại, cách xa đám gia súc.\n\nCậu dỏng tai nghe tiếng động trên bãi đất. Cơn gió nhẹ xào xạc lay động đám cỏ cao, và cậu nghe thấy bản nhạc du dương sau cùng của đám dế. Kế đó, một tiếng chim hót nổi lên giữa tiếng gia súc rống ầm ĩ.\n\nĐợi một phút... Đàn gia súc hẳn là đang ngủ mới đúng, sao có thể cất tiếng rống như thế!\n\nVictor bật dậy, chú mục vào bầy gia súc của mình. Chúng tụm sát nhau hơn thường lệ, đám bê con dồn hết vào giữa – dấu hiệu biểu hiện chúng đang sợ. Tại sao vậy?\n\nRồi Victor nghe có tiếng móng guốc “thịch thịch” dập dồn từ xa vọng lại. Hay do trí tưởng tượng của cậu nhỉ?\n\nBầy gia súc bồn chồn giậm giậm chân. Victor đứng phắt lên. Tiếng vó ngựa càng lúc càng gần!\n\nCó thứ gì đó ngoài kia.\n\nSau đó, từ trong bóng đêm hiện ra một hình thù to lớn mờ mờ. Rồi, đột nhiên, đứng trước mặt cậu, trong ánh lửa đỏ của đống lửa trại, là một con Quái vật đáng sợ.\n\nVictor sửng sốt. Thân trên con Quái vật mang hình người vạm vỡ, song phần thân thể ấy lại nối liền với nửa dưới của một con ngựa to khỏe.\n\nQuá đỗi khiếp sợ, Victor lảo đảo lùi lại, trố mắt nhìn sinh vật nọ chằm chằm. Mái tóc đen cùng bộ râu của nó rối bời, ảnh phản chiếu đống lửa trại khiến đôi mắt đen như đỏ rực, chất chứa cơn giận ngùn ngụt.\n\nCon Quái vật dựng đứng hai chân trước, phát ra tiếng kêu hung tợn, móng ngựa đạp đạp trên không. Trong cơn sợ hãi, Victor nhận ra con Quái vật sắp sửa lao tới!\n\nCậu cố tránh hướng tấn công của nó, song đã chậm. Một trong hai vó ngựa đạp trúng đầu Victor, cậu ngã lăn quay ra đất. Con Quái vật phi qua đống lửa, gạt những viên than nóng đỏ bắn tàn lửa bay ra tứ phía. Nó hất đầu ra sau cất tiếng rống rền vang, đám cỏ khô trên cánh đồng bắt đầu bắt lửa.\n\nVictor ngây người nhìn con vật lao đến bầy gia súc đang tuyệt vọng đến phát điên...\n\nRồi cơn đau ập đến, trước mắt cậu tối sầm."
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Chương một: Bầy gia súc",
+      "progress": null,
+      "text": "Chương một\nBẦY GIA SÚC\n\n“T\nớ nghĩ đó là thử thách khó khăn nhất trước giờ đấy,” Tom nói.\n\nTừ vùng núi phía bắc Avantia khởi hành đến mục tiêu tiếp theo, Tom ngồi ngất ngưởng trên yên chú ngựa ô Storm. Bạn đồng hành của cậu, Elenna, ngồi sau lưng cậu như mọi khi, tay vòng tới trước ôm lấy eo cậu. Tom vừa giải được lời nguyền độc ác của gã phù thủy hắc ám Malvel gieo lên người núi Arcta, thế nên cả bọn đều mệt bở hơi tai. Song Storm vẫn hiên ngang tiến lên phía trước, và Silver, con sói được Elenna thuần hóa, lặng lẽ theo sau bọn họ. Hiện tại đang là giữa trưa, trời nắng gay gắt.\n\n“Tớ tưởng mình kẹt trong cái hang đó đến hết đời luôn chứ,” Elenna đồng tình. “Arcta đã nổi cơn thịnh nộ ngút trời!”\n\n“Tớ cũng sẽ nổi đóa nếu bị một phù thủy hắc ám cầm tù làm nô lệ!” Tom hưởng ứng. Cậu thở dài đầy thỏa mãn. “Nhưng giờ Arcta đã tự do. Sẽ không còn phiền phức nào nữa.”\n\n“Không phải phiền phức từ nó,” Elenna nêu rõ. “Bọn mình có Cuộc săn lùng Quái vật mới rồi mà. Theo cậu thì còn bao lâu mới đến đồng bằng trung tâm?”\n\n“Không lâu đâu,” Tom nói. “Tớ chỉ hy vọng bọn mình đã sẵn sàng cho thử thách tiếp theo.” Cậu chạm vào cán kiếm, bồi hồi nhớ lại những thử thách mình nếm trải từ lúc bắt đầu đến giờ: Rồng lửa Ferno, thuồng luồng biển Sepron, người núi khổng lồ Arcta... Cậu lại nhớ đến cha, Taladon Tốc Độ, tự hỏi cha có tự hào về chiến tích của cậu trong Cuộc săn lùng này không. Hy vọng là có. Cha Tom mất tích khi cậu hãy còn là một đứa bé, nhưng không hiểu sao cậu lại linh cảm rằng mình đã gặp cha.\n\n“Chừng nào máu còn chảy trong huyết quản,” cậu nghĩ, “mình sẽ không làm cha thất vọng!” Rồi cậu nhớ đến Đức vua Hugo và cố vấn của ngài, Phù thủy Aduro, đã đặt niềm tin ở cậu trong Cuộc săn lùng này – cậu cũng không muốn làm họ thất vọng.\n\n“Tớ biết cậu làm được mà,” Elenna nghịch ngợm đấm cậu một cái, nói. “Đừng quên còn có tớ bảo vệ cậu.”\n\nTom ngoái đầu nhìn cô, miệng mỉm cười. “Tớ chưa từng quên điều đó. Thực lòng tớ rất vui vì bọn mình đã gặp nhau! Không có cậu tớ không đời nào hoàn thành được chừng ấy nhiệm vụ!”\n\nCậu cho Storm dừng lại, đoạn lấy tấm bản đồ ma thuật trong túi ra. Elenna ló đầu qua vai cậu nhìn ké. Một đường ánh sáng màu đỏ hiển thị lộ trình từ vùng núi phía bắc đến đồng bằng trung tâm nằm lọt thỏm giữa một dãy đồi. Gia súc bé xíu quanh quẩn trên cánh đồng bát ngát cỏ tươi mặc chúng thỏa thuê đánh chén.\n\n“Tớ nghĩ bọn mình sắp đến chỗ này,” Tom chỉ vào vị trí rìa dãy đồi trên bản đồ. “Không thể cách quá xa đâu.”\n\nCậu cất bản đồ, thúc nhẹ vào hông Storm giục nó đi tiếp. “Bọn mình đang tiến gần tới mục tiêu,” cậu nói. “Cần phải thận trọng quan sát, tìm kiếm Quái vật tiếp theo.”\n\n“Phù thủy Aduro bảo nó là một nhân mã,” Elenna rùng mình, nói.\n\nTom gật đầu. “Là Tagus. Nó đang tấn công gia súc trên cánh đồng. Mất đàn gia súc, dân chúng nơi đó sẽ khan hiếm thực phẩm và chẳng còn gì để trao đổi mua bán. Họ có thể chết đói.”\n\n“Cả vương quốc sẽ lâm vào tình cảnh tương tự,” Elenna lo lắng bổ sung.\n\nTom ghìm chặt dây cương. Storm hí vang, như thể nó hiểu được thử thách bọn họ sắp phải đương đầu. Tom vỗ vỗ cổ con ngựa. Sau mỗi lần đối mặt với các Quái vật, bọn họ ngày càng hiểu ý nhau hơn.\n\nChẳng mấy chốc cả bọn đã đến một đỉnh đồi thấp. Tom ghì cương ngựa, dõi mắt nhìn ra cánh đồng mênh mông. Cậu nhìn thấy đám cỏ dài đung đưa theo làn gió nhẹ. Một con sông uốn lượn xuyên qua những rặng cây. Xa xa là một hồ nước, mặt hồ lóng lánh phản chiếu ánh nắng mặt trời. Silver vểnh tai lên, khịt khịt mũi đánh hơi không khí xung quanh với vẻ hăm hở.\n\n“Đẹp quá!” Elenna reo lên. “Có lẽ phù thủy Aduro đã cử bọn mình đến đây trước khi Tagus có cơ hội tàn phá tan hoang.”\n\n“Chắc thế.” Nhịp tim của Tom đập nhanh hơn, trong lòng cậu tràn trề hy vọng. Ở phía nam, rồng lửa Ferno từng thiêu trụi vụ mùa. Ở phía tây, thuồng luồng biển Sepron dâng nước làm ngập cả bờ biển. Người núi khổng lồ Arcta gây ra những trận lở đất, thiếu chút nữa hủy diệt luôn vùng núi phía bắc. Tom gần như quên mất một vùng quê thanh bình yên ả trông ra sao.\n\n”Nhìn bên kia đi,” cậu chỉ về một hướng trước mặt. Cậu vừa phát hiện những tòa tháp xám vuông vuông và những mái ngói đỏ. “Ắt là thị trấn.”\n\n“Thế thì ta đi thôi!” Elenna nói.\n\nStorm thong dong chạy nước kiệu xuống đồi, hướng về đồng cỏ. Tom thích thú hưởng thụ tiếng vó ngựa nhịp nhàng, đồng thời cảm nhận tâm trạng hào hứng của nó. Silver vui mừng sủa ăng ẳng, bật lên chạy trước bọn họ. Nó chui vào lùm cỏ cao cao rồi mất hút trong ấy, sau cùng Tom và Elenna chỉ trông thấy mỗi chóp đuôi của nó.\n\nTrong làn gió mát thổi đến, Tom thoáng ngửi thấy mùi khói ngai ngái, như thể gần đó có một đống lửa trại. Cậu chăm chú nhìn kỹ đằng chân trời xem đống lửa ở chỗ nào. Song lọt vào tầm mắt Tom chỉ là một bầy gia súc đen nghịt đang di chuyển về phía bọn cậu.\n\nQuan sát cảnh tượng trước mắt, Tom và Elenna dần nhận ra điều bất thường.\n\nLũ gia súc không hề di chuyển yên ổn. Chúng đang hoảng sợ bỏ chạy tán loạn!\n\n“Bọn chúng nhắm ngay đến chỗ chúng ta!” Tom hét lên.\n\n“Silver!” Elenna hoảng thốt kêu to. Cô huýt một tiếng sáo lanh lảnh, vài giây sau, con sói xám vọt qua đám cỏ cao lao đến chỗ họ.\n\nTom thúc thêm cái nữa vào hông Storm. Con ngựa lập tức phi nước đại, băng qua đồng cỏ hướng về thị trấn, Silver chạy hết tốc lực ngay phía sau.\n\nBầy gia súc chen lấn xô đẩy vẫn đuổi theo họ sát nút. Bụi đất bay mù trời, tiếng móng guốc giậm uỳnh uỵch trên mặt đất vang điếc cả tai.\n\nTom ngoái nhìn ra sau. Bầy gia súc đông hơn cậu tưởng nhiều. Ắt phải đến cả ngàn con vật đồ sộ, con nào con nấy cỡ phiến đá lớn. Chúng đâm bừa vào nhau, giẫm nát bất cứ thứ gì chắn lối cản đường. Từng ấy gia súc di chuyển khiến mặt đất rúng động dữ dội.\n\n“Nhanh lên Storm!” Tiếng hét của Tom át lấy tiếng gia súc tháo chạy ầm ầm.\n\nCậu cúi đầu vào bờm Storm, nhận thấy\n\nElenna ôm chặt cậu khi họ phi như bay qua đồng cỏ chạy về thị trấn. Thình lình Storm phanh “kítt” lại.\n\n“Chạy đi Storm! Chạy tiếp đi nào!” Tom hét vang. “Chúng ta gần tới...”\n\nChợt cậu nghe có tiếng “tách tách”, bèn ngước lên nhìn. Ngay lập tức cậu hiểu vì sao Storm đột ngột đứng lại.\n\nTrước mặt họ là một tường lửa. Cỏ khô trên cánh đồng cháy hừng hực – và ngọn lửa đang nhanh chóng lan rộng.\n\nHọ bị chặn mất rồi!"
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13421_3/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Chương hai: Mắc kẹt",
+      "progress": null,
+      "text": "Chương hai\nMẮC KẸT\n\nK\nhông còn lối thoát nào khác. Họ chỉ có cách là quay lại chạy cùng đàn gia súc đang chen chúc xô đẩy. Phương án đó vô cùng mạo hiểm, nhưng ngoài nó ra họ không còn lựa chọn nào khác. Chiếc khiên có thể chịu lửa của Tom không đủ khả năng bảo hộ cho cả bộ tứ.\n\nTom quành Storm lại, chú ngựa can đảm liền chạy đến chỗ bầy gia súc đông đúc. Chẳng mấy chốc nó đã sóng đôi cùng đám kia rồi vượt lên chính giữa, Silver chạy sát bên che chở cho nó.\n\nKhói bụi làm Tom bí thở, cậu giục Storm phi nhanh. “Đi nào nhóc! Đi mau!”\n\nChạy chừng một phần tư dặm, họ ra khỏi tầm lan của đám cháy – nhưng chỉ trong chốc lát thôi.\n\n“Bên trái!” Tom kêu lên, kéo dây cương của Storm.\n\nTức thì con ngựa đổi đường chạy, xộc qua đám gia súc hoảng loạn, Silver bám sát gót Storm như hình với bóng.\n\nĐến trước một ngọn đồi, Tom giảm tốc độ rồi ngừng hẳn. “Bọn mình cần tạo vành đai ngăn lửa lan đến thị trấn!” Cậu hét át cả tiếng móng gia súc nện ầm ầm như sấm, khi đám kia dần cách xa bọn họ.\n\nTừ trên lưng Storm, Tom nhảy phốc xuống. “Mang Silver và Storm ra sau đồi đi!” Cậu bảo với Elenna, còn mình thì chạy lại chỗ lửa liếm đến gần.\n\nNhân lúc Elenna giục hai con vật đến nơi an toàn, Tom rút kiếm phát quang đám cỏ cao. Nếu cậu kịp dọn một khoảng đất trống trước đường đi của ngọn lửa, nó sẽ không thể lan xa hơn.\n\nGiơ khiên che lấy người, cậu phạt sạch một vạt cỏ rộng, biết rõ vảy rồng gắn trên khiên sẽ giúp cậu chắn lửa. Cậu vung kiếm lia lịa cho đến khi lửa không bén thêm nữa rồi lụi dần.\n\nLửa tắt, Tom ngã vật ra đất, mình mẩy rã rời. Mặt cậu lem luốc bồ hóng, miệng ho sù sụ do hít quá nhiều khói.\n\nElenna lo lắng chạy đến chỗ cậu nằm. Cô cho cậu uống nước, ăn bánh mì rồi ngồi xổm trong đám cỏ cao cạnh cậu.\n\nDù đã ăn uống chút đỉnh nhưng Tom vẫn thấy sốt ruột, như thể nguy hiểm chưa hoàn toàn chấm dứt. “Tốt hơn hết ta nên đi tiếp,” tiếp năng lượng xong, cậu ra quyết định, đoạn loạng choạng đứng dậy.\n\nMột tiếng hét vang lên. “Nó kia rồi!” Tom ngẩng lên, liền nhìn thấy một nhóm đàn ông từ hướng thị trấn đi lại chỗ họ.\n\n“Bắt lấy nó!” Một người khác hô hoán. Tom chộp lấy thanh kiếm cùng tấm khiên.\n\n“Elenna này, tớ nghĩ bọn họ chưa phát hiện ra cậu,” cậu nói nhanh. “Hãy quay lại chỗ Storm và Silver rồi tìm nơi an toàn mà nấp nhé.”\n\nCô nhìn cậu bằng ánh mắt lo âu, nhưng giờ họ đã quen hành động như một đội, nên cô lập tức luồn qua đám cỏ cao hướng về ngọn đồi. Tom biết, vào thời khắc quyết định, cô sẽ luôn có mặt bên cậu.\n\nCậu cố tỏ ra bình tĩnh.\n\nTrong chốc lát, đám người láo nháo kia đã bao vây Tom. Toàn những ông chú cao to đang hung hăng khua lưỡi hái và chĩa ba. Mặt mày ai nấy bừng bừng lửa giận. Nhóm người này quá đông, cậu không có cơ hội đánh trả.\n\n“Sao người nào cũng hằm hằm vậy nhỉ?” Tom thắc mắc. Cậu chỉ mới dập tắt một đám cháy đang lan nhanh và cứu lấy thị trấn của họ thôi mà.\n\n“Đợi một phút. Cháu có làm gì sai...” Cậu mở miệng.\n\nNhưng chả có ai thèm nghe cậu thanh minh một câu.\n\nMột người sấn tới chộp vai cậu. “Victor đâu?” Ông ta gặng hỏi.\n\nThế là dường như cả nhóm người hét nhặng xị cùng lúc. “Xem này – người thằng nhãi toàn bồ hóng! Nhất định là nó đốt!”\n\n“Còn gia súc của chúng ta?” Một người khác thò mặt lại gần mặt Tom, trừng mắt nhìn cậu đầy hung ác. “Mày làm bọn nó sợ chạy mất tăm!”\n\nThêm ai đó thụi Tom một cú thật mạnh, khiến cậu tê liệt cùng khó thở. “Gia đình chúng ta sẽ chết đói!”\n\n“Victor là ai? Cháu không biết các chú đang nói gì cả,” Tom cố điều hòa nhịp thở, lắp bắp hỏi lại.\n\nNhưng đám người cứ la ó ỏm tỏi, Tom không tài nào nghe được họ hô hét cái gì. Cậu bắt đầu thấy sợ khi họ tụ thành vòng tròn. Cậu nắm chặt kiếm lẫn khiên, tuy nhiên, một người đàn ông đã giật mất vũ khí của cậu.\n\nRồi một giọng nói khác vang lên. “Hãy khoan! Để tôi hỏi thằng nhóc!” Một người cao ráo, vẻ mặt nghiêm khắc chen ra trước đám đông.\n\nNhóm người lùi ra sau, tiếng la hét ầm ĩ chuyển thành làu bàu cáu giận.\n\n“Ta là Adam, phụ trách lính gác trong thị trấn,” người đàn ông nói. “Thằng Victor nhà ta mất tích ở nơi cắm trại cách đây không xa. Nó phụ trông coi một đàn gia súc. Cháu có biết tin gì của nó không?”\n\nTom nhìn những gương mặt tức giận xung quanh mình, tim đập thình thịch. “Không ạ. Cháu vừa từ phương bắc đến nơi này. Cháu mới thoát khỏi bầy gia súc chạy tán loạn ngay tức thì. Chính cháu là người đã dập lửa.” Liếc mắt một vòng, nhìn ra vẻ hoài nghi của đám người, cậu nói thêm. “Mọi người phải để cháu đi. Cháu thật sự có việc quan trọng cần làm.”\n\n“Tôi đoan chắc thủ phạm là nó!” Một người buông lời giễu cợt.\n\n“Đừng tin nó,” một người khác xen vào. Hai người đàn ông túm lấy cánh tay Tom và lôi cậu đi.\n\n“Mày không chịu khai thật, hở?” Một người hét to. “Chúng ta sẽ sớm biết ngay thôi!”"
+    }
+  ],
+  "full_text": "Mục lục\nMở đầu\nChương một: Bầy gia súc\nChương hai: Mắc kẹt\nChương ba: Trong tù\nChương bốn: Tiếng vó ngựa\nChương năm: Victor\nChương sáu: Trở lại thị trấn\nChương bảy: Lùa gia súc\nChương tám: Vượt sông\nChương chín: Rượt đuổi lên đồi\nChương mười: Lời nguyền của Malvel\n\nGửi lời cám ơn đặc biệt tới Cherrith Baldry\n\nDành tặng Sarah\n\nH\noan nghênh đã đến vương quốc Avantia. Ta là Aduro – một phù thủy tốt bụng hiện đang sống trong cung điện của Vua Hugo. Các bạn đến với chúng tôi ngay vào thời điểm khó khăn. Hãy để ta giải thích...\n\nCác Văn bản Cổ đại đã ghi lại rằng, một ngày nào đó, vương quốc thanh bình của chúng tôi sẽ lâm nguy.\n\nVà giờ đây thời khắc ấy đang đến.\n\nDưới tác động từ lời nguyền độc ác của Phù thủy Hắc ám Malvel, sáu con Quái vật – rồng lửa, thuồng luồng biển, người núi khổng lồ, nhân mã, quái vật tuyết và chim lửa – đã trở nên hung hãn và tàn phá vùng đất chúng từng bảo vệ.\n\nAvantia đang trong tình trạng cực kỳ nguy hiểm.\n\nCác Văn bản Cổ đại còn đưa ra tiên đoán về một vị anh hùng bất đắc dĩ. Người đó sẽ gánh vác Cuộc săn lùng nhằm giải thoát các Quái vật khỏi lời nguyền và cứu lấy vương quốc.\n\nChúng tôi không biết chàng trai đó là ai, chỉ biết khi nào cậu ấy xuất hiện...\n\nChúng tôi cầu nguyện rằng vị anh hùng trẻ tuổi sẽ có đủ can đảm và nhiệt tâm để đảm trách Cuộc săn lùng. Các bạn sẽ cùng chờ đợi và dõi theo với chúng tôi chứ?\n\nAvantia chào đón các bạn, Aduro\n\nMỞ ĐẦU\n\nV\nictor giật mình tỉnh giấc. Chộp lấy kiếm, cậu ngồi dậy, e dè nhìn ngó xung quanh. Sớm tinh mơ, bầu trời phía đông đang dần hửng sáng. Vụn than trong đống lửa trại tối hôm qua vẫn còn đỏ rực. Victor nhìn kỹ đồng cỏ tối lờ mờ và bầy gia súc ngoài đó. Dường như chẳng có gì bất thường.\n\n“Chỉ là ác mộng,” cậu nghĩ nghĩ rồi chui lại vào chăn.\n\nThế nhưng cậu không sao chợp mắt tiếp. Tuần rồi đã có ba vụ tấn công gia súc trong đêm. Trong lần tấn công cuối cùng, bốn con bê bị giết. Tới bây giờ người ta vẫn chưa tìm được thủ phạm – là ai, hay cái gì. Victor không biết phải nghĩ sao nữa, nhưng rõ ràng cậu rất vui vì đêm sắp tàn. Cậu chỉ cần trông bầy gia súc đến sáng là xong. Nhóm đàn ông vẫn còn say giấc nồng bên lửa trại, cách xa đám gia súc.\n\nCậu dỏng tai nghe tiếng động trên bãi đất. Cơn gió nhẹ xào xạc lay động đám cỏ cao, và cậu nghe thấy bản nhạc du dương sau cùng của đám dế. Kế đó, một tiếng chim hót nổi lên giữa tiếng gia súc rống ầm ĩ.\n\nĐợi một phút... Đàn gia súc hẳn là đang ngủ mới đúng, sao có thể cất tiếng rống như thế!\n\nVictor bật dậy, chú mục vào bầy gia súc của mình. Chúng tụm sát nhau hơn thường lệ, đám bê con dồn hết vào giữa – dấu hiệu biểu hiện chúng đang sợ. Tại sao vậy?\n\nRồi Victor nghe có tiếng móng guốc “thịch thịch” dập dồn từ xa vọng lại. Hay do trí tưởng tượng của cậu nhỉ?\n\nBầy gia súc bồn chồn giậm giậm chân. Victor đứng phắt lên. Tiếng vó ngựa càng lúc càng gần!\n\nCó thứ gì đó ngoài kia.\n\nSau đó, từ trong bóng đêm hiện ra một hình thù to lớn mờ mờ. Rồi, đột nhiên, đứng trước mặt cậu, trong ánh lửa đỏ của đống lửa trại, là một con Quái vật đáng sợ.\n\nVictor sửng sốt. Thân trên con Quái vật mang hình người vạm vỡ, song phần thân thể ấy lại nối liền với nửa dưới của một con ngựa to khỏe.\n\nQuá đỗi khiếp sợ, Victor lảo đảo lùi lại, trố mắt nhìn sinh vật nọ chằm chằm. Mái tóc đen cùng bộ râu của nó rối bời, ảnh phản chiếu đống lửa trại khiến đôi mắt đen như đỏ rực, chất chứa cơn giận ngùn ngụt.\n\nCon Quái vật dựng đứng hai chân trước, phát ra tiếng kêu hung tợn, móng ngựa đạp đạp trên không. Trong cơn sợ hãi, Victor nhận ra con Quái vật sắp sửa lao tới!\n\nCậu cố tránh hướng tấn công của nó, song đã chậm. Một trong hai vó ngựa đạp trúng đầu Victor, cậu ngã lăn quay ra đất. Con Quái vật phi qua đống lửa, gạt những viên than nóng đỏ bắn tàn lửa bay ra tứ phía. Nó hất đầu ra sau cất tiếng rống rền vang, đám cỏ khô trên cánh đồng bắt đầu bắt lửa.\n\nVictor ngây người nhìn con vật lao đến bầy gia súc đang tuyệt vọng đến phát điên...\n\nRồi cơn đau ập đến, trước mắt cậu tối sầm.\n\nChương một\nBẦY GIA SÚC\n\n“T\nớ nghĩ đó là thử thách khó khăn nhất trước giờ đấy,” Tom nói.\n\nTừ vùng núi phía bắc Avantia khởi hành đến mục tiêu tiếp theo, Tom ngồi ngất ngưởng trên yên chú ngựa ô Storm. Bạn đồng hành của cậu, Elenna, ngồi sau lưng cậu như mọi khi, tay vòng tới trước ôm lấy eo cậu. Tom vừa giải được lời nguyền độc ác của gã phù thủy hắc ám Malvel gieo lên người núi Arcta, thế nên cả bọn đều mệt bở hơi tai. Song Storm vẫn hiên ngang tiến lên phía trước, và Silver, con sói được Elenna thuần hóa, lặng lẽ theo sau bọn họ. Hiện tại đang là giữa trưa, trời nắng gay gắt.\n\n“Tớ tưởng mình kẹt trong cái hang đó đến hết đời luôn chứ,” Elenna đồng tình. “Arcta đã nổi cơn thịnh nộ ngút trời!”\n\n“Tớ cũng sẽ nổi đóa nếu bị một phù thủy hắc ám cầm tù làm nô lệ!” Tom hưởng ứng. Cậu thở dài đầy thỏa mãn. “Nhưng giờ Arcta đã tự do. Sẽ không còn phiền phức nào nữa.”\n\n“Không phải phiền phức từ nó,” Elenna nêu rõ. “Bọn mình có Cuộc săn lùng Quái vật mới rồi mà. Theo cậu thì còn bao lâu mới đến đồng bằng trung tâm?”\n\n“Không lâu đâu,” Tom nói. “Tớ chỉ hy vọng bọn mình đã sẵn sàng cho thử thách tiếp theo.” Cậu chạm vào cán kiếm, bồi hồi nhớ lại những thử thách mình nếm trải từ lúc bắt đầu đến giờ: Rồng lửa Ferno, thuồng luồng biển Sepron, người núi khổng lồ Arcta... Cậu lại nhớ đến cha, Taladon Tốc Độ, tự hỏi cha có tự hào về chiến tích của cậu trong Cuộc săn lùng này không. Hy vọng là có. Cha Tom mất tích khi cậu hãy còn là một đứa bé, nhưng không hiểu sao cậu lại linh cảm rằng mình đã gặp cha.\n\n“Chừng nào máu còn chảy trong huyết quản,” cậu nghĩ, “mình sẽ không làm cha thất vọng!” Rồi cậu nhớ đến Đức vua Hugo và cố vấn của ngài, Phù thủy Aduro, đã đặt niềm tin ở cậu trong Cuộc săn lùng này – cậu cũng không muốn làm họ thất vọng.\n\n“Tớ biết cậu làm được mà,” Elenna nghịch ngợm đấm cậu một cái, nói. “Đừng quên còn có tớ bảo vệ cậu.”\n\nTom ngoái đầu nhìn cô, miệng mỉm cười. “Tớ chưa từng quên điều đó. Thực lòng tớ rất vui vì bọn mình đã gặp nhau! Không có cậu tớ không đời nào hoàn thành được chừng ấy nhiệm vụ!”\n\nCậu cho Storm dừng lại, đoạn lấy tấm bản đồ ma thuật trong túi ra. Elenna ló đầu qua vai cậu nhìn ké. Một đường ánh sáng màu đỏ hiển thị lộ trình từ vùng núi phía bắc đến đồng bằng trung tâm nằm lọt thỏm giữa một dãy đồi. Gia súc bé xíu quanh quẩn trên cánh đồng bát ngát cỏ tươi mặc chúng thỏa thuê đánh chén.\n\n“Tớ nghĩ bọn mình sắp đến chỗ này,” Tom chỉ vào vị trí rìa dãy đồi trên bản đồ. “Không thể cách quá xa đâu.”\n\nCậu cất bản đồ, thúc nhẹ vào hông Storm giục nó đi tiếp. “Bọn mình đang tiến gần tới mục tiêu,” cậu nói. “Cần phải thận trọng quan sát, tìm kiếm Quái vật tiếp theo.”\n\n“Phù thủy Aduro bảo nó là một nhân mã,” Elenna rùng mình, nói.\n\nTom gật đầu. “Là Tagus. Nó đang tấn công gia súc trên cánh đồng. Mất đàn gia súc, dân chúng nơi đó sẽ khan hiếm thực phẩm và chẳng còn gì để trao đổi mua bán. Họ có thể chết đói.”\n\n“Cả vương quốc sẽ lâm vào tình cảnh tương tự,” Elenna lo lắng bổ sung.\n\nTom ghìm chặt dây cương. Storm hí vang, như thể nó hiểu được thử thách bọn họ sắp phải đương đầu. Tom vỗ vỗ cổ con ngựa. Sau mỗi lần đối mặt với các Quái vật, bọn họ ngày càng hiểu ý nhau hơn.\n\nChẳng mấy chốc cả bọn đã đến một đỉnh đồi thấp. Tom ghì cương ngựa, dõi mắt nhìn ra cánh đồng mênh mông. Cậu nhìn thấy đám cỏ dài đung đưa theo làn gió nhẹ. Một con sông uốn lượn xuyên qua những rặng cây. Xa xa là một hồ nước, mặt hồ lóng lánh phản chiếu ánh nắng mặt trời. Silver vểnh tai lên, khịt khịt mũi đánh hơi không khí xung quanh với vẻ hăm hở.\n\n“Đẹp quá!” Elenna reo lên. “Có lẽ phù thủy Aduro đã cử bọn mình đến đây trước khi Tagus có cơ hội tàn phá tan hoang.”\n\n“Chắc thế.” Nhịp tim của Tom đập nhanh hơn, trong lòng cậu tràn trề hy vọng. Ở phía nam, rồng lửa Ferno từng thiêu trụi vụ mùa. Ở phía tây, thuồng luồng biển Sepron dâng nước làm ngập cả bờ biển. Người núi khổng lồ Arcta gây ra những trận lở đất, thiếu chút nữa hủy diệt luôn vùng núi phía bắc. Tom gần như quên mất một vùng quê thanh bình yên ả trông ra sao.\n\n”Nhìn bên kia đi,” cậu chỉ về một hướng trước mặt. Cậu vừa phát hiện những tòa tháp xám vuông vuông và những mái ngói đỏ. “Ắt là thị trấn.”\n\n“Thế thì ta đi thôi!” Elenna nói.\n\nStorm thong dong chạy nước kiệu xuống đồi, hướng về đồng cỏ. Tom thích thú hưởng thụ tiếng vó ngựa nhịp nhàng, đồng thời cảm nhận tâm trạng hào hứng của nó. Silver vui mừng sủa ăng ẳng, bật lên chạy trước bọn họ. Nó chui vào lùm cỏ cao cao rồi mất hút trong ấy, sau cùng Tom và Elenna chỉ trông thấy mỗi chóp đuôi của nó.\n\nTrong làn gió mát thổi đến, Tom thoáng ngửi thấy mùi khói ngai ngái, như thể gần đó có một đống lửa trại. Cậu chăm chú nhìn kỹ đằng chân trời xem đống lửa ở chỗ nào. Song lọt vào tầm mắt Tom chỉ là một bầy gia súc đen nghịt đang di chuyển về phía bọn cậu.\n\nQuan sát cảnh tượng trước mắt, Tom và Elenna dần nhận ra điều bất thường.\n\nLũ gia súc không hề di chuyển yên ổn. Chúng đang hoảng sợ bỏ chạy tán loạn!\n\n“Bọn chúng nhắm ngay đến chỗ chúng ta!” Tom hét lên.\n\n“Silver!” Elenna hoảng thốt kêu to. Cô huýt một tiếng sáo lanh lảnh, vài giây sau, con sói xám vọt qua đám cỏ cao lao đến chỗ họ.\n\nTom thúc thêm cái nữa vào hông Storm. Con ngựa lập tức phi nước đại, băng qua đồng cỏ hướng về thị trấn, Silver chạy hết tốc lực ngay phía sau.\n\nBầy gia súc chen lấn xô đẩy vẫn đuổi theo họ sát nút. Bụi đất bay mù trời, tiếng móng guốc giậm uỳnh uỵch trên mặt đất vang điếc cả tai.\n\nTom ngoái nhìn ra sau. Bầy gia súc đông hơn cậu tưởng nhiều. Ắt phải đến cả ngàn con vật đồ sộ, con nào con nấy cỡ phiến đá lớn. Chúng đâm bừa vào nhau, giẫm nát bất cứ thứ gì chắn lối cản đường. Từng ấy gia súc di chuyển khiến mặt đất rúng động dữ dội.\n\n“Nhanh lên Storm!” Tiếng hét của Tom át lấy tiếng gia súc tháo chạy ầm ầm.\n\nCậu cúi đầu vào bờm Storm, nhận thấy\n\nElenna ôm chặt cậu khi họ phi như bay qua đồng cỏ chạy về thị trấn. Thình lình Storm phanh “kítt” lại.\n\n“Chạy đi Storm! Chạy tiếp đi nào!” Tom hét vang. “Chúng ta gần tới...”\n\nChợt cậu nghe có tiếng “tách tách”, bèn ngước lên nhìn. Ngay lập tức cậu hiểu vì sao Storm đột ngột đứng lại.\n\nTrước mặt họ là một tường lửa. Cỏ khô trên cánh đồng cháy hừng hực – và ngọn lửa đang nhanh chóng lan rộng.\n\nHọ bị chặn mất rồi!\n\nChương hai\nMẮC KẸT\n\nK\nhông còn lối thoát nào khác. Họ chỉ có cách là quay lại chạy cùng đàn gia súc đang chen chúc xô đẩy. Phương án đó vô cùng mạo hiểm, nhưng ngoài nó ra họ không còn lựa chọn nào khác. Chiếc khiên có thể chịu lửa của Tom không đủ khả năng bảo hộ cho cả bộ tứ.\n\nTom quành Storm lại, chú ngựa can đảm liền chạy đến chỗ bầy gia súc đông đúc. Chẳng mấy chốc nó đã sóng đôi cùng đám kia rồi vượt lên chính giữa, Silver chạy sát bên che chở cho nó.\n\nKhói bụi làm Tom bí thở, cậu giục Storm phi nhanh. “Đi nào nhóc! Đi mau!”\n\nChạy chừng một phần tư dặm, họ ra khỏi tầm lan của đám cháy – nhưng chỉ trong chốc lát thôi.\n\n“Bên trái!” Tom kêu lên, kéo dây cương của Storm.\n\nTức thì con ngựa đổi đường chạy, xộc qua đám gia súc hoảng loạn, Silver bám sát gót Storm như hình với bóng.\n\nĐến trước một ngọn đồi, Tom giảm tốc độ rồi ngừng hẳn. “Bọn mình cần tạo vành đai ngăn lửa lan đến thị trấn!” Cậu hét át cả tiếng móng gia súc nện ầm ầm như sấm, khi đám kia dần cách xa bọn họ.\n\nTừ trên lưng Storm, Tom nhảy phốc xuống. “Mang Silver và Storm ra sau đồi đi!” Cậu bảo với Elenna, còn mình thì chạy lại chỗ lửa liếm đến gần.\n\nNhân lúc Elenna giục hai con vật đến nơi an toàn, Tom rút kiếm phát quang đám cỏ cao. Nếu cậu kịp dọn một khoảng đất trống trước đường đi của ngọn lửa, nó sẽ không thể lan xa hơn.\n\nGiơ khiên che lấy người, cậu phạt sạch một vạt cỏ rộng, biết rõ vảy rồng gắn trên khiên sẽ giúp cậu chắn lửa. Cậu vung kiếm lia lịa cho đến khi lửa không bén thêm nữa rồi lụi dần.\n\nLửa tắt, Tom ngã vật ra đất, mình mẩy rã rời. Mặt cậu lem luốc bồ hóng, miệng ho sù sụ do hít quá nhiều khói.\n\nElenna lo lắng chạy đến chỗ cậu nằm. Cô cho cậu uống nước, ăn bánh mì rồi ngồi xổm trong đám cỏ cao cạnh cậu.\n\nDù đã ăn uống chút đỉnh nhưng Tom vẫn thấy sốt ruột, như thể nguy hiểm chưa hoàn toàn chấm dứt. “Tốt hơn hết ta nên đi tiếp,” tiếp năng lượng xong, cậu ra quyết định, đoạn loạng choạng đứng dậy.\n\nMột tiếng hét vang lên. “Nó kia rồi!” Tom ngẩng lên, liền nhìn thấy một nhóm đàn ông từ hướng thị trấn đi lại chỗ họ.\n\n“Bắt lấy nó!” Một người khác hô hoán. Tom chộp lấy thanh kiếm cùng tấm khiên.\n\n“Elenna này, tớ nghĩ bọn họ chưa phát hiện ra cậu,” cậu nói nhanh. “Hãy quay lại chỗ Storm và Silver rồi tìm nơi an toàn mà nấp nhé.”\n\nCô nhìn cậu bằng ánh mắt lo âu, nhưng giờ họ đã quen hành động như một đội, nên cô lập tức luồn qua đám cỏ cao hướng về ngọn đồi. Tom biết, vào thời khắc quyết định, cô sẽ luôn có mặt bên cậu.\n\nCậu cố tỏ ra bình tĩnh.\n\nTrong chốc lát, đám người láo nháo kia đã bao vây Tom. Toàn những ông chú cao to đang hung hăng khua lưỡi hái và chĩa ba. Mặt mày ai nấy bừng bừng lửa giận. Nhóm người này quá đông, cậu không có cơ hội đánh trả.\n\n“Sao người nào cũng hằm hằm vậy nhỉ?” Tom thắc mắc. Cậu chỉ mới dập tắt một đám cháy đang lan nhanh và cứu lấy thị trấn của họ thôi mà.\n\n“Đợi một phút. Cháu có làm gì sai...” Cậu mở miệng.\n\nNhưng chả có ai thèm nghe cậu thanh minh một câu.\n\nMột người sấn tới chộp vai cậu. “Victor đâu?” Ông ta gặng hỏi.\n\nThế là dường như cả nhóm người hét nhặng xị cùng lúc. “Xem này – người thằng nhãi toàn bồ hóng! Nhất định là nó đốt!”\n\n“Còn gia súc của chúng ta?” Một người khác thò mặt lại gần mặt Tom, trừng mắt nhìn cậu đầy hung ác. “Mày làm bọn nó sợ chạy mất tăm!”\n\nThêm ai đó thụi Tom một cú thật mạnh, khiến cậu tê liệt cùng khó thở. “Gia đình chúng ta sẽ chết đói!”\n\n“Victor là ai? Cháu không biết các chú đang nói gì cả,” Tom cố điều hòa nhịp thở, lắp bắp hỏi lại.\n\nNhưng đám người cứ la ó ỏm tỏi, Tom không tài nào nghe được họ hô hét cái gì. Cậu bắt đầu thấy sợ khi họ tụ thành vòng tròn. Cậu nắm chặt kiếm lẫn khiên, tuy nhiên, một người đàn ông đã giật mất vũ khí của cậu.\n\nRồi một giọng nói khác vang lên. “Hãy khoan! Để tôi hỏi thằng nhóc!” Một người cao ráo, vẻ mặt nghiêm khắc chen ra trước đám đông.\n\nNhóm người lùi ra sau, tiếng la hét ầm ĩ chuyển thành làu bàu cáu giận.\n\n“Ta là Adam, phụ trách lính gác trong thị trấn,” người đàn ông nói. “Thằng Victor nhà ta mất tích ở nơi cắm trại cách đây không xa. Nó phụ trông coi một đàn gia súc. Cháu có biết tin gì của nó không?”\n\nTom nhìn những gương mặt tức giận xung quanh mình, tim đập thình thịch. “Không ạ. Cháu vừa từ phương bắc đến nơi này. Cháu mới thoát khỏi bầy gia súc chạy tán loạn ngay tức thì. Chính cháu là người đã dập lửa.” Liếc mắt một vòng, nhìn ra vẻ hoài nghi của đám người, cậu nói thêm. “Mọi người phải để cháu đi. Cháu thật sự có việc quan trọng cần làm.”\n\n“Tôi đoan chắc thủ phạm là nó!” Một người buông lời giễu cợt.\n\n“Đừng tin nó,” một người khác xen vào. Hai người đàn ông túm lấy cánh tay Tom và lôi cậu đi.\n\n“Mày không chịu khai thật, hở?” Một người hét to. “Chúng ta sẽ sớm biết ngay thôi!”"
+}

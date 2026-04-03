@@ -1,0 +1,246 @@
+{
+  "item_id": 13422,
+  "title": "Cuộc săn lùng quái vật - Quái vật tuyết Nanook",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:37:28.543Z",
+  "input_book": {
+    "id": 13422,
+    "title": "Cuộc săn lùng quái vật - Quái vật tuyết Nanook",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13422.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Ở phương Bắc, thi&ecirc;n nhi&ecirc;n đang biến đổi. B&atilde;o tuyết đột ngột ập đến, nhiệt độ tăng l&ecirc;n, lũ th&uacute; hoang kh&ocirc;ng c&ograve;n ngại ngần tấn c&ocirc;ng c&aacute;c cư d&acirc;n du mục. Một khi băng tan, c&aacute;c thảo mộc qu&yacute; hiếm biến mất, nguồn cung cấp thuốc men cho vương quốc Avantia sẽ cạn kiệt. Tom v&agrave; Elenna cần phải giải tho&aacute;t Qu&aacute;i vật tuyết Nanook c&agrave;ng sớm c&agrave;ng tốt.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5984",
+        "name": "Adam Blade"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Sách thiếu nhi_92.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json",
+      "e:\\Crawl\\waka\\output\\Truyện tranh_Xuyên không_34.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-02 18:54:20",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13422,
+      "title": "Cuộc săn lùng quái vật - Quái vật tuyết Nanook",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Ở phương Bắc, thi&ecirc;n nhi&ecirc;n đang biến đổi. B&atilde;o tuyết đột ngột ập đến, nhiệt độ tăng l&ecirc;n, lũ th&uacute; hoang kh&ocirc;ng c&ograve;n ngại ngần tấn c&ocirc;ng c&aacute;c cư d&acirc;n du mục. Một khi băng tan, c&aacute;c thảo mộc qu&yacute; hiếm biến mất, nguồn cung cấp thuốc men cho vương quốc Avantia sẽ cạn kiệt. Tom v&agrave; Elenna cần phải giải tho&aacute;t Qu&aacute;i vật tuyết Nanook c&agrave;ng sớm c&agrave;ng tốt.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "14/08/2015",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/cuoc-san-lung-quai-vat-quai-vat-tuyet-nanook-adam-blade-bj0r1W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/cuoc-san-lung-quai-vat-quai-vat-tuyet-nanook-adam-blade-bj0r1W.html?std=type%3D1%26data%3D13422%26title%3DCu%25E1%25BB%2599c%2Bs%25C4%2583n%2Bl%25C3%25B9ng%2Bqu%25C3%25A1i%2Bv%25E1%25BA%25ADt%2B-%2BQu%25C3%25A1i%2Bv%25E1%25BA%25ADt%2Btuy%25E1%25BA%25BFt%2BNanook%26mini_app%3D1&type=1&data=13422&title=Cu%E1%BB%99c+s%C4%83n+l%C3%B9ng+qu%C3%A1i+v%E1%BA%ADt+-+Qu%C3%A1i+v%E1%BA%ADt+tuy%E1%BA%BFt+Nanook&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "44",
+          "name": "NXB Văn Hóa Văn Nghệ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5984",
+          "name": "Adam Blade",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5984\",\"name\":\"Adam Blade\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Adam Blade",
+      "author_id": "5984",
+      "category_id": "34",
+      "category_name": "Viễn tưởng ",
+      "categories": [
+        {
+          "id": "34",
+          "name": "Viễn tưởng ",
+          "parent_id": 83
+        },
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        },
+        {
+          "id": "92",
+          "name": "Giáo dục - Sách thiếu nhi",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "Viễn tưởng ",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 7,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 20,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13422&title=cuoc-san-lung-quai-vat-quai-vat-tuyet-nanook",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13422&title=cuoc-san-lung-quai-vat-quai-vat-tuyet-nanook#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1467077820,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13422.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3718,
+      "number_view": 2749,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/Nhx4",
+      "read_link": "https://ebook.waka.vn/cuoc-san-lung-quai-vat-quai-vat-tuyet-nanook-rj0r1W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 7
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 3,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/content.opf?token=0c3a4ze0e6fcba32b4dd7001d6a8cff90b112113422",
+        "id": 13422,
+        "chapter_trail": 3,
+        "name": "Cuộc săn lùng quái vật - Quái vật tuyết Nanook",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/cuoc-san-lung-quai-vat-quai-vat-tuyet-nanook-rj0r1W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nMở đầu\nChương một: Hành trình phương Bắc bắt đầu\nChương hai: Bị lấp trong tuyết\nChương ba: Cuộc gặp gỡ trên cánh đồng băng\nChương bốn: Nỗi kinh hoàng lúc nửa đêm\nChương năm: Cuộc thám hiểm\nChương sáu: Giải thoát\nChương bảy: Vỡ thành từng mảnh\nChương tám: Cơn thịnh nộ trên băng\nChương chín: Chữa trị"
+    },
+    {
+      "chapterIndex": "page0015.xhtml",
+      "chapterHref": "contents/page0015.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/contents/page0015.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Xin gửi lời cảm ơn đặc biệt đến Stephen Cole\n\nDành tặng Karen, vì những đóng góp của cô cho Cuộc săn lùng"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "H\noan nghênh đã đến vương quốc Avantia.\n\nTa là Aduro – một phù thủy tốt bụng hiện đang sống trong cung điện của Vua Hugo. Các bạn đến với chúng tôi ngay vào thời điểm khó khăn. Hãy để ta giải thích…\n\nCác Văn bản Cổ đại đã ghi lại rằng, một ngày nào đó, vương quốc thanh bình của chúng tôi sẽ lâm nguy.\n\nVà giờ đây thời khắc ấy đang đến.\n\nDưới tác động từ lời nguyền độc ác của Phù thủy Hắc ám Malvel, sáu con Quái vật – rồng lửa, thuồng luồng biển, người núi khổng lồ, nhân mã, quái vật tuyết và chim lửa – đã trở nên hung hãn và tàn phá vùng đất chúng từng bảo vệ.\n\nAvantia đang trong tình trạng cực kỳ nguy hiểm.\n\nCác Văn bản Cổ đại còn đưa ra tiên đoán về một vị anh hùng bất đắc dĩ. Người đó sẽ gánh vác Cuộc săn lùng nhằm giải thoát các Quái vật khỏi lời nguyền và cứu lấy vương quốc.\n\nChúng tôi không biết chàng trai đó là ai, chỉ biết khi nào cậu ấy xuất hiện…\n\nChúng tôi cầu nguyện rằng vị anh hùng trẻ tuổi sẽ có đủ can đảm và nhiệt tâm để đảm trách Cuộc săn lùng. Các bạn sẽ cùng chờ đợi và dõi theo với chúng tôi chứ?\n\nAvantia chào đón các bạn, Aduro"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Mở đầu",
+      "progress": null,
+      "text": "MỞ ĐẦU\n\nA\nlbin chạy trên cánh đồng băng hướng về quả bóng, phớt lờ cơn xóc hông đau nhói. Cậu buộc đôi chân mình phải chạy nhanh, nhanh hơn nữa…\n\nĐội cậu đang thua mà trời lại sắp tối. Chẳng mấy chốc, mọi người sẽ trở về khu lều du mục dùng bữa tối và trận đấu sẽ kết thúc. Giá mà cậu có thể gỡ hòa…\n\nCậu chạm bóng trước thủ môn đội bạn đúng một giây và tung cú sút mạnh. Quả bóng bay vèo vào khung thành rộng mở, kéo theo một trận mưa tuyết.\n\n“Có thế chứ!” Cậu reo lên. Đồng đội vây lấy cậu hò hét vui sướng.\n\n“Đến lượt các cậu nhặt banh,” thủ môn đội bạn hờn dỗi nói. Cậu ấy không vui tí nào!\n\nCột gôn không mắc lưới, mà Albin lại sút bóng rất mạnh, nên quả bóng rơi đâu đó trong mấy đụn tuyết phía sau cánh đồng.\n\n“Nhớ cẩn thận,” một cậu bé lên tiếng. “Người lớn bảo họ thấy báo tuyết1 nấp đằng ấy.”\n\n1 Báo thuộc họ mèo lớn, có lớp lông màu xám trắng với hàng loạt đốm hoa hồng bên hông và đốm trên đầu, cổ.\n\n“Tớ biết rồi,” Albin cười toe.\n\nAlbin đã sống ở miền bắc Avantia giá lạnh suốt cả đời, cậu nằm lòng những cảnh vật mùa đông trắng xóa nơi đây – những cánh đồng băng, hồ và biển đóng băng, các đụn tuyết và khu lều trại du mục mà gia đình cậu đang trú ngụ. “Chả có gì phải sợ!” Cậu thầm nghĩ.\n\nCậu chạy đến rìa cánh đồng rồi trèo lên đụn tuyết. Từ trên ấy chỉ thấy một màu trắng chói lòa trải ra xa lấp loáng trong nắng chiều. Lấy tay che tia nắng gắt của buổi hoàng hôn chiếu lên mắt, Albin không nhìn thấy quả bóng đâu cả. Tiếng đám bạn đang trên đường trở về lều hò hét lẫn cười đùa ha ha từ đằng xa vọng đến tai cậu.\n\nCậu trượt xuống. Phía bên kia dẫn ra lối đi nhỏ đóng băng nằm quanh co giữa các đụn tuyết. Quả bóng kìa. Nhưng… nó bẹp dí. Cậu ngẩn người nhìn quả bóng. Có chuyện gì xảy ra vậy?\n\nBỗng cậu nghe một âm thanh kỳ quái. Thứ tiếng leng keng lanh lảnh lạ tai - nghe như tiếng chuông.\n\nRồi khi Albin cúi nhìn quả bóng, một bóng đen lướt qua đầu cậu. Bóng đen ấy cực lớn.\n\nTrong lòng chợt thấy sợ hãi, cậu ngước mắt lên.\n\nTrước mặt Albin, một sinh vật cao lớn gấp năm lần cậu đang lắc la lắc lư trên đôi chân to như cột đình. Bộ lông trắng bờm xờm của nó rất dày. Đôi mắt đỏ rực như máu nhìn trừng trừng Albin, những móng vuốt cong, bự màu ngà rạch không khí vun vút. Cái mõm rỏ dãi lòng thòng há ra táp táp, để lộ răng nanh vàng khè sắc như dao cạo. Trên cổ Quái vật đeo vòng gắn kèm chuông nhỏ bằng đồng thau, nhưng lớp lông nơi đó bị cào rách, ló thịt hồng hồng.\n\nAlbin sợ tới mức chẳng hét nổi. Cậu cố quay người bỏ chạy song hai chân mềm nhũn, rồi cậu trượt chân té ngửa.\n\nQuái vật giậm cái chân to đùng xuống lối đi đóng băng.\n\nCơn chấn động làm xương xóc Albin rung bần bật. Cậu hoảng hốt bò dậy, lao nhanh đến đụn tuyết để không ngáng đường Quái vật. Móng vuốt Quái vật vút qua hông cậu, quào rách da thịt dưới lớp quần áo dày. Albin đau đớn hét to. Cậu sờ hông, thấy máu tươi dính dớp âm ấm. Trong cơn tuyệt vọng, cậu liều mạng trèo lên. Nếu leo được tới đỉnh, trong tầm nhìn của khu lều trại, có lẽ cậu còn cơ may sống sót."
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Chương một: Hành trình phương Bắc bắt đầu",
+      "progress": null,
+      "text": "Chương một\nHÀNH TRÌNH PHƯƠNG BẮC BẮT ĐẦU\n\n“T\nrong suốt chặng đường săn lùng Quái vật thì chắc đây là nơi đẹp nhất ta từng đi qua!” Tom trầm trồ. Cậu đang đứng ngây người ngắm nhìn vùng đất phủ đầy băng tuyết. Cảnh vật trắng xóa lung linh trước mắt trải dài tít tắp, phía trên là bầu trời xanh ngắt. Giờ đang quá trưa và ánh mặt trời rất gay gắt.\n\n“Nơi này vắng vẻ hoang sơ quá,” Elenna rùng mình, “có điều rất đẹp.” Con sói cưng Silver quấn quít bên cô, bộ lông xám lốm đốm bông tuyết và cột băng xíu xiu. Cô ôm nó, cảm thấy an ủi phần nào nhờ thân mình ấm áp đang dựa vào chân.\n\n“Để tớ ngó bản đồ, xem bọn mình còn phải di chuyển bao xa,” Tom nói. Cậu thò tay vào túi lấy ra cuộn giấy da sờn rách Aduro tặng.\n\nStorm đang đứng yên, thân mình đen thẫm của nó tương phản với cảnh vật toàn sắc trắng xung quanh. Nó khẽ hí nhỏ khi Tom vỗ vỗ cổ nó. Tom và Elenna không thể cưỡi ngựa trên cánh đồng tuyết. Băng tuyết làm Storm trượt chân liên tục, vậy nên hành trình của họ cứ chậm rề rề.\n\n“Ta đang ở gần ranh giới cực bắc Avantia. Hẳn là sắp đến đích.” Tom chỉ vào con đường đỏ rực trên bản đồ hướng dẫn lộ trình.\n\nĐây không phải tấm bản đồ bình thường. Nó ẩn chứa những phép thuật kỳ diệu, do vị cố vấn đặc biệt của đức vua, Phù thủy Aduro, tặng cho Tom. Tấm bản đồ đã chỉ dẫn Tom và Elenna đến bốn nơi khác nhau trong Cuộc săn lùng bí mật để giải cứu vương quốc khỏi sự đe dọa vô cùng khủng khiếp từ các Quái vật!\n\nTừ nhỏ tới giờ Tom thường được nghe kể về các Quái vật - những sinh vật huyền thoại cư ngụ ở những nơi bí ẩn nhất vương quốc, bảo vệ và trợ giúp Avantia trở nên phồn thịnh. Khi còn bé, lớn lên trong sự nuôi dạy của chú thím, cậu từng nghĩ chúng chỉ là chuyện cổ tích. Dĩ nhiên là cậu chưa bao giờ chạm trán với Quái vật. Đến cả bố Taladon cậu còn chưa biết mặt nữa là.\n\nTom vẫn băn khoăn liệu mình gặp ông lần nào chưa, nhưng chí ít thì giờ cậu chắc chắn các Quái vật có thật. Phù thủy Hắc ám Malvel nô dịch chúng bằng lời nguyền độc ác và lợi dụng chúng để gieo rắc nỗi sợ hãi cũng như sự tàn phá khắp vương quốc. Một người đặc biệt phải đảm nhận Cuộc săn lùng, giải thoát các Quái vật và cứu vương quốc. Đức vua Hugo và Phù thủy Aduro đã chọn Tom. Cậu quyết không làm họ thất vọng!\n\nĐồng hành với cậu lúc xuất phát chỉ có Storm cùng thanh kiếm và tấm khiên hộ thân. Nhưng chẳng bao lâu sau, cậu gặp Elenna và Silver, họ quyết định gia nhập đội Săn lùng với cậu. Tom biết nếu thiếu họ cậu sẽ không thể đi đến bước này của cuộc hành trình. Kề vai sát cánh bên nhau, bộ tứ đã giải được lời nguyền của Malvel ếm lên bốn Quái vật, và giờ đây, họ đang tìm Quái vật thứ năm – quái vật tuyết Nanook.\n\nRất nhiều thảo mộc quý hiếm dùng làm thuốc ở Avantia chỉ sinh trưởng ở khu vực đồng bằng phương bắc lạnh giá, nhưng không có Nanook thì các du dân sống ở đó không thể trồng hay thu hoạch chúng. Dần dà vương quốc sẽ cạn sạch thuốc men. Tom biết họ phải tìm thấy quái vật tuyết và giải thoát cho nó. “Chừng nào máu còn chảy trong huyết quản,” cậu thề với lòng mình, “mình sẽ không bỏ cuộc.”\n\n“Ta nên đi tiếp,” Elenna nói, đưa mắt lướt qua vai cậu nhìn kỹ tấm bản đồ. Cô chỉ vào cụm nhỏ các mái lều bé xíu nhô lên trên cuộn giấy da, thân mình khẽ run trong cơn gió nhẹ. “Hình như gần đây có lều của du dân. Bọn mình có thể qua đêm tại đấy. Tớ mệt đến mức vừa đứng vừa ngủ được rồi!”\n\n“Tớ cũng thế,” Tom nói. “Đi thôi!”\n\nKhi họ tiếp tục băng qua mặt băng – Tom cầm dây cương dắt Storm, Elenna và Silver theo sau – một trận gió mạnh lạnh buốt thình lình thốc tới, làm cả đám run cầm cập, mà họ đã mặc đủ ấm rồi nhé.\n\nTom bước nhanh. “Đi nào – sớm tìm được chỗ khô ráo thì bọn mình sẽ ấm lên ngay.”\n\nBỗng Silver đứng lại sủa to hai tiếng. Elenna cúi xuống bên con sói. “Sao vậy nhóc?” Cô hỏi.\n\nTom nhìn thấy con sói nheo mắt. Cổ họng nó phát ra tiếng gầm gừ. “Chắc nó đánh hơi được gì,” cậu nói. Con sói thường là thành viên đầu tiên phát hiện nguy hiểm.\n\nMột luồng gió mạnh hơn quất vào quần áo họ. Lần này, nó không hề lặng đi. Nó hướng về phía cả nhóm mà rít gào trong vài phút đồng hồ, vụn tuyết và băng chích vào da họ đau điếng.\n\n“Đừng nói là sắp có bão tuyết,” Elenna hét át tiếng gió thổi. “Mới đây trời hãy còn trong xanh nắng đẹp mà.”\n\n“Giờ thì hết rồi,” Tom hét trả. Bầu trời trên đầu họ xám xịt và đang nổi bão với những đợt tuyết bay tán loạn. “Bọn mình phải đến bằng được khu lều.”\n\nNhưng khi tuyết và mây che kín mặt trời, cậu bỗng nhận ra họ chẳng thể xác định phương hướng. Có bản đồ cũng vô ích.\n\n“Tớ nghĩ là đường này,” Tom - lúc này đã trở thành cột khói dày trắng xám - cố không tỏ ra hoảng sợ. Cậu hầu như không thể mở mắt vì tuyết cứ ập đến gây đau nhức. “Hay đường kia nhỉ?”\n\n“Tớ không rõ,” Elenna nói. Cơn bão bao vây họ mạnh dần. “Nhưng phải mau mau tìm thấy khu lều, kẻo bọn mình tiêu đời với trận bão tuyết này!”"
+    },
+    {
+      "chapterIndex": "page0007.xhtml",
+      "chapterHref": "contents/page0007.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13422_3/OEBPS/contents/page0007.xhtml",
+      "chapterLabel": "Chương hai: Bị lấp trong tuyết",
+      "progress": null,
+      "text": "Chương hai\nBỊ LẤP TRONG TUYẾT\n\nT\nom từng đối mặt với biết bao nguy hiểm trong Cuộc săn lùng – cậu sẽ không bị một trận bão tuyết đánh bại! Nhưng mặt mũi chân tay cậu đều tê cóng. Sớm muộn gì cả người cậu cũng sẽ rơi vào tình trạng như thế.\n\nCậu cầm chắc dây cương của Storm, dẫn nó vượt qua những luồng tuyết ồ ạt thốc đến, thầm mong mình đúng đường. Song cậu cũng không chắc lắm…\n\n“Tớ chả nhìn thấy gì!” Elenna hét.\n\n“Bám vào Storm,” Tom la to đáp lại, nhưng gió lập tức át những gì cậu nói trước khi nó vang đến tai họ. Tuyệt vọng, cậu loạng choạng bước nhanh – sau đó thở hổn hển khi va phải thứ gì cứng cứng.\n\n“Gì thế?” Elenna gào to giữa trận gió. “Tớ dẫn chúng ta đến một ụ tuyết!” Cậu thất vọng hét lớn.\n\nRồi cậu cảm giác Silver chạy xẹt qua chân và bắt đầu đào.\n\nTom chợt lóe lên hy vọng. “Phải rồi! Bọn mình có thể đào…”\n\n“… Một cái hang!” Elenna nói nốt. Cô quỳ phịch bên đống tuyết đọng bới lấy bới để.\n\n“Đợi đã,” Tom nói, tháo cái khiên trên lưng xuống. Đây là chiếc khiên ma thuật Phù thủy Aduro tặng cậu, và cứ mỗi lần giải thoát một Quái vật, cậu lại thu thêm phép thuật mới. Đến bây giờ, cậu đã đánh bại rồng lửa, thuồng luồng biển, người núi khổng lồ và nhân mã. Cái khiên có khả năng chịu lửa, giúp cậu không chết đuối, lỡ có rơi từ trên cao xuống thì chẳng hề hấn gì, thậm chí còn giúp gia tăng tốc độ. Mà tại thời điểm này, cậu có thể tận dụng nó như một cái xẻng.\n\nCậu dùng mép khiên đào tuyết. Silver nhập hội với đôi chân chắc khỏe, trong khi Elenna rút kiếm của Tom khỏi bao để phạt bớt lớp tuyết rắn nằm tít bên trong. “Cái hang cần đủ rộng cho cả bốn chúng ta!” Cô hét.\n\n“Nó sẽ giúp bọn mình giữ ấm,” Tom vừa hét trả vừa chọc mạnh cái khiên. “Tớ chưa biết phải mang Storm vào thế nào…”\n\nNghe nhắc tên, Storm khó nhọc bước đến, dùng móng trước khơi tuyết. Trong lòng Tom dâng lên niềm tự hào. Đến bây giờ, bộ tứ đã vượt qua bao thử thách, chỉ vì họ cùng hành động như một đội. Nhất định họ sẽ vượt qua trận bão tuyết cam go này!\n\nRốt cuộc họ cũng đào xong khoảng trống ra dáng một cái hang có thể trú ngụ an toàn trong điều kiện thời tiết xấu nhất. Elenna và Silver chui vào trước.\n\n“Đi nào Storm,” Tom bảo con ngựa. Con chiến mã chỉ chui lọt nửa thân trước, nhưng thế sẽ giúp chặn lối vào và cản gió lùa. Tom phủ chăn từ thắt lưng trở ra sau của Storm, dắt con ngựa di chuyển phần đầu và hai chân trước vào hang. Xong xuôi, cậu ngồi cạnh Elenna trên nền tuyết.\n\nTrong hang vừa tối vừa lạnh. Họ ngồi bó gối trước ngực và tụm lại cho ấm, Silver ngồi chen giữa. Storm nằm xuống, tựa rọ mõm lên vai Tom khụt khịt nhè nhẹ.\n\nTom và Elenna đưa mắt nhìn nhau. “Bọn mình làm được vầy là giỏi rồi,” Tom khẽ nói.\n\nHọ ngồi im bên nhau trong không gian tĩnh mịch ngột ngạt, dỏng tai nghe tiếng gió rít thê lương bên ngoài. Có khi nào những đợt tuyết tràn tới sẽ chặn cửa hang và giam họ ở trong không? Mà họ chỉ còn cách ngồi đợi…\n\nBỗng bão ngưng.\n\nGió lặng đi. Một tia nắng lọt vào phía sau Storm.\n\n“Thật không thể tin nổi,” Tom nói, tay vỗ cổ Storm, động viên nó lui ra.\n\nTừ nơi ẩn náu, con chiến mã lóng ngóng thụt lùi, đoạn đứng lên giũ giũ cái chăn đọng đầy tuyết. Silver chạy tót đi đón nắng, vui mừng sủa nhặng xị. Tom đỡ Elenna dậy rồi hai đứa cùng bò ra.\n\nBầu trời quang đãng, xanh trong hơn bao giờ hết, ánh nắng ban trưa vẫn còn rất gắt.\n\n“Sao cứ như thời tiết tệ hại vừa bỏ cuộc và biến đi đằng khác vậy,” Elenna nói, vẻ hoang mang khó hiểu.\n\n“Một trận bão trái tính,” Tom nhận định. “Lên đường thôi. Sớm đến lều du mục chừng nào hay chừng ấy. Có thể họ biết phải tìm Nanook ở đâu.”\n\nSắc mặt Elenna bỗng nghiêm nghị, cô chỉ xuống đất. “Nhìn kìa Tom – có khi Nanook sẽ tìm thấy chúng ta trước đấy!”\n\nTrước mắt họ là một dấu chân bự chảng. Nó còn to hơn bất cứ dấu chân nào xưa giờ Tom từng thấy, độ lõm trên mặt tuyết hằn rõ gan bàn chân và móng vuốt. Đó là dấu chân một sinh vật to lớn. Cực kỳ lớn.\n\nTom hướng mắt ra cánh đồng tuyết vắng vẻ. Chí ít thì – trông vắng vẻ.\n\nNhưng giờ cậu đã biết, quái vật tuyết đang ở đâu đó ngoài kia…\n\nVà họ phải băng qua những cánh đồng này đến khu lều trại."
+    }
+  ],
+  "full_text": "Mục lục\nMở đầu\nChương một: Hành trình phương Bắc bắt đầu\nChương hai: Bị lấp trong tuyết\nChương ba: Cuộc gặp gỡ trên cánh đồng băng\nChương bốn: Nỗi kinh hoàng lúc nửa đêm\nChương năm: Cuộc thám hiểm\nChương sáu: Giải thoát\nChương bảy: Vỡ thành từng mảnh\nChương tám: Cơn thịnh nộ trên băng\nChương chín: Chữa trị\n\nXin gửi lời cảm ơn đặc biệt đến Stephen Cole\n\nDành tặng Karen, vì những đóng góp của cô cho Cuộc săn lùng\n\nH\noan nghênh đã đến vương quốc Avantia.\n\nTa là Aduro – một phù thủy tốt bụng hiện đang sống trong cung điện của Vua Hugo. Các bạn đến với chúng tôi ngay vào thời điểm khó khăn. Hãy để ta giải thích…\n\nCác Văn bản Cổ đại đã ghi lại rằng, một ngày nào đó, vương quốc thanh bình của chúng tôi sẽ lâm nguy.\n\nVà giờ đây thời khắc ấy đang đến.\n\nDưới tác động từ lời nguyền độc ác của Phù thủy Hắc ám Malvel, sáu con Quái vật – rồng lửa, thuồng luồng biển, người núi khổng lồ, nhân mã, quái vật tuyết và chim lửa – đã trở nên hung hãn và tàn phá vùng đất chúng từng bảo vệ.\n\nAvantia đang trong tình trạng cực kỳ nguy hiểm.\n\nCác Văn bản Cổ đại còn đưa ra tiên đoán về một vị anh hùng bất đắc dĩ. Người đó sẽ gánh vác Cuộc săn lùng nhằm giải thoát các Quái vật khỏi lời nguyền và cứu lấy vương quốc.\n\nChúng tôi không biết chàng trai đó là ai, chỉ biết khi nào cậu ấy xuất hiện…\n\nChúng tôi cầu nguyện rằng vị anh hùng trẻ tuổi sẽ có đủ can đảm và nhiệt tâm để đảm trách Cuộc săn lùng. Các bạn sẽ cùng chờ đợi và dõi theo với chúng tôi chứ?\n\nAvantia chào đón các bạn, Aduro\n\nMỞ ĐẦU\n\nA\nlbin chạy trên cánh đồng băng hướng về quả bóng, phớt lờ cơn xóc hông đau nhói. Cậu buộc đôi chân mình phải chạy nhanh, nhanh hơn nữa…\n\nĐội cậu đang thua mà trời lại sắp tối. Chẳng mấy chốc, mọi người sẽ trở về khu lều du mục dùng bữa tối và trận đấu sẽ kết thúc. Giá mà cậu có thể gỡ hòa…\n\nCậu chạm bóng trước thủ môn đội bạn đúng một giây và tung cú sút mạnh. Quả bóng bay vèo vào khung thành rộng mở, kéo theo một trận mưa tuyết.\n\n“Có thế chứ!” Cậu reo lên. Đồng đội vây lấy cậu hò hét vui sướng.\n\n“Đến lượt các cậu nhặt banh,” thủ môn đội bạn hờn dỗi nói. Cậu ấy không vui tí nào!\n\nCột gôn không mắc lưới, mà Albin lại sút bóng rất mạnh, nên quả bóng rơi đâu đó trong mấy đụn tuyết phía sau cánh đồng.\n\n“Nhớ cẩn thận,” một cậu bé lên tiếng. “Người lớn bảo họ thấy báo tuyết1 nấp đằng ấy.”\n\n1 Báo thuộc họ mèo lớn, có lớp lông màu xám trắng với hàng loạt đốm hoa hồng bên hông và đốm trên đầu, cổ.\n\n“Tớ biết rồi,” Albin cười toe.\n\nAlbin đã sống ở miền bắc Avantia giá lạnh suốt cả đời, cậu nằm lòng những cảnh vật mùa đông trắng xóa nơi đây – những cánh đồng băng, hồ và biển đóng băng, các đụn tuyết và khu lều trại du mục mà gia đình cậu đang trú ngụ. “Chả có gì phải sợ!” Cậu thầm nghĩ.\n\nCậu chạy đến rìa cánh đồng rồi trèo lên đụn tuyết. Từ trên ấy chỉ thấy một màu trắng chói lòa trải ra xa lấp loáng trong nắng chiều. Lấy tay che tia nắng gắt của buổi hoàng hôn chiếu lên mắt, Albin không nhìn thấy quả bóng đâu cả. Tiếng đám bạn đang trên đường trở về lều hò hét lẫn cười đùa ha ha từ đằng xa vọng đến tai cậu.\n\nCậu trượt xuống. Phía bên kia dẫn ra lối đi nhỏ đóng băng nằm quanh co giữa các đụn tuyết. Quả bóng kìa. Nhưng… nó bẹp dí. Cậu ngẩn người nhìn quả bóng. Có chuyện gì xảy ra vậy?\n\nBỗng cậu nghe một âm thanh kỳ quái. Thứ tiếng leng keng lanh lảnh lạ tai - nghe như tiếng chuông.\n\nRồi khi Albin cúi nhìn quả bóng, một bóng đen lướt qua đầu cậu. Bóng đen ấy cực lớn.\n\nTrong lòng chợt thấy sợ hãi, cậu ngước mắt lên.\n\nTrước mặt Albin, một sinh vật cao lớn gấp năm lần cậu đang lắc la lắc lư trên đôi chân to như cột đình. Bộ lông trắng bờm xờm của nó rất dày. Đôi mắt đỏ rực như máu nhìn trừng trừng Albin, những móng vuốt cong, bự màu ngà rạch không khí vun vút. Cái mõm rỏ dãi lòng thòng há ra táp táp, để lộ răng nanh vàng khè sắc như dao cạo. Trên cổ Quái vật đeo vòng gắn kèm chuông nhỏ bằng đồng thau, nhưng lớp lông nơi đó bị cào rách, ló thịt hồng hồng.\n\nAlbin sợ tới mức chẳng hét nổi. Cậu cố quay người bỏ chạy song hai chân mềm nhũn, rồi cậu trượt chân té ngửa.\n\nQuái vật giậm cái chân to đùng xuống lối đi đóng băng.\n\nCơn chấn động làm xương xóc Albin rung bần bật. Cậu hoảng hốt bò dậy, lao nhanh đến đụn tuyết để không ngáng đường Quái vật. Móng vuốt Quái vật vút qua hông cậu, quào rách da thịt dưới lớp quần áo dày. Albin đau đớn hét to. Cậu sờ hông, thấy máu tươi dính dớp âm ấm. Trong cơn tuyệt vọng, cậu liều mạng trèo lên. Nếu leo được tới đỉnh, trong tầm nhìn của khu lều trại, có lẽ cậu còn cơ may sống sót.\n\nChương một\nHÀNH TRÌNH PHƯƠNG BẮC BẮT ĐẦU\n\n“T\nrong suốt chặng đường săn lùng Quái vật thì chắc đây là nơi đẹp nhất ta từng đi qua!” Tom trầm trồ. Cậu đang đứng ngây người ngắm nhìn vùng đất phủ đầy băng tuyết. Cảnh vật trắng xóa lung linh trước mắt trải dài tít tắp, phía trên là bầu trời xanh ngắt. Giờ đang quá trưa và ánh mặt trời rất gay gắt.\n\n“Nơi này vắng vẻ hoang sơ quá,” Elenna rùng mình, “có điều rất đẹp.” Con sói cưng Silver quấn quít bên cô, bộ lông xám lốm đốm bông tuyết và cột băng xíu xiu. Cô ôm nó, cảm thấy an ủi phần nào nhờ thân mình ấm áp đang dựa vào chân.\n\n“Để tớ ngó bản đồ, xem bọn mình còn phải di chuyển bao xa,” Tom nói. Cậu thò tay vào túi lấy ra cuộn giấy da sờn rách Aduro tặng.\n\nStorm đang đứng yên, thân mình đen thẫm của nó tương phản với cảnh vật toàn sắc trắng xung quanh. Nó khẽ hí nhỏ khi Tom vỗ vỗ cổ nó. Tom và Elenna không thể cưỡi ngựa trên cánh đồng tuyết. Băng tuyết làm Storm trượt chân liên tục, vậy nên hành trình của họ cứ chậm rề rề.\n\n“Ta đang ở gần ranh giới cực bắc Avantia. Hẳn là sắp đến đích.” Tom chỉ vào con đường đỏ rực trên bản đồ hướng dẫn lộ trình.\n\nĐây không phải tấm bản đồ bình thường. Nó ẩn chứa những phép thuật kỳ diệu, do vị cố vấn đặc biệt của đức vua, Phù thủy Aduro, tặng cho Tom. Tấm bản đồ đã chỉ dẫn Tom và Elenna đến bốn nơi khác nhau trong Cuộc săn lùng bí mật để giải cứu vương quốc khỏi sự đe dọa vô cùng khủng khiếp từ các Quái vật!\n\nTừ nhỏ tới giờ Tom thường được nghe kể về các Quái vật - những sinh vật huyền thoại cư ngụ ở những nơi bí ẩn nhất vương quốc, bảo vệ và trợ giúp Avantia trở nên phồn thịnh. Khi còn bé, lớn lên trong sự nuôi dạy của chú thím, cậu từng nghĩ chúng chỉ là chuyện cổ tích. Dĩ nhiên là cậu chưa bao giờ chạm trán với Quái vật. Đến cả bố Taladon cậu còn chưa biết mặt nữa là.\n\nTom vẫn băn khoăn liệu mình gặp ông lần nào chưa, nhưng chí ít thì giờ cậu chắc chắn các Quái vật có thật. Phù thủy Hắc ám Malvel nô dịch chúng bằng lời nguyền độc ác và lợi dụng chúng để gieo rắc nỗi sợ hãi cũng như sự tàn phá khắp vương quốc. Một người đặc biệt phải đảm nhận Cuộc săn lùng, giải thoát các Quái vật và cứu vương quốc. Đức vua Hugo và Phù thủy Aduro đã chọn Tom. Cậu quyết không làm họ thất vọng!\n\nĐồng hành với cậu lúc xuất phát chỉ có Storm cùng thanh kiếm và tấm khiên hộ thân. Nhưng chẳng bao lâu sau, cậu gặp Elenna và Silver, họ quyết định gia nhập đội Săn lùng với cậu. Tom biết nếu thiếu họ cậu sẽ không thể đi đến bước này của cuộc hành trình. Kề vai sát cánh bên nhau, bộ tứ đã giải được lời nguyền của Malvel ếm lên bốn Quái vật, và giờ đây, họ đang tìm Quái vật thứ năm – quái vật tuyết Nanook.\n\nRất nhiều thảo mộc quý hiếm dùng làm thuốc ở Avantia chỉ sinh trưởng ở khu vực đồng bằng phương bắc lạnh giá, nhưng không có Nanook thì các du dân sống ở đó không thể trồng hay thu hoạch chúng. Dần dà vương quốc sẽ cạn sạch thuốc men. Tom biết họ phải tìm thấy quái vật tuyết và giải thoát cho nó. “Chừng nào máu còn chảy trong huyết quản,” cậu thề với lòng mình, “mình sẽ không bỏ cuộc.”\n\n“Ta nên đi tiếp,” Elenna nói, đưa mắt lướt qua vai cậu nhìn kỹ tấm bản đồ. Cô chỉ vào cụm nhỏ các mái lều bé xíu nhô lên trên cuộn giấy da, thân mình khẽ run trong cơn gió nhẹ. “Hình như gần đây có lều của du dân. Bọn mình có thể qua đêm tại đấy. Tớ mệt đến mức vừa đứng vừa ngủ được rồi!”\n\n“Tớ cũng thế,” Tom nói. “Đi thôi!”\n\nKhi họ tiếp tục băng qua mặt băng – Tom cầm dây cương dắt Storm, Elenna và Silver theo sau – một trận gió mạnh lạnh buốt thình lình thốc tới, làm cả đám run cầm cập, mà họ đã mặc đủ ấm rồi nhé.\n\nTom bước nhanh. “Đi nào – sớm tìm được chỗ khô ráo thì bọn mình sẽ ấm lên ngay.”\n\nBỗng Silver đứng lại sủa to hai tiếng. Elenna cúi xuống bên con sói. “Sao vậy nhóc?” Cô hỏi.\n\nTom nhìn thấy con sói nheo mắt. Cổ họng nó phát ra tiếng gầm gừ. “Chắc nó đánh hơi được gì,” cậu nói. Con sói thường là thành viên đầu tiên phát hiện nguy hiểm.\n\nMột luồng gió mạnh hơn quất vào quần áo họ. Lần này, nó không hề lặng đi. Nó hướng về phía cả nhóm mà rít gào trong vài phút đồng hồ, vụn tuyết và băng chích vào da họ đau điếng.\n\n“Đừng nói là sắp có bão tuyết,” Elenna hét át tiếng gió thổi. “Mới đây trời hãy còn trong xanh nắng đẹp mà.”\n\n“Giờ thì hết rồi,” Tom hét trả. Bầu trời trên đầu họ xám xịt và đang nổi bão với những đợt tuyết bay tán loạn. “Bọn mình phải đến bằng được khu lều.”\n\nNhưng khi tuyết và mây che kín mặt trời, cậu bỗng nhận ra họ chẳng thể xác định phương hướng. Có bản đồ cũng vô ích.\n\n“Tớ nghĩ là đường này,” Tom - lúc này đã trở thành cột khói dày trắng xám - cố không tỏ ra hoảng sợ. Cậu hầu như không thể mở mắt vì tuyết cứ ập đến gây đau nhức. “Hay đường kia nhỉ?”\n\n“Tớ không rõ,” Elenna nói. Cơn bão bao vây họ mạnh dần. “Nhưng phải mau mau tìm thấy khu lều, kẻo bọn mình tiêu đời với trận bão tuyết này!”\n\nChương hai\nBỊ LẤP TRONG TUYẾT\n\nT\nom từng đối mặt với biết bao nguy hiểm trong Cuộc săn lùng – cậu sẽ không bị một trận bão tuyết đánh bại! Nhưng mặt mũi chân tay cậu đều tê cóng. Sớm muộn gì cả người cậu cũng sẽ rơi vào tình trạng như thế.\n\nCậu cầm chắc dây cương của Storm, dẫn nó vượt qua những luồng tuyết ồ ạt thốc đến, thầm mong mình đúng đường. Song cậu cũng không chắc lắm…\n\n“Tớ chả nhìn thấy gì!” Elenna hét.\n\n“Bám vào Storm,” Tom la to đáp lại, nhưng gió lập tức át những gì cậu nói trước khi nó vang đến tai họ. Tuyệt vọng, cậu loạng choạng bước nhanh – sau đó thở hổn hển khi va phải thứ gì cứng cứng.\n\n“Gì thế?” Elenna gào to giữa trận gió. “Tớ dẫn chúng ta đến một ụ tuyết!” Cậu thất vọng hét lớn.\n\nRồi cậu cảm giác Silver chạy xẹt qua chân và bắt đầu đào.\n\nTom chợt lóe lên hy vọng. “Phải rồi! Bọn mình có thể đào…”\n\n“… Một cái hang!” Elenna nói nốt. Cô quỳ phịch bên đống tuyết đọng bới lấy bới để.\n\n“Đợi đã,” Tom nói, tháo cái khiên trên lưng xuống. Đây là chiếc khiên ma thuật Phù thủy Aduro tặng cậu, và cứ mỗi lần giải thoát một Quái vật, cậu lại thu thêm phép thuật mới. Đến bây giờ, cậu đã đánh bại rồng lửa, thuồng luồng biển, người núi khổng lồ và nhân mã. Cái khiên có khả năng chịu lửa, giúp cậu không chết đuối, lỡ có rơi từ trên cao xuống thì chẳng hề hấn gì, thậm chí còn giúp gia tăng tốc độ. Mà tại thời điểm này, cậu có thể tận dụng nó như một cái xẻng.\n\nCậu dùng mép khiên đào tuyết. Silver nhập hội với đôi chân chắc khỏe, trong khi Elenna rút kiếm của Tom khỏi bao để phạt bớt lớp tuyết rắn nằm tít bên trong. “Cái hang cần đủ rộng cho cả bốn chúng ta!” Cô hét.\n\n“Nó sẽ giúp bọn mình giữ ấm,” Tom vừa hét trả vừa chọc mạnh cái khiên. “Tớ chưa biết phải mang Storm vào thế nào…”\n\nNghe nhắc tên, Storm khó nhọc bước đến, dùng móng trước khơi tuyết. Trong lòng Tom dâng lên niềm tự hào. Đến bây giờ, bộ tứ đã vượt qua bao thử thách, chỉ vì họ cùng hành động như một đội. Nhất định họ sẽ vượt qua trận bão tuyết cam go này!\n\nRốt cuộc họ cũng đào xong khoảng trống ra dáng một cái hang có thể trú ngụ an toàn trong điều kiện thời tiết xấu nhất. Elenna và Silver chui vào trước.\n\n“Đi nào Storm,” Tom bảo con ngựa. Con chiến mã chỉ chui lọt nửa thân trước, nhưng thế sẽ giúp chặn lối vào và cản gió lùa. Tom phủ chăn từ thắt lưng trở ra sau của Storm, dắt con ngựa di chuyển phần đầu và hai chân trước vào hang. Xong xuôi, cậu ngồi cạnh Elenna trên nền tuyết.\n\nTrong hang vừa tối vừa lạnh. Họ ngồi bó gối trước ngực và tụm lại cho ấm, Silver ngồi chen giữa. Storm nằm xuống, tựa rọ mõm lên vai Tom khụt khịt nhè nhẹ.\n\nTom và Elenna đưa mắt nhìn nhau. “Bọn mình làm được vầy là giỏi rồi,” Tom khẽ nói.\n\nHọ ngồi im bên nhau trong không gian tĩnh mịch ngột ngạt, dỏng tai nghe tiếng gió rít thê lương bên ngoài. Có khi nào những đợt tuyết tràn tới sẽ chặn cửa hang và giam họ ở trong không? Mà họ chỉ còn cách ngồi đợi…\n\nBỗng bão ngưng.\n\nGió lặng đi. Một tia nắng lọt vào phía sau Storm.\n\n“Thật không thể tin nổi,” Tom nói, tay vỗ cổ Storm, động viên nó lui ra.\n\nTừ nơi ẩn náu, con chiến mã lóng ngóng thụt lùi, đoạn đứng lên giũ giũ cái chăn đọng đầy tuyết. Silver chạy tót đi đón nắng, vui mừng sủa nhặng xị. Tom đỡ Elenna dậy rồi hai đứa cùng bò ra.\n\nBầu trời quang đãng, xanh trong hơn bao giờ hết, ánh nắng ban trưa vẫn còn rất gắt.\n\n“Sao cứ như thời tiết tệ hại vừa bỏ cuộc và biến đi đằng khác vậy,” Elenna nói, vẻ hoang mang khó hiểu.\n\n“Một trận bão trái tính,” Tom nhận định. “Lên đường thôi. Sớm đến lều du mục chừng nào hay chừng ấy. Có thể họ biết phải tìm Nanook ở đâu.”\n\nSắc mặt Elenna bỗng nghiêm nghị, cô chỉ xuống đất. “Nhìn kìa Tom – có khi Nanook sẽ tìm thấy chúng ta trước đấy!”\n\nTrước mắt họ là một dấu chân bự chảng. Nó còn to hơn bất cứ dấu chân nào xưa giờ Tom từng thấy, độ lõm trên mặt tuyết hằn rõ gan bàn chân và móng vuốt. Đó là dấu chân một sinh vật to lớn. Cực kỳ lớn.\n\nTom hướng mắt ra cánh đồng tuyết vắng vẻ. Chí ít thì – trông vắng vẻ.\n\nNhưng giờ cậu đã biết, quái vật tuyết đang ở đâu đó ngoài kia…\n\nVà họ phải băng qua những cánh đồng này đến khu lều trại."
+}

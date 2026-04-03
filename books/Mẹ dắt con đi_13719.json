@@ -1,0 +1,226 @@
+{
+  "item_id": 13719,
+  "title": "Mẹ dắt con đi",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T07:05:34.062Z",
+  "input_book": {
+    "id": 13719,
+    "title": "Mẹ dắt con đi",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13719.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Tự nhận m&igrave;nh kh&ocirc;ng c&oacute; năng khiếu về chụp h&igrave;nh, quay phim, hội họa giống như c&aacute;c anh chị trong gia đ&igrave;nh, Phoenix Ho chọn c&aacute;ch ghi dấu những kỷ niệm về con qua c&aacute;c đoạn văn ngắn để chia sẻ cho gia đ&igrave;nh v&agrave; bạn b&egrave; th&acirc;n thuộc ở Mỹ. Những b&agrave;i viết của chị lần lượt được đăng tải tr&ecirc;n Facebook bằng hai thứ tiếng: Việt v&agrave; Anh (sau n&agrave;y chị d&ugrave;ng tiếng Việt l&agrave; chủ yếu) đ&atilde; nhận được sự đồng cảm v&agrave; chia sẻ của rất nhiều người. V&agrave; ng&agrave;y h&ocirc;m nay, những c&acirc;u chuyện m&agrave; t&aacute;c giả Phoenix Ho gọi l&agrave; &ldquo;c&aacute;c đoạn văn ngắn&rdquo; đ&atilde; được th&agrave;nh h&igrave;nh bằng cuốn s&aacute;ch Mẹ dắt con đi.<br /><br />T&ecirc;n cuốn s&aacute;ch xuất ph&aacute;t từ c&acirc;u ca dao về t&igrave;nh y&ecirc;u v&ocirc; bờ của mẹ, đ&atilde; trở n&ecirc;n th&acirc;n thuộc với mỗi người d&acirc;n Việt: &ldquo;V&iacute; dầu cầu v&aacute;n đ&oacute;ng đinh. Cầu tre lắt lẻo gập ghềnh kh&oacute; đi. Kh&oacute; đi mẹ dắt con đi. Con đi trường học, mẹ đi trường đời&rdquo;. V&igrave; lẽ đ&oacute;, lật giở từng trang s&aacute;ch của Mẹ dắt con đi, bạn đọc sẽ gặp ở đ&acirc;y tấm l&ograve;ng bao la của người mẹ trẻ với con m&igrave;nh. Người mẹ ấy kh&ocirc;ng những mang nặng đẻ đau ch&iacute;n th&aacute;ng mười ng&agrave;y, m&agrave; c&ograve;n tận tụy với con từ l&uacute;c con vừa được sinh ra, đến khi chập chững bước đi v&agrave; bập bẹ cất l&ecirc;n những tiếng n&oacute;i đầu ti&ecirc;n trong đời.<br /><br />T&aacute;c giả Phoenix kh&ocirc;ng kể một mạch những c&acirc;u chuyện về Gấu - t&ecirc;n th&acirc;n mật của con trai chị, từ l&uacute;c sinh ra cho đến l&uacute;c cậu b&eacute; được 7 tuổi; m&agrave; chị ph&acirc;n chia th&agrave;nh 6 nh&oacute;m truyện theo c&aacute;c chủ đề kh&aacute;c nhau như: Gắn b&oacute;, Thỏ thẻ như trẻ l&ecirc;n ba, Nu&ocirc;i dưỡng t&ugrave;y c&aacute; t&iacute;nh tự nhi&ecirc;n, Kỷ luật dựa tr&ecirc;n gi&aacute; trị sống, Khi con qua 5 tuổi v&agrave; Những khoảng lặng. Những c&acirc;u chuyện trong cuốn s&aacute;ch n&agrave;y, được viết một c&aacute;ch mộc mạc, tự nhi&ecirc;n giống như chị đang ghi lại những khoảnh khắc trong cuộc sống của hai mẹ con, từ trong nh&agrave; ra đường phố, từ chuyện ăn ngủ đến chuyện cư xử với những người xung quanh&hellip; Ở đ&oacute;, c&oacute; những c&acirc;u chuyện khiến ch&uacute;ng ta kh&ocirc;ng khỏi bật cười v&igrave; sự hồn nhi&ecirc;n, ng&acirc;y thơ của Gấu; nhưng cũng c&oacute; những c&acirc;u chuyện khiến ch&uacute;ng ta phải b&ugrave;i ng&ugrave;i x&uacute;c động trước t&igrave;nh thương bao la m&agrave; chị d&agrave;nh cho con trai của m&igrave;nh.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "6132",
+        "name": " Phoenix Ho "
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Văn hóa & Xã hội_383.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-01 00:17:50",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13719,
+      "title": "Mẹ dắt con đi",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Tự nhận m&igrave;nh kh&ocirc;ng c&oacute; năng khiếu về chụp h&igrave;nh, quay phim, hội họa giống như c&aacute;c anh chị trong gia đ&igrave;nh, Phoenix Ho chọn c&aacute;ch ghi dấu những kỷ niệm về con qua c&aacute;c đoạn văn ngắn để chia sẻ cho gia đ&igrave;nh v&agrave; bạn b&egrave; th&acirc;n thuộc ở Mỹ. Những b&agrave;i viết của chị lần lượt được đăng tải tr&ecirc;n Facebook bằng hai thứ tiếng: Việt v&agrave; Anh (sau n&agrave;y chị d&ugrave;ng tiếng Việt l&agrave; chủ yếu) đ&atilde; nhận được sự đồng cảm v&agrave; chia sẻ của rất nhiều người. V&agrave; ng&agrave;y h&ocirc;m nay, những c&acirc;u chuyện m&agrave; t&aacute;c giả Phoenix Ho gọi l&agrave; &ldquo;c&aacute;c đoạn văn ngắn&rdquo; đ&atilde; được th&agrave;nh h&igrave;nh bằng cuốn s&aacute;ch Mẹ dắt con đi.<br /><br />T&ecirc;n cuốn s&aacute;ch xuất ph&aacute;t từ c&acirc;u ca dao về t&igrave;nh y&ecirc;u v&ocirc; bờ của mẹ, đ&atilde; trở n&ecirc;n th&acirc;n thuộc với mỗi người d&acirc;n Việt: &ldquo;V&iacute; dầu cầu v&aacute;n đ&oacute;ng đinh. Cầu tre lắt lẻo gập ghềnh kh&oacute; đi. Kh&oacute; đi mẹ dắt con đi. Con đi trường học, mẹ đi trường đời&rdquo;. V&igrave; lẽ đ&oacute;, lật giở từng trang s&aacute;ch của Mẹ dắt con đi, bạn đọc sẽ gặp ở đ&acirc;y tấm l&ograve;ng bao la của người mẹ trẻ với con m&igrave;nh. Người mẹ ấy kh&ocirc;ng những mang nặng đẻ đau ch&iacute;n th&aacute;ng mười ng&agrave;y, m&agrave; c&ograve;n tận tụy với con từ l&uacute;c con vừa được sinh ra, đến khi chập chững bước đi v&agrave; bập bẹ cất l&ecirc;n những tiếng n&oacute;i đầu ti&ecirc;n trong đời.<br /><br />T&aacute;c giả Phoenix kh&ocirc;ng kể một mạch những c&acirc;u chuyện về Gấu - t&ecirc;n th&acirc;n mật của con trai chị, từ l&uacute;c sinh ra cho đến l&uacute;c cậu b&eacute; được 7 tuổi; m&agrave; chị ph&acirc;n chia th&agrave;nh 6 nh&oacute;m truyện theo c&aacute;c chủ đề kh&aacute;c nhau như: Gắn b&oacute;, Thỏ thẻ như trẻ l&ecirc;n ba, Nu&ocirc;i dưỡng t&ugrave;y c&aacute; t&iacute;nh tự nhi&ecirc;n, Kỷ luật dựa tr&ecirc;n gi&aacute; trị sống, Khi con qua 5 tuổi v&agrave; Những khoảng lặng. Những c&acirc;u chuyện trong cuốn s&aacute;ch n&agrave;y, được viết một c&aacute;ch mộc mạc, tự nhi&ecirc;n giống như chị đang ghi lại những khoảnh khắc trong cuộc sống của hai mẹ con, từ trong nh&agrave; ra đường phố, từ chuyện ăn ngủ đến chuyện cư xử với những người xung quanh&hellip; Ở đ&oacute;, c&oacute; những c&acirc;u chuyện khiến ch&uacute;ng ta kh&ocirc;ng khỏi bật cười v&igrave; sự hồn nhi&ecirc;n, ng&acirc;y thơ của Gấu; nhưng cũng c&oacute; những c&acirc;u chuyện khiến ch&uacute;ng ta phải b&ugrave;i ng&ugrave;i x&uacute;c động trước t&igrave;nh thương bao la m&agrave; chị d&agrave;nh cho con trai của m&igrave;nh.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "13/05/2015",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/me-dat-con-di-phoenix-ho-byON2W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/me-dat-con-di-phoenix-ho-byON2W.html?std=type%3D1%26data%3D13719%26title%3DM%25E1%25BA%25B9%2Bd%25E1%25BA%25AFt%2Bcon%2B%25C4%2591i%26mini_app%3D1&type=1&data=13719&title=M%E1%BA%B9+d%E1%BA%AFt+con+%C4%91i&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "100",
+          "name": "NXB Tổng hợp thành phố HCM"
+        }
+      ],
+      "authors": [
+        {
+          "id": "6132",
+          "name": " Phoenix Ho ",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/6132.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"6132\",\"name\":\" Phoenix Ho \",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/6132.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": " Phoenix Ho ",
+      "author_id": "6132",
+      "category_id": "383",
+      "category_name": "Giáo dục - Văn hóa & Xã hội",
+      "categories": [
+        {
+          "id": "383",
+          "name": "Giáo dục - Văn hóa & Xã hội",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 12,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 1,
+      "total_wishlist": 36,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13719&title=me-dat-con-di",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13719&title=me-dat-con-di#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1468315204,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13719.jpg?v=2&w=480&h=700",
+      "share_thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book_fb/0/0/0/13719.jpg?v=1&w=1200&h=632",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 2212,
+      "number_view": 4821,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/me-dat-con-di-byON2W.html?std=type%3D1%26data%3D13719&type=1&data=13719",
+      "read_link": "https://ebook.waka.vn/me-dat-con-di-ryON2W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 12
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 6,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 6,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13719_6/OEBPS/content.opf?token=0c5a2zd6b452eccd85fd95850af70c28f4bf2513719",
+        "id": 13719,
+        "chapter_trail": 5,
+        "name": "Mẹ dắt con đi",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 6,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/me-dat-con-di-ryON2W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0062.xhtml",
+      "chapterHref": "contents/page0062.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13719_6/OEBPS/contents/page0062.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nLời tác giả\nNhóm chuyện 1: Gắn bó\nXem phim\nTình yêu của tôi - Xa cách\nChơi cùng con\nCánh diều tuổi thơ\nHẹn hò cùng Gấu\nTình yêu của con\nHạnh phúc những buổi chiều\nHạnh phúc của con\nKhoảnh khắc đàn ông\nTrò chuyện cùng con\nNhóm chuyện 2: Thỏ thẻ như trẻ lên 3\nMột ngày của Gấu - Tuổi lên 2\nTình yêu của tôi - Tập ăn\nMẹ và con\nTình yêu của tôi - Học mở\nThư gửi con trai\nBàn tay để làm gì?\nTuổi biết buồn\nTha thứ\nHọc nói\nTình yêu của tôi - Thỏ thẻ như trẻ lên 3\nNhóm chuyện 3: Nuôi dưỡng tùy cá tính tự nhiên\nNhững khoảnh khắc yêu thương - phần 1\nNhững khoảnh khắc yêu thương - phần 2\nTình yêu của tôi - Tuổi lên 4\nYêu thương và biết cho đi\nNhận trách nhiệm\nĐối thoại - mẹ và con\nTuổi lên 5\nĐoản khúc cho tuổi lên 5\nTrong mắt con\nNhững khoảnh khắc\nBình an là…\nGiới hạn và cảm xúc\nNhóm chuyện 4: Kỷ luật dựa trên giá trị sống\nLỗi tại ai? - phần 1\nLỗi tại ai? - phần 2\nKhóc vì con\nGia đình\nTình yêu của tôi - Nhè nhẹ, từ từ\nBom tình yêu\nNhóm chuyện 5: Khi con qua 5 tuổi\nTrò chuyện cuối năm\nNgày bình yên...\nTình yêu của tôi - quyền tự quyết\nTình yêu của tôi - Tuổi lên 7\nĐối thoại tuổi lên 7\nTrò chuyện đầu năm\nKhi con lên 7\nNhóm chuyện 6: Những khoảng lặng\nViết về bà ngoại\nEm ơi giữ lấy chân quê\nNếu có thể\nViết về nỗi nhớ\nTình yêu của tôi - Nỗi lo của tôi\nThư gửi con\nHạnh phúc là...\nLời kết"
+    },
+    {
+      "chapterIndex": "page0063.xhtml",
+      "chapterHref": "contents/page0063.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13719_6/OEBPS/contents/page0063.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nLời tác giả\nNhóm chuyện 1: Gắn bó\nXem phim\nTình yêu của tôi - Xa cách\nChơi cùng con\nCánh diều tuổi thơ\nHẹn hò cùng Gấu\nTình yêu của con\nHạnh phúc những buổi chiều\nHạnh phúc của con\nKhoảnh khắc đàn ông\nTrò chuyện cùng con\nNhóm chuyện 2: Thỏ thẻ như trẻ lên 3\nMột ngày của Gấu - Tuổi lên 2\nTình yêu của tôi - Tập ăn\nMẹ và con\nTình yêu của tôi - Học mở\nThư gửi con trai\nBàn tay để làm gì?\nTuổi biết buồn\nTha thứ\nHọc nói\nTình yêu của tôi - Thỏ thẻ như trẻ lên 3\nNhóm chuyện 3: Nuôi dưỡng tùy cá tính tự nhiên\nNhững khoảnh khắc yêu thương - phần 1\nNhững khoảnh khắc yêu thương - phần 2\nTình yêu của tôi - Tuổi lên 4\nYêu thương và biết cho đi\nNhận trách nhiệm\nĐối thoại - mẹ và con\nTuổi lên 5\nĐoản khúc cho tuổi lên 5\nTrong mắt con\nNhững khoảnh khắc\nBình an là…\nGiới hạn và cảm xúc\nNhóm chuyện 4: Kỷ luật dựa trên giá trị sống\nLỗi tại ai? - phần 1\nLỗi tại ai? - phần 2\nKhóc vì con\nGia đình\nTình yêu của tôi - Nhè nhẹ, từ từ\nBom tình yêu\nNhóm chuyện 5: Khi con qua 5 tuổi\nTrò chuyện cuối năm\nNgày bình yên...\nTình yêu của tôi - quyền tự quyết\nTình yêu của tôi - Tuổi lên 7\nĐối thoại tuổi lên 7\nTrò chuyện đầu năm\nKhi con lên 7\nNhóm chuyện 6: Những khoảng lặng\nViết về bà ngoại\nEm ơi giữ lấy chân quê\nNếu có thể\nViết về nỗi nhớ\nTình yêu của tôi - Nỗi lo của tôi\nThư gửi con\nHạnh phúc là...\nLời kết"
+    },
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13719_6/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": "Lời giới thiệu",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU\n\nT\nôi là một người công tác trong ngành giáo dục nên luôn tâm đắc với những câu chuyện dạy dỗ trẻ em thành những NGƯỜI giàu lòng nhân ái, có tinh thần tự lập, có nghị lực vươn lên trong cuộc sống, có trách nhiệm và biết quan tâm đến mọi người.\n\nCách đây 3 năm, khi tham gia một dự án phi lợi nhuận của Tổ chức Hợp tác phát triển và Hỗ trợ kỹ thuật vùng Flamăng - Vương quốc Bỉ (VVOB Việt Nam), tôi tình cờ được làm việc cùng chị - Phoenix. Chị là một Việt kiều Mỹ, có 2 bằng thạc sĩ về giáo dục và tư vấn phát triển hướng nghiệp của Úc và Mỹ. Công việc chính của chị hiện nay là điều phối viên tư vấn hướng nghiệp - Đại học RMIT Việt Nam. Trong quá trình sống và làm việc tại Việt Nam, chị có cơ hội làm việc với một nhóm bạn trẻ có hoàn cảnh khó khăn, giúp đỡ họ tìm học bổng cũng như rèn luyện thêm những kiến thức và kỹ năng sống mà họ thiếu. Có một thời điểm các em sinh hoạt hàng ngày tại nhà của chị. Chị gọi các em bằng con, mặc dù tuổi đời của chị còn trẻ (chị tuổi Bính Thìn). Hiện nay, các em đều đã đi học nghề, học cao đẳng, đại học hoặc đi làm. Thỉnh thoảng, các em vẫn tập trung về nhà chị, xem chị như người Cô, người Mẹ, xem con trai chị như người em út của họ. Chị làm tất cả những công việc này, bởi: “Từ nhỏ, trong lòng mình luôn có cảm giác thôi thúc được phục vụ tha nhân, đốt lên ngọn nến thắp sáng đêm đen, góp tay giúp cho cuộc đời thêm điều đẹp tươi” (Lời tự sự của Phoenix).\n\nPhoenix có một cậu con trai nhỏ năm nay lên 7 tuổi. Một lần đi tập huấn với chị ở Huế, chị đưa cháu đi theo. Khi gặp cháu, tôi thấy cháu rất ngoan, có tính kỹ luật và tính tự lập cao, từ việc ăn uống cho đến những công việc tự phục vụ cho bản thân, mặc dù khi đó cháu mới gần 4 tuổi. Sau này, khi đã thân thiết với nhau, thỉnh thoảng chị gửi cho tôi những mẩu chuyện kể về cách chị tương tác cùng con trai của chị (mà chị thường âu yếm gọi là Gấu). Tôi đọc và hiểu được phần nào vì sao Gấu của chị lại có được những đức tính như vậy ngay từ khi còn nhỏ. Tôi gửi mail cho Phoenix và nói: “Chuyện của Phoenix rất hay. Nếu Phoenix viết được nhiều mẩu chuyện thế này thì nên in thành truyện để chia sẻ với các bạn trẻ về cách làm bạn cùng con. Hay và bổ ích lắm đấy”. Rồi cách đây 2 tháng, Phoenix đã tập hợp tất cả những mẩu chuyện chị viết dưới dạng nhật ký và gửi cho tôi.\n\nNgay khi đọc những mẩu chuyện đầu tiên, tôi đã bị cuốn hút bởi cách viết mộc mạc, giản dị nhưng đầy sâu lắng và cảm động của chị. Đêm đó, tôi trằn trọc mãi không ngủ được vì bị “ám ảnh” bởi những câu chuyện mà tôi mới đọc. Cứ nghĩ rằng quen nhau lâu vậy thì mình đã hiểu được Phoenix, nhưng đọc truyện của Phoenix mới khám phá ra nhiều điều thật mới lạ. Những cảm giác khó tả dâng trào trong tôi. Từ những dòng tự sự, những bức thư chị gửi cho con trai, tôi nhận thấy chị là một người mẹ yêu con tuyệt vời nhưng cũng rất nghiêm khắc với con, bởi chị nghĩ: “Cho dù làm mẹ tốt cách nào, lòng vẫn luôn canh cánh mình làm sai và sợ ảnh hưởng không tốt vào cuộc đời con sau này. Quá thông cảm ư? - Sau này nó khó hài lòng với người khác. Quá cứng rắn ư? - Làm tổn thương con thì sao. Quá bảo vệ ư? - Rồi làm sao nó có thể tự lập khi trưởng thành!”. Trong cuộc hành trình cùng con, chị đã luôn lắng nghe con, thấu hiểu con và dạy con từ những điều nhỏ nhất để con “học ăn, học nói, học gói, học mở” từ khi con còn rất nhỏ.\n\nSẽ bổ ích biết bao nếu cách tương tác cùng con, cách quan tâm đến con, cách lắng nghe con để thấu hiểu con, cách tôn trọng con và làm bạn cùng con của Phoenix được các bạn trẻ đón nhận và áp dụng vào gia đình nhỏ bé của mình.\n\nLà một người bạn của chị, tôi có mong muốn cháy bỏng là cuốn sách này của Phoenix được xuất bản và đến tay được tất cả mọi người, nhất là các bạn trẻ đang nuôi dạy con nhỏ. Hy vọng rằng, đây sẽ là món quà nhỏ có ý nghĩa đem lại những điều kỳ diệu cho cuộc sống gia đình của mỗi chúng ta.\n\nMột ngày mùa thu năm 2014\n\nThS. Trần Thị Thu\n\nNguyên cán bộ nghiên cứu giáo dục - Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13719_6/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": "Lời tác giả",
+      "progress": null,
+      "text": "LỜI TÁC GIẢ\n\nT\nôi mang thai Gấu vào lúc bắt đầu học chương trình thạc sĩ tư vấn, chuyên ngành tư vấn hướng nghiệp. Khi tình cờ biết tin vui, ngoài những lời chúc tốt đẹp, các giáo sư thường cho tôi lời khuyên về việc làm mẹ.\n\nMột trong những lời khuyên ấy tôi đã làm theo triệt để, đó là lời của nữ Giáo sư Moretti. Cô nói: “Để làm mẹ tốt, em chỉ cần đọc hai cuốn sách này. Nhớ là đừng đọc quá nhiều sách vì điều ấy có thể làm em loạn.\n\nCô nghĩ chỉ cần hai cuốn thôi, em ạ”. Tôi đã mua và bắt đầu đọc từ khi Gấu còn trong bụng mẹ cho suốt đến những tháng năm sau này. Đặc biệt, khi mối quan hệ giữa hai mẹ con có những trúc trắc, con bướng hơn, tôi khóc nhiều hơn vì cảm giác hối hận, sau khi con ngủ, tôi lại lôi cuốn thứ hai ra đọc để hiểu mình đã làm sai ở đâu, và có thể làm gì để bổ khuyết.\n\nHai cuốn sách ấy tên là First feelings(1) của tác giả Stanley Greenspan và Nancy T. Greenspan và Parenting from the inside out(2) của tác giả Daniel J. Siegel MD và Mary Hartzell. Cả hai cuốn đều dựa trên học thuyết gắn bó của nhà tâm lý học John Bowlby. Ông cho rằng mối quan hệ gắn bó giữa trẻ và cha mẹ đã bắt đầu ngay từ khi trẻ vừa ra đời và duy trì sức ảnh hưởng mạnh mẽ đến suốt cuộc đời trẻ. Vì chuyên ngành của tôi là tư vấn hướng nghiệp, nên các học phần về tâm lý của tôi nhẹ hơn so với các bạn bên ngành tư vấn tâm lý, nhưng vì Gấu, tôi đã đọc và nghiên cứu học thuyết này cùng hai cuốn sách ấy thật kỹ. Tôi rút ra những điểm chính sau đây cho vai trò làm mẹ của mình:\n\n• Trong hai năm đầu đời của Gấu, vai trò làm mẹ đối với tôi sẽ là ưu tiên số một. Điều đó có nghĩa là việc học có thể chậm lại, nghề nghiệp thăng tiến sẽ không phải là điều quan trọng nhất, thời gian xã giao cũng tạm thời bỏ qua, v.v…\n\n• Từ khi Gấu sinh ra đến 18 tháng tuổi, tôi phải để ý thật kỹ những cảm xúc của con, theo dõi chặt chẽ, lắng nghe để hiểu con ở những ngôn ngữ cơ thể nhỏ nhất như nhíu mày, quơ tay, cười, khóc,...\n\n• Dĩ nhiên tôi còn phải hoàn thành các vai trò khác như đi học, đi làm, nhưng mỗi khi ở cùng Gấu, thì tất cả sự tập trung của tôi sẽ dành hết cho con một cách trọn vẹn, như khi chơi với con thì chơi hết mình.\n\n• Nếu có thể, tôi mong mình có thể làm những điều trên cho đến khi con 5 tuổi.\n\n(1) Tạm dịch: Những cảm xúc đầu tiên: các cột mốc quan trọng trong sự phát triển cảm xúc của con bạn\n\n(2) Tạm dịch: Nuôi dạy con bắt đầu từ bên trong\n\nVì không có các năng khiếu như chụp hình, quay phim, hội họa như các anh chị mình, tôi ghi dấu những kỷ niệm về con qua các đoản văn ngắn để chia sẻ cho gia đình và bạn bè thân thuộc ở Mỹ. Tôi nhận được rất nhiều lời khen ngợi và khuyến khích duy trì thói quen này để sau khi Gấu trưởng thành, hai mẹ con cùng nhìn lại những chặng đường đã qua. Sau này tôi bắt đầu chia sẻ những bài viết trên trang facebook của mình, nơi mà tôi dành riêng cho việc tương tác với sinh viên, và ngạc nhiên thay các em rất thích những bài viết về Gấu. Họ thường tâm sự rằng sau khi làm mẹ hay làm cha, họ muốn làm theo những chia sẻ của tôi. Tôi thầm cảm ơn gia đình, bạn bè, các bạn sinh viên, những người cùng cảm nhận… từng nhịp bước yêu thương của Mẹ và Gấu. Điều đó cho tôi ý tưởng chia sẻ những trải nghiệm của mình rộng rãi hơn, và đó là lý do quyển sách này ra đời. Tôi chia những bài viết ngắn của mình vào từng nhóm có chung đề tài, với lời dẫn ở đầu và cuối, mỗi nhóm chia sẻ những kiến thức về học thuyết mà tôi đã tham khảo và ứng dụng trong vai trò làm mẹ của mình.\n\nKhi mới viết, tôi viết bằng cả tiếng Anh và tiếng Việt, nhưng dần về sau tôi dùng ngôn ngữ Việt là chính, với mong ước rằng đây sẽ là động lực cho Gấu học thật giỏi tiếng Việt để tự đọc các bài viết của mẹ về bản thân sau khi trưởng thành. Hai năm đầu đời Gấu lớn lên tại Mỹ, và cậu bé theo chương trình giáo dục Mỹ tại trường SSIS nên ngôn ngữ chính vẫn là tiếng Anh. Đó là lý do tại sao ngôn ngữ giao tiếp của hai mẹ con thường chen lẫn cả Anh lẫn Việt, và vì muốn chuyển tải được sự tự nhiên và trung thực, tôi vẫn giữ nguyên đặc điểm này trong các bài viết của mình.\n\nTôi mong các bạn thích đọc những bài viết này như tôi đã thích viết chúng trong suốt 5 năm qua. Và hy vọng những người mẹ người cha trẻ sẽ tìm được những thông tin và kinh nghiệm hữu ích từ quyển sách này.\n\nPhoenix Ho"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13719_6/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Tình yêu của tôi - Xa cách",
+      "progress": null,
+      "text": "TÌNH YÊU CỦA TÔI - XA CÁCH\n\nV\nề đến nhà, gõ cửa, Gấu ra thấy mẹ thì mừng quá sững ra, rồi nhảy cẫng lên, rồi hai mẹ con ôm nhau thắm thiết. Chị Phượng cảm động nói: “Dễ thương quá à, dễ thương quá đi”.\n\nLấy quà cho Gấu, không gì nhiều nhặn hay đắt đỏ, chỉ là bốn hộp đất sét dẻo và bộ xe công trình nhỏ xíu. Gấu thích lắm, lên phòng ngủ chơi, thỉnh thoảng nhìn Mommy mỉm cười vui vẻ. Chị Phượng kể, hồi chiều Gấu nghe Mommy về mới chịu cho gội đầu để Mommy ngửi cho thơm. Chàng nhóc nghe kể chuyện mình thì cười ỏn ẻn, vờ như không nghe thấy. Chơi mệt mà vì nhớ mẹ, Gấu không chịu ngủ, nổi chướng. Mommy lấy đàn ra hát cho Gấu nghe. Cu cậu ngủ say, giấc ngủ an lành vì biết Mommy ở bên, không như đêm trước khi Mommy đi, cứ trăn trở có lẽ vì nhớ. Thương làm sao con trai của mẹ.\n\nSáng ra, Mommy đang sửa soạn trong phòng tắm thì Gấu gọi: “Mommy ơi, lên ngủ với con”. Vậy là Mommy lật đật chạy lên, nằm cạnh hát ê a khi Gấu bú bình, anh chàng thỉnh thoảng cười khanh khách dù Mommy chẳng làm gì hay ho. Auntie(1) Mai chọc: “Gấu vui rồi heng, có Mommy vui rồi heng. Hôm bữa khóc um sùm, to ơi là to”. Mommy phải nói: “Người ta nhớ mẹ mà, auntie Mai đừng chọc Gấu nghen”, nếu không anh chàng sụ mặt vì nghĩ người khác chọc quê. Đừng tưởng 3 tuổi rưỡi người ta không biết hờn dỗi. Gấu không thích khi người khác cười mình chút nào, phải giải thích là người ta cười với Gấu chứ không phải cười chọc Gấu thì cậu chàng mới chịu.\n\n(1) auntie: cô, dì\n\nChiều đi làm về mệt, ngủ một chút rồi xuống lầu, Gấu mừng lắm, hỏi: “Mommy bệnh hả?” rồi rủ Mommy chơi. Gấu chơi cái gì không vừa ý, hơi cau mày, Mommy lại tỏ ra thích thú cười phá lên, vậy là Gấu cười theo không nhăn nhó nữa. Gấu nói chuyện với xe: “Xe đánh răng nhe”, rồi lấy tay đánh răng cho xe. Mommy lợi dụng tình thế, nói: “Wow hay quá, Gấu đánh răng cho xe hay quá”. Đến phiên Mommy đánh răng cho Gấu, Mommy nhìn xe nói: “Xe xem Gấu đánh nghen, giỏi lắm nè. Xe nhìn nghen, răng anh Gấu không bị sâu ăn, răng Mommy bị nè”. Mommy còn há miệng cho xe nhìn nữa chứ. Vậy là Gấu chăm chú nhìn trong khi Mommy đánh hết hàm răng, không phản đối nhăn nhó, cứ như là sợ xe không làm theo thì phải. Hình như ở tuổi này Gấu không quan tâm người lớn nghĩ gì, chỉ quan tâm thú vật và đồ chơi nghĩ gì mà thôi.\n\nTối lên phòng ngủ, Gấu để bạn gấu bông nhỏ lên mền, thảy tung lên, cười, rồi ôm bạn hun và nói: “Có sao không, có sao không”, rồi lại chơi tiếp. Xa Gấu có 5 ngày mà thấy dài tận thiên thu. Nếu có thể, chắc Mommy chẳng muốn đi đâu mà không có Gấu nữa đâu. Nghe chị Phượng nói đến 7 tuổi là nhóc nhà chị không thích quanh quẩn với mẹ nữa rồi, đến 14 tuổi thì chẳng muốn tâm sự nữa. Mommy còn 3 năm rưỡi độc quyền tình yêu của Gấu, sao không tận dụng phải không con!"
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nLời tác giả\nNhóm chuyện 1: Gắn bó\nXem phim\nTình yêu của tôi - Xa cách\nChơi cùng con\nCánh diều tuổi thơ\nHẹn hò cùng Gấu\nTình yêu của con\nHạnh phúc những buổi chiều\nHạnh phúc của con\nKhoảnh khắc đàn ông\nTrò chuyện cùng con\nNhóm chuyện 2: Thỏ thẻ như trẻ lên 3\nMột ngày của Gấu - Tuổi lên 2\nTình yêu của tôi - Tập ăn\nMẹ và con\nTình yêu của tôi - Học mở\nThư gửi con trai\nBàn tay để làm gì?\nTuổi biết buồn\nTha thứ\nHọc nói\nTình yêu của tôi - Thỏ thẻ như trẻ lên 3\nNhóm chuyện 3: Nuôi dưỡng tùy cá tính tự nhiên\nNhững khoảnh khắc yêu thương - phần 1\nNhững khoảnh khắc yêu thương - phần 2\nTình yêu của tôi - Tuổi lên 4\nYêu thương và biết cho đi\nNhận trách nhiệm\nĐối thoại - mẹ và con\nTuổi lên 5\nĐoản khúc cho tuổi lên 5\nTrong mắt con\nNhững khoảnh khắc\nBình an là…\nGiới hạn và cảm xúc\nNhóm chuyện 4: Kỷ luật dựa trên giá trị sống\nLỗi tại ai? - phần 1\nLỗi tại ai? - phần 2\nKhóc vì con\nGia đình\nTình yêu của tôi - Nhè nhẹ, từ từ\nBom tình yêu\nNhóm chuyện 5: Khi con qua 5 tuổi\nTrò chuyện cuối năm\nNgày bình yên...\nTình yêu của tôi - quyền tự quyết\nTình yêu của tôi - Tuổi lên 7\nĐối thoại tuổi lên 7\nTrò chuyện đầu năm\nKhi con lên 7\nNhóm chuyện 6: Những khoảng lặng\nViết về bà ngoại\nEm ơi giữ lấy chân quê\nNếu có thể\nViết về nỗi nhớ\nTình yêu của tôi - Nỗi lo của tôi\nThư gửi con\nHạnh phúc là...\nLời kết\n\nMục lục\nLời giới thiệu\nLời tác giả\nNhóm chuyện 1: Gắn bó\nXem phim\nTình yêu của tôi - Xa cách\nChơi cùng con\nCánh diều tuổi thơ\nHẹn hò cùng Gấu\nTình yêu của con\nHạnh phúc những buổi chiều\nHạnh phúc của con\nKhoảnh khắc đàn ông\nTrò chuyện cùng con\nNhóm chuyện 2: Thỏ thẻ như trẻ lên 3\nMột ngày của Gấu - Tuổi lên 2\nTình yêu của tôi - Tập ăn\nMẹ và con\nTình yêu của tôi - Học mở\nThư gửi con trai\nBàn tay để làm gì?\nTuổi biết buồn\nTha thứ\nHọc nói\nTình yêu của tôi - Thỏ thẻ như trẻ lên 3\nNhóm chuyện 3: Nuôi dưỡng tùy cá tính tự nhiên\nNhững khoảnh khắc yêu thương - phần 1\nNhững khoảnh khắc yêu thương - phần 2\nTình yêu của tôi - Tuổi lên 4\nYêu thương và biết cho đi\nNhận trách nhiệm\nĐối thoại - mẹ và con\nTuổi lên 5\nĐoản khúc cho tuổi lên 5\nTrong mắt con\nNhững khoảnh khắc\nBình an là…\nGiới hạn và cảm xúc\nNhóm chuyện 4: Kỷ luật dựa trên giá trị sống\nLỗi tại ai? - phần 1\nLỗi tại ai? - phần 2\nKhóc vì con\nGia đình\nTình yêu của tôi - Nhè nhẹ, từ từ\nBom tình yêu\nNhóm chuyện 5: Khi con qua 5 tuổi\nTrò chuyện cuối năm\nNgày bình yên...\nTình yêu của tôi - quyền tự quyết\nTình yêu của tôi - Tuổi lên 7\nĐối thoại tuổi lên 7\nTrò chuyện đầu năm\nKhi con lên 7\nNhóm chuyện 6: Những khoảng lặng\nViết về bà ngoại\nEm ơi giữ lấy chân quê\nNếu có thể\nViết về nỗi nhớ\nTình yêu của tôi - Nỗi lo của tôi\nThư gửi con\nHạnh phúc là...\nLời kết\n\nLỜI GIỚI THIỆU\n\nT\nôi là một người công tác trong ngành giáo dục nên luôn tâm đắc với những câu chuyện dạy dỗ trẻ em thành những NGƯỜI giàu lòng nhân ái, có tinh thần tự lập, có nghị lực vươn lên trong cuộc sống, có trách nhiệm và biết quan tâm đến mọi người.\n\nCách đây 3 năm, khi tham gia một dự án phi lợi nhuận của Tổ chức Hợp tác phát triển và Hỗ trợ kỹ thuật vùng Flamăng - Vương quốc Bỉ (VVOB Việt Nam), tôi tình cờ được làm việc cùng chị - Phoenix. Chị là một Việt kiều Mỹ, có 2 bằng thạc sĩ về giáo dục và tư vấn phát triển hướng nghiệp của Úc và Mỹ. Công việc chính của chị hiện nay là điều phối viên tư vấn hướng nghiệp - Đại học RMIT Việt Nam. Trong quá trình sống và làm việc tại Việt Nam, chị có cơ hội làm việc với một nhóm bạn trẻ có hoàn cảnh khó khăn, giúp đỡ họ tìm học bổng cũng như rèn luyện thêm những kiến thức và kỹ năng sống mà họ thiếu. Có một thời điểm các em sinh hoạt hàng ngày tại nhà của chị. Chị gọi các em bằng con, mặc dù tuổi đời của chị còn trẻ (chị tuổi Bính Thìn). Hiện nay, các em đều đã đi học nghề, học cao đẳng, đại học hoặc đi làm. Thỉnh thoảng, các em vẫn tập trung về nhà chị, xem chị như người Cô, người Mẹ, xem con trai chị như người em út của họ. Chị làm tất cả những công việc này, bởi: “Từ nhỏ, trong lòng mình luôn có cảm giác thôi thúc được phục vụ tha nhân, đốt lên ngọn nến thắp sáng đêm đen, góp tay giúp cho cuộc đời thêm điều đẹp tươi” (Lời tự sự của Phoenix).\n\nPhoenix có một cậu con trai nhỏ năm nay lên 7 tuổi. Một lần đi tập huấn với chị ở Huế, chị đưa cháu đi theo. Khi gặp cháu, tôi thấy cháu rất ngoan, có tính kỹ luật và tính tự lập cao, từ việc ăn uống cho đến những công việc tự phục vụ cho bản thân, mặc dù khi đó cháu mới gần 4 tuổi. Sau này, khi đã thân thiết với nhau, thỉnh thoảng chị gửi cho tôi những mẩu chuyện kể về cách chị tương tác cùng con trai của chị (mà chị thường âu yếm gọi là Gấu). Tôi đọc và hiểu được phần nào vì sao Gấu của chị lại có được những đức tính như vậy ngay từ khi còn nhỏ. Tôi gửi mail cho Phoenix và nói: “Chuyện của Phoenix rất hay. Nếu Phoenix viết được nhiều mẩu chuyện thế này thì nên in thành truyện để chia sẻ với các bạn trẻ về cách làm bạn cùng con. Hay và bổ ích lắm đấy”. Rồi cách đây 2 tháng, Phoenix đã tập hợp tất cả những mẩu chuyện chị viết dưới dạng nhật ký và gửi cho tôi.\n\nNgay khi đọc những mẩu chuyện đầu tiên, tôi đã bị cuốn hút bởi cách viết mộc mạc, giản dị nhưng đầy sâu lắng và cảm động của chị. Đêm đó, tôi trằn trọc mãi không ngủ được vì bị “ám ảnh” bởi những câu chuyện mà tôi mới đọc. Cứ nghĩ rằng quen nhau lâu vậy thì mình đã hiểu được Phoenix, nhưng đọc truyện của Phoenix mới khám phá ra nhiều điều thật mới lạ. Những cảm giác khó tả dâng trào trong tôi. Từ những dòng tự sự, những bức thư chị gửi cho con trai, tôi nhận thấy chị là một người mẹ yêu con tuyệt vời nhưng cũng rất nghiêm khắc với con, bởi chị nghĩ: “Cho dù làm mẹ tốt cách nào, lòng vẫn luôn canh cánh mình làm sai và sợ ảnh hưởng không tốt vào cuộc đời con sau này. Quá thông cảm ư? - Sau này nó khó hài lòng với người khác. Quá cứng rắn ư? - Làm tổn thương con thì sao. Quá bảo vệ ư? - Rồi làm sao nó có thể tự lập khi trưởng thành!”. Trong cuộc hành trình cùng con, chị đã luôn lắng nghe con, thấu hiểu con và dạy con từ những điều nhỏ nhất để con “học ăn, học nói, học gói, học mở” từ khi con còn rất nhỏ.\n\nSẽ bổ ích biết bao nếu cách tương tác cùng con, cách quan tâm đến con, cách lắng nghe con để thấu hiểu con, cách tôn trọng con và làm bạn cùng con của Phoenix được các bạn trẻ đón nhận và áp dụng vào gia đình nhỏ bé của mình.\n\nLà một người bạn của chị, tôi có mong muốn cháy bỏng là cuốn sách này của Phoenix được xuất bản và đến tay được tất cả mọi người, nhất là các bạn trẻ đang nuôi dạy con nhỏ. Hy vọng rằng, đây sẽ là món quà nhỏ có ý nghĩa đem lại những điều kỳ diệu cho cuộc sống gia đình của mỗi chúng ta.\n\nMột ngày mùa thu năm 2014\n\nThS. Trần Thị Thu\n\nNguyên cán bộ nghiên cứu giáo dục - Bộ Giáo dục và Đào tạo\n\nLỜI TÁC GIẢ\n\nT\nôi mang thai Gấu vào lúc bắt đầu học chương trình thạc sĩ tư vấn, chuyên ngành tư vấn hướng nghiệp. Khi tình cờ biết tin vui, ngoài những lời chúc tốt đẹp, các giáo sư thường cho tôi lời khuyên về việc làm mẹ.\n\nMột trong những lời khuyên ấy tôi đã làm theo triệt để, đó là lời của nữ Giáo sư Moretti. Cô nói: “Để làm mẹ tốt, em chỉ cần đọc hai cuốn sách này. Nhớ là đừng đọc quá nhiều sách vì điều ấy có thể làm em loạn.\n\nCô nghĩ chỉ cần hai cuốn thôi, em ạ”. Tôi đã mua và bắt đầu đọc từ khi Gấu còn trong bụng mẹ cho suốt đến những tháng năm sau này. Đặc biệt, khi mối quan hệ giữa hai mẹ con có những trúc trắc, con bướng hơn, tôi khóc nhiều hơn vì cảm giác hối hận, sau khi con ngủ, tôi lại lôi cuốn thứ hai ra đọc để hiểu mình đã làm sai ở đâu, và có thể làm gì để bổ khuyết.\n\nHai cuốn sách ấy tên là First feelings(1) của tác giả Stanley Greenspan và Nancy T. Greenspan và Parenting from the inside out(2) của tác giả Daniel J. Siegel MD và Mary Hartzell. Cả hai cuốn đều dựa trên học thuyết gắn bó của nhà tâm lý học John Bowlby. Ông cho rằng mối quan hệ gắn bó giữa trẻ và cha mẹ đã bắt đầu ngay từ khi trẻ vừa ra đời và duy trì sức ảnh hưởng mạnh mẽ đến suốt cuộc đời trẻ. Vì chuyên ngành của tôi là tư vấn hướng nghiệp, nên các học phần về tâm lý của tôi nhẹ hơn so với các bạn bên ngành tư vấn tâm lý, nhưng vì Gấu, tôi đã đọc và nghiên cứu học thuyết này cùng hai cuốn sách ấy thật kỹ. Tôi rút ra những điểm chính sau đây cho vai trò làm mẹ của mình:\n\n• Trong hai năm đầu đời của Gấu, vai trò làm mẹ đối với tôi sẽ là ưu tiên số một. Điều đó có nghĩa là việc học có thể chậm lại, nghề nghiệp thăng tiến sẽ không phải là điều quan trọng nhất, thời gian xã giao cũng tạm thời bỏ qua, v.v…\n\n• Từ khi Gấu sinh ra đến 18 tháng tuổi, tôi phải để ý thật kỹ những cảm xúc của con, theo dõi chặt chẽ, lắng nghe để hiểu con ở những ngôn ngữ cơ thể nhỏ nhất như nhíu mày, quơ tay, cười, khóc,...\n\n• Dĩ nhiên tôi còn phải hoàn thành các vai trò khác như đi học, đi làm, nhưng mỗi khi ở cùng Gấu, thì tất cả sự tập trung của tôi sẽ dành hết cho con một cách trọn vẹn, như khi chơi với con thì chơi hết mình.\n\n• Nếu có thể, tôi mong mình có thể làm những điều trên cho đến khi con 5 tuổi.\n\n(1) Tạm dịch: Những cảm xúc đầu tiên: các cột mốc quan trọng trong sự phát triển cảm xúc của con bạn\n\n(2) Tạm dịch: Nuôi dạy con bắt đầu từ bên trong\n\nVì không có các năng khiếu như chụp hình, quay phim, hội họa như các anh chị mình, tôi ghi dấu những kỷ niệm về con qua các đoản văn ngắn để chia sẻ cho gia đình và bạn bè thân thuộc ở Mỹ. Tôi nhận được rất nhiều lời khen ngợi và khuyến khích duy trì thói quen này để sau khi Gấu trưởng thành, hai mẹ con cùng nhìn lại những chặng đường đã qua. Sau này tôi bắt đầu chia sẻ những bài viết trên trang facebook của mình, nơi mà tôi dành riêng cho việc tương tác với sinh viên, và ngạc nhiên thay các em rất thích những bài viết về Gấu. Họ thường tâm sự rằng sau khi làm mẹ hay làm cha, họ muốn làm theo những chia sẻ của tôi. Tôi thầm cảm ơn gia đình, bạn bè, các bạn sinh viên, những người cùng cảm nhận… từng nhịp bước yêu thương của Mẹ và Gấu. Điều đó cho tôi ý tưởng chia sẻ những trải nghiệm của mình rộng rãi hơn, và đó là lý do quyển sách này ra đời. Tôi chia những bài viết ngắn của mình vào từng nhóm có chung đề tài, với lời dẫn ở đầu và cuối, mỗi nhóm chia sẻ những kiến thức về học thuyết mà tôi đã tham khảo và ứng dụng trong vai trò làm mẹ của mình.\n\nKhi mới viết, tôi viết bằng cả tiếng Anh và tiếng Việt, nhưng dần về sau tôi dùng ngôn ngữ Việt là chính, với mong ước rằng đây sẽ là động lực cho Gấu học thật giỏi tiếng Việt để tự đọc các bài viết của mẹ về bản thân sau khi trưởng thành. Hai năm đầu đời Gấu lớn lên tại Mỹ, và cậu bé theo chương trình giáo dục Mỹ tại trường SSIS nên ngôn ngữ chính vẫn là tiếng Anh. Đó là lý do tại sao ngôn ngữ giao tiếp của hai mẹ con thường chen lẫn cả Anh lẫn Việt, và vì muốn chuyển tải được sự tự nhiên và trung thực, tôi vẫn giữ nguyên đặc điểm này trong các bài viết của mình.\n\nTôi mong các bạn thích đọc những bài viết này như tôi đã thích viết chúng trong suốt 5 năm qua. Và hy vọng những người mẹ người cha trẻ sẽ tìm được những thông tin và kinh nghiệm hữu ích từ quyển sách này.\n\nPhoenix Ho\n\nTÌNH YÊU CỦA TÔI - XA CÁCH\n\nV\nề đến nhà, gõ cửa, Gấu ra thấy mẹ thì mừng quá sững ra, rồi nhảy cẫng lên, rồi hai mẹ con ôm nhau thắm thiết. Chị Phượng cảm động nói: “Dễ thương quá à, dễ thương quá đi”.\n\nLấy quà cho Gấu, không gì nhiều nhặn hay đắt đỏ, chỉ là bốn hộp đất sét dẻo và bộ xe công trình nhỏ xíu. Gấu thích lắm, lên phòng ngủ chơi, thỉnh thoảng nhìn Mommy mỉm cười vui vẻ. Chị Phượng kể, hồi chiều Gấu nghe Mommy về mới chịu cho gội đầu để Mommy ngửi cho thơm. Chàng nhóc nghe kể chuyện mình thì cười ỏn ẻn, vờ như không nghe thấy. Chơi mệt mà vì nhớ mẹ, Gấu không chịu ngủ, nổi chướng. Mommy lấy đàn ra hát cho Gấu nghe. Cu cậu ngủ say, giấc ngủ an lành vì biết Mommy ở bên, không như đêm trước khi Mommy đi, cứ trăn trở có lẽ vì nhớ. Thương làm sao con trai của mẹ.\n\nSáng ra, Mommy đang sửa soạn trong phòng tắm thì Gấu gọi: “Mommy ơi, lên ngủ với con”. Vậy là Mommy lật đật chạy lên, nằm cạnh hát ê a khi Gấu bú bình, anh chàng thỉnh thoảng cười khanh khách dù Mommy chẳng làm gì hay ho. Auntie(1) Mai chọc: “Gấu vui rồi heng, có Mommy vui rồi heng. Hôm bữa khóc um sùm, to ơi là to”. Mommy phải nói: “Người ta nhớ mẹ mà, auntie Mai đừng chọc Gấu nghen”, nếu không anh chàng sụ mặt vì nghĩ người khác chọc quê. Đừng tưởng 3 tuổi rưỡi người ta không biết hờn dỗi. Gấu không thích khi người khác cười mình chút nào, phải giải thích là người ta cười với Gấu chứ không phải cười chọc Gấu thì cậu chàng mới chịu.\n\n(1) auntie: cô, dì\n\nChiều đi làm về mệt, ngủ một chút rồi xuống lầu, Gấu mừng lắm, hỏi: “Mommy bệnh hả?” rồi rủ Mommy chơi. Gấu chơi cái gì không vừa ý, hơi cau mày, Mommy lại tỏ ra thích thú cười phá lên, vậy là Gấu cười theo không nhăn nhó nữa. Gấu nói chuyện với xe: “Xe đánh răng nhe”, rồi lấy tay đánh răng cho xe. Mommy lợi dụng tình thế, nói: “Wow hay quá, Gấu đánh răng cho xe hay quá”. Đến phiên Mommy đánh răng cho Gấu, Mommy nhìn xe nói: “Xe xem Gấu đánh nghen, giỏi lắm nè. Xe nhìn nghen, răng anh Gấu không bị sâu ăn, răng Mommy bị nè”. Mommy còn há miệng cho xe nhìn nữa chứ. Vậy là Gấu chăm chú nhìn trong khi Mommy đánh hết hàm răng, không phản đối nhăn nhó, cứ như là sợ xe không làm theo thì phải. Hình như ở tuổi này Gấu không quan tâm người lớn nghĩ gì, chỉ quan tâm thú vật và đồ chơi nghĩ gì mà thôi.\n\nTối lên phòng ngủ, Gấu để bạn gấu bông nhỏ lên mền, thảy tung lên, cười, rồi ôm bạn hun và nói: “Có sao không, có sao không”, rồi lại chơi tiếp. Xa Gấu có 5 ngày mà thấy dài tận thiên thu. Nếu có thể, chắc Mommy chẳng muốn đi đâu mà không có Gấu nữa đâu. Nghe chị Phượng nói đến 7 tuổi là nhóc nhà chị không thích quanh quẩn với mẹ nữa rồi, đến 14 tuổi thì chẳng muốn tâm sự nữa. Mommy còn 3 năm rưỡi độc quyền tình yêu của Gấu, sao không tận dụng phải không con!"
+}

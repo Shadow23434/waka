@@ -1,0 +1,181 @@
+Mục Lục
+Lời nói đầu
+CHƯƠNG 1: THỊ TRƯỜNG CHỨNG KHOÁN
+1.Thị trường chứng khoán và vị trí của thị trường chứng khoán trong thị trường tài chính
+2.Cấu trúc cơ bản của thị trường chứng khoán
+3.Các chủ thể tham gia thị trường chứng khoán
+4. Nguyên tắc hoạt động của thị trường chứng khoán
+5. Nguyên tắc giao dịch cổ phiếu, trái phiếu
+6. Hệ thống đăng ký chứng khoán
+7. Hệ thống lưu ký chứng khoán
+8. Hệ thống thanh toán bù trừ
+CHƯƠNG 2: THỊ TRƯỜNG CHỨNG KHOÁN PHI TẬP TRUNG
+1. Thị trường otc
+2. Thị trường thứ ba
+CHƯƠNG 3: CÔNG TY CHỨNG KHOÁN
+Nghiệp vụ của công ty môi giới chứng khoán
+CHƯƠNG 4: CHỨNG KHOÁN
+1. Cổ phiếu thường (ordinary share)
+2. Cổ phiếu ưu đãi (preference share)
+3. Trái phiếu
+4. Giấy bảo đảm quyền mua cổ phiếu
+5. Hợp đồng vềquyền lựa chọn (option)
+CHƯƠNG 5: PHÁT HÀNH CHỨNG KHOÁN
+1. Phát hành chứng khoán
+2. Phát hành chứng khoán bổ sung
+3. Bảo lãnh phát hành
+CHƯƠNG 6: MẤY VẤN ĐỀ CỔ PHIẾU QUỸ, CỔ PHIẾU THƯỜNG VÀ ĐỊNH GIÁ TÀI SẢN
+1. Cổ phiếu quỹ
+2. Cổ phiếu thưởng (bonus shares)
+3. Định giá tài sản
+CHƯƠNG 7: RỦI RO TRONG THỊ TRƯỜNG CHỨNG KHOÁN
+1. Bản chất của thị trường chứng khoán
+2. Nhận diện rủi ro trong thị trường chứng khoán
+3. Quản trị rủi ro
+CHƯƠNG 8: PHÂN TÍCH KỸ THUẬT
+1. Lý thuyết sóng elliott
+2. dãy số fibonacci
+3. Hệ thống kênh (channeling)
+4. Luận thuyết dow và chỉ số dow jones
+CHƯƠNG 9: PHÂN TÍCH BÁO CÁO TÀI CHÍNH DOANH NGHIỆP
+1. Khuôn khổ phân tích tài chính
+2. Báo cáo tài chính
+3. Các hệ số tài chính
+CHƯƠNG 10: PHÂN THÍCH CỔ PHIẾU
+1. Định giá cổ phiếu
+2. Quy trình phân tích đầu tư
+CHƯƠNG 11: MỘT SỐ KINH NGHIỆM CHO NHÀ ĐẦU TƯ
+1. Chọn lựa cổ phiếu để đầu tư
+2. Những điều cần biết và những sai lầm cần tránh khi đầu tư chứng khoán
+3. mười tám lôi thường mắc của nhà đầu tư chứng khoán
+
+LỜI NÓI ĐẦU
+
+T
+hị trường chứng khoán trên thế giới có lịch sử hình thành và phát triển cách đây hàng trăm năm, nhưng cho đến nay nó vẫn chưa mất đi tính huyền bí vốn có. Sự huyền bí đó chính là động lực thúc đẩy mạnh mẽ đối với sự lớn mạnh của nền kinh tế thị trường, nhưng đồng thời lại có khả năng gây ra những tác hại không nhỏ đối với nền kinh tế nói chung, vàcho giới đầu tư chứng khoán nói riêng.
+
+Thị trường chứn g khoán Việt Nam tuy còn hết sức non trẻ so với thị trường chứng khoán tại nhiều nước trên thế giới, song những gì đang diễn ra trong thời gian gần đây đã chứng minh cho tính hai mặt của thị trường: chỉ số VN- Index trong thời gian ngắn đãlên đến đỉnh điểm , nhưng qua cơn “náo động”, chỉ số đó lại giảm một cách đáng kinh ngạc xuống dưới ngưỡng 1.000 điểm . Bức tranh giao dịch chứng khoán trong thời gian vừa qua rõ ràng đã đặt cho tất cả những người quản lý thị trường và các nhà đầu tư tài chính những cách xét đoán khác nhau.
+
+Một trong những điểm nhấn quan trọng mà nhiều người quan tâm khi phân tích tác dụng hai mặt của thị trường chứng khoán là hiệu ứng của yếu tố“giá trị ảo” chứng khoán. Đây không chỉ là đặc điểm nổi bật của thị trường non trẻ như ở nước ta mà còn là đặc điểm của các thị trường chứng khoán trên thế giới. “Giátrị ảo ” chứng khoán thực chất là phần chênh lệch giữa thị giá và giá trị thực của chúng. Nhưng giá trị ảo trong thị trường chứng khoán mới chính là “chất kích thích” đầy đam mê đối với bất kỳ ai tham gia vào thị trườn g chứng khoán . Nói một cách hình tượn g thì yếu tố“ảo” là chất bôi trơn cho hoạt động giao dịch chứng khoán, làm cho thị trường chứng khoán diễn ra liên tục. Tuy nhiên, vấn đề đặt ra là“giá trị ảo ” của chứng khoán lại là số đo không giới hạn vàluôn tăng giảm một cách bất thường làm cho giá chứng khoán có thể được đưa lên rất cao, tạo thành các “bong bóng tài chính”, nhưng rồi sau đó có thể sụt giảm đột ngột làm chao đảo thị trường, tạo ra vô số các rủi ro. Và các rủi ro đó thường mang tính dây chuyền.
+
+Là người quan tâm đến sự hình thành và vận hành thị trường chứng khoán, chúng tôi không thể không đặt ra những câu hỏi và tìm kiếm các nguyên nhân dẫn đến tình trạng nói trên. Trong những nguyên nhân thất bại của một số nhà đầu tư trong thời gian qua cónguyên nhân xuất phát từ khả năng, động cơ và mức độ am hiểu của nhà đầu tư vào loại thị trường rất đặc trưng này. Ai cũng thừa nhận rằng việc đầu tư chứng khoán không giống với việc tham gia vào một canh bạc may rủi, mà đầu tư chứng khoán, đặc biệt là đầu tư vào cổ phiếu , là một trò chơi trí tuệ đòi hỏi nhà đầu tư phải có óc phán đoán, khả năng xem xét và phân tích thị trường. Năng khiếu kinh doanh làyếu tố mang tính bẩm sinh không ai có thể dạy cho nhà đầu tư được , nhưng kinh nghiệm của các nhà phân tích đầu tư có thể giúp cho nhà đầu tư định hướng và tư duy theo mạch đập của thị trường.
+
+Chính từ cách suy nghĩ đó mà chúng tôi nhận thấy sự cần thiết phải biên soạn cuốn sách bàn về các lĩnh vực vừa mới đề cập ở trên với tên gọi “Để thành công trong chứng khoán”.
+
+Cuốn sách được biên soạn dựa trên tài liệu của các chuyên gia về chứng khoán như Bùi Nguyên Hoàn , Trần Đắc Sinh, của Robert W. Kolb, Ricardo J. Rodriguez, tài liệu về việc hình thành thị trường chứng khoán và các định chế tài chính của tác giả Frank J. Fabozzi, các tài liệu đào tạo về phân tích và đầu tư chứng khoán của Ủy ban Chứng khoán Nhà nước.
+
+Hy vọng cuốn sách này sẽ giúp được ít nhiều đối với những nhà đầu tư, đặc biệt là các nhà“đầu tư thụ động” và những người mới vào nghề.
+
+Mong rằng những ý tưởng của lớp người đi trước mà chúng tôi thu thập được khi làm công việc biên soạn còn có thể hữu ích cho tất cả những ai quan tâm đến thị trường chứng khoán nói riêng và lĩnh vực tài chính nói chung.
+
+Người biên soạn
+
+PGS. TS LÊ VĂN TỀ
+
+CHƯƠNG 1:
+THỊ TRƯỜNG CHỨNG KHOÁN
+
+1.
+THỊ TRƯỜNG CHỨNG KHOÁN VÀ VỊ TRÍ CỦA THỊ TRƯỜNG CHỨNG KHOÁN TRONG THỊ TRƯỜNG TÀI CHÍNH
+
+Ở
+các nước có nền kinh tế phát triển luôn tồn tại một thị trường tài chính hoạt động hiệu quả, và thị trường này lại góp phần thúc đẩy để nền kinh tế ngày càng phát triển nhanh hơn. Điều đó đúng với cả những nước có nguồn tài nguyên thiên nhiên nghèo nàn, bởi thị trường tài chính năng động sẽ là một thứ tài nguyên vô tận có thể gia tăng sức mạnh cho nền kinh tế.
+
+Thị trường tài chính là tổng hòa các quan hệ cung - cầu về vốn, diễn ra dưới hình thức vay mượn, mua bán vốn, tiền tệ và quyền sử dụng vốn tiền tệ nhằm chuyển dịch vốn từ nơi tạm thời thừa sang nơi tạm thời thiếu cho các hoạt động kinh tế. Người ta dựa trên tính chất, chức năng và phương thức hoạt động của các chủ thể tài chính, cũng như các công cụ tài chính trên thị trường để phân chia thị trường tài chính thành hai phần: thị trường tiền tệ và thị trường vốn. (Do trên thực tế rất khó phân định ranh giới giữa khu vực thị trường tiền tệ và thị trường vốn, nên việc tách rời các bộ phận của thị trường tài chính chỉ là biện pháp lý thuyết mang tính tương đối nhằm giúp cho việc nghiên cứu từng loại thị trường được thuận lợi vàdễdàn g hơn.)
+
+- Thị trường tiền tệ(hoạt động chủ yếu thông qua hệ thống ngân hàng, kho bạc, các công ty tài chính) là nơi các công cụ nợ ngắn hạn (thường có thời gian đáo hạn dưới một năm) được mua bán với số lượng lớn. Các công cụ nợ ngắn hạn lưu hành trên thị trường tiền tệ do nhà nước, các ngân hàng, các công ty lớn phát hành có đặc điểm là tính thanh khoản cao và rủi ro không thanh toán thấp... Các công cụ nợ của thị trường tiền tệ bao gồm các giấy tờ có giá ngắn hạn như thương phiếu, kỳ phiếu thương mại, các phiếu thuận trả, các cam kết mua lại, các loại chứng chỉ tiền gửi có thể chuyển nhượng...
+
+- Thị trường vốn (hoạt động chủ yếu thông qua thị trường chứng khoán) là nơi những công cụ vốn, công cụ nợ trung và dài hạn (thường có thời gian đáo hạn trên một năm) do các tổ chức nhà nước và các công ty phát hành được trao đổi, mua bán, chuyển nhượng theo quy định của pháp luật. Các trái phiếu dài hạn và các cổ phiếu đều được giao dịch trên thị trường này.
+
+Hai thị trường này có mối quan hệ hữu cơ với nhau.
+
+Các biến thiên về giá cả, lãi suất trên thị trường tiền tệ thường kéo theo sự thay đổi trực tiếp trên thị trường vốn, mà cụ thể là thị trường chứng khoán. Ngược lại, những dao động trên thị trường chứng khoán như chỉ số chứng khoán, thị giá cổ phiếu... cũng ít nhiều ảnh hưởng đến thị trường tiền tệ. Đây là hai phần không thể tách rời nhau và chỉ khi cả hai đều hoạt động tốt thì thị trường tài chính mới được xem là hiệu quả.
+
+Thị trường vốn bao gồm thị trường tín dụng trung và dài hạn (thông qua ngân hàng) và thị trường chứng khoán. Như vậy, thị trường chứng khoán là một bộ phận cấu thành của thị trường tài chính, nơi diễn ra việc mua bán các công cụ tài chính trung và dài hạn. Hàng hóa chủ yếu của thị trường chứng khoán là các loại chứng khoán vốn, chứng khoán nợ (trung và dài hạn).
+
+2.
+CẤU TRÚC CƠ BẢN CỦA THỊ TRƯỜNG CHỨNG KHOÁN
+
+1. Thị trường sơ cấp (Primary market)
+
+Thị trường sơ cấp là nơi chứng khoán được phát hành và phân phối lần đầu tiên cho các nhà đầu tư. Ở thị trường này, các chứng khoán vốn và chứng khoán nợ được mua bán theo mệnh giá của đơn vị phát hành. Phát hành ra công chúng lần đầu (Initial Public Offering – IPO) là đợt phát hành và phân phối chứng khoán đầu tiên của một công ty cho rộng rãi công chúng đầu tư. Đây là giai đoạn đòi hỏi khả năng nghiệp vụ, trình độ chuyên môn cao và chính xác, vì chỉ cần xác định không đúng các điều kiện phát hành thì đợt phát hành có nguy cơ thất bại, đồng thời việc không phân phối hết chứng khoán sẽ gây tổn thất về tài sản và làm giảm uy tín của tổ chức phát hành.
+
+Xây dựng một thị trường sơ cấp hoạt động hiệu quả với lượng hàng hóa đa dạng, phong phú, hấp dẫn công chúng và các nhà đầu tư là việc có ý nghĩa quyết định đối với sự hình thành và phát triển thị trường thứ cấp. Các điều luật liên quan đến việc phát hành chứng khoán cũng thường đưa ra những quy định chặt chẽ và các luật này có thể thay đổi tùy thuộc vào trình độ phát triển của từng nền kinh tế và hoàn cảnh cụ thể của mỗi quốc gia. Tuy nhiên, việc phát hành chứng khoán ra công chúng luôn phải đảm bảo một số điều kiện cơ bản như quy mô về vốn, hiệu quả hoạt động sản xuất kinh doanh, mục đích phát hành chứng khoán, năng lực điều hành của bộ máy quản lý, tỷ lệ và thời gian nắm giữ cổ phiếu của cổ đông sáng lập...
+
+2. Thị trường thứ cấp (Secondary market)
+
+Đây là thị trường mua đi bán lại các loại chứng khoán đã được phát hành ở thị trường sơ cấp. Lúc này, chứng khoán đã trở thành một loại hàng hóa đặc biệt. Trên thị trườn g thứ cấp , hoạt động mua bán chứng khoán đã phát hành trên thị trường sơ cấp diễn ra giữa các nhà đầu tư với nhau mà không làm tăng thêm quy mô đầu tư vốn, không thu hút thêm nguồn tài chính mới. Khác thị trường sơ cấp có chức năng huy động vốn đầu tư, thị trường thứ cấp, xét về bản chất, là nơi luân chuyển các nguồn vốn đã đầu tư. Nếu ở thị trường sơ cấp, chứng khoán được mua bán theo mệnh giá ghi trên chứng khoán thì ở thị trường thứ cấp, giá chứng khoán được xác định dựa trên các yếu tố sau:
+
+Quan hệ cung - cầu trên thị trường;
+
+Giá trị thực tế của doanh nghiệp;
+
+Uy tín của doanh nghiệp;
+
+Xu thế phát triển của doanh nghiệp;
+
+Tâm lýcủa người mua bán chứn g khoán ởtừng thời điểm nhất định;
+
+Các thông tin, lời đồn về hoạt động của doanh nghiệp;
+
+Tính ổn định của nền kinh tế.
+
+Giữa thị trường thứ cấp và thị trường sơ cấp có mối quan hệ nhân quả và phụ thuộc lẫn nhau. Sẽ không có thị trường thứ cấp nếu không có thị trường sơ cấp. Thị trường thứ cấp phồn thịnh sẽ thúc đẩy thị trường sơ cấp phát triển. Ngược lại, thị trường thứ cấp tiêu điều, vắng vẻ thì thị trường sơ cấp cũng tự động thu hẹp lại. Việc phân biệt hai khái niệm thị trường sơ cấp và thị trường thứ cấp chỉ có ý nghĩa về mặt lý thuyết. Trên thực tế, ranh giới giữa thị trường sơ cấp và thị trường thứ cấp đôi khi không rõ ràng, nghĩa là trong một thị trường chứng khoán vừa có giao dịch của thị trường sơ cấp vừa có giao dịch của thị trường thứ cấp.
+
+Dựa trên phương thức tổ chức và giao dịch có thể chia thị trường chứng khoán thành hai loại:
+
+a. Sở Giao dịch Chứng khoán (thị trường chứng khoán tập trung)
+
+Sở Giao dịch Chứng khoán không tham gia vào việc mua bán chứng khoán, mà chỉ là nơi giao dịch - một trung tâm tạo điều kiện cho các giao dịch được tiến hành một cách thuận lợi, dễ dàng, hạ thấp các loại chi phí bằng cách đưa ra những quy định phù hợp. Sở Giao dịch không có trách nhiệm ấn định hoặc can thiệp vào giá cả chứng khoán, mà chỉ đảm bảo sao cho việc mua bán chứng khoán hoặc việc đấu thầu được diễn ra công bằng và đúng luật pháp. Nói cách khác, Sở Giao dịch Chứng khoán là một cơ quan thực hiện chức năng quản lý, điều hành các hoạt động diễn ra trên thị trường giao dịch tập trung, tạo điều kiện để các giao dịch được thực hiện công bằng, minh bạch và đúng luật. Sở Giao dịch Chứng khoán là nơi các nhà môi giới chứng khoán gặp gỡ để thương lượng, đấu giá, mua bán chứng khoán, là cơ quan phục vụ cho hoạt động giao dịch mua bán chứng khoán. Sở Giao dịch chỉ cho các thành viên thuê địa điểm để mua bán giao dịch chứng khoán và thực hiện niêm yết chứng khoán, tức là đưa ra danh sách các loại chứng khoán được mua bán trên thị trường. Sở Giao dịch Chứng khoán là nơi tập trung các giao dịch chứng khoán một cách có tổ chức với những luật lệ nhất định. Vai trò của Sở Giao dịch Chứng khoán là rất quan trọng. Nếu được tổ chức tốt, Sở Giao dịch sẽ là động cơ thúc đẩy sự phát triển của thị trường chứng khoán, tăng cường thu hút và tập trung các nguồn vốn nhàn rỗi để đầu tư vào nền kinh tế, đảm bảo sự an toàn và tính công bằng trong việc mua bán chứng khoán. Chức năng của Sở Giao dịch Chứng khoán là:
+
+Cung cấp dịch vụ, giúp các công ty cổ phần đăng ký chứng khoán của họ trên thị trường sao cho những hàng hóa này đủ điều kiện giao dịch trong Sở;
+
+Tổ chức giao dịch chứng khoán cho các nhà kinh doanh và những người môi giới, giúp thực hiện nhanh chóng, thuận lợi các cuộc mua bán chứng khoán theo lệnh của khách hàng;
+
+Cung cấp rộng rãi thông tin của các công ty phát hành theo luật công bố thông tin cho nhà đầu tư, các công ty chứng khoán;
+
+Nhận bảo quản chứng khoán của khách hàng gửi, thu cổ tức hộ khách hàng;
+
+Thực hiện việc kiểm tra, giám sát các hoạt động giao dịch chứng khoán.
+
+Thành viên của Sở Giao dịch Chứng khoán là các công ty chứng khoán. Muốn hoạt động tại Sở, công ty chứng khoán phải là thành viên của Sở Giao dịch Chứng khoán, đồng thời phải hội đủ những tiêu chuẩn theo luật định như phải có số vốn pháp định tối thiểu, có những chuyên gia kinh tế, pháp lý đã được đào tạo về phân tích và kinh doanh chứng khoán... Tuy nhiên, công ty chứng khoán chỉ chính thức trở thành thành viên của Sở Giao dịch Chứng khoán sau khi đã được Sở xem xét và chấp nhận đơn xin làm thành viên dựa trên cơ sở các điều kiện vừa nêu.
+
+b. Thị trường phi tập trung (Over The Counter Market – OTC)
+
+Tại hầu hết các nước, bên cạnh thị trường giao dịch tập trung (Sở Giao dịch Chứng khoán) - nơi diễn ra các hoạt động giao dịch chứng khoán của những công ty lớn đã qua nhiều năm thử thách trên thị trường - còn có thị trường phi tập trung (OTC) dành để giao dịch chứng khoán của những công ty vừa và nhỏ, hoặc những công ty chưa hội đủ các điều kiện niêm yết trên thị trường giao dịch tập trung. Thị trường OTC là một thị trường thương lượng, nơi người bán và người mua trực tiếp thỏa thuận với nhau về những điều kiện chủ yếu của giao dịch như số lượng, giá cả... Thông thường, thị trường giao dịch tập trung được thành lập trước, sau đó nhiều năm, thị trường OTC mới được khởi động. Nguyên nhân là do việc thành lập thị trường OTC còn liên quan đến nhiều yếu tố như kinh phí, trang thiết bị kỹ thuật, chưa kể đến vấn đề giám sát của cơ quan quản lý. Điểm khác nhau căn bản giữa Sở Giao dịch Chứng khoán và thị trường OTC là tại Sở Giao dịch, các giao dịch chứng khoán niêm yết diễn ra trong đám đông ngay trên sàn giao dịch và việc đấu giá được thực hiện công khai, trong khi tại thị trường phi tập trung, các giao dịch được đàm phán qua điện thoại. Chứng khoán giao dịch trên thị trường OTC không đòi hỏi các tiêu chuẩn như ở Sở Giao dịch Chứng khoán, mà chỉ cần là chứng khoán đã phát hành, nhưng chưa được đăng ký niêm yết giá ở Sở Giao dịch Chứng khoán. Phần lớn các chứng khoán mới phát hành lần đầu đều được giao dịch qua thị trườn g OTC, sau đómới đăng kýtại Sở Giao dịch Chứng khoán. Ở một số nước, cơ quan quản lý thị trường OTC thường là Hiệp hội các nhà kinh doanh chứng khoán quốc gia. Hiệp hội này ban hành quy chế thị trường, kết nạp và khai trừ thành viên, giám sát việc thi hành quy chế. Thành viên của Hiệp hội cũng là thành viên của thị trường.
+
+3.
+CÁC CHỦ THỂ THAM GIA THỊ TRƯỜNG CHỨNG KHOÁN
+
+T
+rên thị trường chứng khoán có nhiều loại chủ thể khác nhau: họ bán hoặc mua chứng khoán, hoặc chỉ làm trung gian môi giới cho hai bên mua bán để hưởng hoa hồng. Bên cạnh đó còn có các chủ thể là nhà nước, người tổ chức thị trường và các tổ chức phụ trợ.
+
+1. Các doanh nghiệp
+
+Các doanh nghiệp tham gia thị trường với tư cách là người tạo ra hàn g hóa ở thị trường sơ cấp và mua bán lại các chứng khoán ở thị trường thứ cấp. Doanh nghiệp là công ty cổ phần có vị trí quan trọng nhất, bởi nó tạo ra một khối lượng hàng hóa lớn qua việc phát hành cổ phiếu để bán lần đầu ởthị trường sơ cấp nhằm tạo vốn cho công ty mới thành lập, hoặc phát hành bổ sung để tăng vốn phục vụ cho quá trình sản xuất kinh doanh của công ty. Công ty cổ phần không chỉ là chủ thể bán chứng khoán, mà còn là người mua chứng khoán do các công ty phát hành với nhiều mục đích khác nhau như: đầu tư vào cổ phiếu của công ty khác, mua bán chứng khoán của chính mình, hoặc tham gia các hoạt động mang tính tiêu cực như thủ tiêu đối thủ cạnh tranh, hoặc khống chế, thao túng nhằm nắm quyền kiểm soát công ty... Các doanh nghiệp khác có thể phát hành thêm trái phiếu, có thể là những chủ thể mua bán chứng khoán, hoặc có thể tạo ra tính thanh khoản cho chứng khoán của mình.
+
+2. Các nhà đầu tư riêng lẻ
+
+Đây là chủ thể đặc biệt quan trọng. Họ tham gia thị trường chứng khoán với tư cách là người mua bán chứng khoán. Họ là những người có tiền nhàn rỗi, tiền tiết kiệm và muốn đầu tư số tiền dành dụm của mình vào chứng khoán để được hưởng lợi tức hàng năm. Họ cũng là người bán lại các chứng khoán của mình trên thị trường chứng khoán để rút vốn trước thời hạn, hoặc để kiếm lợi từ những khoản chênh lệch giá. Họ tham gia thị trường bằng nhiều cách khác nhau, có thể trực tiếp hoặc gián tiếp.
+
+3. Các định chế tài chính
+
+Các công ty bảo hiểm, quỹ hưu trí, quỹ tương hỗ tham gia thị trường chứng khoán với tư cách vừa là người mua, vừa là người bán đểt ìm kiếm lợi nhuận thông qua hình thức nhận cổ tức, lãi trái phiếu, hoặc tìm kiếm sự chênh lệch giá hay thanh khoản. Ở các nước có thị trường chứng khoán phát triển, vai trò của những tổ chức này ngày càng được khẳng định. Các ngân hàng thương mại tham gia thị trường chứng khoán với tư cách là người phát hành cổ phiếu để tạo nguồn vốn khi mới thành lập hoặc tăng vốn bổ sung, hay khi phát hành trái phiếu để huy động vốn. Ngân hàng thương mại còn thực hiện các dịch vụ trên thị trường chứng khoán như tư vấn về phát hành, làm đại lý phát hành để hưởng phí hoa hồng, hoặc bảo lãnh phát hành toàn bộ để hưởng phí bảo lãnh.
+
+Ngoài ra, ngân hàng thương mại còn thực hiện các dịch vụ khác với tư cách là nhà trung gian môi giới chứng khoán như mua bán chứng khoán hộ khách hàng để hưởng phí hoa hồng, lưu ký chứng khoán, nhận và trả cổ tức cho khách hàng, làm dịch vụ thanh toán chứng khoán...
+
+4. Nhà môi giới kinh doanh chứng khoán
+
+Đây là những người trung gian thuần túy. Họ hoạt động như các đại lý cho những người mua bán chứng khoán. Sự tham gia của họ trên thị trường chứng khoán góp phần đảm bảo rằng các loại chứng khoán được giao dịch trên thị trường là chứng khoán thực, giúp cho thị trường hoạt động lành mạnh, ổn định, hợp pháp, phát triển và bảo vệ lợi ích cho nhà đầu tư. Với tư cách là người kinh doanh chứng khoán, họ cũng thực hiện việc mua bán chứng khoán cho chính mình nhằm mục tiêu tìm kiếm lợi nhuận. Đây là lĩnh vực kinh doanh có nhiều rủi ro, vì một khi giá các chứng khoán tăng lên, người kinh doanh sẽ có lời, còn trong trường hợp ngược lại – người kinh doanh sẽ bị lỗ. Các công ty chứng khoán thườn g làm cảhai nghiệp vụlàmôi giới đểhưởn g hoa hồng và tự doanh để hưởng lợi từ sự chênh lệch giá.
+
+5. Người tổ chức thị trường
+
+Làngười cung cấp địa điểm và phương tiện phục vụ cho việc mua bán chứng khoán. Đó là Sở Giao dịch Chứng khoán. Ngoài ra, người tạo lập thị trường còn thực hiện chức năng quản lý, điều hành các hoạt động diễn ra tại đây nhằm đảm bảo tính minh bạch, công bằng trong giao dịch chứng khoán.
+
+6. Nhà nước
+
+Nhà nước là đối tượng tham gia thị trường chứng khoán với hai tư cách khác nhau:
+
+Sự tham gia của nhà nước đảm bảo cho thị trường hoạt động theo đúng các quy định của pháp luật nhằm bảo vệ lợi ích của người đầu tư, đảm bảo cho thị trường được hoạt động công bằng, công khai, trật tự, tránh những hiện tượng tiêu cực có thể xảy ra.
+
+Nhà nước còn tham gia thị trường chứng khoán với tư cách là người cung cấp hàng hóa cho thị trường thông qua việc chính phủ hoặc chính quyền địa phương phát hành trái phiếu để vay nợ từ nhân dân và các tổ chức kinh tế trong và ngoài nước ở thị trường sơ cấp nhằm phục vụ cho các mục tiêu kinh tế, xã hội, giáo dục, y tế...

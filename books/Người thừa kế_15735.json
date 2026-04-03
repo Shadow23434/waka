@@ -1,0 +1,226 @@
+{
+  "item_id": 15735,
+  "title": "Người thừa kế",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T08:19:59.987Z",
+  "input_book": {
+    "id": 15735,
+    "title": "Người thừa kế",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/15735.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>C&oacute; ai ở London &iacute;t nhiệt t&igrave;nh với m&ugrave;a vũ hội hơn Sabrina? May mắn thay, một qu&yacute; c&ocirc; được săn l&ugrave;ng nhiều nhất trong th&agrave;nh phố đ&atilde; đồng &yacute; l&agrave;m người hướng dẫn cho c&ocirc; g&aacute;i trẻ đ&aacute;ng y&ecirc;u n&agrave;y để gi&uacute;p n&agrave;ng vượt qua những nguy hiểm v&agrave; cạm bẫy trong m&ugrave;a vũ hội đầu ti&ecirc;n.<br /><br />Ch&agrave;ng trai cao nguy&ecirc;n bảnh bao Duncan MacTavish &iacute;t hứng th&uacute; với việc ở London hơn bất kỳ ai. Khi trở th&agrave;nh người thừa kế duy nhất cho tước vị hầu tước, Duncan bị y&ecirc;u cầu phải g&aacute;nh v&aacute;c tước hiệu v&agrave; t&agrave;i sản từ &ocirc;ng ngoại m&igrave;nh cũng như kết h&ocirc;n với người hướng dẫn sắc sảo của Sabrina - người lu&ocirc;n c&oacute; những ph&aacute;n x&eacute;t gay gắt về ch&uacute; rể &ldquo;Scotland man rợ&rdquo;.<br /><br />Tuy nhi&ecirc;n cuộc h&ocirc;n nh&acirc;n kh&ocirc;ng mong muốn đ&atilde; mang Duncan đến gần Sabrina - c&ocirc; n&agrave;ng h&agrave;i hước lu&ocirc;n khiến anh cười v&agrave; l&agrave; người giống hệt như những giấc mơ của anh. Nhưng nghĩa vụ, địa vị v&agrave; b&iacute; mật trong qu&aacute; khứ của vị tiểu thư n&agrave;y đ&atilde; cản trở mong muốn gắn b&oacute; của Sabrina v&agrave; Duncan...<br /><br />Trừ khi bằng c&aacute;ch n&agrave;o đ&oacute;, t&igrave;nh y&ecirc;u đ&iacute;ch thực c&oacute; thể t&igrave;m được một lối tho&aacute;t kỳ diệu.</p>\r\n<p>Mời c&aacute;c bạn đ&oacute;n đọc \"<strong>Người thừa kế -&nbsp;Johanna Lindsey</strong>\"!</p>",
+    "authors": [
+      {
+        "id": "7185",
+        "name": "Johanna Lindsey "
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-03-31 21:22:18",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 15735,
+      "title": "Người thừa kế",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>C&oacute; ai ở London &iacute;t nhiệt t&igrave;nh với m&ugrave;a vũ hội hơn Sabrina? May mắn thay, một qu&yacute; c&ocirc; được săn l&ugrave;ng nhiều nhất trong th&agrave;nh phố đ&atilde; đồng &yacute; l&agrave;m người hướng dẫn cho c&ocirc; g&aacute;i trẻ đ&aacute;ng y&ecirc;u n&agrave;y để gi&uacute;p n&agrave;ng vượt qua những nguy hiểm v&agrave; cạm bẫy trong m&ugrave;a vũ hội đầu ti&ecirc;n.<br /><br />Ch&agrave;ng trai cao nguy&ecirc;n bảnh bao Duncan MacTavish &iacute;t hứng th&uacute; với việc ở London hơn bất kỳ ai. Khi trở th&agrave;nh người thừa kế duy nhất cho tước vị hầu tước, Duncan bị y&ecirc;u cầu phải g&aacute;nh v&aacute;c tước hiệu v&agrave; t&agrave;i sản từ &ocirc;ng ngoại m&igrave;nh cũng như kết h&ocirc;n với người hướng dẫn sắc sảo của Sabrina - người lu&ocirc;n c&oacute; những ph&aacute;n x&eacute;t gay gắt về ch&uacute; rể &ldquo;Scotland man rợ&rdquo;.<br /><br />Tuy nhi&ecirc;n cuộc h&ocirc;n nh&acirc;n kh&ocirc;ng mong muốn đ&atilde; mang Duncan đến gần Sabrina - c&ocirc; n&agrave;ng h&agrave;i hước lu&ocirc;n khiến anh cười v&agrave; l&agrave; người giống hệt như những giấc mơ của anh. Nhưng nghĩa vụ, địa vị v&agrave; b&iacute; mật trong qu&aacute; khứ của vị tiểu thư n&agrave;y đ&atilde; cản trở mong muốn gắn b&oacute; của Sabrina v&agrave; Duncan...<br /><br />Trừ khi bằng c&aacute;ch n&agrave;o đ&oacute;, t&igrave;nh y&ecirc;u đ&iacute;ch thực c&oacute; thể t&igrave;m được một lối tho&aacute;t kỳ diệu.</p>\r\n<p>Mời c&aacute;c bạn đ&oacute;n đọc \"<strong>Người thừa kế -&nbsp;Johanna Lindsey</strong>\"!</p>",
+      "zone": 1,
+      "published_time": "01/03/2017",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/nguoi-thua-ke-johanna-lindsey-bgLx1W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/nguoi-thua-ke-johanna-lindsey-bgLx1W.html?std=type%3D1%26data%3D15735%26title%3DNg%25C6%25B0%25E1%25BB%259Di%2Bth%25E1%25BB%25ABa%2Bk%25E1%25BA%25BF%26mini_app%3D1&type=1&data=15735&title=Ng%C6%B0%E1%BB%9Di+th%E1%BB%ABa+k%E1%BA%BF&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "2",
+          "name": "NXB Lao Động"
+        }
+      ],
+      "authors": [
+        {
+          "id": "7185",
+          "name": "Johanna Lindsey ",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/7185.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"7185\",\"name\":\"Johanna Lindsey \",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/7185.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Johanna Lindsey ",
+      "author_id": "7185",
+      "category_id": "71",
+      "category_name": "Truyện - Tiểu thuyết",
+      "categories": [
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 18,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 34,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=15735&title=nguoi-thua-ke",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=15735&title=nguoi-thua-ke#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1488252803,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/15735.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 2518,
+      "number_view": 4348,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/Lc8Q",
+      "read_link": "https://ebook.waka.vn/nguoi-thua-ke-rgLx1W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 18
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 5,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 4,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15735_4/OEBPS/content.opf?token=0c3a0zdb4f9138154eb2d4fe14eb5f4b02dfc215735",
+        "id": 15735,
+        "chapter_trail": 3,
+        "name": "Người thừa kế",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 4,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/nguoi-thua-ke-rgLx1W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0021.xhtml",
+      "chapterHref": "contents/page0021.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15735_4/OEBPS/contents/page0021.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nChương một\nChương hai\nChương ba\nChương bốn\nChương năm\nChương sáu\nChương bảy\nChương tám\nChương chín\nChương mười\nChương mười một\nChương mười hai\nChương mười ba\nChương mười bốn\nChương mười lăm\nChương mười sáu\nChương mười bảy\nChương mười tám\nChương mười chín\nChương hai mươi\nChương hai mươi mốt\nChương hai mươi hai\nChương hai mươi ba\nChương hai mươi tư\nChương hai mươi lăm\nChương hai mươi sáu\nChương hai mươi bảy\nChương hai mươi tám\nChương hai mươi chín\nChương ba mươi\nChương ba mươi mốt\nChương ba mươi hai\nChương ba mươi ba\nChương ba mươi tư\nChương ba mươi lăm\nChương ba mươi sáu\nChương ba mươi bảy\nChương ba mươi tám\nChương ba mươi chín\nChương bốn mươi\nChương bốn mươi mốt\nChương bốn mươi hai\nChương bốn mươi ba\nChương bốn mươi tư\nChương bốn mươi lăm\nChương bốn mươi sáu\nChương bốn mươi bảy\nChương bốn mươi tám\nChương bốn mươi chín\nChương năm mươi\nChương năm mươi mốt\nChương năm mươi hai\nChương năm mươi ba\nChương năm mươi tư\nChương năm mươi năm\nChương năm mươi sáu"
+    },
+    {
+      "chapterIndex": "page0022.xhtml",
+      "chapterHref": "contents/page0022.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15735_4/OEBPS/contents/page0022.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nChương một\nChương hai\nChương ba\nChương bốn\nChương năm\nChương sáu\nChương bảy\nChương tám\nChương chín\nChương mười\nChương mười một\nChương mười hai\nChương mười ba\nChương mười bốn\nChương mười lăm\nChương mười sáu\nChương mười bảy\nChương mười tám\nChương mười chín\nChương hai mươi\nChương hai mươi mốt\nChương hai mươi hai\nChương hai mươi ba\nChương hai mươi tư\nChương hai mươi lăm\nChương hai mươi sáu\nChương hai mươi bảy\nChương hai mươi tám\nChương hai mươi chín\nChương ba mươi\nChương ba mươi mốt\nChương ba mươi hai\nChương ba mươi ba\nChương ba mươi tư\nChương ba mươi lăm\nChương ba mươi sáu\nChương ba mươi bảy\nChương ba mươi tám\nChương ba mươi chín\nChương bốn mươi\nChương bốn mươi mốt\nChương bốn mươi hai\nChương bốn mươi ba\nChương bốn mươi tư\nChương bốn mươi lăm\nChương bốn mươi sáu\nChương bốn mươi bảy\nChương bốn mươi tám\nChương bốn mươi chín\nChương năm mươi\nChương năm mươi mốt\nChương năm mươi hai\nChương năm mươi ba\nChương năm mươi tư\nChương năm mươi năm\nChương năm mươi sáu"
+    },
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15735_4/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": "Lời giới thiệu",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU\n\nJ\nohanna Lindsey, tên thật là Johanna Helen Howard, sinh ngày 10 tháng 3 năm 1952 tại Đức, nhưng lại là một trong những nhà văn nổi tiếng ở Mỹ. Bà được mệnh danh là một trong những tác giả thành công nhất trên thế giới về tiểu thuyết lịch sử lãng mạn. Các tác phẩm của bà thường xuyên lọt vào danh sách bán chạy nhất do New York Times bình chọn.\n\nLindsey xuất bản cuốn sách đầu tay vào năm 1977, với tựa đề Captive Bride, và ngay lập tức đưa tên tuổi của bà đến với các độc giả yêu văn học. Đó chính là động lực để bà tiếp tục cho ra đời rất nhiều cuốn tiểu thuyết ăn khách khác.\n\nTính đến năm 2006, những tác phẩm của bà đã bán được trên năm mươi tám triệu ấn bản và dịch ra mười hai ngôn ngữ trên toàn thế giới.\n\nBằng lối kể chuyện hài hước song cũng không kém phần lãng mạn và bất ngờ, Johanna đã không hề khiến người đọc thất vọng với những câu chuyện của mình. Bà đã gắn kết những con người với hoàn cảnh và số phận hoàn toàn khác biệt, tưởng chừng như không bao giờ có thể ở bên nhau, và cho họ một kết thúc viên mãn.\n\nKhông chỉ có vậy, giọng văn tinh tế và vô cùng đặc trưng của Johanna cũng là điều luôn hấp dẫn độc giả. Mỗi nhân vật của bà luôn được khắc họa với cá tính nổi bật. Ngoài ra, chính sự kiên cường của họ trong tình yêu cũng góp phần tạo ra nét đặc sắc cho ngòi bút của bà.\n\nMời độc giả đón đọc các tác phẩm của Johanna Lindsey đã và sẽ được Bách Việt xuất bản: Ma lực tình yêu (2012), Nàng công chúa lưu lạc (2012), Gã cướp biển quý tộc (2012), Em là của anh (2012), Hãy nói yêu em (2013), Người thừa kế (2015), The devil who tamed her, A rogue of my own, Let love find you.\n\nBachvietBooks"
+    },
+    {
+      "chapterIndex": "page0023.xhtml",
+      "chapterHref": "contents/page0023.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15735_4/OEBPS/contents/page0023.xhtml",
+      "chapterLabel": "Chương một",
+      "progress": null,
+      "text": "CHƯƠNG MỘT\n\nH\nọ nhìn chằm chằm vào khu vườn ảm đạm trong không khí mùa đông lạnh lẽo bên ngoài cửa sổ, nơi cô gái đang dạo bước. Khu vườn khá nhỏ bé so với diện tích rộng lớn của ngôi nhà, bởi đơn giản là trong khu thượng lưu của London thì người ta không sẵn lòng dành đất đai cho một không gian mang tính thôn dã như thế này.\n\nPhu nhân Mary Reid, chủ nhân ngôi nhà đã cải thiện mảnh vườn rất tốt trong khi hầu hết láng giềng xung quanh bỏ mặc cho cỏ dại mọc. Và chắc chắn cô cháu gái Sabrina của họ - người luôn yêu thích được ở ngoài trời bất kể mùa nào trong năm, đã tìm thấy chút hơi hướng quen thuộc.\n\nHai người phụ nữ tiếp tục trầm tư, quan sát Sabrina. Alice Lambert cau mày. Chị gái bà, Hilary, lớn hơn bà một tuổi, tỏ ra chán nản.\n\n“Hilary, em chưa từng nghĩ mình sẽ phải lo lắng thế này”, Alice thì thầm với chị gái.\n\n“Chị cũng thế, nếu em muốn biết”, Hilary thở dài.\n\nNếu xét về ngoại hình thì thật khó tưởng tượng họ là hai chị em ruột. Hilary trông giống hệt bố, cao, mảnh khảnh với mái tóc nâu xỉn và cặp mắt xanh dương lấp lánh. Còn Alice lại là bản sao của người mẹ, thấp lùn, đầy đặn, mái tóc đen bóng ánh nâu và cặp mắt xanh sẫm đôi khi lại lấp lánh sắc tím.\n\nTuy là chị em gái nhưng họ không hòa thuận lắm. Cãi nhau là chuyện thường tình. Nhưng điều cả hai đều quan tâm là cô cháu gái mà họ gần như một tay nuôi nấng sẽ có buổi ra mắt xã hội thượng lưu London tối nay và đang rất lo lắng. Đáng buồn là họ có lý do để phiền lòng.\n\nNguyên nhân không phải vì Sabrina không nổi bật hay khó gây ấn tượng. Tuy cô không xinh đẹp mỹ miều như Ophelia, con gái của Mary vốn cũng sẽ ra mắt Mùa vũ hội này, nhưng Sabrina thực sự có nhiều lợi thế. Song chúng cũng mang đến nhiều hệ lụy. Ông nội Sabrina là một bá tước, cụ nội là công tước. Tước hiệu của bản thân cô chỉ đơn thuần là Honorable1, nhưng họ không hy vọng tóm được một anh chàng có tước hiệu cao quý hay cực kỳ giàu có cho cô. Bất kỳ người nào có địa vị tốt đều không nằm trong tầm ngắm của chị em nhà Lambert.\n\n1 Là tước hiệu dành cho con của Tử tước, Nam tước và con thứ của Bá tước, những người không được thừa kế tước hiệu trong bảng tước hiệu của Anh.\n\nKhông, mối lo lắng khi một cô tiểu thư vùng nông thôn bị trói buộc vào cuộc hôn nhân với tầng lớp thượng lưu thành phố hoàn toàn không thể coi là nỗi lo lắng thông thường. Nó còn vượt qua tính cá nhân rất, rất nhiều và lý giải tại sao cả hai chị em lại quyết định không lấy chồng. Họ sợ vụ bê bối đã ám ảnh gia đình mình suốt ba thế hệ sẽ xuất hiện trở lại sau chừng đó năm im hơi lặng tiếng.\n\nNhưng chẳng ai trong số hai người phụ nữ dám đề cập đến lo ngại thực sự của mình. Họ đã thống nhất sẽ không bao giờ nhắc đến bi kịch xa xưa.\n\n“Chị nghĩ cái áo khoác len đó đủ ấm cho con bé không?”, Alice hỏi, vẫn đang cau mày.\n\n“Em cho là nó để ý à?”\n\n“Nhưng hai má đã bắt đầu nứt nẻ rồi kìa, con bé sẽ trông thế nào trong buổi vũ hội đầu tiên của nó chứ?”\n\nTrong lúc hai người vẫn đang dõi theo cô cháu gái, một xác lá rụng lén qua mắt người làm vườn của Phu nhân Mary, liệng về phía Sabrina và rơi sát chân cô. Cô gái đã chú ý chiếc lá từ trước, mang tư thế của một kiếm thủ và như thể trong tay cô là một thanh kiếm thực thụ mà không phải tưởng tượng, đâm thẳng vào chiếc lá. Rồi cô bật cười, hất chiếc lá lên, ném vào cơn gió mùa đông vừa lướt tới, cuốn nó đi.\n\n“Con bé không nghiêm túc về chuyện hôn nhân”, Hilary nhận xét.\n\nĐáng lý Sabrina nên tỏ ra lo lắng như các dì của cô, có thể là vì nguyên nhân khác, nhưng thay vào đó, cô lại cư xử giống như thế giới này chả có chuyện gì đáng lo ngại.\n\n“Làm sao nó có thể nghiêm túc được khi biết rõ chúng ta không kết hôn mà vẫn sống rất vui vẻ chứ?”\n\n“Chị e là chúng ta đã gây ra cho con bé những ấn tượng sai lầm. Không phải bởi chúng ta không muốn hay không hy vọng kết hôn lúc ở độ tuổi của nó, mà là bây giờ chúng ta tỏ ra khá vui mừng vì đã làm thế.”\n\nChẳng có gì đáng tự hào. Song cả hai đều không hối hận vì đã ở vậy. Điều họ lấy làm tiếc là không có đứa con nào của riêng mình, nhưng việc Sabrina đến với họ lúc cô chỉ mới lên ba, đã giúp bản năng làm mẹ của họ hoàn toàn được thỏa mãn. Có lẽ rất nhiều người sẽ gọi họ là các bà cô già và đổ lỗi cho tính chua ngoa, hay cãi vã của họ bắt nguồn từ chuyện này, nhưng khó có thể coi đó là nguyên nhân chính. Hai chị em họ luôn cãi lộn với nhau từ khi còn nhỏ. Nó đã ăn sâu vào máu họ.\n\nDường như Hilary chợt nhận ra mình đang chấp nhận một thỏa thuận đình chiến ngầm, bà đột ngột nói lớn, “Gọi con bé vào đi. Đến lúc phải sửa soạn cho nó rồi”.\n\n“Sớm thế này à?”, Alice phản đối. “Chúng ta còn khối thời gian.”\n\n“Sẽ cần cả đống thời gian để con bé được trau chuốt kỹ lưỡng”, Hilary ngắt lời.\n\n“Ồ, đao to búa lớn quá, có thể chị sẽ mất hàng giờ liền, nhưng...”\n\n“Em thì biết gì khi mà em chưa từng có buổi ra mắt nào chứ?”, Hilary lại cắt ngang.\n\n“Chị thì có à?”, Alice phản pháo.\n\n“Không quan trọng. Mary từng kể rất nhiều lần trong thư là bà ấy đã chuẩn bị ngay khi vừa mới rời giường vào buổi sáng.”\n\n“Bà ấy sẽ phải mất cả ngày chỉ để chui lọt áo nịt ngực.” Hilary tức đỏ cả mặt, không thể phủ nhận lời cáo buộc về người bạn thời thơ ấu, vốn đã rất tốt bụng đề nghị họ tới ở lâu đài của mình trong suốt Mùa vũ hội vì họ không có nhà riêng ở London. Qua nhiều năm, Mary đã trở nên quá đẫy đà đến nỗi Hilary gần như không nhận ra người bạn cũ lúc vừa đặt chân đến London hôm qua.\n\nThay vào đó bà đáp trả, “Con gái bà ấy cũng bắt đầu sửa soạn từ trưa”.\n\n“Chẳng lạ gì, Ophelia chỉ thích nhìn chằm chằm vào mình trong gương”, Alice khịt mũi.\n\n“Chị nói cho em biết...”\n\nTiếng nói nhỏ dần lúc hai chị em rời khỏi phòng. Trận đấu khẩu này được coi là hết sức bình thường. Ngay cả người nghe được cuộc trò chuyện, thì với sự thỏa thuận ngầm trong những tình huống như này của họ, cũng khó có thể tin là họ đang cãi nhau, chắc chắn ngay cả cô cháu gái mà hai người đang tranh cãi cũng thế."
+    },
+    {
+      "chapterIndex": "page0024.xhtml",
+      "chapterHref": "contents/page0024.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15735_4/OEBPS/contents/page0024.xhtml",
+      "chapterLabel": "Chương hai",
+      "progress": null,
+      "text": "CHƯƠNG HAI\n\nS\nabrina Lambert cũng rất lo lắng, nhưng để các dì yên tâm, cô cố hết sức không biểu lộ ra. Buổi ra mắt này đã được lên kế hoạch từ một năm trước, bao gồm cả vài chuyến đi tới Manchester để sắm sửa cho tủ quần áo của cô. Và cô biết các dì rất kỳ vọng vào mình. Đó chính là nguyên nhân khiến cô thấy căng thẳng. Cô thực sự không muốn làm họ thất vọng vì họ đã bỏ rất nhiều công sức vào lần xuất hiện này.\n\nNhưng cô cũng rất thực tế. Cô không trông đợi sẽ tìm được một tấm chồng ở đây, tại London. Con người nơi này quá phức tạp trong khi cô chỉ là một cô gái nông thôn đơn giản. Cô chỉ quen trò chuyện về mùa vụ, người thuê đất và thời tiết, trong khi giới thượng lưu London chỉ thích ngồi lê đôi mách, bàn tán về các tin đồn tục tĩu của nhau. Và còn có hàng tá các quý cô trẻ tuổi tràn trề hy vọng đổ xô về London với cùng mục đích. Đây được coi là vùng đất hứa để tìm chồng.\n\nTuy nhiên Sabrina bắt đầu thư giãn lúc trời dần về tối. Rất may cô có cô bạn Ophelia vốn rất nổi tiếng. Có điều Ophelia sinh ra và lớn lên ở London. Cô ta quen biết hầu hết mọi người ở đây, hiểu rõ xu hướng hiện tại và thậm chí còn giúp tung ra các tin đồn nóng hổi nhất cho dù đó là tin đồn về chính bản thân mình. Tính cách London đã ngấm trong từng tế bào của cô ta. Và cô ta cũng có buổi ra mắt ngay từ đầu Mùa vũ hội vào ba tuần trước.\n\nSự khác biệt lớn nhất là Ophelia không cần phải đến đúng giờ cho màn khiêu vũ đầu tiên của Mùa vũ hội, vì cô ta đã được định là người thành công nhất Mùa với vóc dáng xinh đẹp của mình. Trớ trêu thay, cô ta cũng không cần phải lượn lờ để kiếm một tấm chồng vì đã có đính ước dù chưa từng gặp mặt hôn phu. Buổi ra mắt của cô ta chỉ đơn thuần cho đúng phong tục, ít nhất Sabrina nghĩ thế đến khi cô phát hiện ra Ophelia không hài lòng với người chồng mà cha mẹ cô ta sắp đặt, và vẫn có ý định tìm kiếm một đám tốt hơn.\n\nLàm sao cô ta có thể cư xử như vậy, nói xấu và nhạo báng chồng chưa cưới mỗi khi có cơ hội và với bất kỳ ai sẵn sàng lắng nghe chứ, Sabrina cảm thấy rất khó chịu. Nhưng với những điều cô được biết thì đây chính là phương pháp ở London, nếu muốn rũ bỏ một cuộc hôn nhân không mong muốn thì phải làm như vậy.\n\nTheo ý kiến cá nhân, cô lấy làm tiếc cho người đàn ông trong câu chuyện, anh ta thậm chí còn không có mặt ở nước Anh để ngăn cản các tin đồn mà Ophelia thêu dệt về mình, nhưng cô không ở vào vị trí bảo vệ anh ta. Suy cho cùng có thể đó cũng chính là sự thật. Làm sao cô biết được?\n\nBên cạnh đó, mẹ Ophelia là chủ nhà của họ và là bạn tốt của dì Hilary. Có lẽ Phu nhân Mary cũng cần biết con gái bà định làm gì để có thể ngăn chặn, song Sabrina cảm thấy cô không phải là người thích hợp thông báo cho bà ấy. Ophelia đã kết bạn với cô và giới thiệu cô với tất cả bạn bè của mình. Nếu làm thế sẽ giống như cô đang phản bội cô ta. Hơn nữa các dì cô không thích ông ngoại của anh ta...\n\nChuyện này thật kỳ lạ và có lẽ là lý do khiến Sabrina cảm thấy có lỗi với hôn phu của Ophelia. Anh ta, hay đúng hơn là ông ngoại anh ta, là hàng xóm của cô. Các dì cô gọi ông là thầy tu, người ẩn dật, và khi cho là cô không nghe thấy thì họ gọi ông là lão già khốn kiếp. Sabrina chưa từng gặp mặt ông. Hiếm khi rời khỏi điền trang của mình, ông thực sự giống như người ẩn dật. Và rõ ràng việc ông có một cháu trai là tin tức vô cùng mới mẻ với họ. Các dì cô còn chế giễu khi biết Ophelia được hứa gả cho người thừa kế chưa từng xuất hiện từ trước tới nay. Cháu trai à? Họ còn chưa từng gặp hay thậm chí là nghe về anh ta.\n\nTuy nhiên theo Phu nhân Mary thì ông ấy là một hầu tước và đã liên lạc với chồng bà để sắp xếp cuộc hôn nhân trên danh nghĩa cháu trai mình. Tất nhiên gia đình Reid chớp ngay lấy cơ hội này để con gái kết hôn với một người sẽ được kế thừa tước hiệu cao quý từ ông mình. Và cũng chẳng có gì tổn hại khi hầu tước rất giàu có và sẽ để lại toàn bộ tài sản cho người cháu. Chỉ là Ophelia, ừm, hay chính xác là cô ta và rất nhiều người hâm mộ cuồng nhiệt của cô ta, đều không hài lòng với cuộc hôn nhân này.\n\nTrong số những người hâm mộ cô ta có rất nhiều người giàu có. Các quý ông trẻ tuổi xúm quanh cô ta, hoàn toàn bị mê hoặc bởi sự xinh đẹp của cô ta, và rõ ràng đó là chuyện hiển nhiên ở mỗi bữa tiệc mà Ophelia tham dự. Nhưng họ có thể không bị hấp dẫn sao? Cô ta có mái tóc vàng và cặp mắt xanh. Không ai có thể hợp thời trang hơn thế. Cô ta còn vô số nét xinh đẹp, mỹ lệ khác và một trong số đó là cực kỳ yểu điệu, mảnh mai, hoàn toàn khác với bà mẹ.\n\nNgoại hình Sabrina khó có thể được coi là hấp dẫn. Cô thuộc tuýp người thấp với chiều cao chỉ gần mét sáu, có lẽ sẽ không quá tệ nếu bộ ngực bớt đầy đặn và vòng hông hẹp hơn một chút, nếu vậy trông cô sẽ không quá tròn trịa so với vòng eo thon nhỏ.\n\nNhưng ngay cả như thế cũng không tệ lắm nếu ít nhất sắc thái của cô hợp thời một chút, nhưng sự thật lại hoàn toàn trái ngược. Tóc cô có màu nâu xỉn, thậm chí còn không được nâu bóng hay nâu đậm, chỉ một màu xỉn xỉn. Còn đôi mắt cô, thực sự được coi là đặc điểm đáng yêu nhất, hoặc cô cho là thế, với màu hoa tử đinh hương mùa xuân, nhưng bao quanh lại là màu tím sẫm, vì thế chúng khá gây ấn tượng vào lần đầu được chú ý.\n\nCô nhận ra nó khiến bất kỳ người nào lần đầu gặp cô cũng vô cùng kinh ngạc, cả đàn ông và phụ nữ đều giống nhau, họ nhìn chằm chằm vào mắt cô hồi lâu một cách đáng xấu hổ, dường như không thể tin chúng lại có màu sắc như vậy. Ngoại trừ cặp mắt ra thì các đường nét khác của cô đều không ưa nhìn, không phải xấu nhưng cũng chẳng thể coi là xinh xắn. Không ưa nhìn là từ mô tả rất chính xác.\n\nThực ra, Sabrina chưa bao giờ cảm thấy phiền lòng về ngoại hình của bản thân đến khi gặp Ophelia và hiểu ra vẻ đẹp thực sự là như thế nào. Hai người bọn họ giống như ngày và đêm, không thể so sánh được. Vì vậy nguyên nhân khiến cô bắt đầu cảm thấy thoải mái ngay khi đến buổi vũ hội đầu tiên của cô vào đêm đó và hoàn toàn quên khuấy những lo lắng lúc trước cũng khá hợp lý. Cô đủ thực tế để hiểu mình không thể cạnh tranh với sự hiện diện của Ophelia nhằm thu hút sự chú ý của các quý ông, và cô từ bỏ mọi hy vọng ngay cả khi chưa cố gắng. Một khi đã thả lỏng, cô trở lại là chính con người mình mà không phải một chú chuột nhút nhát, sợ sệt như cảm giác trước đó.\n\nSabrina tận hưởng mọi khoảnh khắc cười vui với bất kỳ ai, và cố gắng mang lại tiếng cười cho người khác. Cô vốn là người thẳng thắn nhưng cũng có khiếu hài hước bẩm sinh. Cô luôn có cách khiến một người trở nên tươi tỉnh dù họ đang trong lúc ủ dột nhất. Sống cùng hai người dì luôn cáu kỉnh, cãi cọ, cô đã có nhiều năm trau dồi năng khiếu đó và dễ dàng chấm dứt những trận khẩu chiến của họ mỗi khi cô can thiệp.\n\nTối hôm đó, những quý ông mời cô khiêu vũ đều chỉ nhằm mục đích tìm hiểu thông tin về Ophelia và vị hôn phu của cô ta. Nhưng do không quen thân lắm với Ophelia cũng như chồng chưa cưới của cô ta nên cô không thể trả lời câu hỏi của bọn họ. Tuy nhiên cô lại khiến họ bật cười. Thậm chí vài người còn mời cô nhảy lần nữa chỉ vì cô rất dễ chịu. Và có lúc cô còn đồng thời nhận được ba lời mời.\n\nThật không may, Ophelia lại vô tình chú ý tới điều đó..."
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nChương một\nChương hai\nChương ba\nChương bốn\nChương năm\nChương sáu\nChương bảy\nChương tám\nChương chín\nChương mười\nChương mười một\nChương mười hai\nChương mười ba\nChương mười bốn\nChương mười lăm\nChương mười sáu\nChương mười bảy\nChương mười tám\nChương mười chín\nChương hai mươi\nChương hai mươi mốt\nChương hai mươi hai\nChương hai mươi ba\nChương hai mươi tư\nChương hai mươi lăm\nChương hai mươi sáu\nChương hai mươi bảy\nChương hai mươi tám\nChương hai mươi chín\nChương ba mươi\nChương ba mươi mốt\nChương ba mươi hai\nChương ba mươi ba\nChương ba mươi tư\nChương ba mươi lăm\nChương ba mươi sáu\nChương ba mươi bảy\nChương ba mươi tám\nChương ba mươi chín\nChương bốn mươi\nChương bốn mươi mốt\nChương bốn mươi hai\nChương bốn mươi ba\nChương bốn mươi tư\nChương bốn mươi lăm\nChương bốn mươi sáu\nChương bốn mươi bảy\nChương bốn mươi tám\nChương bốn mươi chín\nChương năm mươi\nChương năm mươi mốt\nChương năm mươi hai\nChương năm mươi ba\nChương năm mươi tư\nChương năm mươi năm\nChương năm mươi sáu\n\nMục lục\nLời giới thiệu\nChương một\nChương hai\nChương ba\nChương bốn\nChương năm\nChương sáu\nChương bảy\nChương tám\nChương chín\nChương mười\nChương mười một\nChương mười hai\nChương mười ba\nChương mười bốn\nChương mười lăm\nChương mười sáu\nChương mười bảy\nChương mười tám\nChương mười chín\nChương hai mươi\nChương hai mươi mốt\nChương hai mươi hai\nChương hai mươi ba\nChương hai mươi tư\nChương hai mươi lăm\nChương hai mươi sáu\nChương hai mươi bảy\nChương hai mươi tám\nChương hai mươi chín\nChương ba mươi\nChương ba mươi mốt\nChương ba mươi hai\nChương ba mươi ba\nChương ba mươi tư\nChương ba mươi lăm\nChương ba mươi sáu\nChương ba mươi bảy\nChương ba mươi tám\nChương ba mươi chín\nChương bốn mươi\nChương bốn mươi mốt\nChương bốn mươi hai\nChương bốn mươi ba\nChương bốn mươi tư\nChương bốn mươi lăm\nChương bốn mươi sáu\nChương bốn mươi bảy\nChương bốn mươi tám\nChương bốn mươi chín\nChương năm mươi\nChương năm mươi mốt\nChương năm mươi hai\nChương năm mươi ba\nChương năm mươi tư\nChương năm mươi năm\nChương năm mươi sáu\n\nLỜI GIỚI THIỆU\n\nJ\nohanna Lindsey, tên thật là Johanna Helen Howard, sinh ngày 10 tháng 3 năm 1952 tại Đức, nhưng lại là một trong những nhà văn nổi tiếng ở Mỹ. Bà được mệnh danh là một trong những tác giả thành công nhất trên thế giới về tiểu thuyết lịch sử lãng mạn. Các tác phẩm của bà thường xuyên lọt vào danh sách bán chạy nhất do New York Times bình chọn.\n\nLindsey xuất bản cuốn sách đầu tay vào năm 1977, với tựa đề Captive Bride, và ngay lập tức đưa tên tuổi của bà đến với các độc giả yêu văn học. Đó chính là động lực để bà tiếp tục cho ra đời rất nhiều cuốn tiểu thuyết ăn khách khác.\n\nTính đến năm 2006, những tác phẩm của bà đã bán được trên năm mươi tám triệu ấn bản và dịch ra mười hai ngôn ngữ trên toàn thế giới.\n\nBằng lối kể chuyện hài hước song cũng không kém phần lãng mạn và bất ngờ, Johanna đã không hề khiến người đọc thất vọng với những câu chuyện của mình. Bà đã gắn kết những con người với hoàn cảnh và số phận hoàn toàn khác biệt, tưởng chừng như không bao giờ có thể ở bên nhau, và cho họ một kết thúc viên mãn.\n\nKhông chỉ có vậy, giọng văn tinh tế và vô cùng đặc trưng của Johanna cũng là điều luôn hấp dẫn độc giả. Mỗi nhân vật của bà luôn được khắc họa với cá tính nổi bật. Ngoài ra, chính sự kiên cường của họ trong tình yêu cũng góp phần tạo ra nét đặc sắc cho ngòi bút của bà.\n\nMời độc giả đón đọc các tác phẩm của Johanna Lindsey đã và sẽ được Bách Việt xuất bản: Ma lực tình yêu (2012), Nàng công chúa lưu lạc (2012), Gã cướp biển quý tộc (2012), Em là của anh (2012), Hãy nói yêu em (2013), Người thừa kế (2015), The devil who tamed her, A rogue of my own, Let love find you.\n\nBachvietBooks\n\nCHƯƠNG MỘT\n\nH\nọ nhìn chằm chằm vào khu vườn ảm đạm trong không khí mùa đông lạnh lẽo bên ngoài cửa sổ, nơi cô gái đang dạo bước. Khu vườn khá nhỏ bé so với diện tích rộng lớn của ngôi nhà, bởi đơn giản là trong khu thượng lưu của London thì người ta không sẵn lòng dành đất đai cho một không gian mang tính thôn dã như thế này.\n\nPhu nhân Mary Reid, chủ nhân ngôi nhà đã cải thiện mảnh vườn rất tốt trong khi hầu hết láng giềng xung quanh bỏ mặc cho cỏ dại mọc. Và chắc chắn cô cháu gái Sabrina của họ - người luôn yêu thích được ở ngoài trời bất kể mùa nào trong năm, đã tìm thấy chút hơi hướng quen thuộc.\n\nHai người phụ nữ tiếp tục trầm tư, quan sát Sabrina. Alice Lambert cau mày. Chị gái bà, Hilary, lớn hơn bà một tuổi, tỏ ra chán nản.\n\n“Hilary, em chưa từng nghĩ mình sẽ phải lo lắng thế này”, Alice thì thầm với chị gái.\n\n“Chị cũng thế, nếu em muốn biết”, Hilary thở dài.\n\nNếu xét về ngoại hình thì thật khó tưởng tượng họ là hai chị em ruột. Hilary trông giống hệt bố, cao, mảnh khảnh với mái tóc nâu xỉn và cặp mắt xanh dương lấp lánh. Còn Alice lại là bản sao của người mẹ, thấp lùn, đầy đặn, mái tóc đen bóng ánh nâu và cặp mắt xanh sẫm đôi khi lại lấp lánh sắc tím.\n\nTuy là chị em gái nhưng họ không hòa thuận lắm. Cãi nhau là chuyện thường tình. Nhưng điều cả hai đều quan tâm là cô cháu gái mà họ gần như một tay nuôi nấng sẽ có buổi ra mắt xã hội thượng lưu London tối nay và đang rất lo lắng. Đáng buồn là họ có lý do để phiền lòng.\n\nNguyên nhân không phải vì Sabrina không nổi bật hay khó gây ấn tượng. Tuy cô không xinh đẹp mỹ miều như Ophelia, con gái của Mary vốn cũng sẽ ra mắt Mùa vũ hội này, nhưng Sabrina thực sự có nhiều lợi thế. Song chúng cũng mang đến nhiều hệ lụy. Ông nội Sabrina là một bá tước, cụ nội là công tước. Tước hiệu của bản thân cô chỉ đơn thuần là Honorable1, nhưng họ không hy vọng tóm được một anh chàng có tước hiệu cao quý hay cực kỳ giàu có cho cô. Bất kỳ người nào có địa vị tốt đều không nằm trong tầm ngắm của chị em nhà Lambert.\n\n1 Là tước hiệu dành cho con của Tử tước, Nam tước và con thứ của Bá tước, những người không được thừa kế tước hiệu trong bảng tước hiệu của Anh.\n\nKhông, mối lo lắng khi một cô tiểu thư vùng nông thôn bị trói buộc vào cuộc hôn nhân với tầng lớp thượng lưu thành phố hoàn toàn không thể coi là nỗi lo lắng thông thường. Nó còn vượt qua tính cá nhân rất, rất nhiều và lý giải tại sao cả hai chị em lại quyết định không lấy chồng. Họ sợ vụ bê bối đã ám ảnh gia đình mình suốt ba thế hệ sẽ xuất hiện trở lại sau chừng đó năm im hơi lặng tiếng.\n\nNhưng chẳng ai trong số hai người phụ nữ dám đề cập đến lo ngại thực sự của mình. Họ đã thống nhất sẽ không bao giờ nhắc đến bi kịch xa xưa.\n\n“Chị nghĩ cái áo khoác len đó đủ ấm cho con bé không?”, Alice hỏi, vẫn đang cau mày.\n\n“Em cho là nó để ý à?”\n\n“Nhưng hai má đã bắt đầu nứt nẻ rồi kìa, con bé sẽ trông thế nào trong buổi vũ hội đầu tiên của nó chứ?”\n\nTrong lúc hai người vẫn đang dõi theo cô cháu gái, một xác lá rụng lén qua mắt người làm vườn của Phu nhân Mary, liệng về phía Sabrina và rơi sát chân cô. Cô gái đã chú ý chiếc lá từ trước, mang tư thế của một kiếm thủ và như thể trong tay cô là một thanh kiếm thực thụ mà không phải tưởng tượng, đâm thẳng vào chiếc lá. Rồi cô bật cười, hất chiếc lá lên, ném vào cơn gió mùa đông vừa lướt tới, cuốn nó đi.\n\n“Con bé không nghiêm túc về chuyện hôn nhân”, Hilary nhận xét.\n\nĐáng lý Sabrina nên tỏ ra lo lắng như các dì của cô, có thể là vì nguyên nhân khác, nhưng thay vào đó, cô lại cư xử giống như thế giới này chả có chuyện gì đáng lo ngại.\n\n“Làm sao nó có thể nghiêm túc được khi biết rõ chúng ta không kết hôn mà vẫn sống rất vui vẻ chứ?”\n\n“Chị e là chúng ta đã gây ra cho con bé những ấn tượng sai lầm. Không phải bởi chúng ta không muốn hay không hy vọng kết hôn lúc ở độ tuổi của nó, mà là bây giờ chúng ta tỏ ra khá vui mừng vì đã làm thế.”\n\nChẳng có gì đáng tự hào. Song cả hai đều không hối hận vì đã ở vậy. Điều họ lấy làm tiếc là không có đứa con nào của riêng mình, nhưng việc Sabrina đến với họ lúc cô chỉ mới lên ba, đã giúp bản năng làm mẹ của họ hoàn toàn được thỏa mãn. Có lẽ rất nhiều người sẽ gọi họ là các bà cô già và đổ lỗi cho tính chua ngoa, hay cãi vã của họ bắt nguồn từ chuyện này, nhưng khó có thể coi đó là nguyên nhân chính. Hai chị em họ luôn cãi lộn với nhau từ khi còn nhỏ. Nó đã ăn sâu vào máu họ.\n\nDường như Hilary chợt nhận ra mình đang chấp nhận một thỏa thuận đình chiến ngầm, bà đột ngột nói lớn, “Gọi con bé vào đi. Đến lúc phải sửa soạn cho nó rồi”.\n\n“Sớm thế này à?”, Alice phản đối. “Chúng ta còn khối thời gian.”\n\n“Sẽ cần cả đống thời gian để con bé được trau chuốt kỹ lưỡng”, Hilary ngắt lời.\n\n“Ồ, đao to búa lớn quá, có thể chị sẽ mất hàng giờ liền, nhưng...”\n\n“Em thì biết gì khi mà em chưa từng có buổi ra mắt nào chứ?”, Hilary lại cắt ngang.\n\n“Chị thì có à?”, Alice phản pháo.\n\n“Không quan trọng. Mary từng kể rất nhiều lần trong thư là bà ấy đã chuẩn bị ngay khi vừa mới rời giường vào buổi sáng.”\n\n“Bà ấy sẽ phải mất cả ngày chỉ để chui lọt áo nịt ngực.” Hilary tức đỏ cả mặt, không thể phủ nhận lời cáo buộc về người bạn thời thơ ấu, vốn đã rất tốt bụng đề nghị họ tới ở lâu đài của mình trong suốt Mùa vũ hội vì họ không có nhà riêng ở London. Qua nhiều năm, Mary đã trở nên quá đẫy đà đến nỗi Hilary gần như không nhận ra người bạn cũ lúc vừa đặt chân đến London hôm qua.\n\nThay vào đó bà đáp trả, “Con gái bà ấy cũng bắt đầu sửa soạn từ trưa”.\n\n“Chẳng lạ gì, Ophelia chỉ thích nhìn chằm chằm vào mình trong gương”, Alice khịt mũi.\n\n“Chị nói cho em biết...”\n\nTiếng nói nhỏ dần lúc hai chị em rời khỏi phòng. Trận đấu khẩu này được coi là hết sức bình thường. Ngay cả người nghe được cuộc trò chuyện, thì với sự thỏa thuận ngầm trong những tình huống như này của họ, cũng khó có thể tin là họ đang cãi nhau, chắc chắn ngay cả cô cháu gái mà hai người đang tranh cãi cũng thế.\n\nCHƯƠNG HAI\n\nS\nabrina Lambert cũng rất lo lắng, nhưng để các dì yên tâm, cô cố hết sức không biểu lộ ra. Buổi ra mắt này đã được lên kế hoạch từ một năm trước, bao gồm cả vài chuyến đi tới Manchester để sắm sửa cho tủ quần áo của cô. Và cô biết các dì rất kỳ vọng vào mình. Đó chính là nguyên nhân khiến cô thấy căng thẳng. Cô thực sự không muốn làm họ thất vọng vì họ đã bỏ rất nhiều công sức vào lần xuất hiện này.\n\nNhưng cô cũng rất thực tế. Cô không trông đợi sẽ tìm được một tấm chồng ở đây, tại London. Con người nơi này quá phức tạp trong khi cô chỉ là một cô gái nông thôn đơn giản. Cô chỉ quen trò chuyện về mùa vụ, người thuê đất và thời tiết, trong khi giới thượng lưu London chỉ thích ngồi lê đôi mách, bàn tán về các tin đồn tục tĩu của nhau. Và còn có hàng tá các quý cô trẻ tuổi tràn trề hy vọng đổ xô về London với cùng mục đích. Đây được coi là vùng đất hứa để tìm chồng.\n\nTuy nhiên Sabrina bắt đầu thư giãn lúc trời dần về tối. Rất may cô có cô bạn Ophelia vốn rất nổi tiếng. Có điều Ophelia sinh ra và lớn lên ở London. Cô ta quen biết hầu hết mọi người ở đây, hiểu rõ xu hướng hiện tại và thậm chí còn giúp tung ra các tin đồn nóng hổi nhất cho dù đó là tin đồn về chính bản thân mình. Tính cách London đã ngấm trong từng tế bào của cô ta. Và cô ta cũng có buổi ra mắt ngay từ đầu Mùa vũ hội vào ba tuần trước.\n\nSự khác biệt lớn nhất là Ophelia không cần phải đến đúng giờ cho màn khiêu vũ đầu tiên của Mùa vũ hội, vì cô ta đã được định là người thành công nhất Mùa với vóc dáng xinh đẹp của mình. Trớ trêu thay, cô ta cũng không cần phải lượn lờ để kiếm một tấm chồng vì đã có đính ước dù chưa từng gặp mặt hôn phu. Buổi ra mắt của cô ta chỉ đơn thuần cho đúng phong tục, ít nhất Sabrina nghĩ thế đến khi cô phát hiện ra Ophelia không hài lòng với người chồng mà cha mẹ cô ta sắp đặt, và vẫn có ý định tìm kiếm một đám tốt hơn.\n\nLàm sao cô ta có thể cư xử như vậy, nói xấu và nhạo báng chồng chưa cưới mỗi khi có cơ hội và với bất kỳ ai sẵn sàng lắng nghe chứ, Sabrina cảm thấy rất khó chịu. Nhưng với những điều cô được biết thì đây chính là phương pháp ở London, nếu muốn rũ bỏ một cuộc hôn nhân không mong muốn thì phải làm như vậy.\n\nTheo ý kiến cá nhân, cô lấy làm tiếc cho người đàn ông trong câu chuyện, anh ta thậm chí còn không có mặt ở nước Anh để ngăn cản các tin đồn mà Ophelia thêu dệt về mình, nhưng cô không ở vào vị trí bảo vệ anh ta. Suy cho cùng có thể đó cũng chính là sự thật. Làm sao cô biết được?\n\nBên cạnh đó, mẹ Ophelia là chủ nhà của họ và là bạn tốt của dì Hilary. Có lẽ Phu nhân Mary cũng cần biết con gái bà định làm gì để có thể ngăn chặn, song Sabrina cảm thấy cô không phải là người thích hợp thông báo cho bà ấy. Ophelia đã kết bạn với cô và giới thiệu cô với tất cả bạn bè của mình. Nếu làm thế sẽ giống như cô đang phản bội cô ta. Hơn nữa các dì cô không thích ông ngoại của anh ta...\n\nChuyện này thật kỳ lạ và có lẽ là lý do khiến Sabrina cảm thấy có lỗi với hôn phu của Ophelia. Anh ta, hay đúng hơn là ông ngoại anh ta, là hàng xóm của cô. Các dì cô gọi ông là thầy tu, người ẩn dật, và khi cho là cô không nghe thấy thì họ gọi ông là lão già khốn kiếp. Sabrina chưa từng gặp mặt ông. Hiếm khi rời khỏi điền trang của mình, ông thực sự giống như người ẩn dật. Và rõ ràng việc ông có một cháu trai là tin tức vô cùng mới mẻ với họ. Các dì cô còn chế giễu khi biết Ophelia được hứa gả cho người thừa kế chưa từng xuất hiện từ trước tới nay. Cháu trai à? Họ còn chưa từng gặp hay thậm chí là nghe về anh ta.\n\nTuy nhiên theo Phu nhân Mary thì ông ấy là một hầu tước và đã liên lạc với chồng bà để sắp xếp cuộc hôn nhân trên danh nghĩa cháu trai mình. Tất nhiên gia đình Reid chớp ngay lấy cơ hội này để con gái kết hôn với một người sẽ được kế thừa tước hiệu cao quý từ ông mình. Và cũng chẳng có gì tổn hại khi hầu tước rất giàu có và sẽ để lại toàn bộ tài sản cho người cháu. Chỉ là Ophelia, ừm, hay chính xác là cô ta và rất nhiều người hâm mộ cuồng nhiệt của cô ta, đều không hài lòng với cuộc hôn nhân này.\n\nTrong số những người hâm mộ cô ta có rất nhiều người giàu có. Các quý ông trẻ tuổi xúm quanh cô ta, hoàn toàn bị mê hoặc bởi sự xinh đẹp của cô ta, và rõ ràng đó là chuyện hiển nhiên ở mỗi bữa tiệc mà Ophelia tham dự. Nhưng họ có thể không bị hấp dẫn sao? Cô ta có mái tóc vàng và cặp mắt xanh. Không ai có thể hợp thời trang hơn thế. Cô ta còn vô số nét xinh đẹp, mỹ lệ khác và một trong số đó là cực kỳ yểu điệu, mảnh mai, hoàn toàn khác với bà mẹ.\n\nNgoại hình Sabrina khó có thể được coi là hấp dẫn. Cô thuộc tuýp người thấp với chiều cao chỉ gần mét sáu, có lẽ sẽ không quá tệ nếu bộ ngực bớt đầy đặn và vòng hông hẹp hơn một chút, nếu vậy trông cô sẽ không quá tròn trịa so với vòng eo thon nhỏ.\n\nNhưng ngay cả như thế cũng không tệ lắm nếu ít nhất sắc thái của cô hợp thời một chút, nhưng sự thật lại hoàn toàn trái ngược. Tóc cô có màu nâu xỉn, thậm chí còn không được nâu bóng hay nâu đậm, chỉ một màu xỉn xỉn. Còn đôi mắt cô, thực sự được coi là đặc điểm đáng yêu nhất, hoặc cô cho là thế, với màu hoa tử đinh hương mùa xuân, nhưng bao quanh lại là màu tím sẫm, vì thế chúng khá gây ấn tượng vào lần đầu được chú ý.\n\nCô nhận ra nó khiến bất kỳ người nào lần đầu gặp cô cũng vô cùng kinh ngạc, cả đàn ông và phụ nữ đều giống nhau, họ nhìn chằm chằm vào mắt cô hồi lâu một cách đáng xấu hổ, dường như không thể tin chúng lại có màu sắc như vậy. Ngoại trừ cặp mắt ra thì các đường nét khác của cô đều không ưa nhìn, không phải xấu nhưng cũng chẳng thể coi là xinh xắn. Không ưa nhìn là từ mô tả rất chính xác.\n\nThực ra, Sabrina chưa bao giờ cảm thấy phiền lòng về ngoại hình của bản thân đến khi gặp Ophelia và hiểu ra vẻ đẹp thực sự là như thế nào. Hai người bọn họ giống như ngày và đêm, không thể so sánh được. Vì vậy nguyên nhân khiến cô bắt đầu cảm thấy thoải mái ngay khi đến buổi vũ hội đầu tiên của cô vào đêm đó và hoàn toàn quên khuấy những lo lắng lúc trước cũng khá hợp lý. Cô đủ thực tế để hiểu mình không thể cạnh tranh với sự hiện diện của Ophelia nhằm thu hút sự chú ý của các quý ông, và cô từ bỏ mọi hy vọng ngay cả khi chưa cố gắng. Một khi đã thả lỏng, cô trở lại là chính con người mình mà không phải một chú chuột nhút nhát, sợ sệt như cảm giác trước đó.\n\nSabrina tận hưởng mọi khoảnh khắc cười vui với bất kỳ ai, và cố gắng mang lại tiếng cười cho người khác. Cô vốn là người thẳng thắn nhưng cũng có khiếu hài hước bẩm sinh. Cô luôn có cách khiến một người trở nên tươi tỉnh dù họ đang trong lúc ủ dột nhất. Sống cùng hai người dì luôn cáu kỉnh, cãi cọ, cô đã có nhiều năm trau dồi năng khiếu đó và dễ dàng chấm dứt những trận khẩu chiến của họ mỗi khi cô can thiệp.\n\nTối hôm đó, những quý ông mời cô khiêu vũ đều chỉ nhằm mục đích tìm hiểu thông tin về Ophelia và vị hôn phu của cô ta. Nhưng do không quen thân lắm với Ophelia cũng như chồng chưa cưới của cô ta nên cô không thể trả lời câu hỏi của bọn họ. Tuy nhiên cô lại khiến họ bật cười. Thậm chí vài người còn mời cô nhảy lần nữa chỉ vì cô rất dễ chịu. Và có lúc cô còn đồng thời nhận được ba lời mời.\n\nThật không may, Ophelia lại vô tình chú ý tới điều đó..."
+}

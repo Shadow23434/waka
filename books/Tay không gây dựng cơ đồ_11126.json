@@ -1,0 +1,239 @@
+{
+  "item_id": 11126,
+  "title": "Tay không gây dựng cơ đồ",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T04:35:58.714Z",
+  "input_book": {
+    "id": 11126,
+    "title": "Tay không gây dựng cơ đồ",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11126.jpg?v=1&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p><strong>Tay Kh&ocirc;ng G&acirc;y Dựng Cơ Đồ</strong> l&agrave; quyển s&aacute;ch n&oacute;i về cuộc đời v&agrave; qu&aacute; tr&igrave;nh tạo dựng sự nghiệp của tỷ ph&uacute; Th&aacute;i Lan: <strong>Vikrom Kromadit</strong>, người chủ của những khu c&ocirc;ng nghiệp Amata.</p>\r\n<p>Từ một cậu b&eacute; qu&ecirc; m&ugrave;a tỉnh lẻ ở Kanchanaburi trở th&agrave;nh một doanh nh&acirc;n nổi tiếng v&agrave; th&agrave;nh đạt \"đến bất ngờ\", tại sao <strong>Vikrom Kromadit</strong> c&oacute; thể l&agrave;m được như vậy?</p>\r\n<p>Ngay từ thuở nhỏ, c&aacute;i khao kh&aacute;t \"trở th&agrave;nh &ocirc;ng chủ\" đ&atilde; ngấm s&acirc;u trong m&aacute;u thịt của &ocirc;ng. D&ugrave; c&oacute; l&uacute;c trong t&uacute;i chỉ c&ograve;n vỏn vẹn 25 xu, Vikrom vẫn kh&ocirc;ng ngừng khao kh&aacute;t t&igrave;m kiếm sự th&agrave;nh c&ocirc;ng trong kinh doanh v&agrave; cơ hội trở th&agrave;nh một &ocirc;ng chủ, d&ugrave; chỉ l&agrave; \"&ocirc;ng chủ 25 xu\". Vikrom Kromadit kh&ocirc;ng bao giờ từ bỏ ước mơ l&agrave;m gi&agrave;u của m&igrave;nh.</p>\r\n<p>Cuốn s&aacute;ch hữu &iacute;ch cho những ai mang ho&agrave;i b&atilde;o trở th&agrave;nh một doanh nh&acirc;n th&agrave;nh đạt v&agrave; những ai quan t&acirc;m t&igrave;m hiểu c&aacute;ch x&acirc;y dựng mối quan hệ nhằm đạt được c&aacute;c mục ti&ecirc;u trong kinh doanh. Bởi v&igrave; xuy&ecirc;n suốt quyển s&aacute;ch l&agrave; một tinh thần khởi nghiệp kh&ocirc;ng mệt mỏi, d&ugrave; kiến thức hạn chế, vốn liếng cũng kh&ocirc;ng c&oacute; thế m&agrave; Kromadit vẫn kh&ocirc;ng bao giờ từ bỏ. Một điểm rất hay l&agrave; t&aacute;c giả lu&ocirc;n đề cao việc lấy đạo đức l&agrave;m trọng l&agrave; gốc của sự nghiệp vững bền.</p>\r\n<p>Quyển tự truyện viết một c&aacute;ch thực tế, ch&acirc;n thật, kh&ocirc;ng m&agrave;u m&egrave;, kh&ocirc;ng hoa lệ về con đường l&agrave;m gi&agrave;u của <strong>Vikrom Kromadit</strong>. Bạn đọc sẽ học hỏi nhiều điều qua cuốn s&aacute;ch bổ &iacute;ch n&agrave;y bởi &ocirc;ng đ&atilde; n&ecirc;u cụ thể c&aacute;ch thức m&agrave; &ocirc;ng sử dụng để c&oacute; được ng&agrave;y h&ocirc;m nay. Ngo&agrave;i ra, bạn c&ograve;n c&oacute; thể học hỏi những tư tưởng tốt đẹp, nh&acirc;n văn của <strong>Vikrom Kromadit</strong> đối với x&atilde; hội.</p>\r\n<p>Waka tr&acirc;n trọng giới thiệu đến bạn cuốn s&aacute;ch <strong>&ldquo;</strong><strong>Tay Kh&ocirc;ng G&acirc;y Dựng Cơ Đồ&rdquo;!</strong></p>",
+    "authors": [
+      {
+        "id": "5146",
+        "name": "Vikrom Kromadit"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách nói_Viễn tưởng giả tưởng_95.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Doanh nhân - Bài học kinh doanh_95.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Văn hóa & Xã hội_383.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 05:01:35",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 11126,
+      "title": "Tay không gây dựng cơ đồ",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p><strong>Tay Kh&ocirc;ng G&acirc;y Dựng Cơ Đồ</strong> l&agrave; quyển s&aacute;ch n&oacute;i về cuộc đời v&agrave; qu&aacute; tr&igrave;nh tạo dựng sự nghiệp của tỷ ph&uacute; Th&aacute;i Lan: <strong>Vikrom Kromadit</strong>, người chủ của những khu c&ocirc;ng nghiệp Amata.</p>\r\n<p>Từ một cậu b&eacute; qu&ecirc; m&ugrave;a tỉnh lẻ ở Kanchanaburi trở th&agrave;nh một doanh nh&acirc;n nổi tiếng v&agrave; th&agrave;nh đạt \"đến bất ngờ\", tại sao <strong>Vikrom Kromadit</strong> c&oacute; thể l&agrave;m được như vậy?</p>\r\n<p>Ngay từ thuở nhỏ, c&aacute;i khao kh&aacute;t \"trở th&agrave;nh &ocirc;ng chủ\" đ&atilde; ngấm s&acirc;u trong m&aacute;u thịt của &ocirc;ng. D&ugrave; c&oacute; l&uacute;c trong t&uacute;i chỉ c&ograve;n vỏn vẹn 25 xu, Vikrom vẫn kh&ocirc;ng ngừng khao kh&aacute;t t&igrave;m kiếm sự th&agrave;nh c&ocirc;ng trong kinh doanh v&agrave; cơ hội trở th&agrave;nh một &ocirc;ng chủ, d&ugrave; chỉ l&agrave; \"&ocirc;ng chủ 25 xu\". Vikrom Kromadit kh&ocirc;ng bao giờ từ bỏ ước mơ l&agrave;m gi&agrave;u của m&igrave;nh.</p>\r\n<p>Cuốn s&aacute;ch hữu &iacute;ch cho những ai mang ho&agrave;i b&atilde;o trở th&agrave;nh một doanh nh&acirc;n th&agrave;nh đạt v&agrave; những ai quan t&acirc;m t&igrave;m hiểu c&aacute;ch x&acirc;y dựng mối quan hệ nhằm đạt được c&aacute;c mục ti&ecirc;u trong kinh doanh. Bởi v&igrave; xuy&ecirc;n suốt quyển s&aacute;ch l&agrave; một tinh thần khởi nghiệp kh&ocirc;ng mệt mỏi, d&ugrave; kiến thức hạn chế, vốn liếng cũng kh&ocirc;ng c&oacute; thế m&agrave; Kromadit vẫn kh&ocirc;ng bao giờ từ bỏ. Một điểm rất hay l&agrave; t&aacute;c giả lu&ocirc;n đề cao việc lấy đạo đức l&agrave;m trọng l&agrave; gốc của sự nghiệp vững bền.</p>\r\n<p>Quyển tự truyện viết một c&aacute;ch thực tế, ch&acirc;n thật, kh&ocirc;ng m&agrave;u m&egrave;, kh&ocirc;ng hoa lệ về con đường l&agrave;m gi&agrave;u của <strong>Vikrom Kromadit</strong>. Bạn đọc sẽ học hỏi nhiều điều qua cuốn s&aacute;ch bổ &iacute;ch n&agrave;y bởi &ocirc;ng đ&atilde; n&ecirc;u cụ thể c&aacute;ch thức m&agrave; &ocirc;ng sử dụng để c&oacute; được ng&agrave;y h&ocirc;m nay. Ngo&agrave;i ra, bạn c&ograve;n c&oacute; thể học hỏi những tư tưởng tốt đẹp, nh&acirc;n văn của <strong>Vikrom Kromadit</strong> đối với x&atilde; hội.</p>\r\n<p>Waka tr&acirc;n trọng giới thiệu đến bạn cuốn s&aacute;ch <strong>&ldquo;</strong><strong>Tay Kh&ocirc;ng G&acirc;y Dựng Cơ Đồ&rdquo;!</strong></p>",
+      "zone": 1,
+      "published_time": "01/12/2009",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/tay-khong-gay-dung-co-do-vikrom-kromadit-b5E07W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/tay-khong-gay-dung-co-do-vikrom-kromadit-b5E07W.html?std=type%3D1%26data%3D11126%26title%3DTay%2Bkh%25C3%25B4ng%2Bg%25C3%25A2y%2Bd%25E1%25BB%25B1ng%2Bc%25C6%25A1%2B%25C4%2591%25E1%25BB%2593%26mini_app%3D1&type=1&data=11126&title=Tay+kh%C3%B4ng+g%C3%A2y+d%E1%BB%B1ng+c%C6%A1+%C4%91%E1%BB%93&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "36",
+          "name": "NXB Trẻ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5146",
+          "name": "Vikrom Kromadit",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5146.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5146\",\"name\":\"Vikrom Kromadit\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5146.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Vikrom Kromadit",
+      "author_id": "5146",
+      "category_id": "95",
+      "category_name": "Doanh nhân - Bài học kinh doanh",
+      "categories": [
+        {
+          "id": "95",
+          "name": "Doanh nhân - Bài học kinh doanh",
+          "parent_id": 0
+        },
+        {
+          "id": "383",
+          "name": "Giáo dục - Văn hóa & Xã hội",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 9,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 1,
+      "total_wishlist": 523,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "seo": {
+        "title": "Đọc sác Tay Không Gây Dựng Cơ Đồ - Vikrom Kromadit",
+        "description": "Tay Không Gây Dựng Cơ Đồ là quyển sách nói về cuộc đời và quá trình tạo dựng sự nghiệp của tỷ phú Thái Lan: Vikrom Kromadit. Mời độc giả đón đọc!",
+        "keyword": "tay khong gay dung co do, tay khong gay dung co do  Vikrom Kromadit, doc sach, ebook tay khong gay dung co do, doc sach",
+        "news_keyword": "tay khong gay dung co do, tay khong gay dung co do  Vikrom Kromadit, doc sach, ebook tay khong gay dung co do, doc sach"
+      },
+      "meta_ios": "vwaka://open?type=1&data=11126&title=tay-khong-gay-dung-co-do",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=11126&title=tay-khong-gay-dung-co-do#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1458553095,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11126.jpg?v=1&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3140,
+      "number_view": 7746,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/tay-khong-gay-dung-co-do-b5E07W.html?std=type%3D1%26data%3D11126&type=1&data=11126",
+      "read_link": "https://ebook.waka.vn/tay-khong-gay-dung-co-do-r5E07W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 9
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 5,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 5,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11126_5/OEBPS/content.opf?token=0c4a1zc6b613d8f5d273929448d4e1e5de768b11126",
+        "id": 11126,
+        "chapter_trail": 4,
+        "name": "Tay không gây dựng cơ đồ",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 5,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/tay-khong-gay-dung-co-do-r5E07W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11126_5/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời tác giả\nLời nhà xuất bản\nLời giới thiệu\nChương 1: Ông chủ 25 xu\nChương 2: Theo uổi ước mơ đến cùng\nChương 3: Cưỡng lại số phận\nChương 4: Bình minh\nChương 5: Dự lễ khánh thành cao ốc Ngân hàng Bangkok\nChương 6: Chiếc xe hơi đúng nghĩa đầu tiên\nChương 7: Bài học kinh nghiệm Paul Krampe\nChương 8: Trời quang mây tạnh\nChương 9: Phần thưởng dành cho người dám ước mơ\nChương 10: Mùa bão tố\nChương 11: Đường đời\nChương 12: Gió đổi chiều\nChương 13: Một bước tiến xa\nChương 14: Cổ đông mới\nChương 15: Người bán hàng xuất sắc\nChương 16: Vươn ra thế giới\nChương 17: Khủng hoảng kinh tế\nChương 18: Phát triển bền vững\nChương 19: Xuất xứ các tên gọi\nChương 20: Giấc mơ chờ ngày thành hiện thực\nChương 21: Dục vọng của con người\nChương 22: Hướng đến sự trường tồn\nChương 23: Dòng máu Amata\nChương 24: Nếp sống tề gia\nChương 25: Mạnh thường quân\nChương 26: Quan hệ công chúng\nChương 27: Công việc khó khăn nhất\nChương 28: Sự đầu tư quan trọng\nChương 29: Amata được tự do\nChương 30: Thành phố Amata\nChương 31: Tôi sẽ không làm ông chủ nữa\nChương 32: Tính kỷ luật\nChương 33: Tri túc bất nhục\nChú thích"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11126_5/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "Lời tác giả",
+      "progress": null,
+      "text": "Lời tác giả gửi bạn đọc Việt Nam\n\nGửi bạn đọc Việt Nam!\n\nTôi rất vui được chia sẻ với bạn đọc Việt Nam ước mơ, những điều đã làm được trong cuộc sống và công việc thông qua ấn bản tiếng Việt này. Tôi hy vọng tất cả các bạn sau khi đọc cuốn sách này sẽ ngộ ra con đường tốt nhất cho cuộc sống của mình.\n\nNúi Khao Yai, Thái Lan 17/11/2009\n\nVikrom Kromadit\n\nLỜI TÁC GIẢ\n\nN\năm 2003, nhân dịp sinh nhật lần thứ 50, tôi cho ra đời cuốn sách đầu tay \"Hãy làm người tốt\". Kể từ đó đến nay, tất cả các cuốn sách về sau của tôi đi cùng chủ đề này đều bán rất chạy với số lượng tổng cộng lên đến một triệu bản. Đây quả là một \"liều thuốc thần\" em lại cho tôi và tất cả những người có đóng góp cho cuốn sách niềm xúc động, hạnh phúc và tự hào, đồng thời là nguồn động viên tinh thần lớn lao đối với tôi trong việc truyền đến bạn đọc những điều bổ ích rút ra từ cuộc sống, sự hiểu biết và kinh nghiệm của bản thân tôi trong cả một quãng đời dài trước đó. Có thể xem đây như là một \"kim chỉ nam\" giúp bạn đọc đạt được mục tiêu trong cuộc sống như ước muốn của mình mà không bị lầm đường lạc lối như tôi.\n\nKhi trang cuối cùng của cuốn sách này hoàn thành, tôi vui mừng khôn tả, không phải chỉ vì mình đã hoàn thành được một công việc bấy lâu nay ấp ủ mà còn vì tôi sẽ có được một \"món quà\" quý giá để tặng bạn đọc, những người đã quan tâm theo dõi công việc của tôi trong suốt thời gian qua, và đã đáp lại bằng những tình cảm ấm áp qua hàng ngàn bức thư, điện thoại và vô số nụ cười dành cho tôi mỗi khi có dịp gặp mặt. Tôi thật sự xúc động khi Giám đốc Quan hệ Công chúng của Khách sạn Princess đem cuốn sách \"Hãy làm người tốt\" đến để tôi ký tên. Cuốn sách trông cũ kỹ và nhàu nát vì cô đã truyền tay cho tổng cộng 50 người bạn thay nhau đọc. Điều đó cho thấy cuốn sách nhỏ của tôi đã tỏ ra có ích cho nhiều người và giúp bạn đọc nhận ra giá trị của cuộc sống dựa vào tình yêu thương, sự rộng lượng, sự gắn bó đùm bọc trong gia đình nhằm xây dựng một cuộc sống tốt đẹp hơn.\n\nNếu như cuốn \"Hãy làm người tốt\" tập đầu tiên có thể xem là \"kim chỉ nam\" cho cuộc đời tôi thì cuốn \"Tay không gây dựng cơ đồ\", là \"cuốn sổ tay\" trên con đường hoạt động kinh doanh ghi chép rất nhiều những bài học mà nhờ đó tôi có được thành công như ngày nay. Tôi tin rằng nếu các bạn đem các nguyên tắc, lối tư duy, cách nhìn và các phương pháp được nêu trong cuốn sách này vận dụng vào công việc tổ chức và quản lý kinh doanh của mình, chắc chắn sẽ thu được nhiều lợi ích trong việc cắt giảm chi phí và định hướng kinh doanh hiệu quả hơn.\n\nSau cùng, tôi xin kính chúc tất cả bạn đọc đạt được những mục tiêu cao cả trong cuộc sống một cách bình an. Tất cả nội dung trong cuốn sách \"Tay không gây dựng cơ đồ\" này đều là những câu chuyện người thật việc thật mà chính bản thân tôi đã trải qua, do đó điều không thể tránh khỏi là nó có cả cái hay lẫn cái không hay đan xen nhau. Vì vậy tôi thành thật xin lỗi nếu có điều nào đó gây khó chịu cho những người có liên quan. Tôi cũng mong nhận được ý kiến phê bình góp ý của tất cả bạn đọc để bổ sung sửa chữa làm cho cuốn sách hoàn thiện hơn. Nếu thấy cuốn sách này bổ ích, mong bạn hãy truyền tay cho người khác cùng đọc để chia sẻ cùng họ.\n\nXin cám ơn.\n\n- Vikrom Kromadit"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11126_5/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Lời nhà xuất bản",
+      "progress": null,
+      "text": "LỜI NHÀ XUẤT BẢN\n\nC\nuốn sách \"Tay không gây dựng cơ đồ\" là tự truyện của tỷ phú người Thái Lan Vikrom Kromadit, được chấp bút bởi Prapassorn Sevikool.\n\nTừ một cậu bé quê mùa tỉnh lẻ ở Kanchanaburi, Vikrom Kromadit đã trở thành một doanh nhân nổi tiếng và thành đạt \" đến bất ngờ\". Ngay từ thuở nhỏ, cái khao khát \"trở thành ông chủ\" đã ngấm sâu trong máu thịt của ông. Dù có lúc trong túi chỉ còn vỏn vẹn 25 xu, Vikrom vẫn không ngừng khao khát tìm kiếm sự thành công trong kinh doanh và cơ hội trở thành một ông chủ, dù chỉ là \"ông chủ 25 xu\". Vikrom Kromadit không bao giờ từ bỏ ước mơ làm giàu của mình.\n\nVikrom bắt đầu sự nghiệp kinh doanh bằng việc mua đi bán lại các mặt hàng xuất khẩu, từ đồ trang sức, hàng mây tre cho đến bột sắn, cá hộp và sản xuất thức ăn gia súc. Nhờ \"ước mơ lớn\" của ông nên cộng đồng kinh doanh Thái Lan ngày nay mới có được \"Amata Nakorn\" (Thành phố Amata) cùng những khu công nghiệp lớn và hiện đại đặt tại Thái Lan và Việt Nam, với hơn 600 nhà máy của các nhà đầu tư đến từ 30 nước trên thế giới với số lao động đang làm việc vào khoảng 200.000 người.\n\nĐể trở thành CEO(*) của một tập đoàn danh tiếng - Amata Corporation Ltd. (Public) - như ngày nay, Vikrom đã phải trải qua không ít những thử thách, từng \"liều sống liều chết\" qua rất nhiều lần \"ấp trứng\", có lúc tưởng chừng như trắng tay, để cho ra đời những dự án kinh doanh đột phá nhằm xây dựng nên cơ nghiệp lớn lao của mình.\n\n* CEO - Chief Executive Officer: (Tổng) Giám đốc điều hành.\n\nNhững câu chuyện phong phú, đầy màu sắc với các tình tiết dồn dập, bộc lộ sự nhạy bén và khôn ngoan cùng những nước cờ \"cao tay\" trước các thủ đoạn diễn ra trong trò chơi kinh doanh làm cho cuốn sách này trở nên rất lý thú và bổ ích.\n\nĐiều gì đã làm cho Vikrom nhìn ra con đường thực hiện ước mơ của mình bằng cách thu hút vốn đầu tư nước ngoài thông qua việc xây dựng các khu công nghiệp? Cách xây dựng các mối quan hệ trong kinh doanh theo kiểu Vikrom là thế nào? Cần phải làm gì để có thể duy trì và nuôi dưỡng ước mơ mỗi khi gặp phải những khó khăn trở ngại trong hành trình đi đến thành công?\n\nCuốn sách này rất có ích cho những ai mang hoài bão trở thành chủ doanh nghiệp trong tương lai và những ai quan tâm tìm hiểu cách xây dựng mối quan hệ nhằm đạt được các mục tiêu trong kinh doanh của mình.\n\nVà trên hết, cuốn sách này sẽ giúp bạn thêm sức mạnh để tăng cường nghị lực nhằm vượt qua những thách thức trong cuộc sống của mình.\n\nXin chúc bạn đọc thành công.\n\n- NXB Bangkok Business, Bizbook"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11126_5/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Lời giới thiệu",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU\n\nT\nôi biết ông Vikrom Kromadit, Chủ tịch Tập đoàn Amata, Thái Lan, ngay từ đầu thập niên 1990, khi ông sang tìm hiểu cơ hội đầu tư tại Việt Nam. Lúc đó, tôi đang là Phó Chủ nhiệm Ủy ban Nhà nước về Hợp tác & Đầu tư (SCCI) – sau này là Bộ Kế hoạch và Đầu tư (MPI), kiêm Trưởng ban Quản lý các Khu chế xuất và Khu công nghiệp Thành phố Hồ Chí Minh. Sau khi Khu công nghiệp Amata (Việt Nam) thành lập cuối năm 1994 (Liên doanh với Công ty Sonadezi, Đồng Nai), tôi có dịp gặp gỡ ông Vikrom nhiều hơn qua công tác theo dõi và quản lý đầu tư nước ngoài tại phía Nam. Tôi đã theo dõi sát quá trình thành lập và hoạt động của Khu công nghiệp Amata (Việt Nam) cho đến khi tôi nghỉ hưu. Tôi cũng đã có dịp sang thăm các Khu công nghiệp Amata tại Thái Lan.\n\nTôi đã đọc cuốn tự truyện \"Tay không gây dựng cơ đồ\" của ông Vikrom Kromadit, do anh Vũ Tiến Phúc (nguyên là cán bộ phiên dịch tiếng Thái Lan của Bộ Ngoại giao Việt Nam) dịch ra tiếng Việt.\n\nTôi thấy đây là một cuốn sách hay. Bằng các trải nghiệm và những câu chuyện \"người thật việc thật\", tác giả nêu lên một chủ đề xuyên suốt là con người thì phải sống có ước mơ, dám ước mơ, và quyết tâm biến ước mơ thành sự thật, dù ở trong bất cứ hoàn cảnh khó khăn nào, \"còn sống là còn hy vọng\". Ông Vikrom còn nêu ra một thông điệp chung: làm giàu thì ai cũng muốn, nhưng phải làm giàu chính đáng bằng chính khả năng của mình và điều quan trọng là phải sống trung thực, kinh doanh có đạo đức, có trách nhiệm đối với xã hội, nên làm việc từ thiện, giúp đỡ những người kém may mắn, còn nghèo khó và cuối cùng là \"tri túc bất nhục\" – biết đến đâu thì dừng lại.\n\nTóm lại, cuốn sách của ông Vikrom Kromadit nêu ra một bài học quý về kinh nghiệm sống có mục đích và làm giàu có đạo lý, đáng để chúng ta tham khảo.\n\nTP. Hồ Chí Minh, 30/10/2009\n\n- Lữ Minh Châu\n\nNguyên Thống đốc Ngân hàng Nhà nước Việt Nam, Nguyên Phó Chủ nhiệm SCCI, nay là Bộ Kế hoạch và Đầu tư"
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11126_5/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Chương 1: Ông chủ 25 xu",
+      "progress": null,
+      "text": "Chương 1\nÔNG CHỦ 25 XU\n\nT\nôi không biết các doanh nhân thành đạt trên thế giới đã bắt đầu sự nghiệp của họ như thế nào, cần phải học ở trường nào ra, có những kinh nghiệm gì và phải là người được xã hội công nhận đến đâu, và điều quan trọng họ cần có bao nhiêu vốn liếng... riêng đối với tôi, dường như mọi thứ đều bắt đầu từ con số không.\n\nTôi vốn là một cậu bé quê mùa, thuở nhỏ không được học hành đến nơi đến chốn và trưởng thành tại thủ đô Bangkok. Tôi chưa từng trải qua trường lớp đào tạo nào về kinh doanh, cũng chẳng có kinh nghiệm làm việc trong một tổ chức thương mại chính thức nào, ngoại trừ những gì học được từ công việc của một tiểu thương nhỏ theo kiểu truyền thống tại tỉnh Kanchanaburi, mà nhờ đó tôi biết được cách thức mua đi bán lại kiếm ít đồng lãi còm cõi. Tôi chẳng có đồng vốn nào để đầu tư. Thậm chí, có ngày trong túi quần tôi chỉ còn vỏn vẹn 25 xu, nhưng trong túi áo sơ mi là cả xấp danh thiếp của các chủ hãng xuất nhập khẩu!\n\nThực ra, tôi cũng chẳng khác gì với phần lớn nam nữ thanh niên lúc bấy giờ, những người có ước mơ, hoài bão và muốn xây dựng cho mình một tương lai tốt đẹp, với nghề nghiệp ổn định, thu nhập cao và có một địa vị xã hội nhất định. Và, để đạt được mục tiêu đó, điều trước tiên là bạn phải học hành đến nơi đến chốn. Thú thật, trước khi tốt nghiệp cử nhân tại trường Đại học Đài Loan, tôi không hề có ý định trở lại Thái Lan, thậm chí còn muốn định cư ở nước ngoài vì thấy có nhiều cơ hội làm ăn tốt hơn. Ngoài ra, vào thời đó môi trường sống ở nước ngoài cũng tốt hơn ở Thái Lan rất nhiều, đặc biệt là không có chuyện lạm dụng quyền lực và tham nhũng như trong xã hội Thái. Hai tệ nạn này chẳng khác gì những con đỉa đói chuyên hút máu thịt của nhân dân và làm cho đất nước suy kiệt. Chúng là nguyên nhân làm cho tôi cảm thấy khó chịu mỗi khi quay trở lại Bangkok.\n\nTuổi trẻ thường hăng hái và không muốn ràng buộc với bất cứ điều gì, nên tôi đã nghĩ rằng mình sống ở đâu cũng được, miễn là ở đó mình cảm thấy hạnh phúc, dễ chịu. Tuy nhiên như đã nói, nấc thang đầu tiên đưa tôi đến với thế giới rộng lớn là việc học hành, càng học cao, như có bằng thạc sĩ tại các trường danh tiếng trên thế giới chẳng hạn, chắc chắn sẽ tạo nhiều điều kiện thuận lợi hơn để bước vào đời. Ngoài ra, học tập trong môi trường có nhiều người giỏi sẽ kích thích bản thân phải tự điều chỉnh, có nhiều quyết tâm hơn để thi đua với bạn bè xung quanh. Do không phải là người học giỏi bẩm sinh, nên dù đã gửi đơn xin học bổng tại các trường danh tiếng như Berkeley, Yale, MIT hay Stanford... chẳng nơi nào nhận tôi cả, có lẽ vì kết quả học tập của tôi chưa đáp ứng yêu cầu của họ.\n\nDo mê ngành hàng không và ước mơ trở thành phi công từ thời niên thiếu, và vì muốn tránh cạnh tranh quyết liệt trong ngành cơ khí có quá nhiều thí sinh tham gia nên tôi dự định sẽ học tiếp ngành kỹ thuật hàng không tại Đại học Toronto, Canada. Lúc đó chưa có nhiều người quan tâm học ngành này. Nhưng khi nhận được thư của trường trả lời đồng ý tiếp nhận với điều kiện tôi phải tự túc chứ không có học bổng, tôi đã nhụt chí. Năm 1976, học phí mỗi năm vào khoảng 20.000 đô-la Canada, tức khoảng 400.000 bạt Thái, trong khi toàn bộ gia tài của tôi chỉ có 40.000 đô-la Đài Loan, tức chỉ vào khoảng 20.000 bạt mà thôi. Vì không đủ tiền để học tiếp nên tôi đành gác lại việc học, nhưng vẫn tâm niệm sẽ cố gắng tìm việc làm và tiết kiệm cho đến khi có đủ tiền học tiếp.\n\nTuy nhiên việc kinh doanh tại đất khách quê người không phải là điều đơn giản, nhất là khi bạn không quen biết ai, không có chỗ dựa tài chính và các vấn đề khác. Phần lớn những người tôi quen biết tại Đài Loan đều là bạn học cũ. Đối với bạn hàng, vì chưa quen thân nên tôi không dám đặt vấn đề nhờ họ giúp đỡ. Cái tính không muốn làm phiền ai của tôi có thể là do từ nhỏ tôi làm việc trong nhà theo lệnh của bố. Khi bố ra lệnh tôi chỉ có một việc là làm cho xong mà không được hỏi ý kiến hay nhờ bố giúp đỡ. Điều đó cũng có cái hay là tôi được dạy cách tự mình giải quyết vấn đề, không bỏ dở công việc, bám việc cho đến khi làm xong mới thôi.\n\nVì không tìm được người đỡ đầu tại Đài Loan, và cũng do có lời ngỏ ý từ một người bạn của bố tôi mời về giúp thành lập nhà máy sản xuất bột giấy tại tỉnh Kanchanaburi nên tôi đã không do dự sắp xếp ngay hành lý trở về Thái Lan, với suy nghĩ lúc đó là sẽ cố gắng làm việc trong vòng hai, ba năm để dành dụm đủ tiền sang Canada học tiếp mà không mảy may chuẩn bị trước tâm thế sẽ gặp phải thất bại sau đó.\n\nTại Bangkok, lúc đó tôi chỉ có một người thân là bác Hiêng, chị gái của bố tôi, là người tôi quý trọng như mẹ đẻ của mình. Tôi chơi với các anh chị con của bác Hiêng từ nhỏ nên không gặp khó khăn gì trong việc chung sống như thành viên trong gia đình dưới một mái nhà. Nhà bác Hiêng nằm tại dãy phố bốn tầng tại Klong san, Chonburi bên kia sông đối diện với nội thành Bangkok. Tôi được gia đình bác cho ở một mình cả tầng ba, có căn phòng riêng mà tôi xem là một tổ ấm nho nhỏ, gọn gàng sạch sẽ trong một ngôi nhà đầy tình thương yêu và hạnh phúc. Một kỷ niệm đẹp suốt đời tôi sẽ không bao giờ quên.\n\nSau đó, tôi còn xin phép dùng căn nhà của bác Hiêng làm trụ sở Công ty V&K Enterprise, Ltd. – tên viết tắt của tôi, Vikrom và cô bạn gái Kelly, người Đài Loan. Vốn đăng ký của công ty chỉ là 250.000 bạt, vốn chủ sở hữu chỉ chiếm 25% nhờ số tiền tôi vay của mẹ tôi và chị Tu, con gái của bác tôi, làm nghề bán rau quả tại chợ. Tôi gửi tiền tại chi nhánh ngân hàng Bank of American tại phố Suravông với lãi suất 3%. Hôm đến mở tài khoản, cô nhân viên ngân hàng niềm nở đón tiếp tôi lại còn nói đùa rằng một ngày nào đó cô sẽ đến công ty xin làm một chân nhân viên khiến lòng tôi xốn xang và thầm nghĩ sự nghiệp làm ông chủ của mình sắp tỏa sáng đến nơi.\n\nĐể xứng danh ông chủ, tôi cần có danh thiếp. Thế là tôi đặt in thiếp với chức vụ Giám đốc Công ty V&K, với lô-gô hình bông lúa và chiếc xẻng quyện vào nhau, biểu trưng cho ngành kinh doanh xuất nhập khẩu hàng nông sản và khoáng sản. Lý do tôi chọn ngành này trước hết là vì ít nhiều tôi có làm quen với công việc này khi còn là sinh viên, thứ hai là vì tôi không có nhiều vốn liếng để đầu tư vào ngành khác. Việc làm đại lý xuất nhập khẩu rất thích hợp với hoàn cảnh của tôi lúc đó.\n\nMỗi buổi sáng trước khi rời khỏi nhà bác Hiêng, tôi phải \"nạp\" đầy đủ năng lượng bằng cách ăn thật no để làm việc đến giữa trưa. Món ăn sáng ưa thích nhất của tôi là cơm đĩa, vừa rẻ vừa no lâu hơn ăn hủ tiếu mì.\n\nTôi dùng phần lớn thời gian trong ngày để tìm kiếm khách hàng bằng cách liên hệ xin tài liệu từ các đại sứ quán, phòng thương mại và các cửa hàng với phương tiện đi lại chủ yếu là đôi chân. Đôi giày tôi đi mòn đế phải đem sửa nhiều lần, đến nỗi người thợ sửa giày lắc đầu ngao ngán vì không thể sửa thêm nữa. Còn chiếc quần tây tôi mặc từ thời sinh viên vẫn còn dùng được mặc dù trông không bảnh bao cho lắm. Mỗi tối khi trở về nhà tôi lao vào bàn ăn ngấu nghiến bất kể thứ gì bác Hiêng dọn sẵn vì đói bụng. Sau đó, tôi giúp bác trai viết thư và ra bưu điện để ánh điện tín gởi cho các khách hàng của bác tôi, gần như tối nào cũng vậy.\n\nBa, bốn tháng trôi qua mà công việc kinh doanh của tôi chưa có dấu hiệu tiến triển, trong khi số tiền dành dụm trong thời gian tôi ở Đài Loan cứ vơi dần. Đến tháng thứ tư, trong túi tôi chỉ còn lại 10 bạt, tôi không dám mở miệng hỏi vay bác gái vì bác đã cưu mang cho ăn ở đã là quá tốt rồi. Hôm đó tôi lang thang ở khu vòng xoay Odian suốt cả ngày mà quên khuấy rằng trong túi chỉ còn có 10 bạt. Sau khi trả tiền cơm trưa, tôi còn đúng 25 xu, vừa đủ tiền đi phà qua sông Chaopraya để về nhà. Nhưng đoạn đường từ vòng xoay Odian đến bến phà Sipraya lại khá xa. Lúc đầu tôi tính cuốc bộ, nhưng nghĩ lại thấy quãng đường khá xa, cộng với cảm giác mệt nhọc sau cả ngày lang thang trên phố nên tôi quyết định đi \"lậu vé\" xe buýt. Nếu người bán vé đứng cửa trước, tôi sẽ nhảy lên xe qua cửa sau và lẩn nhanh vào giữa khoang. Nếu người bán vé nhằm đến tôi, tôi sẽ nhảy xuống đường rồi chờ đi xe khác. Thật chẳng biết, phải làm sao khi mà trong túi chỉ còn 25 xu, số tiền chỉ vừa đủ để đi phà qua sông. Sau khi mua vé phà, tôi không còn một xu dính túi, nhưng lòng tràn đầy quyết tâm kiếm tiền bằng được để có thể đi học tiếp."
+    }
+  ],
+  "full_text": "Mục lục\nLời tác giả\nLời nhà xuất bản\nLời giới thiệu\nChương 1: Ông chủ 25 xu\nChương 2: Theo uổi ước mơ đến cùng\nChương 3: Cưỡng lại số phận\nChương 4: Bình minh\nChương 5: Dự lễ khánh thành cao ốc Ngân hàng Bangkok\nChương 6: Chiếc xe hơi đúng nghĩa đầu tiên\nChương 7: Bài học kinh nghiệm Paul Krampe\nChương 8: Trời quang mây tạnh\nChương 9: Phần thưởng dành cho người dám ước mơ\nChương 10: Mùa bão tố\nChương 11: Đường đời\nChương 12: Gió đổi chiều\nChương 13: Một bước tiến xa\nChương 14: Cổ đông mới\nChương 15: Người bán hàng xuất sắc\nChương 16: Vươn ra thế giới\nChương 17: Khủng hoảng kinh tế\nChương 18: Phát triển bền vững\nChương 19: Xuất xứ các tên gọi\nChương 20: Giấc mơ chờ ngày thành hiện thực\nChương 21: Dục vọng của con người\nChương 22: Hướng đến sự trường tồn\nChương 23: Dòng máu Amata\nChương 24: Nếp sống tề gia\nChương 25: Mạnh thường quân\nChương 26: Quan hệ công chúng\nChương 27: Công việc khó khăn nhất\nChương 28: Sự đầu tư quan trọng\nChương 29: Amata được tự do\nChương 30: Thành phố Amata\nChương 31: Tôi sẽ không làm ông chủ nữa\nChương 32: Tính kỷ luật\nChương 33: Tri túc bất nhục\nChú thích\n\nLời tác giả gửi bạn đọc Việt Nam\n\nGửi bạn đọc Việt Nam!\n\nTôi rất vui được chia sẻ với bạn đọc Việt Nam ước mơ, những điều đã làm được trong cuộc sống và công việc thông qua ấn bản tiếng Việt này. Tôi hy vọng tất cả các bạn sau khi đọc cuốn sách này sẽ ngộ ra con đường tốt nhất cho cuộc sống của mình.\n\nNúi Khao Yai, Thái Lan 17/11/2009\n\nVikrom Kromadit\n\nLỜI TÁC GIẢ\n\nN\năm 2003, nhân dịp sinh nhật lần thứ 50, tôi cho ra đời cuốn sách đầu tay \"Hãy làm người tốt\". Kể từ đó đến nay, tất cả các cuốn sách về sau của tôi đi cùng chủ đề này đều bán rất chạy với số lượng tổng cộng lên đến một triệu bản. Đây quả là một \"liều thuốc thần\" em lại cho tôi và tất cả những người có đóng góp cho cuốn sách niềm xúc động, hạnh phúc và tự hào, đồng thời là nguồn động viên tinh thần lớn lao đối với tôi trong việc truyền đến bạn đọc những điều bổ ích rút ra từ cuộc sống, sự hiểu biết và kinh nghiệm của bản thân tôi trong cả một quãng đời dài trước đó. Có thể xem đây như là một \"kim chỉ nam\" giúp bạn đọc đạt được mục tiêu trong cuộc sống như ước muốn của mình mà không bị lầm đường lạc lối như tôi.\n\nKhi trang cuối cùng của cuốn sách này hoàn thành, tôi vui mừng khôn tả, không phải chỉ vì mình đã hoàn thành được một công việc bấy lâu nay ấp ủ mà còn vì tôi sẽ có được một \"món quà\" quý giá để tặng bạn đọc, những người đã quan tâm theo dõi công việc của tôi trong suốt thời gian qua, và đã đáp lại bằng những tình cảm ấm áp qua hàng ngàn bức thư, điện thoại và vô số nụ cười dành cho tôi mỗi khi có dịp gặp mặt. Tôi thật sự xúc động khi Giám đốc Quan hệ Công chúng của Khách sạn Princess đem cuốn sách \"Hãy làm người tốt\" đến để tôi ký tên. Cuốn sách trông cũ kỹ và nhàu nát vì cô đã truyền tay cho tổng cộng 50 người bạn thay nhau đọc. Điều đó cho thấy cuốn sách nhỏ của tôi đã tỏ ra có ích cho nhiều người và giúp bạn đọc nhận ra giá trị của cuộc sống dựa vào tình yêu thương, sự rộng lượng, sự gắn bó đùm bọc trong gia đình nhằm xây dựng một cuộc sống tốt đẹp hơn.\n\nNếu như cuốn \"Hãy làm người tốt\" tập đầu tiên có thể xem là \"kim chỉ nam\" cho cuộc đời tôi thì cuốn \"Tay không gây dựng cơ đồ\", là \"cuốn sổ tay\" trên con đường hoạt động kinh doanh ghi chép rất nhiều những bài học mà nhờ đó tôi có được thành công như ngày nay. Tôi tin rằng nếu các bạn đem các nguyên tắc, lối tư duy, cách nhìn và các phương pháp được nêu trong cuốn sách này vận dụng vào công việc tổ chức và quản lý kinh doanh của mình, chắc chắn sẽ thu được nhiều lợi ích trong việc cắt giảm chi phí và định hướng kinh doanh hiệu quả hơn.\n\nSau cùng, tôi xin kính chúc tất cả bạn đọc đạt được những mục tiêu cao cả trong cuộc sống một cách bình an. Tất cả nội dung trong cuốn sách \"Tay không gây dựng cơ đồ\" này đều là những câu chuyện người thật việc thật mà chính bản thân tôi đã trải qua, do đó điều không thể tránh khỏi là nó có cả cái hay lẫn cái không hay đan xen nhau. Vì vậy tôi thành thật xin lỗi nếu có điều nào đó gây khó chịu cho những người có liên quan. Tôi cũng mong nhận được ý kiến phê bình góp ý của tất cả bạn đọc để bổ sung sửa chữa làm cho cuốn sách hoàn thiện hơn. Nếu thấy cuốn sách này bổ ích, mong bạn hãy truyền tay cho người khác cùng đọc để chia sẻ cùng họ.\n\nXin cám ơn.\n\n- Vikrom Kromadit\n\nLỜI NHÀ XUẤT BẢN\n\nC\nuốn sách \"Tay không gây dựng cơ đồ\" là tự truyện của tỷ phú người Thái Lan Vikrom Kromadit, được chấp bút bởi Prapassorn Sevikool.\n\nTừ một cậu bé quê mùa tỉnh lẻ ở Kanchanaburi, Vikrom Kromadit đã trở thành một doanh nhân nổi tiếng và thành đạt \" đến bất ngờ\". Ngay từ thuở nhỏ, cái khao khát \"trở thành ông chủ\" đã ngấm sâu trong máu thịt của ông. Dù có lúc trong túi chỉ còn vỏn vẹn 25 xu, Vikrom vẫn không ngừng khao khát tìm kiếm sự thành công trong kinh doanh và cơ hội trở thành một ông chủ, dù chỉ là \"ông chủ 25 xu\". Vikrom Kromadit không bao giờ từ bỏ ước mơ làm giàu của mình.\n\nVikrom bắt đầu sự nghiệp kinh doanh bằng việc mua đi bán lại các mặt hàng xuất khẩu, từ đồ trang sức, hàng mây tre cho đến bột sắn, cá hộp và sản xuất thức ăn gia súc. Nhờ \"ước mơ lớn\" của ông nên cộng đồng kinh doanh Thái Lan ngày nay mới có được \"Amata Nakorn\" (Thành phố Amata) cùng những khu công nghiệp lớn và hiện đại đặt tại Thái Lan và Việt Nam, với hơn 600 nhà máy của các nhà đầu tư đến từ 30 nước trên thế giới với số lao động đang làm việc vào khoảng 200.000 người.\n\nĐể trở thành CEO(*) của một tập đoàn danh tiếng - Amata Corporation Ltd. (Public) - như ngày nay, Vikrom đã phải trải qua không ít những thử thách, từng \"liều sống liều chết\" qua rất nhiều lần \"ấp trứng\", có lúc tưởng chừng như trắng tay, để cho ra đời những dự án kinh doanh đột phá nhằm xây dựng nên cơ nghiệp lớn lao của mình.\n\n* CEO - Chief Executive Officer: (Tổng) Giám đốc điều hành.\n\nNhững câu chuyện phong phú, đầy màu sắc với các tình tiết dồn dập, bộc lộ sự nhạy bén và khôn ngoan cùng những nước cờ \"cao tay\" trước các thủ đoạn diễn ra trong trò chơi kinh doanh làm cho cuốn sách này trở nên rất lý thú và bổ ích.\n\nĐiều gì đã làm cho Vikrom nhìn ra con đường thực hiện ước mơ của mình bằng cách thu hút vốn đầu tư nước ngoài thông qua việc xây dựng các khu công nghiệp? Cách xây dựng các mối quan hệ trong kinh doanh theo kiểu Vikrom là thế nào? Cần phải làm gì để có thể duy trì và nuôi dưỡng ước mơ mỗi khi gặp phải những khó khăn trở ngại trong hành trình đi đến thành công?\n\nCuốn sách này rất có ích cho những ai mang hoài bão trở thành chủ doanh nghiệp trong tương lai và những ai quan tâm tìm hiểu cách xây dựng mối quan hệ nhằm đạt được các mục tiêu trong kinh doanh của mình.\n\nVà trên hết, cuốn sách này sẽ giúp bạn thêm sức mạnh để tăng cường nghị lực nhằm vượt qua những thách thức trong cuộc sống của mình.\n\nXin chúc bạn đọc thành công.\n\n- NXB Bangkok Business, Bizbook\n\nLỜI GIỚI THIỆU\n\nT\nôi biết ông Vikrom Kromadit, Chủ tịch Tập đoàn Amata, Thái Lan, ngay từ đầu thập niên 1990, khi ông sang tìm hiểu cơ hội đầu tư tại Việt Nam. Lúc đó, tôi đang là Phó Chủ nhiệm Ủy ban Nhà nước về Hợp tác & Đầu tư (SCCI) – sau này là Bộ Kế hoạch và Đầu tư (MPI), kiêm Trưởng ban Quản lý các Khu chế xuất và Khu công nghiệp Thành phố Hồ Chí Minh. Sau khi Khu công nghiệp Amata (Việt Nam) thành lập cuối năm 1994 (Liên doanh với Công ty Sonadezi, Đồng Nai), tôi có dịp gặp gỡ ông Vikrom nhiều hơn qua công tác theo dõi và quản lý đầu tư nước ngoài tại phía Nam. Tôi đã theo dõi sát quá trình thành lập và hoạt động của Khu công nghiệp Amata (Việt Nam) cho đến khi tôi nghỉ hưu. Tôi cũng đã có dịp sang thăm các Khu công nghiệp Amata tại Thái Lan.\n\nTôi đã đọc cuốn tự truyện \"Tay không gây dựng cơ đồ\" của ông Vikrom Kromadit, do anh Vũ Tiến Phúc (nguyên là cán bộ phiên dịch tiếng Thái Lan của Bộ Ngoại giao Việt Nam) dịch ra tiếng Việt.\n\nTôi thấy đây là một cuốn sách hay. Bằng các trải nghiệm và những câu chuyện \"người thật việc thật\", tác giả nêu lên một chủ đề xuyên suốt là con người thì phải sống có ước mơ, dám ước mơ, và quyết tâm biến ước mơ thành sự thật, dù ở trong bất cứ hoàn cảnh khó khăn nào, \"còn sống là còn hy vọng\". Ông Vikrom còn nêu ra một thông điệp chung: làm giàu thì ai cũng muốn, nhưng phải làm giàu chính đáng bằng chính khả năng của mình và điều quan trọng là phải sống trung thực, kinh doanh có đạo đức, có trách nhiệm đối với xã hội, nên làm việc từ thiện, giúp đỡ những người kém may mắn, còn nghèo khó và cuối cùng là \"tri túc bất nhục\" – biết đến đâu thì dừng lại.\n\nTóm lại, cuốn sách của ông Vikrom Kromadit nêu ra một bài học quý về kinh nghiệm sống có mục đích và làm giàu có đạo lý, đáng để chúng ta tham khảo.\n\nTP. Hồ Chí Minh, 30/10/2009\n\n- Lữ Minh Châu\n\nNguyên Thống đốc Ngân hàng Nhà nước Việt Nam, Nguyên Phó Chủ nhiệm SCCI, nay là Bộ Kế hoạch và Đầu tư\n\nChương 1\nÔNG CHỦ 25 XU\n\nT\nôi không biết các doanh nhân thành đạt trên thế giới đã bắt đầu sự nghiệp của họ như thế nào, cần phải học ở trường nào ra, có những kinh nghiệm gì và phải là người được xã hội công nhận đến đâu, và điều quan trọng họ cần có bao nhiêu vốn liếng... riêng đối với tôi, dường như mọi thứ đều bắt đầu từ con số không.\n\nTôi vốn là một cậu bé quê mùa, thuở nhỏ không được học hành đến nơi đến chốn và trưởng thành tại thủ đô Bangkok. Tôi chưa từng trải qua trường lớp đào tạo nào về kinh doanh, cũng chẳng có kinh nghiệm làm việc trong một tổ chức thương mại chính thức nào, ngoại trừ những gì học được từ công việc của một tiểu thương nhỏ theo kiểu truyền thống tại tỉnh Kanchanaburi, mà nhờ đó tôi biết được cách thức mua đi bán lại kiếm ít đồng lãi còm cõi. Tôi chẳng có đồng vốn nào để đầu tư. Thậm chí, có ngày trong túi quần tôi chỉ còn vỏn vẹn 25 xu, nhưng trong túi áo sơ mi là cả xấp danh thiếp của các chủ hãng xuất nhập khẩu!\n\nThực ra, tôi cũng chẳng khác gì với phần lớn nam nữ thanh niên lúc bấy giờ, những người có ước mơ, hoài bão và muốn xây dựng cho mình một tương lai tốt đẹp, với nghề nghiệp ổn định, thu nhập cao và có một địa vị xã hội nhất định. Và, để đạt được mục tiêu đó, điều trước tiên là bạn phải học hành đến nơi đến chốn. Thú thật, trước khi tốt nghiệp cử nhân tại trường Đại học Đài Loan, tôi không hề có ý định trở lại Thái Lan, thậm chí còn muốn định cư ở nước ngoài vì thấy có nhiều cơ hội làm ăn tốt hơn. Ngoài ra, vào thời đó môi trường sống ở nước ngoài cũng tốt hơn ở Thái Lan rất nhiều, đặc biệt là không có chuyện lạm dụng quyền lực và tham nhũng như trong xã hội Thái. Hai tệ nạn này chẳng khác gì những con đỉa đói chuyên hút máu thịt của nhân dân và làm cho đất nước suy kiệt. Chúng là nguyên nhân làm cho tôi cảm thấy khó chịu mỗi khi quay trở lại Bangkok.\n\nTuổi trẻ thường hăng hái và không muốn ràng buộc với bất cứ điều gì, nên tôi đã nghĩ rằng mình sống ở đâu cũng được, miễn là ở đó mình cảm thấy hạnh phúc, dễ chịu. Tuy nhiên như đã nói, nấc thang đầu tiên đưa tôi đến với thế giới rộng lớn là việc học hành, càng học cao, như có bằng thạc sĩ tại các trường danh tiếng trên thế giới chẳng hạn, chắc chắn sẽ tạo nhiều điều kiện thuận lợi hơn để bước vào đời. Ngoài ra, học tập trong môi trường có nhiều người giỏi sẽ kích thích bản thân phải tự điều chỉnh, có nhiều quyết tâm hơn để thi đua với bạn bè xung quanh. Do không phải là người học giỏi bẩm sinh, nên dù đã gửi đơn xin học bổng tại các trường danh tiếng như Berkeley, Yale, MIT hay Stanford... chẳng nơi nào nhận tôi cả, có lẽ vì kết quả học tập của tôi chưa đáp ứng yêu cầu của họ.\n\nDo mê ngành hàng không và ước mơ trở thành phi công từ thời niên thiếu, và vì muốn tránh cạnh tranh quyết liệt trong ngành cơ khí có quá nhiều thí sinh tham gia nên tôi dự định sẽ học tiếp ngành kỹ thuật hàng không tại Đại học Toronto, Canada. Lúc đó chưa có nhiều người quan tâm học ngành này. Nhưng khi nhận được thư của trường trả lời đồng ý tiếp nhận với điều kiện tôi phải tự túc chứ không có học bổng, tôi đã nhụt chí. Năm 1976, học phí mỗi năm vào khoảng 20.000 đô-la Canada, tức khoảng 400.000 bạt Thái, trong khi toàn bộ gia tài của tôi chỉ có 40.000 đô-la Đài Loan, tức chỉ vào khoảng 20.000 bạt mà thôi. Vì không đủ tiền để học tiếp nên tôi đành gác lại việc học, nhưng vẫn tâm niệm sẽ cố gắng tìm việc làm và tiết kiệm cho đến khi có đủ tiền học tiếp.\n\nTuy nhiên việc kinh doanh tại đất khách quê người không phải là điều đơn giản, nhất là khi bạn không quen biết ai, không có chỗ dựa tài chính và các vấn đề khác. Phần lớn những người tôi quen biết tại Đài Loan đều là bạn học cũ. Đối với bạn hàng, vì chưa quen thân nên tôi không dám đặt vấn đề nhờ họ giúp đỡ. Cái tính không muốn làm phiền ai của tôi có thể là do từ nhỏ tôi làm việc trong nhà theo lệnh của bố. Khi bố ra lệnh tôi chỉ có một việc là làm cho xong mà không được hỏi ý kiến hay nhờ bố giúp đỡ. Điều đó cũng có cái hay là tôi được dạy cách tự mình giải quyết vấn đề, không bỏ dở công việc, bám việc cho đến khi làm xong mới thôi.\n\nVì không tìm được người đỡ đầu tại Đài Loan, và cũng do có lời ngỏ ý từ một người bạn của bố tôi mời về giúp thành lập nhà máy sản xuất bột giấy tại tỉnh Kanchanaburi nên tôi đã không do dự sắp xếp ngay hành lý trở về Thái Lan, với suy nghĩ lúc đó là sẽ cố gắng làm việc trong vòng hai, ba năm để dành dụm đủ tiền sang Canada học tiếp mà không mảy may chuẩn bị trước tâm thế sẽ gặp phải thất bại sau đó.\n\nTại Bangkok, lúc đó tôi chỉ có một người thân là bác Hiêng, chị gái của bố tôi, là người tôi quý trọng như mẹ đẻ của mình. Tôi chơi với các anh chị con của bác Hiêng từ nhỏ nên không gặp khó khăn gì trong việc chung sống như thành viên trong gia đình dưới một mái nhà. Nhà bác Hiêng nằm tại dãy phố bốn tầng tại Klong san, Chonburi bên kia sông đối diện với nội thành Bangkok. Tôi được gia đình bác cho ở một mình cả tầng ba, có căn phòng riêng mà tôi xem là một tổ ấm nho nhỏ, gọn gàng sạch sẽ trong một ngôi nhà đầy tình thương yêu và hạnh phúc. Một kỷ niệm đẹp suốt đời tôi sẽ không bao giờ quên.\n\nSau đó, tôi còn xin phép dùng căn nhà của bác Hiêng làm trụ sở Công ty V&K Enterprise, Ltd. – tên viết tắt của tôi, Vikrom và cô bạn gái Kelly, người Đài Loan. Vốn đăng ký của công ty chỉ là 250.000 bạt, vốn chủ sở hữu chỉ chiếm 25% nhờ số tiền tôi vay của mẹ tôi và chị Tu, con gái của bác tôi, làm nghề bán rau quả tại chợ. Tôi gửi tiền tại chi nhánh ngân hàng Bank of American tại phố Suravông với lãi suất 3%. Hôm đến mở tài khoản, cô nhân viên ngân hàng niềm nở đón tiếp tôi lại còn nói đùa rằng một ngày nào đó cô sẽ đến công ty xin làm một chân nhân viên khiến lòng tôi xốn xang và thầm nghĩ sự nghiệp làm ông chủ của mình sắp tỏa sáng đến nơi.\n\nĐể xứng danh ông chủ, tôi cần có danh thiếp. Thế là tôi đặt in thiếp với chức vụ Giám đốc Công ty V&K, với lô-gô hình bông lúa và chiếc xẻng quyện vào nhau, biểu trưng cho ngành kinh doanh xuất nhập khẩu hàng nông sản và khoáng sản. Lý do tôi chọn ngành này trước hết là vì ít nhiều tôi có làm quen với công việc này khi còn là sinh viên, thứ hai là vì tôi không có nhiều vốn liếng để đầu tư vào ngành khác. Việc làm đại lý xuất nhập khẩu rất thích hợp với hoàn cảnh của tôi lúc đó.\n\nMỗi buổi sáng trước khi rời khỏi nhà bác Hiêng, tôi phải \"nạp\" đầy đủ năng lượng bằng cách ăn thật no để làm việc đến giữa trưa. Món ăn sáng ưa thích nhất của tôi là cơm đĩa, vừa rẻ vừa no lâu hơn ăn hủ tiếu mì.\n\nTôi dùng phần lớn thời gian trong ngày để tìm kiếm khách hàng bằng cách liên hệ xin tài liệu từ các đại sứ quán, phòng thương mại và các cửa hàng với phương tiện đi lại chủ yếu là đôi chân. Đôi giày tôi đi mòn đế phải đem sửa nhiều lần, đến nỗi người thợ sửa giày lắc đầu ngao ngán vì không thể sửa thêm nữa. Còn chiếc quần tây tôi mặc từ thời sinh viên vẫn còn dùng được mặc dù trông không bảnh bao cho lắm. Mỗi tối khi trở về nhà tôi lao vào bàn ăn ngấu nghiến bất kể thứ gì bác Hiêng dọn sẵn vì đói bụng. Sau đó, tôi giúp bác trai viết thư và ra bưu điện để ánh điện tín gởi cho các khách hàng của bác tôi, gần như tối nào cũng vậy.\n\nBa, bốn tháng trôi qua mà công việc kinh doanh của tôi chưa có dấu hiệu tiến triển, trong khi số tiền dành dụm trong thời gian tôi ở Đài Loan cứ vơi dần. Đến tháng thứ tư, trong túi tôi chỉ còn lại 10 bạt, tôi không dám mở miệng hỏi vay bác gái vì bác đã cưu mang cho ăn ở đã là quá tốt rồi. Hôm đó tôi lang thang ở khu vòng xoay Odian suốt cả ngày mà quên khuấy rằng trong túi chỉ còn có 10 bạt. Sau khi trả tiền cơm trưa, tôi còn đúng 25 xu, vừa đủ tiền đi phà qua sông Chaopraya để về nhà. Nhưng đoạn đường từ vòng xoay Odian đến bến phà Sipraya lại khá xa. Lúc đầu tôi tính cuốc bộ, nhưng nghĩ lại thấy quãng đường khá xa, cộng với cảm giác mệt nhọc sau cả ngày lang thang trên phố nên tôi quyết định đi \"lậu vé\" xe buýt. Nếu người bán vé đứng cửa trước, tôi sẽ nhảy lên xe qua cửa sau và lẩn nhanh vào giữa khoang. Nếu người bán vé nhằm đến tôi, tôi sẽ nhảy xuống đường rồi chờ đi xe khác. Thật chẳng biết, phải làm sao khi mà trong túi chỉ còn 25 xu, số tiền chỉ vừa đủ để đi phà qua sông. Sau khi mua vé phà, tôi không còn một xu dính túi, nhưng lòng tràn đầy quyết tâm kiếm tiền bằng được để có thể đi học tiếp."
+}

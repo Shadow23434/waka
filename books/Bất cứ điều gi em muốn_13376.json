@@ -1,0 +1,193 @@
+{
+  "item_id": 13376,
+  "title": "Bất cứ điều gi em muốn",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:22:41.004Z",
+  "input_book": {
+    "id": 13376,
+    "title": "Bất cứ điều gi em muốn",
+    "price": 0,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13376.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Mitch Peabody nhanh ch&oacute;ng nhận ra rằng cuộc đời của một th&aacute;m tử tư chẳng giống những g&igrave; diễn ra trong phim ảnh ch&uacute;t n&agrave;o. Từ đầu đến cuối, anh gặp phải hết vụ n&agrave;y đến vụ kh&aacute;c n&oacute;i về những g&atilde; chồng lừa dối, những c&ocirc; vợ đ&aacute;ng ngờ v&agrave; những c&ocirc; nh&acirc;n t&igrave;nh khờ khạo&hellip; cho đến khi c&ocirc; bước qua c&aacute;nh cửa.</p>\r\n<p>Từ đầu đến ch&acirc;n, Mae Sullivan thực sự bốc lửa với một th&acirc;n h&igrave;nh chết người &ndash; v&agrave; k&egrave;m theo đ&oacute; l&agrave; một gia đ&igrave;nh bất hạnh. C&oacute; một điều g&igrave; đ&oacute; kh&ocirc;ng ho&agrave;n to&agrave;n trung thực ở c&ocirc; ta, nhưng c&ocirc; ta đem đến một vụ &aacute;n m&agrave; anh kh&ocirc;ng thể n&agrave;o chối từ&hellip; v&agrave; để lại trong anh một cơn kh&aacute;t t&igrave;nh m&agrave; anh chưa từng c&oacute; kể từ thời trung học. Nhưng liệu c&oacute; phải Mae chỉ quan t&acirc;m đến việc bắt được kẻ lừa đảo phản bội đ&atilde; giết &ocirc;ng của m&igrave;nh&hellip; hay qu&yacute; c&ocirc; đ&oacute; muốn bắt ch&iacute;nh con người anh?</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5960",
+        "name": "Jennifer Crusie"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 02:59:51",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13376,
+      "title": "Bất cứ điều gi em muốn",
+      "content_type": "book",
+      "our_price": 0,
+      "price": 0,
+      "description": "<p>Mitch Peabody nhanh ch&oacute;ng nhận ra rằng cuộc đời của một th&aacute;m tử tư chẳng giống những g&igrave; diễn ra trong phim ảnh ch&uacute;t n&agrave;o. Từ đầu đến cuối, anh gặp phải hết vụ n&agrave;y đến vụ kh&aacute;c n&oacute;i về những g&atilde; chồng lừa dối, những c&ocirc; vợ đ&aacute;ng ngờ v&agrave; những c&ocirc; nh&acirc;n t&igrave;nh khờ khạo&hellip; cho đến khi c&ocirc; bước qua c&aacute;nh cửa.</p>\r\n<p>Từ đầu đến ch&acirc;n, Mae Sullivan thực sự bốc lửa với một th&acirc;n h&igrave;nh chết người &ndash; v&agrave; k&egrave;m theo đ&oacute; l&agrave; một gia đ&igrave;nh bất hạnh. C&oacute; một điều g&igrave; đ&oacute; kh&ocirc;ng ho&agrave;n to&agrave;n trung thực ở c&ocirc; ta, nhưng c&ocirc; ta đem đến một vụ &aacute;n m&agrave; anh kh&ocirc;ng thể n&agrave;o chối từ&hellip; v&agrave; để lại trong anh một cơn kh&aacute;t t&igrave;nh m&agrave; anh chưa từng c&oacute; kể từ thời trung học. Nhưng liệu c&oacute; phải Mae chỉ quan t&acirc;m đến việc bắt được kẻ lừa đảo phản bội đ&atilde; giết &ocirc;ng của m&igrave;nh&hellip; hay qu&yacute; c&ocirc; đ&oacute; muốn bắt ch&iacute;nh con người anh?</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 0,
+      "published_time": "01/03/2012",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/bat-cu-dieu-gi-em-muon-jennifer-crusie-bWEaQW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/bat-cu-dieu-gi-em-muon-jennifer-crusie-bWEaQW.html?std=type%3D1%26data%3D13376%26title%3DB%25E1%25BA%25A5t%2Bc%25E1%25BB%25A9%2B%25C4%2591i%25E1%25BB%2581u%2Bgi%2Bem%2Bmu%25E1%25BB%2591n%26mini_app%3D1&type=1&data=13376&title=B%E1%BA%A5t+c%E1%BB%A9+%C4%91i%E1%BB%81u+gi+em+mu%E1%BB%91n&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "8",
+          "name": "NXB Văn Học"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5960",
+          "name": "Jennifer Crusie",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5960.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5960\",\"name\":\"Jennifer Crusie\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5960.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Jennifer Crusie",
+      "author_id": "5960",
+      "category_id": "71",
+      "category_name": "Truyện - Tiểu thuyết",
+      "categories": [
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 13,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 53,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "Rubi Thúy",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13376&title=bat-cu-dieu-gi-em-muon",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13376&title=bat-cu-dieu-gi-em-muon#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1466652595,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13376.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 546,
+      "number_view": 4101,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/N9be",
+      "read_link": "https://ebook.waka.vn/bat-cu-dieu-gi-em-muon-rWEaQW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 13
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 1,
+        "owner": 0,
+        "button_buy": 0,
+        "message": "Chúc bạn đọc truyện vui vẻ"
+      },
+      "file_path": "https://307a0e78.vws.vegacdn.vn/static/ebook/0/0/0/13376_4_drm.epub",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 0,
+      "message": "Thành công",
+      "data": {
+        "file_version": 4,
+        "auto_update": true,
+        "id": 13376,
+        "name": "Bất cứ điều gi em muốn",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13376_4/OEBPS/content.opf?token=0c0a7zbb37e454d4a23c7fd73414089500178513376",
+        "pdf_url": "",
+        "epub_version": 4,
+        "pdf_version": null,
+        "chapter_trail": 0
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/bat-cu-dieu-gi-em-muon-rWEaQW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13376_4/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11"
+    }
+  ],
+  "full_text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11"
+}

@@ -1,0 +1,230 @@
+{
+  "item_id": 13418,
+  "title": "Cuộc săn lùng quái vật - Chim lửa Epos",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:33:25.473Z",
+  "input_book": {
+    "id": 13418,
+    "title": "Cuộc săn lùng quái vật - Chim lửa Epos",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13418.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Tom v&agrave; Elenna phải l&ecirc;n đường đối mặt với Qu&aacute;i vật cuối c&ugrave;ng bị g&atilde; Ph&ugrave; thủy Hắc &aacute;m Malvel giam cầm: Chim lửa Epos, con phượng ho&agrave;ng đ&aacute;ng gờm nhất trong số c&aacute;c Qu&aacute;i vật. N&oacute; đang chậm r&atilde;i đ&aacute;nh thức ngọn n&uacute;i lửa đ&atilde; ngủ y&ecirc;n từ l&acirc;u. Nếu Tom v&agrave; Elenna kh&ocirc;ng kịp thời ngăn chặn th&igrave; hậu quả từ sự phun tr&agrave;o đ&oacute; sẽ v&ocirc; c&ugrave;ng khủng khiếp.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5984",
+        "name": "Adam Blade"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Sách thiếu nhi_92.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json",
+      "e:\\Crawl\\waka\\output\\Truyện tranh_Xuyên không_34.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-02 18:54:29",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13418,
+      "title": "Cuộc săn lùng quái vật - Chim lửa Epos",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Tom v&agrave; Elenna phải l&ecirc;n đường đối mặt với Qu&aacute;i vật cuối c&ugrave;ng bị g&atilde; Ph&ugrave; thủy Hắc &aacute;m Malvel giam cầm: Chim lửa Epos, con phượng ho&agrave;ng đ&aacute;ng gờm nhất trong số c&aacute;c Qu&aacute;i vật. N&oacute; đang chậm r&atilde;i đ&aacute;nh thức ngọn n&uacute;i lửa đ&atilde; ngủ y&ecirc;n từ l&acirc;u. Nếu Tom v&agrave; Elenna kh&ocirc;ng kịp thời ngăn chặn th&igrave; hậu quả từ sự phun tr&agrave;o đ&oacute; sẽ v&ocirc; c&ugrave;ng khủng khiếp.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "03/08/2015",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/cuoc-san-lung-quai-vat-chim-lua-epos-adam-blade-b2jGvW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/cuoc-san-lung-quai-vat-chim-lua-epos-adam-blade-b2jGvW.html?std=type%3D1%26data%3D13418%26title%3DCu%25E1%25BB%2599c%2Bs%25C4%2583n%2Bl%25C3%25B9ng%2Bqu%25C3%25A1i%2Bv%25E1%25BA%25ADt%2B-%2BChim%2Bl%25E1%25BB%25ADa%2BEpos%26mini_app%3D1&type=1&data=13418&title=Cu%E1%BB%99c+s%C4%83n+l%C3%B9ng+qu%C3%A1i+v%E1%BA%ADt+-+Chim+l%E1%BB%ADa+Epos&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "44",
+          "name": "NXB Văn Hóa Văn Nghệ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5984",
+          "name": "Adam Blade",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5984\",\"name\":\"Adam Blade\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Adam Blade",
+      "author_id": "5984",
+      "category_id": "34",
+      "category_name": "Viễn tưởng ",
+      "categories": [
+        {
+          "id": "34",
+          "name": "Viễn tưởng ",
+          "parent_id": 83
+        },
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        },
+        {
+          "id": "92",
+          "name": "Giáo dục - Sách thiếu nhi",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "Viễn tưởng ",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 9,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 22,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13418&title=cuoc-san-lung-quai-vat-chim-lua-epos",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13418&title=cuoc-san-lung-quai-vat-chim-lua-epos#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1467021229,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13418.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3714,
+      "number_view": 2252,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/AM2m",
+      "read_link": "https://ebook.waka.vn/cuoc-san-lung-quai-vat-chim-lua-epos-r2jGvW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 9
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 3,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13418_3/OEBPS/content.opf?token=0c3a4zb91d3dc1781ed4a9628edac49cbdc2ce13418",
+        "id": 13418,
+        "chapter_trail": 3,
+        "name": "Cuộc săn lùng quái vật - Chim lửa Epos",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/cuoc-san-lung-quai-vat-chim-lua-epos-r2jGvW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13418_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nMở đầu\nChương một: Nguy cơ cháy\nChương hai: Những bí mật đang cháy\nChương ba: Trốn vào hang\nChương bốn: Những chuyện trước đây\nChương năm: Nơi diễn ra trận chiến\nChương sáu: Hào lửa\nChương bảy: Bóng đen\nChương tám: Quyết tâm sống sót\nChương chín: Ngọn lửa hủy diệt\nChương mười: Những lời giải đáp cuối cùng"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13418_3/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Mở đầu",
+      "progress": null,
+      "text": "MỞ ĐẦU\n\n“M\nình lạc rồi,” Owen nghĩ.\n\nCuối đường hầm là một cái hang tối om khác. Nỗi sợ hãi trào lên họng cậu nhóc khi cậu cố trở lại đường cũ. Nhưng cậu biết điều đó là vô vọng. Cậu có lấy phấn đánh dấu lên vách đá, song đường hầm tối hù thế này làm sao mà thấy.\n\nMới nãy Owen hãy còn nô đùa bên ngoài chuỗi hang động phía bắc ngôi làng. Bỗng cậu nghe có tiếng ồn trong hang. Âm thanh cào bới sục sạo soàn soạt. Dân làng hiếm khi vào đấy vì các hang thông sâu dưới mặt đất những hàng dặm1, dễ gặp rủi ro, hơn nữa thường có đá lở. Nhưng cậu không thể phớt lờ chuyện đang xảy ra trong ấy.\n\n1 1 dặm = 1,609 km.\n\n“Chắc có con gì đi lang thang rồi lạc,” cậu nhủ thầm. “Sẽ không mất nhiều thời gian để đưa con vật tội nghiệp kia trở ra đâu nhỉ.”\n\nCậu thử lần theo âm thanh mình nghe được – giờ thì hay rồi, cậu lạc đường. Cậu bất lực đứng đó, trong bóng tối lạnh lẽo.\n\n“Có ai không?” Cậu cất tiếng gọi. Giọng cậu dội ngược một cách kỳ quái. Những cái hang này hút lấy tiếng động nhỏ khẽ nhất rồi bóp méo nó, khiến ta tưởng nó vọng ra từ hướng này, trong khi sự thực là nó đến từ một hướng khác.\n\nCậu sờ soạng phía trước. Tay cậu chạm phải mặt đá đầy hốc hang, rồi – chẳng có gì cả. Bước lên mấy bước, Owen tìm thấy cửa hang mới. Vào thêm một đoạn thì có chút ánh sáng mờ mờ. Cậu ngước lên thì thấy một cái khe, bầu trời xam xám hiện hữu qua khe đá cao cao ấy.\n\nKế đó, chân cậu quẹt trúng vật gì trên nền hang. Một mẩu áo giáp cháy sém. Vật này ở đâu ra nhỉ? Chuyện gì đã xảy đến với vị hiệp sĩ mặc nó? Thoạt nhìn nó giống một miếng giáp trước cổ - vật các hiệp sĩ mang để che cằm và cổ - chỉ là trông nhỏ hơn.\n\nBất thình lình, một tiếng rít kinh hồn táng đảm xé toạc không gian. Owen sợ quá hét to, hoảng loạn nhìn chằm chằm xung quanh.\n\nMột bóng đen từ trong tối xuất hiện, bay vọt lên trên đầu cậu. Trong nỗi kinh hoàng, Owen nhận ra đó là một con chim khổng lồ!\n\nNó bự khủng khiếp, hai cánh to như hai cánh buồm giương rộng. Phần lông cánh ngắn, màu vàng sậm ánh kim. Mỏ nó dài, sắc như một thanh kiếm.\n\nĐôi mắt dữ tợn sáng rực như thanh sắt trong lò lửa của bác thợ rèn dán chặt vào Owen. Móng vuốt cỡ lớn của sinh vật này cọ kèn kẹt vào đá, chẻ nhỏ nó ra. Tim đập thình thình trong ngực, Owen biết đấy là tiếng động mình từng nghe. Và đây là con vật cậu những muốn cứu… Giờ thì chính cậu mới cần được cứu thoát – phải thật nhanh lên!\n\nCon vật lắc lư tiến lại chỗ cậu – rồi thân mình cồng kềnh đầy lông của nó bùng cháy! Owen nằm rạp xuống đất khi con Quái vật lao vút lên không, đôi cánh lớn bốc lửa đập phành phạch bay thẳng về phía cậu…"
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13418_3/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Chương một: Nguy cơ cháy",
+      "progress": null,
+      "text": "Chương một\nNGUY CƠ CHÁY\n\n“H\nẳn bọn mình sắp ra khỏi rừng rồi,”\n\nTom bảo với cô bạn Elenna đang rảo bước bên cạnh. Cậu rút kiếm chém bụi gai chắn mất lối đi. Những tán cây chằng chịt trên đầu họ gần như che mất bầu trời xám xịt, ánh nắng rọi qua cũng yếu ớt.\n\n“Đừng lo – tớ gắng gượng được,” Elenna cam đoan với cậu. Tay cô dắt Storm, chú ngựa ô sung sức của Tom. Dừng bước một chốc, cô tựa vào chú ngựa tìm chỗ dựa. “Có điều nghỉ ngơi tí sẽ dễ chịu hơn.”\n\nSilver, con sói cưng của Elenna, rúc vào đám cỏ lá dài kế bên cô sủa lên.\n\n“Nghe thấy không?” Elenna mỉm cười. “Silver đồng ý với tớ.”\n\nTom lắc đầu. “Mất gần nửa tháng mà bọn mình chỉ đi tới đây, phải nhanh chân đi tiếp thôi.”\n\n“Chả có mấy người vội đi đánh nhau với một con chim lửa khổng lồ như cậu!” Elenna nói.\n\nTom cũng kiệt sức như cô. Song với quyết tâm cao độ, cậu vung kiếm vụt mạnh mấy bụi cây thấp. Trên vai cậu là cuộc săn lùng mang ý nghĩa sống còn cho Đức vua Hugo của vương quốc Avantia. Cậu không thể bỏ cuộc lúc này, khi mà đích đến đã gần ngay trước mắt.\n\nTom có nhiệm vụ giải cứu vương quốc khỏi sự quấy nhiễu của các Quái vật – những sinh vật huyền thoại đang vướng phải bùa phép độc ác của Phù thủy Hắc ám Malvel. Tom từng nghĩ các Quái vật chỉ tồn tại trong cổ tích. Giờ thì cậu đã biết chả có gì về chúng là tưởng tượng sất.\n\nElenna và Silver đã đồng hành với Tom và Storm suốt Cuộc săn lùng. Họ cùng mạo hiểm tính mạng phá bỏ lời nguyền lão Malvel yểm lên các Quái vật. Họ đã đương đầu với người khổng lồ một mắt và thuồng luồng biển trơn tuột, giải quyết một nhân mã, một rồng lửa và một quái vật tuyết đáng sợ. Bây giờ, việc họ cần làm là giải bùa mê hắc ám giam cầm chim lửa Epos.\n\nTom lấy cái khiên trên lưng xuống, dùng nó đè bạt đám dương xỉ diều hâu. “Ta hãy xem bản đồ, tiện thể nghỉ chân dăm ba phút,” cậu nói với Elenna.\n\n“Tuyệt!” Elenna reo lên, ngồi sụp xuống bên cạnh Silver.\n\nStorm ngả sang dựa mõm vào vai cô, khẽ thở phì phì.\n\nTom thọc tay vào túi quần lấy tấm bản đồ ma thuật vẽ vương quốc Avantia. Vị cố vấn thân cận nhất của đức vua, Phù thủy Aduro, đã tặng nó cho họ.\n\nTom ngồi kế Elenna. Khi ngón tay cậu lướt qua rừng cây, ngọn đồi cùng sông hồ, hình vẽ trên tấm giấy da trồi lên, cao chừng ngón tay cái. Một đường kẻ màu lục đang dao động đánh dấu lộ trình mà cậu và Elenna đi qua, từ những cánh đồng băng ở tận phương bắc xa xôi đến khu rừng lớn ở phía đông này.\n\n“Bọn mình sắp đến bìa rừng,” Tom nói, cảm thấy nhẹ cả người.\n\nElenna chỉ vào ngọn núi cỡ nhỏ ở ngay bên kia cánh rừng. “Nó hẳn là núi lửa.”\n\nTrong lúc cô quan sát, những luồng khói bé xíu như đang từ đấy bốc lên.\n\n“Người ta bảo nó đang ngủ yên,” Tom nói. “Chà, theo tấm bản đồ, bọn mình sẽ tìm được Epos ở đó.” Một cơn rùng mình cảnh giác lan khắp người cậu. “Phù thủy Aduro bảo nó là Quái vật mạnh nhất.”\n\nCậu cau mày nhìn bản đồ. “Mà dù nó ngủ im thì sao lại có người dựng làng gần núi lửa nhỉ?”\n\n“Đất đai quanh các núi lửa rất màu mỡ, nên cây trồng phát triển tươi tốt,” Elenna nói. “Chú tớ dạy đấy.” Cô nhìn xuống tay mình. “Tớ rời làng lâu lắm rồi. Tớ nhớ người trong làng quá.”\n\nTom mỉm cười. “Khi Cuộc săn lùng kết thúc, tớ đoan chắc phù thủy Aduro sẽ đưa cậu về.”\n\n“Còn cậu?” Elenna nói. “Cậu sẽ về với chú thím ở làng Errinel chứ?”\n\n“Chắc thế,” Tom nhìn sang hướng khác. “Nhưng điều tớ thực lòng muốn làm là tìm thấy cha mình.”\n\nMẹ Tom mất khi cậu vừa lọt lòng, còn cha cậu, Taladon, bặt vô âm tín sau đó không lâu. Chú thím đã nuôi Tom khôn lớn – song cậu vẫn hy vọng một ngày nào đó sẽ tìm được cha. Manh mối duy nhất của cậu là trước kia Taladon từng phụng sự dưới trướng Đức vua Hugo, như Tom hiện giờ…\n\n“Đợi tí.” Tom chun mũi. “Cậu ngửi thấy… mùi khói không?”\n\nElenna húng hắng ho. “Có người đốt lửa.”\n\nThình lình, một tiếng động rền vang như sấm dậy vọng khắp khu rừng, mặt đất dưới chân bộ tứ rung chuyển. Storm hí vang, hốt hoảng nhảy chồm chồm, Tom và Elenna vội đứng dậy. Tom ngước mắt nhìn. Xuyên qua tán lá, cậu thoáng trông thấy khói đen vọt lên mù mịt cả trời, những vệt lửa kéo theo sau hệt như các vì sao đang bay.\n\n“Là ngọn núi lửa,” Elenna há hốc mồm. “Nó sắp phun trào.”\n\n“Bọn mình cần tìm chỗ núp,” Tom nói. “Ắt là con chim lửa đang quấy phá!”\n\nBỗng Elenna sững người. “Nhìn kìa,” cô nói cà lăm, tầm mắt lướt qua Tom hướng thẳng ra sau lưng cậu.\n\nQuay ngoắt lại, Tom tưởng chừng tim mình vọt lên cổ họng. Sinh vật khổng lồ giống một con chim đang đậu trên khoảng rừng trống nho nhỏ cách họ không xa. Nó có cái mỏ khoằm bén ngót, những ngọn lửa tím rung rinh lấp lóe trên mình nó. Một cái đai bằng vàng gắn trên một chân to khỏe, mặt đất dưới móng vuốt nó bốc khói nghi ngút. Đôi cánh khổng lồ phát ra ánh lửa rực rỡ xoẹt qua những bụi cây gần đấy, làm chúng bốc cháy.\n\n“Epos,” Tom hít vào một hơi, tay siết lấy cán kiếm.\n\n“Bọn mình tới đây tìm nó – nhưng nó lại tìm tới bọn mình!”\n\nĐôi mắt đỏ rực hung tợn của Quái vật nheo lại khi nó vỗ cánh bay vào khu rừng đang cháy. Từ ngọn lửa màu tím dưới chân nó, Tom nhìn thấy một quả cầu lửa đang thành hình.\n\nVà rồi, cùng tiếng kêu chất chứa thịnh nộ, Epos phóng quả cầu lửa thẳng về phía Tom."
+    },
+    {
+      "chapterIndex": "page0007.xhtml",
+      "chapterHref": "contents/page0007.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13418_3/OEBPS/contents/page0007.xhtml",
+      "chapterLabel": "Chương hai: Những bí mật đang cháy",
+      "progress": null,
+      "text": "Chương hai\nNHỮNG BÍ MẬT ĐANG CHÁY\n\n“Q\nuay lại ngay!” Tom hét, tay giơ khiên che trước người.\n\nElenna cuống quýt đẩy Storm vào đám cây cối mọc chằng chịt, Silver bám theo sát gót.\n\nQuả cầu lửa va phải tấm khiên và nổ tung. Tom thở hổn hển, chứng kiến hàng trăm vụn than nhỏ xíu màu tím bay lên không trung, bất cứ vật thể nào tiếp xúc với chúng đều bén lửa. Cố trấn tĩnh, cậu quay ra nói với các bạn.\n\n“Cưỡi Storm,” cậu hét. “Phi nhanh đến ngôi làng gần ngọn núi lửa tìm người giúp đỡ.”\n\nElenna nhảy lên lưng ngựa và bị một cụm khói đen mù mịt làm bí thở. “Cẩn thận nhé Tom!” Cô hét to, sau đó thúc gót giày vào bên sườn Storm. Con ngựa lao vọt về phía trước, Silver bám sát không rời.\n\nTom xoay người lại đối mặt với Epos. Cậu rùng mình khiếp sợ khi thấy Quái vật đang tạo một quả cầu lửa mới giữa những móng vuốt.\n\nCảnh tượng ấy làm Tom mất hết can đảm, nhưng cậu vẫn kiên định giơ tấm khiên gỗ lên. Ở phần đuôi tấm khiên là một cái vảy lấp lánh của rồng lửa Ferno. Nó có khả năng chịu nhiệt – nhưng liệu nó có chống đỡ nổi ngọn lửa mà lần này Epos phóng ra không?\n\nQuả cầu lửa va “ầm” vào khiên, kèm theo lực mạnh đến nỗi Tom bị hất lăn ra đất. Cái khiên cháy âm ỉ, may là không sứt mẻ gì.\n\nCon chim lửa tức giận kêu quang quác rồi vỗ cánh bay xuyên qua tán lá rừng cao nhất đang bốc cháy, sau đó nhanh chóng mất hút về phía bầu trời âm u.\n\n“Quay lại đây!” Tom la to, nước mắt giàn giụa vì cay khói. “Tao chưa đấu xong với mày mà!”\n\nSong hiện tại cậu đang bị lửa vây tứ phía. Quả cầu lửa của Quái vật đã đốt cháy mọi cây cối xung quanh. “Mình nên làm gì đây?” Cậu tự hỏi, chợt thấy hoang mang sợ hãi.\n\nTrong lúc hoảng loạn nhìn quanh hòng tìm lối thoát, Tom thoáng thấy có gì đó đang ào ào xông đến.\n\nMột toán đàn ông đeo mặt nạ!\n\nChưa kịp phản ứng lại thì cổ tay và mắt cá chân Tom đã bị tóm, người treo lơ lửng trên mặt đất…\n\n“Này!” Tom kêu ầm ĩ. “Thả tôi ra!”\n\n“Ra đây là cách bày tỏ lòng biết ơn của cháu,” người giữ cổ tay Tom hổn hển nói. “Bất kỳ ai cũng sẽ nghĩ cháu không muốn được giúp đỡ!”\n\n“Bạn cháu nhờ chúng tôi đến. Cô bé đang đợi trong làng,” một người đang nắm chặt cổ chân cậu giải thích.\n\nDẫu hoa mắt chút đỉnh song Tom chợt thấy nhẹ nhõm. Sau vài phút, toán đàn ông từ từ hạ cậu xuống. Họ vừa chạy thoát trận lửa kinh khủng nhất.\n\nTom đứng dậy, phủi sạch mình mẩy. “Cám ơn các chú! Nhân tiện, cháu là Tom.”\n\n“Chú là Raymond,” người đàn ông đầu tiên nói chuyện tự giới thiệu. “Bọn chú phải bỏ cháu lại đây chốc lát. Ngôi làng hoàn toàn bị khu rừng bốc cháy chia cắt. Nếu không dập tắt lửa thì nhà bọn chú sẽ cháy rụi. Với cả núi lửa sắp phun trào…\n\nTình hình gay go lắm. Nhưng bọn chú phải làm gì đó!”\n\nThoáng chốc, màn khói dày đặc tản mác, và Tom nhận ra họ đang có mặt tại ngôi làng nằm gần chân núi lửa. Lửa từ khu rừng sắp lan đến những ngôi nhà đầu tiên, một nhóm dân làng đang cố dập tắt nó. Cậu thấy Raymond và một người khác chạy thật nhanh về giúp sức.\n\nRồi cậu cảm giác có thứ gì đó liếm tay mình. Là Silver!\n\nElenna đi sau con sói, tay xách bầu nước. “Ôi Tom ơi,” cô nói. “Thật mừng là cậu không sao!” Khi Tom cảm kích nốc một ngụm nước, cô thấp giọng nói. “Epos đâu?”\n\n“Nó bay mất rồi,” Tom nói, vẫn thở hổn hển. Storm chồm tới hít ngửi tóc cậu.\n\n“Bọn mình đã chạm trán cả sáu Quái vật,” Elenna nói, “không có con nào trong số ấy tự vác xác đến, trừ Epos.”\n\n“Tớ biết,” Tom nói, ánh mắt dõi theo các dân làng đang ngược xuôi tìm cách khống chế ngọn lửa. “Linh cảm mách bảo với tớ rằng Epos cố ý. Nó thừa biết ngôi làng sẽ chìm trong biển lửa. Giờ thì không một ai ra hay vào được.”\n\nElenna gật đầu. “Cậu nhìn thấy cái đai vàng trên chân nó không?”\n\n“Hẳn đấy là cách Malvel khống chế nó,” Tom đồng tình. “Bọn mình cần mau chóng nghĩ cách tháo nó!”\n\nNgay lúc ấy, một cậu bé gầy gò, tóc vàng hoe tầm tuổi Tom từ khu rừng cháy ngùn ngụt xông ra, mồm ho sù sụ, tay cầm một cái bao cháy sém - ắt là từ nãy đến giờ cậu đang ra sức dập lửa. Một mẩu áo giáp cũ bảo vệ phần cằm và cổ cậu. Cậu nằm phịch xuống bãi cỏ.\n\nElenna và Tom vội chạy qua.\n\n“Cậu không sao chứ?” Tom vừa hỏi vừa giúp cậu cởi phần áo giáp trên cổ. “Cậu tên gì?”\n\n“Owen,” cậu nhóc càu nhàu, giương mắt nhìn bọn họ. Mặt mũi cậu bám đầy bồ hóng. “Làng chúng tớ sắp toi rồi! Bọn tớ thiếu người hỗ trợ dập lửa.”\n\nElenna đưa bầu nước qua, cậu liền tu ừng ực như sắp chết khát.\n\n“Những người khác đâu?” Miệng hỏi vậy nhưng ánh mắt Tom dán chặt lên mẩu áo giáp trên tay đối phương.\n\n“Hầu hết đã bỏ đi khi ngọn núi vừa rung chuyển,” Owen yếu ớt trả lời. “Nhà tớ và vài hộ khác nán lại cứu lấy mùa màng. Nào ngờ tình hình trở nên tồi tệ đến vậy.”\n\nElenna nhìn về ngọn núi đang nhả khói. “Giờ thì tất cả chúng ta kẹt ở đây.”\n\n“Đừng bận tâm chuyện đó,” Tom chộp bả vai Owen. “Cậu lấy chỗ áo giáp này ở đâu?”\n\nOwen cau mày. “Tớ… tớ thấy trong hang.”\n\n“Phần còn lại đâu?” Tom gặng hỏi. Dù đã cố bình tĩnh, cậu vẫn cảm thấy tay mình siết chặt vai cậu nhóc.\n\n“Tớ không biết!” Owen rền rĩ, tìm cách thoát thân. Cậu đứng phắt dậy và quắc mắt nhìn Tom, tay xoa xoa vai.\n\n“Tom!” Elenna gạt tay Tom. “Cậu bị làm sao à?”\n\n“Xin lỗi,” cậu nói khẽ. “Nhưng cậu biết không… phần áo giáp này được chế tạo ở xưởng rèn nơi tớ lớn lên.” Cậu chỉ vào hình cái búa nhỏ in trên mặt kim loại. “Chú tớ đóng dấu hiệu lên mọi thứ chú ấy bán.”\n\nElenna cầm mẩu áo giáp nhìn kỹ. “Này, có vết xước ở đây.” Cô lau sạch bồ hóng lẫn gỉ sắt trên vành miệng rồi đọc, “T… A… L… A…”\n\n“Taladon,” Tom thì thào, lòng cậu sôi lên vì phấn khích. “Elenna ơi – mảnh giáp là của cha tớ!”"
+    }
+  ],
+  "full_text": "Mục lục\nMở đầu\nChương một: Nguy cơ cháy\nChương hai: Những bí mật đang cháy\nChương ba: Trốn vào hang\nChương bốn: Những chuyện trước đây\nChương năm: Nơi diễn ra trận chiến\nChương sáu: Hào lửa\nChương bảy: Bóng đen\nChương tám: Quyết tâm sống sót\nChương chín: Ngọn lửa hủy diệt\nChương mười: Những lời giải đáp cuối cùng\n\nMỞ ĐẦU\n\n“M\nình lạc rồi,” Owen nghĩ.\n\nCuối đường hầm là một cái hang tối om khác. Nỗi sợ hãi trào lên họng cậu nhóc khi cậu cố trở lại đường cũ. Nhưng cậu biết điều đó là vô vọng. Cậu có lấy phấn đánh dấu lên vách đá, song đường hầm tối hù thế này làm sao mà thấy.\n\nMới nãy Owen hãy còn nô đùa bên ngoài chuỗi hang động phía bắc ngôi làng. Bỗng cậu nghe có tiếng ồn trong hang. Âm thanh cào bới sục sạo soàn soạt. Dân làng hiếm khi vào đấy vì các hang thông sâu dưới mặt đất những hàng dặm1, dễ gặp rủi ro, hơn nữa thường có đá lở. Nhưng cậu không thể phớt lờ chuyện đang xảy ra trong ấy.\n\n1 1 dặm = 1,609 km.\n\n“Chắc có con gì đi lang thang rồi lạc,” cậu nhủ thầm. “Sẽ không mất nhiều thời gian để đưa con vật tội nghiệp kia trở ra đâu nhỉ.”\n\nCậu thử lần theo âm thanh mình nghe được – giờ thì hay rồi, cậu lạc đường. Cậu bất lực đứng đó, trong bóng tối lạnh lẽo.\n\n“Có ai không?” Cậu cất tiếng gọi. Giọng cậu dội ngược một cách kỳ quái. Những cái hang này hút lấy tiếng động nhỏ khẽ nhất rồi bóp méo nó, khiến ta tưởng nó vọng ra từ hướng này, trong khi sự thực là nó đến từ một hướng khác.\n\nCậu sờ soạng phía trước. Tay cậu chạm phải mặt đá đầy hốc hang, rồi – chẳng có gì cả. Bước lên mấy bước, Owen tìm thấy cửa hang mới. Vào thêm một đoạn thì có chút ánh sáng mờ mờ. Cậu ngước lên thì thấy một cái khe, bầu trời xam xám hiện hữu qua khe đá cao cao ấy.\n\nKế đó, chân cậu quẹt trúng vật gì trên nền hang. Một mẩu áo giáp cháy sém. Vật này ở đâu ra nhỉ? Chuyện gì đã xảy đến với vị hiệp sĩ mặc nó? Thoạt nhìn nó giống một miếng giáp trước cổ - vật các hiệp sĩ mang để che cằm và cổ - chỉ là trông nhỏ hơn.\n\nBất thình lình, một tiếng rít kinh hồn táng đảm xé toạc không gian. Owen sợ quá hét to, hoảng loạn nhìn chằm chằm xung quanh.\n\nMột bóng đen từ trong tối xuất hiện, bay vọt lên trên đầu cậu. Trong nỗi kinh hoàng, Owen nhận ra đó là một con chim khổng lồ!\n\nNó bự khủng khiếp, hai cánh to như hai cánh buồm giương rộng. Phần lông cánh ngắn, màu vàng sậm ánh kim. Mỏ nó dài, sắc như một thanh kiếm.\n\nĐôi mắt dữ tợn sáng rực như thanh sắt trong lò lửa của bác thợ rèn dán chặt vào Owen. Móng vuốt cỡ lớn của sinh vật này cọ kèn kẹt vào đá, chẻ nhỏ nó ra. Tim đập thình thình trong ngực, Owen biết đấy là tiếng động mình từng nghe. Và đây là con vật cậu những muốn cứu… Giờ thì chính cậu mới cần được cứu thoát – phải thật nhanh lên!\n\nCon vật lắc lư tiến lại chỗ cậu – rồi thân mình cồng kềnh đầy lông của nó bùng cháy! Owen nằm rạp xuống đất khi con Quái vật lao vút lên không, đôi cánh lớn bốc lửa đập phành phạch bay thẳng về phía cậu…\n\nChương một\nNGUY CƠ CHÁY\n\n“H\nẳn bọn mình sắp ra khỏi rừng rồi,”\n\nTom bảo với cô bạn Elenna đang rảo bước bên cạnh. Cậu rút kiếm chém bụi gai chắn mất lối đi. Những tán cây chằng chịt trên đầu họ gần như che mất bầu trời xám xịt, ánh nắng rọi qua cũng yếu ớt.\n\n“Đừng lo – tớ gắng gượng được,” Elenna cam đoan với cậu. Tay cô dắt Storm, chú ngựa ô sung sức của Tom. Dừng bước một chốc, cô tựa vào chú ngựa tìm chỗ dựa. “Có điều nghỉ ngơi tí sẽ dễ chịu hơn.”\n\nSilver, con sói cưng của Elenna, rúc vào đám cỏ lá dài kế bên cô sủa lên.\n\n“Nghe thấy không?” Elenna mỉm cười. “Silver đồng ý với tớ.”\n\nTom lắc đầu. “Mất gần nửa tháng mà bọn mình chỉ đi tới đây, phải nhanh chân đi tiếp thôi.”\n\n“Chả có mấy người vội đi đánh nhau với một con chim lửa khổng lồ như cậu!” Elenna nói.\n\nTom cũng kiệt sức như cô. Song với quyết tâm cao độ, cậu vung kiếm vụt mạnh mấy bụi cây thấp. Trên vai cậu là cuộc săn lùng mang ý nghĩa sống còn cho Đức vua Hugo của vương quốc Avantia. Cậu không thể bỏ cuộc lúc này, khi mà đích đến đã gần ngay trước mắt.\n\nTom có nhiệm vụ giải cứu vương quốc khỏi sự quấy nhiễu của các Quái vật – những sinh vật huyền thoại đang vướng phải bùa phép độc ác của Phù thủy Hắc ám Malvel. Tom từng nghĩ các Quái vật chỉ tồn tại trong cổ tích. Giờ thì cậu đã biết chả có gì về chúng là tưởng tượng sất.\n\nElenna và Silver đã đồng hành với Tom và Storm suốt Cuộc săn lùng. Họ cùng mạo hiểm tính mạng phá bỏ lời nguyền lão Malvel yểm lên các Quái vật. Họ đã đương đầu với người khổng lồ một mắt và thuồng luồng biển trơn tuột, giải quyết một nhân mã, một rồng lửa và một quái vật tuyết đáng sợ. Bây giờ, việc họ cần làm là giải bùa mê hắc ám giam cầm chim lửa Epos.\n\nTom lấy cái khiên trên lưng xuống, dùng nó đè bạt đám dương xỉ diều hâu. “Ta hãy xem bản đồ, tiện thể nghỉ chân dăm ba phút,” cậu nói với Elenna.\n\n“Tuyệt!” Elenna reo lên, ngồi sụp xuống bên cạnh Silver.\n\nStorm ngả sang dựa mõm vào vai cô, khẽ thở phì phì.\n\nTom thọc tay vào túi quần lấy tấm bản đồ ma thuật vẽ vương quốc Avantia. Vị cố vấn thân cận nhất của đức vua, Phù thủy Aduro, đã tặng nó cho họ.\n\nTom ngồi kế Elenna. Khi ngón tay cậu lướt qua rừng cây, ngọn đồi cùng sông hồ, hình vẽ trên tấm giấy da trồi lên, cao chừng ngón tay cái. Một đường kẻ màu lục đang dao động đánh dấu lộ trình mà cậu và Elenna đi qua, từ những cánh đồng băng ở tận phương bắc xa xôi đến khu rừng lớn ở phía đông này.\n\n“Bọn mình sắp đến bìa rừng,” Tom nói, cảm thấy nhẹ cả người.\n\nElenna chỉ vào ngọn núi cỡ nhỏ ở ngay bên kia cánh rừng. “Nó hẳn là núi lửa.”\n\nTrong lúc cô quan sát, những luồng khói bé xíu như đang từ đấy bốc lên.\n\n“Người ta bảo nó đang ngủ yên,” Tom nói. “Chà, theo tấm bản đồ, bọn mình sẽ tìm được Epos ở đó.” Một cơn rùng mình cảnh giác lan khắp người cậu. “Phù thủy Aduro bảo nó là Quái vật mạnh nhất.”\n\nCậu cau mày nhìn bản đồ. “Mà dù nó ngủ im thì sao lại có người dựng làng gần núi lửa nhỉ?”\n\n“Đất đai quanh các núi lửa rất màu mỡ, nên cây trồng phát triển tươi tốt,” Elenna nói. “Chú tớ dạy đấy.” Cô nhìn xuống tay mình. “Tớ rời làng lâu lắm rồi. Tớ nhớ người trong làng quá.”\n\nTom mỉm cười. “Khi Cuộc săn lùng kết thúc, tớ đoan chắc phù thủy Aduro sẽ đưa cậu về.”\n\n“Còn cậu?” Elenna nói. “Cậu sẽ về với chú thím ở làng Errinel chứ?”\n\n“Chắc thế,” Tom nhìn sang hướng khác. “Nhưng điều tớ thực lòng muốn làm là tìm thấy cha mình.”\n\nMẹ Tom mất khi cậu vừa lọt lòng, còn cha cậu, Taladon, bặt vô âm tín sau đó không lâu. Chú thím đã nuôi Tom khôn lớn – song cậu vẫn hy vọng một ngày nào đó sẽ tìm được cha. Manh mối duy nhất của cậu là trước kia Taladon từng phụng sự dưới trướng Đức vua Hugo, như Tom hiện giờ…\n\n“Đợi tí.” Tom chun mũi. “Cậu ngửi thấy… mùi khói không?”\n\nElenna húng hắng ho. “Có người đốt lửa.”\n\nThình lình, một tiếng động rền vang như sấm dậy vọng khắp khu rừng, mặt đất dưới chân bộ tứ rung chuyển. Storm hí vang, hốt hoảng nhảy chồm chồm, Tom và Elenna vội đứng dậy. Tom ngước mắt nhìn. Xuyên qua tán lá, cậu thoáng trông thấy khói đen vọt lên mù mịt cả trời, những vệt lửa kéo theo sau hệt như các vì sao đang bay.\n\n“Là ngọn núi lửa,” Elenna há hốc mồm. “Nó sắp phun trào.”\n\n“Bọn mình cần tìm chỗ núp,” Tom nói. “Ắt là con chim lửa đang quấy phá!”\n\nBỗng Elenna sững người. “Nhìn kìa,” cô nói cà lăm, tầm mắt lướt qua Tom hướng thẳng ra sau lưng cậu.\n\nQuay ngoắt lại, Tom tưởng chừng tim mình vọt lên cổ họng. Sinh vật khổng lồ giống một con chim đang đậu trên khoảng rừng trống nho nhỏ cách họ không xa. Nó có cái mỏ khoằm bén ngót, những ngọn lửa tím rung rinh lấp lóe trên mình nó. Một cái đai bằng vàng gắn trên một chân to khỏe, mặt đất dưới móng vuốt nó bốc khói nghi ngút. Đôi cánh khổng lồ phát ra ánh lửa rực rỡ xoẹt qua những bụi cây gần đấy, làm chúng bốc cháy.\n\n“Epos,” Tom hít vào một hơi, tay siết lấy cán kiếm.\n\n“Bọn mình tới đây tìm nó – nhưng nó lại tìm tới bọn mình!”\n\nĐôi mắt đỏ rực hung tợn của Quái vật nheo lại khi nó vỗ cánh bay vào khu rừng đang cháy. Từ ngọn lửa màu tím dưới chân nó, Tom nhìn thấy một quả cầu lửa đang thành hình.\n\nVà rồi, cùng tiếng kêu chất chứa thịnh nộ, Epos phóng quả cầu lửa thẳng về phía Tom.\n\nChương hai\nNHỮNG BÍ MẬT ĐANG CHÁY\n\n“Q\nuay lại ngay!” Tom hét, tay giơ khiên che trước người.\n\nElenna cuống quýt đẩy Storm vào đám cây cối mọc chằng chịt, Silver bám theo sát gót.\n\nQuả cầu lửa va phải tấm khiên và nổ tung. Tom thở hổn hển, chứng kiến hàng trăm vụn than nhỏ xíu màu tím bay lên không trung, bất cứ vật thể nào tiếp xúc với chúng đều bén lửa. Cố trấn tĩnh, cậu quay ra nói với các bạn.\n\n“Cưỡi Storm,” cậu hét. “Phi nhanh đến ngôi làng gần ngọn núi lửa tìm người giúp đỡ.”\n\nElenna nhảy lên lưng ngựa và bị một cụm khói đen mù mịt làm bí thở. “Cẩn thận nhé Tom!” Cô hét to, sau đó thúc gót giày vào bên sườn Storm. Con ngựa lao vọt về phía trước, Silver bám sát không rời.\n\nTom xoay người lại đối mặt với Epos. Cậu rùng mình khiếp sợ khi thấy Quái vật đang tạo một quả cầu lửa mới giữa những móng vuốt.\n\nCảnh tượng ấy làm Tom mất hết can đảm, nhưng cậu vẫn kiên định giơ tấm khiên gỗ lên. Ở phần đuôi tấm khiên là một cái vảy lấp lánh của rồng lửa Ferno. Nó có khả năng chịu nhiệt – nhưng liệu nó có chống đỡ nổi ngọn lửa mà lần này Epos phóng ra không?\n\nQuả cầu lửa va “ầm” vào khiên, kèm theo lực mạnh đến nỗi Tom bị hất lăn ra đất. Cái khiên cháy âm ỉ, may là không sứt mẻ gì.\n\nCon chim lửa tức giận kêu quang quác rồi vỗ cánh bay xuyên qua tán lá rừng cao nhất đang bốc cháy, sau đó nhanh chóng mất hút về phía bầu trời âm u.\n\n“Quay lại đây!” Tom la to, nước mắt giàn giụa vì cay khói. “Tao chưa đấu xong với mày mà!”\n\nSong hiện tại cậu đang bị lửa vây tứ phía. Quả cầu lửa của Quái vật đã đốt cháy mọi cây cối xung quanh. “Mình nên làm gì đây?” Cậu tự hỏi, chợt thấy hoang mang sợ hãi.\n\nTrong lúc hoảng loạn nhìn quanh hòng tìm lối thoát, Tom thoáng thấy có gì đó đang ào ào xông đến.\n\nMột toán đàn ông đeo mặt nạ!\n\nChưa kịp phản ứng lại thì cổ tay và mắt cá chân Tom đã bị tóm, người treo lơ lửng trên mặt đất…\n\n“Này!” Tom kêu ầm ĩ. “Thả tôi ra!”\n\n“Ra đây là cách bày tỏ lòng biết ơn của cháu,” người giữ cổ tay Tom hổn hển nói. “Bất kỳ ai cũng sẽ nghĩ cháu không muốn được giúp đỡ!”\n\n“Bạn cháu nhờ chúng tôi đến. Cô bé đang đợi trong làng,” một người đang nắm chặt cổ chân cậu giải thích.\n\nDẫu hoa mắt chút đỉnh song Tom chợt thấy nhẹ nhõm. Sau vài phút, toán đàn ông từ từ hạ cậu xuống. Họ vừa chạy thoát trận lửa kinh khủng nhất.\n\nTom đứng dậy, phủi sạch mình mẩy. “Cám ơn các chú! Nhân tiện, cháu là Tom.”\n\n“Chú là Raymond,” người đàn ông đầu tiên nói chuyện tự giới thiệu. “Bọn chú phải bỏ cháu lại đây chốc lát. Ngôi làng hoàn toàn bị khu rừng bốc cháy chia cắt. Nếu không dập tắt lửa thì nhà bọn chú sẽ cháy rụi. Với cả núi lửa sắp phun trào…\n\nTình hình gay go lắm. Nhưng bọn chú phải làm gì đó!”\n\nThoáng chốc, màn khói dày đặc tản mác, và Tom nhận ra họ đang có mặt tại ngôi làng nằm gần chân núi lửa. Lửa từ khu rừng sắp lan đến những ngôi nhà đầu tiên, một nhóm dân làng đang cố dập tắt nó. Cậu thấy Raymond và một người khác chạy thật nhanh về giúp sức.\n\nRồi cậu cảm giác có thứ gì đó liếm tay mình. Là Silver!\n\nElenna đi sau con sói, tay xách bầu nước. “Ôi Tom ơi,” cô nói. “Thật mừng là cậu không sao!” Khi Tom cảm kích nốc một ngụm nước, cô thấp giọng nói. “Epos đâu?”\n\n“Nó bay mất rồi,” Tom nói, vẫn thở hổn hển. Storm chồm tới hít ngửi tóc cậu.\n\n“Bọn mình đã chạm trán cả sáu Quái vật,” Elenna nói, “không có con nào trong số ấy tự vác xác đến, trừ Epos.”\n\n“Tớ biết,” Tom nói, ánh mắt dõi theo các dân làng đang ngược xuôi tìm cách khống chế ngọn lửa. “Linh cảm mách bảo với tớ rằng Epos cố ý. Nó thừa biết ngôi làng sẽ chìm trong biển lửa. Giờ thì không một ai ra hay vào được.”\n\nElenna gật đầu. “Cậu nhìn thấy cái đai vàng trên chân nó không?”\n\n“Hẳn đấy là cách Malvel khống chế nó,” Tom đồng tình. “Bọn mình cần mau chóng nghĩ cách tháo nó!”\n\nNgay lúc ấy, một cậu bé gầy gò, tóc vàng hoe tầm tuổi Tom từ khu rừng cháy ngùn ngụt xông ra, mồm ho sù sụ, tay cầm một cái bao cháy sém - ắt là từ nãy đến giờ cậu đang ra sức dập lửa. Một mẩu áo giáp cũ bảo vệ phần cằm và cổ cậu. Cậu nằm phịch xuống bãi cỏ.\n\nElenna và Tom vội chạy qua.\n\n“Cậu không sao chứ?” Tom vừa hỏi vừa giúp cậu cởi phần áo giáp trên cổ. “Cậu tên gì?”\n\n“Owen,” cậu nhóc càu nhàu, giương mắt nhìn bọn họ. Mặt mũi cậu bám đầy bồ hóng. “Làng chúng tớ sắp toi rồi! Bọn tớ thiếu người hỗ trợ dập lửa.”\n\nElenna đưa bầu nước qua, cậu liền tu ừng ực như sắp chết khát.\n\n“Những người khác đâu?” Miệng hỏi vậy nhưng ánh mắt Tom dán chặt lên mẩu áo giáp trên tay đối phương.\n\n“Hầu hết đã bỏ đi khi ngọn núi vừa rung chuyển,” Owen yếu ớt trả lời. “Nhà tớ và vài hộ khác nán lại cứu lấy mùa màng. Nào ngờ tình hình trở nên tồi tệ đến vậy.”\n\nElenna nhìn về ngọn núi đang nhả khói. “Giờ thì tất cả chúng ta kẹt ở đây.”\n\n“Đừng bận tâm chuyện đó,” Tom chộp bả vai Owen. “Cậu lấy chỗ áo giáp này ở đâu?”\n\nOwen cau mày. “Tớ… tớ thấy trong hang.”\n\n“Phần còn lại đâu?” Tom gặng hỏi. Dù đã cố bình tĩnh, cậu vẫn cảm thấy tay mình siết chặt vai cậu nhóc.\n\n“Tớ không biết!” Owen rền rĩ, tìm cách thoát thân. Cậu đứng phắt dậy và quắc mắt nhìn Tom, tay xoa xoa vai.\n\n“Tom!” Elenna gạt tay Tom. “Cậu bị làm sao à?”\n\n“Xin lỗi,” cậu nói khẽ. “Nhưng cậu biết không… phần áo giáp này được chế tạo ở xưởng rèn nơi tớ lớn lên.” Cậu chỉ vào hình cái búa nhỏ in trên mặt kim loại. “Chú tớ đóng dấu hiệu lên mọi thứ chú ấy bán.”\n\nElenna cầm mẩu áo giáp nhìn kỹ. “Này, có vết xước ở đây.” Cô lau sạch bồ hóng lẫn gỉ sắt trên vành miệng rồi đọc, “T… A… L… A…”\n\n“Taladon,” Tom thì thào, lòng cậu sôi lên vì phấn khích. “Elenna ơi – mảnh giáp là của cha tớ!”"
+}

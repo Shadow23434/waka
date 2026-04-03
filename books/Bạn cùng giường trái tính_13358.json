@@ -1,0 +1,193 @@
+{
+  "item_id": 13358,
+  "title": "Bạn cùng giường trái tính",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:21:20.353Z",
+  "input_book": {
+    "id": 13358,
+    "title": "Bạn cùng giường trái tính",
+    "price": 0,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13358.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Bạn C&ugrave;ng Giường Tr&aacute;i T&iacute;nh - kh&aacute;m ph&aacute; c&aacute;c cuộc h&agrave;nh tr&igrave;nh của những người phụ nữ, đặc biệt l&agrave; c&aacute;c vấn đề li&ecirc;n quan đến c&aacute;c mối quan hệ, t&igrave;nh bạn, cộng đồng, v&agrave; sự s&aacute;ng tạo. B&agrave; l&agrave; một phụ nữ may mắn, v&agrave; b&agrave; biết điều đ&oacute;.</p>\r\n<p>Hai con người kh&aacute;c biệt nhau ho&agrave;n to&agrave;n cố cưỡng lại lực h&uacute;t của tr&aacute;i tim, nhưng mọi điều kh&aacute;ng cự đều...bất khả kh&aacute;ng.</p>\r\n<p><br />Hai con người kh&aacute;c biệt nhau ho&agrave;n to&agrave;n cố cưỡng lại lực h&uacute;t của tr&aacute;i tim, nhưng mọi điều kh&aacute;ng cự đều&hellip; bất khả kh&aacute;ng.</p>\r\n<p>Tess Newhart thừa biết anh bạn trai cũ Nick Jamieson kh&ocirc;ng phải mẫu người của m&igrave;nh. Anh l&agrave; m&oacute;n trứng c&aacute; muối v&agrave; champagne thịnh soạn; c&ograve;n c&ocirc; chỉ l&agrave; m&oacute;n h&aacute; cảo mang đi m&agrave; th&ocirc;i. Anh l&agrave; một luật sư cứng nhắc theo đảng Cộng h&ograve;a; c&ograve;n c&ocirc; được nu&ocirc;i dạy trong một khu d&acirc;n cư b&igrave;nh thường. Anh muốn tiến xa trong sự nghiệp; c&ograve;n c&ocirc; chỉ muốn... anh. Tuy nhi&ecirc;n, kh&ocirc;ng đời n&agrave;o Tess chịu lệ thuộc v&agrave;o c&ocirc;ng việc của anh.</p>\r\n<p>Nhưng rồi c&ocirc; nhận ra m&igrave;nh đ&atilde; đồng &yacute; sắm vai vợ chưa cưới của Nick trong chuyến c&ocirc;ng t&aacute;c cuối tuần, chuyến đi mang đến cơ hội thăng tiến nhưng cũng c&oacute; thể hủy hoại sự nghiệp của anh. V&agrave; khi Nick cố thuyết phục Tess rằng anh cần c&ocirc; trong c&aacute;i thế giới đ&aacute;ng k&iacute;nh của m&igrave;nh th&igrave; Tess lại cố hết sức để giữ vững lập trường v&agrave; cả giữ cho m&igrave;nh kh&ocirc;ng bị Nick quyến rũ.</p>\r\n<p>\"Hết sức mới mẻ, h&agrave;i hước, t&igrave;nh cảm v&agrave; t&aacute;o bạo... Crusie l&agrave; một trong những t&aacute;c giả như thế.\"</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5960",
+        "name": "Jennifer Crusie"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-01 12:21:17",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13358,
+      "title": "Bạn cùng giường trái tính",
+      "content_type": "book",
+      "our_price": 0,
+      "price": 0,
+      "description": "<p>Bạn C&ugrave;ng Giường Tr&aacute;i T&iacute;nh - kh&aacute;m ph&aacute; c&aacute;c cuộc h&agrave;nh tr&igrave;nh của những người phụ nữ, đặc biệt l&agrave; c&aacute;c vấn đề li&ecirc;n quan đến c&aacute;c mối quan hệ, t&igrave;nh bạn, cộng đồng, v&agrave; sự s&aacute;ng tạo. B&agrave; l&agrave; một phụ nữ may mắn, v&agrave; b&agrave; biết điều đ&oacute;.</p>\r\n<p>Hai con người kh&aacute;c biệt nhau ho&agrave;n to&agrave;n cố cưỡng lại lực h&uacute;t của tr&aacute;i tim, nhưng mọi điều kh&aacute;ng cự đều...bất khả kh&aacute;ng.</p>\r\n<p><br />Hai con người kh&aacute;c biệt nhau ho&agrave;n to&agrave;n cố cưỡng lại lực h&uacute;t của tr&aacute;i tim, nhưng mọi điều kh&aacute;ng cự đều&hellip; bất khả kh&aacute;ng.</p>\r\n<p>Tess Newhart thừa biết anh bạn trai cũ Nick Jamieson kh&ocirc;ng phải mẫu người của m&igrave;nh. Anh l&agrave; m&oacute;n trứng c&aacute; muối v&agrave; champagne thịnh soạn; c&ograve;n c&ocirc; chỉ l&agrave; m&oacute;n h&aacute; cảo mang đi m&agrave; th&ocirc;i. Anh l&agrave; một luật sư cứng nhắc theo đảng Cộng h&ograve;a; c&ograve;n c&ocirc; được nu&ocirc;i dạy trong một khu d&acirc;n cư b&igrave;nh thường. Anh muốn tiến xa trong sự nghiệp; c&ograve;n c&ocirc; chỉ muốn... anh. Tuy nhi&ecirc;n, kh&ocirc;ng đời n&agrave;o Tess chịu lệ thuộc v&agrave;o c&ocirc;ng việc của anh.</p>\r\n<p>Nhưng rồi c&ocirc; nhận ra m&igrave;nh đ&atilde; đồng &yacute; sắm vai vợ chưa cưới của Nick trong chuyến c&ocirc;ng t&aacute;c cuối tuần, chuyến đi mang đến cơ hội thăng tiến nhưng cũng c&oacute; thể hủy hoại sự nghiệp của anh. V&agrave; khi Nick cố thuyết phục Tess rằng anh cần c&ocirc; trong c&aacute;i thế giới đ&aacute;ng k&iacute;nh của m&igrave;nh th&igrave; Tess lại cố hết sức để giữ vững lập trường v&agrave; cả giữ cho m&igrave;nh kh&ocirc;ng bị Nick quyến rũ.</p>\r\n<p>\"Hết sức mới mẻ, h&agrave;i hước, t&igrave;nh cảm v&agrave; t&aacute;o bạo... Crusie l&agrave; một trong những t&aacute;c giả như thế.\"</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 0,
+      "published_time": "20/06/2012",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/ban-cung-giuong-trai-tinh-jennifer-crusie-bKr6yW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/ban-cung-giuong-trai-tinh-jennifer-crusie-bKr6yW.html?std=type%3D1%26data%3D13358%26title%3DB%25E1%25BA%25A1n%2Bc%25C3%25B9ng%2Bgi%25C6%25B0%25E1%25BB%259Dng%2Btr%25C3%25A1i%2Bt%25C3%25ADnh%26mini_app%3D1&type=1&data=13358&title=B%E1%BA%A1n+c%C3%B9ng+gi%C6%B0%E1%BB%9Dng+tr%C3%A1i+t%C3%ADnh&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "8",
+          "name": "NXB Văn Học"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5960",
+          "name": "Jennifer Crusie",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5960.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5960\",\"name\":\"Jennifer Crusie\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5960.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Jennifer Crusie",
+      "author_id": "5960",
+      "category_id": "71",
+      "category_name": "Truyện - Tiểu thuyết",
+      "categories": [
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 20,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 75,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13358&title=ban-cung-giuong-trai-tinh",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13358&title=ban-cung-giuong-trai-tinh#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1466590629,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13358.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 516,
+      "number_view": 5013,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/FE2y",
+      "read_link": "https://ebook.waka.vn/ban-cung-giuong-trai-tinh-rKr6yW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 20
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 1,
+        "owner": 0,
+        "button_buy": 0,
+        "message": "Chúc bạn đọc truyện vui vẻ"
+      },
+      "file_path": "https://307a0e78.vws.vegacdn.vn/static/ebook/0/0/0/13358_4_drm.epub",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 0,
+      "message": "Thành công",
+      "data": {
+        "file_version": 4,
+        "auto_update": true,
+        "id": 13358,
+        "name": "Bạn cùng giường trái tính",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13358_4/OEBPS/content.opf?token=0c0a6zd15f3f778168ca1a11afb2b5906b86f613358",
+        "pdf_url": "",
+        "epub_version": 4,
+        "pdf_version": null,
+        "chapter_trail": 0
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/ban-cung-giuong-trai-tinh-rKr6yW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13358_4/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11\nChương 12"
+    }
+  ],
+  "full_text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11\nChương 12"
+}

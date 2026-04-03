@@ -1,0 +1,234 @@
+{
+  "item_id": 11304,
+  "title": "Sống vui sống khỏe - Tươi trẻ mỗi ngày",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T04:52:18.865Z",
+  "input_book": {
+    "id": 11304,
+    "title": "Sống vui sống khỏe - Tươi trẻ mỗi ngày",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11304.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Ch&uacute;ng ta kh&ocirc;ng thể tr&aacute;nh được tuổi gi&agrave; nhưng ch&uacute;ng ta vẫn c&oacute; thể l&agrave;m chậm tiến tr&igrave;nh l&atilde;o h&oacute;a. Nếu ở những thế hệ trước, độ tuổi 50 được xem l&agrave; bắt đầu bước v&agrave;o giai đoạn gi&agrave; th&igrave; ng&agrave;y nay độ tuổi n&agrave;y chỉ mới l&agrave; giai đoạn trung ni&ecirc;n. Tuổi thọ trung b&igrave;nh của con người ng&agrave;y c&agrave;ng gia tăng; tuy nhi&ecirc;n, điều ch&uacute;ng ta mong muốn kh&ocirc;ng chỉ l&agrave; sống l&acirc;u m&agrave; c&ograve;n l&agrave; sống khỏe.</p>\r\n<p>C&aacute;c nh&agrave; nghi&ecirc;n cứu nhận thấy trong những năm th&aacute;ng tuổi trẻ, con người thường &iacute;t c&oacute; bệnh tật v&agrave; những biểu hiện bất thường về sức khỏe. Nhưng điều g&igrave; sẽ xảy ra sau khoảng thời gian đ&oacute;? Ch&uacute;ng ta c&oacute; thể n&acirc;ng cao tuổi thọ v&agrave; cải thiện chất lượng cuộc sống của m&igrave;nh bằng c&aacute;ch n&agrave;o? Tất nhi&ecirc;n l&agrave; gien di truyền đ&oacute;ng vai tr&ograve; quyết định nhưng bạn đừng qu&aacute; bi quan, v&igrave; những lời khuy&ecirc;n hữu &iacute;ch về lối sống v&agrave; dinh dưỡng được giới thiệu trong &ldquo;Sống vui, sống khoẻ, tươi trẻ mỗi ng&agrave;y&rdquo; - dựa tr&ecirc;n những bằng chứng khoa học x&aacute;c thực - vẫn c&oacute; thể gi&uacute;p bạn giữ sức khỏe tốt v&agrave; cảm thấy h&agrave;i l&ograve;ng d&ugrave; l&agrave; bạn đang ở tuổi n&agrave;o.</p>\r\n<p><strong>&ldquo;Sống vui, sống khoẻ, tươi trẻ mỗi ng&agrave;y&rdquo;</strong> gồm 2 phần:</p>\r\n<p>Phần 1 tr&igrave;nh b&agrave;y 20 bước đơn giản, thiết thực để khởi đầu lộ tr&igrave;nh sống khỏe, sống lạc quan.</p>\r\n<p>Phần 2 giới thiệu những kiến thức chuy&ecirc;n s&acirc;u hơn về c&aacute;c cơ quan trong cơ thể v&agrave; những ảnh hưởng của ch&uacute;ng đối với tuổi thọ của bạn.</p>\r\n<p>B&ecirc;n cạnh đ&oacute;, bạn cũng sẽ t&igrave;m thấy những lời khuy&ecirc;n v&agrave; c&aacute;ch sử dụng c&aacute;c loại sản phẩm bổ sung dưỡng chất thiết yếu để lựa chọn những sản phẩm ph&ugrave; hợp với nhu cầu của m&igrave;nh.</p>\r\n<p>&ldquo;Sống vui, sống khoẻ, tươi trẻ mỗi ng&agrave;y&rdquo; c&ograve;n cung cấp cho bạn đọc một bảng danh s&aacute;ch c&aacute;c chất dinh dưỡng chứa trong một số loại thực phẩm thường d&ugrave;ng. Bảng danh s&aacute;ch n&agrave;y sẽ rất c&oacute; &iacute;ch cho những bạn muốn bổ sung hoặc hạn chế một chất n&agrave;o đ&oacute; th&ocirc;ng qua ăn uống.</p>\r\n<p>Waka xin tr&acirc;n trọng giới thiệu <strong>Sống Vui Sống Khỏe - Tươi Trẻ Mỗi Ng&agrave;y</strong></p>",
+    "authors": [
+      {
+        "id": "5265",
+        "name": "Dr Sarah Brewer"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách nói_Trinh thám - Kinh dị_56.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-01 20:50:03",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 11304,
+      "title": "Sống vui sống khỏe - Tươi trẻ mỗi ngày",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Ch&uacute;ng ta kh&ocirc;ng thể tr&aacute;nh được tuổi gi&agrave; nhưng ch&uacute;ng ta vẫn c&oacute; thể l&agrave;m chậm tiến tr&igrave;nh l&atilde;o h&oacute;a. Nếu ở những thế hệ trước, độ tuổi 50 được xem l&agrave; bắt đầu bước v&agrave;o giai đoạn gi&agrave; th&igrave; ng&agrave;y nay độ tuổi n&agrave;y chỉ mới l&agrave; giai đoạn trung ni&ecirc;n. Tuổi thọ trung b&igrave;nh của con người ng&agrave;y c&agrave;ng gia tăng; tuy nhi&ecirc;n, điều ch&uacute;ng ta mong muốn kh&ocirc;ng chỉ l&agrave; sống l&acirc;u m&agrave; c&ograve;n l&agrave; sống khỏe.</p>\r\n<p>C&aacute;c nh&agrave; nghi&ecirc;n cứu nhận thấy trong những năm th&aacute;ng tuổi trẻ, con người thường &iacute;t c&oacute; bệnh tật v&agrave; những biểu hiện bất thường về sức khỏe. Nhưng điều g&igrave; sẽ xảy ra sau khoảng thời gian đ&oacute;? Ch&uacute;ng ta c&oacute; thể n&acirc;ng cao tuổi thọ v&agrave; cải thiện chất lượng cuộc sống của m&igrave;nh bằng c&aacute;ch n&agrave;o? Tất nhi&ecirc;n l&agrave; gien di truyền đ&oacute;ng vai tr&ograve; quyết định nhưng bạn đừng qu&aacute; bi quan, v&igrave; những lời khuy&ecirc;n hữu &iacute;ch về lối sống v&agrave; dinh dưỡng được giới thiệu trong &ldquo;Sống vui, sống khoẻ, tươi trẻ mỗi ng&agrave;y&rdquo; - dựa tr&ecirc;n những bằng chứng khoa học x&aacute;c thực - vẫn c&oacute; thể gi&uacute;p bạn giữ sức khỏe tốt v&agrave; cảm thấy h&agrave;i l&ograve;ng d&ugrave; l&agrave; bạn đang ở tuổi n&agrave;o.</p>\r\n<p><strong>&ldquo;Sống vui, sống khoẻ, tươi trẻ mỗi ng&agrave;y&rdquo;</strong> gồm 2 phần:</p>\r\n<p>Phần 1 tr&igrave;nh b&agrave;y 20 bước đơn giản, thiết thực để khởi đầu lộ tr&igrave;nh sống khỏe, sống lạc quan.</p>\r\n<p>Phần 2 giới thiệu những kiến thức chuy&ecirc;n s&acirc;u hơn về c&aacute;c cơ quan trong cơ thể v&agrave; những ảnh hưởng của ch&uacute;ng đối với tuổi thọ của bạn.</p>\r\n<p>B&ecirc;n cạnh đ&oacute;, bạn cũng sẽ t&igrave;m thấy những lời khuy&ecirc;n v&agrave; c&aacute;ch sử dụng c&aacute;c loại sản phẩm bổ sung dưỡng chất thiết yếu để lựa chọn những sản phẩm ph&ugrave; hợp với nhu cầu của m&igrave;nh.</p>\r\n<p>&ldquo;Sống vui, sống khoẻ, tươi trẻ mỗi ng&agrave;y&rdquo; c&ograve;n cung cấp cho bạn đọc một bảng danh s&aacute;ch c&aacute;c chất dinh dưỡng chứa trong một số loại thực phẩm thường d&ugrave;ng. Bảng danh s&aacute;ch n&agrave;y sẽ rất c&oacute; &iacute;ch cho những bạn muốn bổ sung hoặc hạn chế một chất n&agrave;o đ&oacute; th&ocirc;ng qua ăn uống.</p>\r\n<p>Waka xin tr&acirc;n trọng giới thiệu <strong>Sống Vui Sống Khỏe - Tươi Trẻ Mỗi Ng&agrave;y</strong></p>",
+      "zone": 1,
+      "published_time": "01/04/2026",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/song-vui-song-khoe-tuoi-tre-moi-ngay-dr-sarah-brewer-bw9ZgW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/song-vui-song-khoe-tuoi-tre-moi-ngay-dr-sarah-brewer-bw9ZgW.html?std=type%3D1%26data%3D11304%26title%3DS%25E1%25BB%2591ng%2Bvui%2Bs%25E1%25BB%2591ng%2Bkh%25E1%25BB%258Fe%2B-%2BT%25C6%25B0%25C6%25A1i%2Btr%25E1%25BA%25BB%2Bm%25E1%25BB%2597i%2Bng%25C3%25A0y%26mini_app%3D1&type=1&data=11304&title=S%E1%BB%91ng+vui+s%E1%BB%91ng+kh%E1%BB%8Fe+-+T%C6%B0%C6%A1i+tr%E1%BA%BB+m%E1%BB%97i+ng%C3%A0y&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "40",
+          "name": "NXB Phụ Nữ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5265",
+          "name": "Dr Sarah Brewer",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5265.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5265\",\"name\":\"Dr Sarah Brewer\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5265.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Dr Sarah Brewer",
+      "author_id": "5265",
+      "category_id": 0,
+      "category_name": "",
+      "categories": [],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.6",
+      "total_rate_count": 11,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 175,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "seo": {
+        "title": "Sống Vui Sống Khỏe - Tươi Trẻ Mỗi Ngày, Dr Sarah Brewer",
+        "description": "Sống Vui Sống Khỏe - Tươi Trẻ Mỗi Ngày giúp bạn giữ sức khỏe tốt và cảm thấy hài lòng dù là bạn đang ở tuổi nào. Đọc sách online trên waka.vn",
+        "keyword": "Song Vui Song Khoe - Tuoi Tre Moi Ngay, Dr Sarah Brewer, online,  ebook, doc sach,doc truyen ",
+        "news_keyword": "Song Vui Song Khoe - Tuoi Tre Moi Ngay, Dr Sarah Brewer, online,  ebook, doc sach,doc truyen "
+      },
+      "meta_ios": "vwaka://open?type=1&data=11304&title=song-vui-song-khoe-tuoi-tre-moi-ngay",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=11304&title=song-vui-song-khoe-tuoi-tre-moi-ngay#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1458553095,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11304.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3019,
+      "number_view": 2980,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/song-vui-song-khoe-tuoi-tre-moi-ngay-bw9ZgW.html?std=type%3D1%26data%3D11304&type=1&data=11304",
+      "read_link": "https://ebook.waka.vn/song-vui-song-khoe-tuoi-tre-moi-ngay-rw9ZgW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 8
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 8,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 8,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/content.opf?token=0c4a2z1caa1f0f2e75c740def10a23437464d411304",
+        "id": 11304,
+        "chapter_trail": 4,
+        "name": "Sống vui sống khỏe - Tươi trẻ mỗi ngày",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 8,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/song-vui-song-khoe-tuoi-tre-moi-ngay-rw9ZgW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0044.xhtml",
+      "chapterHref": "contents/page0044.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/contents/page0044.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nMở đầu\nPHẦN 1: 20 BƯỚC ĐƠN GIẢN\n1. Ăn nhiều trái cây\n2. Ăn nhiều rau củ\n3. Ăn nhiều đậu\n4. Ăn nhiều tỏi\n5. Ăn nhiều loại hạt\n6. Ăn nhiều các loại cá béo\n7. Thưởng thức một ly vang đỏ mỗi ngày\n8. Ăn sô-cô-la đen\n9. Chuyển sang dầu ô-liu\n10. Uống nhiều trà\n11. Ăn uống chừng mực\n12. Duy trì cân nặng hợp lý\n13. Tâp thể dục mỗi ngày\n14. Ngưng thuốc lá\n15. Sống chan hòa\n16. Suy nghĩ tích cực\n17. Tiếp xúc với ánh nắng mặt trời\n18. Ngủ đủ giấc\n19. Cọ răng bằng chỉ\n20. Sử dụng thuốc bổ\nPHẦN 2: KHÁM PHÁ CƠ THỂ\n21. Tim\n22. Hệ tuần hoàn\n23. Não bộ\n24. Mắt\n25. Thính giác\n26. Vị giác & Khứu giác\n27. Răng nướu\n28. Đường ruột\n29. Gan\n30. Tuyến tụy\n31. Phổi\n32. Thận\n33. Xương\n34. Khớp\n35. Cơ\n36. Da\n37. Tóc\n38. Vú (ngực)\n39. Bàng quang\n40. Tuyến tiền liệt\n41. Sức khỏe sinh sản\n42. Sức khỏe tình dục"
+    },
+    {
+      "chapterIndex": "page0045.xhtml",
+      "chapterHref": "contents/page0045.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/contents/page0045.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nMở đầu\nPHẦN 1: 20 BƯỚC ĐƠN GIẢN\n1. Ăn nhiều trái cây\n2. Ăn nhiều rau củ\n3. Ăn nhiều đậu\n4. Ăn nhiều tỏi\n5. Ăn nhiều loại hạt\n6. Ăn nhiều các loại cá béo\n7. Thưởng thức một ly vang đỏ mỗi ngày\n8. Ăn sô-cô-la đen\n9. Chuyển sang dầu ô-liu\n10. Uống nhiều trà\n11. Ăn uống chừng mực\n12. Duy trì cân nặng hợp lý\n13. Tâp thể dục mỗi ngày\n14. Ngưng thuốc lá\n15. Sống chan hòa\n16. Suy nghĩ tích cực\n17. Tiếp xúc với ánh nắng mặt trời\n18. Ngủ đủ giấc\n19. Cọ răng bằng chỉ\n20. Sử dụng thuốc bổ\nPHẦN 2: KHÁM PHÁ CƠ THỂ\n21. Tim\n22. Hệ tuần hoàn\n23. Não bộ\n24. Mắt\n25. Thính giác\n26. Vị giác & Khứu giác\n27. Răng nướu\n28. Đường ruột\n29. Gan\n30. Tuyến tụy\n31. Phổi\n32. Thận\n33. Xương\n34. Khớp\n35. Cơ\n36. Da\n37. Tóc\n38. Vú (ngực)\n39. Bàng quang\n40. Tuyến tiền liệt\n41. Sức khỏe sinh sản\n42. Sức khỏe tình dục"
+    },
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": "Mở đầu",
+      "progress": null,
+      "text": "MỞ ĐẦU\n\nC\nhúng ta không thể tránh được tuổi già nhưng chúng ta vẫn có thể làm chậm tiến trình lão hóa. Nếu ở những thế hệ trước, độ tuổi 50 được xem là bắt đầu bước vào giai đoạn già thì ngày nay độ tuổi này chỉ mới là giai đoạn trung niên. Tuổi thọ trung bình của con người ngày càng gia tăng; tuy nhiên, điều chúng ta mong muốn không chỉ là sống lâu mà còn là sống khỏe.\n\nCác nhà nghiên cứu nhận thấy trong những năm tháng tuổi trẻ, con người thường ít có bệnh tật và những biểu hiện bất thường về sức khỏe. Nhưng điều gì sẽ xảy ra sau khoảng thời gian đó? Chúng ta có thể nâng cao tuổi thọ và cải thiện chất lượng cuộc sống của mình bằng cách nào? Tất nhiên là gien di truyền đóng vai trò quyết định nhưng bạn đừng quá bi quan, vì những lời khuyên hữu ích về lối sống và dinh dưỡng được giới thiệu trong sách này – dựa trên những bằng chứng khoa học xác thực – vẫn có thể giúp bạn giữ sức khỏe tốt và cảm thấy hài lòng khi bước vào tuổi già.\n\nQuyển sách gồm 2 phần:\n\n• phần 1 trình bày 20 bước đơn giản, thiết thực để khởi đầu lộ trình sống khỏe, sống lạc quan.\n\n• phần 2 giới thiệu những kiến thức chuyên sâu hơn về các cơ quan trong cơ thể và những ảnh hưởng của chúng đối với tuổi thọ của bạn.\n\nBên cạnh đó, bạn cũng sẽ tìm thấy những lời khuyên và cách sử dụng các loại sản phẩm bổ sung dưỡng chất thiết yếu đang có trên thị trường để lựa chọn những sản phẩm phù hợp với nhu cầu của mình.\n\nXét cho cùng, ai cũng muốn cảm thấy mình luôn trẻ trung, cả về thể chất lẫn tâm hồn. Có thể bạn đã bắt đầu có những dấu hiệu lão hóa và mong muốn làm điều gì đó để làm chậm tiến trình này. Thà muộn còn hơn không! Các bước đơn giản sau sẽ giúp bạn làm được điều kỳ diệu đó!\n\n- First News – Trí Việt"
+    },
+    {
+      "chapterIndex": "page0046.xhtml",
+      "chapterHref": "contents/page0046.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/contents/page0046.xhtml",
+      "chapterLabel": "PHẦN 1: 20 BƯỚC ĐƠN GIẢN",
+      "progress": null,
+      "text": "Phần 1\n20 BƯỚC ĐƠN GIẢN"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": "1. Ăn nhiều trái cây",
+      "progress": null,
+      "text": "1\n\nĂN NHIỀU TRÁI CÂY\n\nN\những người ăn nhiều trái cây có xu hướng sống lâu hơn những người ăn rất ít trái cây; đó là do trái cây chứa nhiều chất có lợi cho cơ thể con người, giúp giảm nguy cơ nhồi máu cơ tim, đột quỵ, tiểu đường và nhiều loại bệnh ung thư.\n\n\"Cuộc chiến\" oxy hóa\n\nCác phản ứng oxy hóa là một trong những nguyên nhân hàng đầu gây lão hóa sớm. Một chế độ dinh dưỡng lành mạnh, có nhiều trái cây (và rau củ) cung cấp nguồn đề kháng chính yếu cho cơ thể chống lại sự oxy hóa.\n\nCác phản ứng oxy hóa được kích hoạt bởi các hợp chất hóa học còn được biết đến là các gốc tự do. Mỗi ngày, một tế bào phải chịu đựng khoảng 10.000 lần oxy hóa từ các gốc tự do. Những cuộc \"tấn công\" này gây tổn thương cho protein, chất béo, màng tế bào và chất liệu di truyền (ADN); từ đó dẫn đến nhiều căn bệnh như:\n\n- Chứng xơ vữa động mạch\n\n- Bệnh mạch vành (tình trạng thu hẹp các mạch máu nhỏ cung cấp máu và oxy cho tim)\n\n- Bệnh cao huyết áp và đột quỵ\n\n- Bệnh tiểu đường\n\n- Hư hỏng thị giác do đục thủy tinh thể và thoái hóa điểm vàng\n\n- Lão hóa da sớm\n\n- Những bệnh viêm mãn tính như viêm khớp\n\n- Bệnh Alzheimer và các bệnh suy giảm trí tuệ khác\n\n- Bệnh Parkinson\n\n- Suy giảm miễn dịch\n\n- Giảm khả năng sinh sản\n\n- Dị tật bẩm sinh\n\n- Ung thư\n\nCác gốc tự do\n\nĂn nhiều trái cây sẽ giúp cơ thể chống lại những tác động gây tổn thương của các gốc tự do. Các gốc tự do được sản sinh liên tục trong cơ thể là kết quả của:\n\n• những phản ứng chuyển hóa bình thường (và bất thường)\n\n• sự co cơ trong quá trình vận động\n\n• hút thuốc lá\n\n• tiếp xúc với tác nhân ô nhiễm trong môi trường\n\n• tiếp xúc với tia X\n\n• tiếp xúc với tia cực tím (UVA) từ ánh nắng mặt trời\n\n• uống quá nhiều rượu bia\n\n• tác động của một số loại thuốc, đặc biệt là kháng sinh và paracetamol\n\n\"Thần dược\" từ thiên nhiên\n\nCác hoạt chất thực vật (phytochemicals) cung cấp nhiều lợi ích: một số có khả năng chống oxy hóa mạnh, một số khác đóng vai trò như hormone hoặc hoạt chất kháng viêm trong cơ thể. Dưới đây là một số hoạt chất thực vật tìm thấy trong trái cây:\n\nHấp thu tối đa các hoạt chất chống oxy hóa\n\nCác nhà khoa học đã thiết lập một xét nghiệm gọi là khả năng hấp thu gốc oxy (Oxygen Radical Absorbance Capacity, ORAC) để đánh giá tiềm năng chống oxy hóa của các loại thực phẩm khác nhau.\n\nChúng ta cần hấp thu ít nhất 7.000 đơn vị ORAC mỗi ngày để đạt được hiệu quả chống lão hóa. Những người tiêu thụ 9 phần (khoảng 100g) trái cây và rau củ một ngày có thể đạt 20.000 đơn vị ORAC, làm giảm đáng kể tác động nguy hại của các gốc tự do.\n\nHãy tham khảo chỉ số ORAC (tính trên 100g thực phẩm) của các loại trái cây được liệt kê trong bảng bên phải và dùng chúng để tối đa hóa lượng thực phẩm chống oxy hóa ăn vào của bạn.\n\n5 phần (hoặc hơn) mỗi ngày, Tại sao?\n\nTheo nghiên cứu, những người tiêu thụ càng nhiều trái cây và rau củ sẽ có ít nguy cơ mắc các bệnh mãn tính hơn. Ăn trên 5 phần/ngày sẽ mang lại lợi ích đáng kể cho sức khỏe.\n\nTrái cây và rau củ giúp bảo vệ cơ thể phòng chống bệnh ung thư, bệnh động mạch vành, đột quỵ và có lẽ cả tiểu đường; ngoài ra có thể làm giảm nguy cơ bị đục thủy tinh thể, túi thừa đại tràng, loãng xương và béo phì.\n\nung thư\n\nƯớc tính có đến 70% các loại bệnh ung thư có liên quan đến chế độ dinh dưỡng. Một tổng kết dựa trên hơn 200 nghiên cứu lâm sàng đã cho thấy hiệu quả ổn định của trái cây trong việc bảo vệ cơ thể chống lại các bệnh ung thư, như: dạ dày, thực quản, phổi, miệng/cổ họng, tử cung, tuyến tụy và đại tràng; vì vậy ăn càng nhiều trái cây sẽ càng có lợi cho sức khỏe. Một trong những loại quả bảo vệ tốt nhất cho cơ thể là cà chua, do có chứa sắc tố carotenoid đỏ và lycopene.\n\nđột quỵ\n\nMột phân tích từ 8 nghiên cứu trên hơn 257.000 người cho thấy khi ăn từ 3 – 5 phần trái cây và rau củ mỗi ngày sẽ làm giảm 11% nguy cơ đột quỵ so với người ăn dưới 3 phần mỗi ngày; còn nếu ăn trên 5 phần/ngày sẽ làm giảm nguy cơ đột quỵ đến 26%. Nhìn chung, mỗi phần trái cây ăn thêm làm giảm nguy cơ đột quỵ thêm 11%.\n\nBệnh động mạch vành\n\nTheo một nghiên cứu khác, với 278.000 đối tượng tham gia, khi ăn từ 3 – 5 phần trái cây và rau củ mỗi ngày sẽ làm giảm 7% nguy cơ mắc bệnh động mạch vành; còn ăn trên 5 phần/ngày có thể làm giảm đến 17% nguy cơ. Cả trái cây và rau củ đều hiệu quả trong việc phòng chống bệnh tim, đặc biệt là các loại quả họ cam chanh, quả họ dâu và ớt chuông.\n\nTiểu đường\n\nKết quả phân tích dữ liệu từ 10 cuộc nghiên cứu với tổng số hơn 190.000 người tham gia cho thấy chế độ dinh dưỡng lành mạnh nhất (bao gồm trái cây) sẽ làm giảm đến 83% nguy cơ phát triển bệnh tiểu đường tuýp 2 so với người ăn ít rau, trái hơn.\n\nQuả quen mà nên thuốc!\n\nCác loại trái cây sau đây đặc biệt hữu ích. Nếu có thể, hãy đưa chúng vào chế độ ăn của bạn.\n\nMỗi hàng dưới đây tính là một phần ăn\n\n- 1 quả táo/ cam/ lê/ đào/ kiwi/ lựu hoặc quả có cùng kích cỡ\n\n- 2 quả qu­t đường/ chuối/ mận/ mơ/ cà chua hoặc quả có cùng kích cỡ\n\n- ­ quả bưởi/ ổi/ xoài/ dưa lưới hoặc bơ\n\n- 1 nắm nho, cherry, việt quất hoặc dâu tây\n\n- 1 ly nước ép trái cây (100 ml)\n\nChất xơ hòa tan\n\nTrái cây (và rau củ) cung cấp nhiều chất xơ hòa tan giúp làm chậm quá trình hấp thu chất béo và carbohydrate, ngăn chặn sự gia tăng đột ngột lượng đường và axit béo trong máu. Do vậy ăn vào càng nhiều trái cây và rau củ thì càng ít có nguy cơ mắc bệnh tiểu đường tu­p 2, bệnh động mạch vành và đột quỵ.\n\nCách phối trộn\n\nĂn đa dạng các loại quả với nhiều màu sắc khác nhau để có thể hấp thu lợi ích tối đa.\n\nNước ép = 1 phần/ngày (do đã mất một lượng chất xơ)\n\nSinh tố hoa quả xay nhuyễn = 2 phần/ngày (do vẫn còn nguyên lượng chất xơ)\n\nCà chua"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11304_8/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "2. Ăn nhiều rau củ",
+      "progress": null,
+      "text": "2\nĂN NHIỀU RAU CỦ\n\nR\nau củ là nguồn thực phẩm giàu chất xơ, vitamin, chất khoáng, hoạt chất chống oxy hóa và các hormone thực vật giúp bảo vệ cơ thể chống lại các bệnh do quá trình lão hóa gây ra. Các nghiên cứu cho thấy, ăn nhiều rau củ có thể cải thiện sức khỏe toàn diện.\n\nVới 2 phần rau củ mỗi ngày, hiệu suất hoạt động của các cơ quan trong cơ thể sẽ tăng thêm 10%. Do vậy, người ăn nhiều rau củ sẽ sống lâu hơn.\n\nNhững loại rau củ thuộc họ cải có nhiều lợi ích đặc biệt vì chúng chứa nhiều hợp chất thuộc nhóm glucosinolate (tạo mùi vị hăng cay) và hoạt chất chống oxy hóa carotenoid (những sắc tố thực vật vàng/cam/đỏ).\n\nNhững người có nồng độ carotenoid trong máu cao nhất, đặc biệt là alpha-carotene, có khả năng giảm nguy cơ tử vong do bệnh tật (trong đó có bệnh tim và ung thư) đến 40%. Alpha- carotene có hoạt tính ức chế sự tăng trưởng của các tế bào ung thư cao gấp 10 lần so với hoạt chất carotenoid tương tự là beta-carotene. Alpha-carotene được tìm thấy trong các loại rau củ có màu xanh lục (bông cải xanh, đậu que, rau bó xôi, rau diếp…) và vàng (cà rốt, khoai lang, bí đỏ)\n\nHấp thu đủ các chất chống oxy hóa\n\nTiềm năng chống oxy hóa của rau củ cũng được đánh giá bằng chỉ số ORAC. Chỉ số ORAC của các loại rau củ (tính trên 100g thực phẩm) được trình bày trang bên sẽ giúp bạn tăng tối đa lượng thực phẩm chống oxy hóa ăn vào.\n\nBí quyết sống lâu của người nhật\n\nNhật được xem là một trong số các dân tộc có tuổi thọ cao nhất trên thế giới, thậm chí chưa quốc gia nào mà người dân có sức khỏe ngang bằng với người dân nước này. Những người sống ở đảo Okinawa (phía nam) còn sống lâu hơn các cư dân ở phía bắc nước Nhật và hiếm khi mắc các bệnh liên quan đến lão hóa như: tiểu đường, nhồi máu cơ tim, đột quỵ, ung thư. Vậy bí mật nằm ở đâu?\n\nTuổi thọ hiếm có và sức khỏe của người dân Okinawa được cho là do chế độ ăn truyền thống nhiều rau củ, ít calo nhưng nhiều vitamin, khoáng chất và hoạt chất chống oxy hóa.\n\nThực đơn trường sinh\n\nMột bữa ăn cơ bản của người dân okinawa bao gồm:\n\n• Súp miso, có rong biển, đậu hũ, khoai lang, các loại rau lá xanh\n\n• Rau xào – củ cải trắng, củ ngưu bàng, đậu bắp, bí đỏ\n\n• Rong biển phổ tai (kombu)\n\n• Miến konnyaku (sợi miến trong suốt được chế biến từ một loại khoai)\n\n• Một ít cá hoặc thịt heo luộc\n\n• Trà hoa lài\n\nThay vì ăn cơm như bao người Nhật khác, món chính trong khẩu phần của họ là một loại khoai lang. Khoai lang ruột vàng là loại thực phẩm giàu carotenoid và các hormone thực vật như phytoestrogen. Các hoạt chất này có vai trò chống oxy hóa, làm giảm sưng viêm; đồng thời xoa dịu các triệu chứng mãn kinh và giúp phòng chống một số bệnh ung thư, đặc biệt là ung thư vú và ung thư tuyến tiền liệt. Khoai lang được dùng phổ biến trong các món nướng, súp… như các loại khoai khác.\n\n5 phần/ngày\n\nHãy hướng đến mục tiêu ăn tối thiểu 3 phần/ngày, và tốt hơn là 5 phần (hoặc hơn) các loại rau củ khác nhau, không tính đến khoai tây trắng nhiều tinh bột. Không tính (và nếu được thì không ăn!) các loại rau củ muối đóng hộp vì chúng chứa nhiều natri gây tăng huyết áp.\n\nĂn càng đa dạng các loại rau củ càng tốt.\n\n• 1 phần ăn = 1 nắm rau củ thái nhỏ, như: cà rốt, bắp cải, rau xà lách, bắp ngọt, bông cải xanh\n\n• 1 chén rau trộn\n\n• 1 chén canh\n\n• 1 ly nước ép rau củ (100 ml)\n\n\"Chất xanh\" của sự sống!\n\nƯớc tính trong năm 2000, việc ăn ít trái cây và rau củ đã gây ra khoảng 2,6 triệu ca tử vong trên toàn thế giới. Cũng giống như trái cây, các dưỡng chất có trong rau củ giúp cơ thể phòng chống ung thư, bệnh động mạch vành, đột quỵ và tiểu đường. Ăn nhiều rau củ cũng giúp giảm nguy cơ mắc bệnh đục thủy tinh thể, thoái hóa điểm vàng, bệnh túi thừa, loãng xương và béo phì.\n\nhuyết áp\n\nRau củ chứa một số chất có khả năng làm hạ huyết áp, bao gồm kali, ma-giê và canxi. Ăn nhiều rau củ có thể làm giảm huyết áp khoảng 4,0/1,5 mmHg, mức giảm này có thể hạ thấp đáng kể nguy cơ bị nhồi máu cơ tim hoặc đột quỵ.\n\nđột quỵ\n\nTheo các nghiên cứu với tổng cộng hơn 250.000 người tham gia, ăn từ 3 – 5 phần trái cây và rau củ một ngày giúp giảm nguy cơ bị đột quỵ đến 11%; và ăn trên 5 phần một ngày sẽ giảm nguy cơ bị đột quỵ đến 26% so với những người ăn dưới 3 phần mỗi ngày.\n\nTiểu đường\n\nMột tổng kết 6 nghiên cứu trên 223.000 người cho thấy những người ăn nhiều rau lá xanh sẽ ít có nguy cơ mắc bệnh tiểu đường tuýp 2. Ăn thêm 1 ½ phần rau xanh (khoảng 122g) một ngày có thể giảm nguy cơ mắc bệnh tiểu đường tuýp 2 đến 14%.\n\nBệnh động mạch vành ung thư\n\nTương tự, các nghiên cứu cho thấy khi ăn từ 3 – 5 phần trái cây và rau củ một ngày giúp giảm nguy cơ mắc bệnh động mạch vành đến 7%; và ăn trên 5 phần một ngày sẽ giảm nguy cơ bệnh đến 17%.\n\n7/10 bệnh ung thư có liên quan đến chế độ dinh dưỡng. Ăn nhiều rau củ sẽ giúp phòng chống các bệnh ung thư như: dạ dày, thực quản, phổi, miệng, cổ họng, tử cung, tuyến tụy và đại tràng. Nên ăn sống các loại rau củ như hành tây, tỏi, cà rốt, rau xanh và các loại rau củ họ cải để có được nhiều lợi ích nhất."
+    }
+  ],
+  "full_text": "Mục lục\nMở đầu\nPHẦN 1: 20 BƯỚC ĐƠN GIẢN\n1. Ăn nhiều trái cây\n2. Ăn nhiều rau củ\n3. Ăn nhiều đậu\n4. Ăn nhiều tỏi\n5. Ăn nhiều loại hạt\n6. Ăn nhiều các loại cá béo\n7. Thưởng thức một ly vang đỏ mỗi ngày\n8. Ăn sô-cô-la đen\n9. Chuyển sang dầu ô-liu\n10. Uống nhiều trà\n11. Ăn uống chừng mực\n12. Duy trì cân nặng hợp lý\n13. Tâp thể dục mỗi ngày\n14. Ngưng thuốc lá\n15. Sống chan hòa\n16. Suy nghĩ tích cực\n17. Tiếp xúc với ánh nắng mặt trời\n18. Ngủ đủ giấc\n19. Cọ răng bằng chỉ\n20. Sử dụng thuốc bổ\nPHẦN 2: KHÁM PHÁ CƠ THỂ\n21. Tim\n22. Hệ tuần hoàn\n23. Não bộ\n24. Mắt\n25. Thính giác\n26. Vị giác & Khứu giác\n27. Răng nướu\n28. Đường ruột\n29. Gan\n30. Tuyến tụy\n31. Phổi\n32. Thận\n33. Xương\n34. Khớp\n35. Cơ\n36. Da\n37. Tóc\n38. Vú (ngực)\n39. Bàng quang\n40. Tuyến tiền liệt\n41. Sức khỏe sinh sản\n42. Sức khỏe tình dục\n\nMục lục\nMở đầu\nPHẦN 1: 20 BƯỚC ĐƠN GIẢN\n1. Ăn nhiều trái cây\n2. Ăn nhiều rau củ\n3. Ăn nhiều đậu\n4. Ăn nhiều tỏi\n5. Ăn nhiều loại hạt\n6. Ăn nhiều các loại cá béo\n7. Thưởng thức một ly vang đỏ mỗi ngày\n8. Ăn sô-cô-la đen\n9. Chuyển sang dầu ô-liu\n10. Uống nhiều trà\n11. Ăn uống chừng mực\n12. Duy trì cân nặng hợp lý\n13. Tâp thể dục mỗi ngày\n14. Ngưng thuốc lá\n15. Sống chan hòa\n16. Suy nghĩ tích cực\n17. Tiếp xúc với ánh nắng mặt trời\n18. Ngủ đủ giấc\n19. Cọ răng bằng chỉ\n20. Sử dụng thuốc bổ\nPHẦN 2: KHÁM PHÁ CƠ THỂ\n21. Tim\n22. Hệ tuần hoàn\n23. Não bộ\n24. Mắt\n25. Thính giác\n26. Vị giác & Khứu giác\n27. Răng nướu\n28. Đường ruột\n29. Gan\n30. Tuyến tụy\n31. Phổi\n32. Thận\n33. Xương\n34. Khớp\n35. Cơ\n36. Da\n37. Tóc\n38. Vú (ngực)\n39. Bàng quang\n40. Tuyến tiền liệt\n41. Sức khỏe sinh sản\n42. Sức khỏe tình dục\n\nMỞ ĐẦU\n\nC\nhúng ta không thể tránh được tuổi già nhưng chúng ta vẫn có thể làm chậm tiến trình lão hóa. Nếu ở những thế hệ trước, độ tuổi 50 được xem là bắt đầu bước vào giai đoạn già thì ngày nay độ tuổi này chỉ mới là giai đoạn trung niên. Tuổi thọ trung bình của con người ngày càng gia tăng; tuy nhiên, điều chúng ta mong muốn không chỉ là sống lâu mà còn là sống khỏe.\n\nCác nhà nghiên cứu nhận thấy trong những năm tháng tuổi trẻ, con người thường ít có bệnh tật và những biểu hiện bất thường về sức khỏe. Nhưng điều gì sẽ xảy ra sau khoảng thời gian đó? Chúng ta có thể nâng cao tuổi thọ và cải thiện chất lượng cuộc sống của mình bằng cách nào? Tất nhiên là gien di truyền đóng vai trò quyết định nhưng bạn đừng quá bi quan, vì những lời khuyên hữu ích về lối sống và dinh dưỡng được giới thiệu trong sách này – dựa trên những bằng chứng khoa học xác thực – vẫn có thể giúp bạn giữ sức khỏe tốt và cảm thấy hài lòng khi bước vào tuổi già.\n\nQuyển sách gồm 2 phần:\n\n• phần 1 trình bày 20 bước đơn giản, thiết thực để khởi đầu lộ trình sống khỏe, sống lạc quan.\n\n• phần 2 giới thiệu những kiến thức chuyên sâu hơn về các cơ quan trong cơ thể và những ảnh hưởng của chúng đối với tuổi thọ của bạn.\n\nBên cạnh đó, bạn cũng sẽ tìm thấy những lời khuyên và cách sử dụng các loại sản phẩm bổ sung dưỡng chất thiết yếu đang có trên thị trường để lựa chọn những sản phẩm phù hợp với nhu cầu của mình.\n\nXét cho cùng, ai cũng muốn cảm thấy mình luôn trẻ trung, cả về thể chất lẫn tâm hồn. Có thể bạn đã bắt đầu có những dấu hiệu lão hóa và mong muốn làm điều gì đó để làm chậm tiến trình này. Thà muộn còn hơn không! Các bước đơn giản sau sẽ giúp bạn làm được điều kỳ diệu đó!\n\n- First News – Trí Việt\n\nPhần 1\n20 BƯỚC ĐƠN GIẢN\n\n1\n\nĂN NHIỀU TRÁI CÂY\n\nN\những người ăn nhiều trái cây có xu hướng sống lâu hơn những người ăn rất ít trái cây; đó là do trái cây chứa nhiều chất có lợi cho cơ thể con người, giúp giảm nguy cơ nhồi máu cơ tim, đột quỵ, tiểu đường và nhiều loại bệnh ung thư.\n\n\"Cuộc chiến\" oxy hóa\n\nCác phản ứng oxy hóa là một trong những nguyên nhân hàng đầu gây lão hóa sớm. Một chế độ dinh dưỡng lành mạnh, có nhiều trái cây (và rau củ) cung cấp nguồn đề kháng chính yếu cho cơ thể chống lại sự oxy hóa.\n\nCác phản ứng oxy hóa được kích hoạt bởi các hợp chất hóa học còn được biết đến là các gốc tự do. Mỗi ngày, một tế bào phải chịu đựng khoảng 10.000 lần oxy hóa từ các gốc tự do. Những cuộc \"tấn công\" này gây tổn thương cho protein, chất béo, màng tế bào và chất liệu di truyền (ADN); từ đó dẫn đến nhiều căn bệnh như:\n\n- Chứng xơ vữa động mạch\n\n- Bệnh mạch vành (tình trạng thu hẹp các mạch máu nhỏ cung cấp máu và oxy cho tim)\n\n- Bệnh cao huyết áp và đột quỵ\n\n- Bệnh tiểu đường\n\n- Hư hỏng thị giác do đục thủy tinh thể và thoái hóa điểm vàng\n\n- Lão hóa da sớm\n\n- Những bệnh viêm mãn tính như viêm khớp\n\n- Bệnh Alzheimer và các bệnh suy giảm trí tuệ khác\n\n- Bệnh Parkinson\n\n- Suy giảm miễn dịch\n\n- Giảm khả năng sinh sản\n\n- Dị tật bẩm sinh\n\n- Ung thư\n\nCác gốc tự do\n\nĂn nhiều trái cây sẽ giúp cơ thể chống lại những tác động gây tổn thương của các gốc tự do. Các gốc tự do được sản sinh liên tục trong cơ thể là kết quả của:\n\n• những phản ứng chuyển hóa bình thường (và bất thường)\n\n• sự co cơ trong quá trình vận động\n\n• hút thuốc lá\n\n• tiếp xúc với tác nhân ô nhiễm trong môi trường\n\n• tiếp xúc với tia X\n\n• tiếp xúc với tia cực tím (UVA) từ ánh nắng mặt trời\n\n• uống quá nhiều rượu bia\n\n• tác động của một số loại thuốc, đặc biệt là kháng sinh và paracetamol\n\n\"Thần dược\" từ thiên nhiên\n\nCác hoạt chất thực vật (phytochemicals) cung cấp nhiều lợi ích: một số có khả năng chống oxy hóa mạnh, một số khác đóng vai trò như hormone hoặc hoạt chất kháng viêm trong cơ thể. Dưới đây là một số hoạt chất thực vật tìm thấy trong trái cây:\n\nHấp thu tối đa các hoạt chất chống oxy hóa\n\nCác nhà khoa học đã thiết lập một xét nghiệm gọi là khả năng hấp thu gốc oxy (Oxygen Radical Absorbance Capacity, ORAC) để đánh giá tiềm năng chống oxy hóa của các loại thực phẩm khác nhau.\n\nChúng ta cần hấp thu ít nhất 7.000 đơn vị ORAC mỗi ngày để đạt được hiệu quả chống lão hóa. Những người tiêu thụ 9 phần (khoảng 100g) trái cây và rau củ một ngày có thể đạt 20.000 đơn vị ORAC, làm giảm đáng kể tác động nguy hại của các gốc tự do.\n\nHãy tham khảo chỉ số ORAC (tính trên 100g thực phẩm) của các loại trái cây được liệt kê trong bảng bên phải và dùng chúng để tối đa hóa lượng thực phẩm chống oxy hóa ăn vào của bạn.\n\n5 phần (hoặc hơn) mỗi ngày, Tại sao?\n\nTheo nghiên cứu, những người tiêu thụ càng nhiều trái cây và rau củ sẽ có ít nguy cơ mắc các bệnh mãn tính hơn. Ăn trên 5 phần/ngày sẽ mang lại lợi ích đáng kể cho sức khỏe.\n\nTrái cây và rau củ giúp bảo vệ cơ thể phòng chống bệnh ung thư, bệnh động mạch vành, đột quỵ và có lẽ cả tiểu đường; ngoài ra có thể làm giảm nguy cơ bị đục thủy tinh thể, túi thừa đại tràng, loãng xương và béo phì.\n\nung thư\n\nƯớc tính có đến 70% các loại bệnh ung thư có liên quan đến chế độ dinh dưỡng. Một tổng kết dựa trên hơn 200 nghiên cứu lâm sàng đã cho thấy hiệu quả ổn định của trái cây trong việc bảo vệ cơ thể chống lại các bệnh ung thư, như: dạ dày, thực quản, phổi, miệng/cổ họng, tử cung, tuyến tụy và đại tràng; vì vậy ăn càng nhiều trái cây sẽ càng có lợi cho sức khỏe. Một trong những loại quả bảo vệ tốt nhất cho cơ thể là cà chua, do có chứa sắc tố carotenoid đỏ và lycopene.\n\nđột quỵ\n\nMột phân tích từ 8 nghiên cứu trên hơn 257.000 người cho thấy khi ăn từ 3 – 5 phần trái cây và rau củ mỗi ngày sẽ làm giảm 11% nguy cơ đột quỵ so với người ăn dưới 3 phần mỗi ngày; còn nếu ăn trên 5 phần/ngày sẽ làm giảm nguy cơ đột quỵ đến 26%. Nhìn chung, mỗi phần trái cây ăn thêm làm giảm nguy cơ đột quỵ thêm 11%.\n\nBệnh động mạch vành\n\nTheo một nghiên cứu khác, với 278.000 đối tượng tham gia, khi ăn từ 3 – 5 phần trái cây và rau củ mỗi ngày sẽ làm giảm 7% nguy cơ mắc bệnh động mạch vành; còn ăn trên 5 phần/ngày có thể làm giảm đến 17% nguy cơ. Cả trái cây và rau củ đều hiệu quả trong việc phòng chống bệnh tim, đặc biệt là các loại quả họ cam chanh, quả họ dâu và ớt chuông.\n\nTiểu đường\n\nKết quả phân tích dữ liệu từ 10 cuộc nghiên cứu với tổng số hơn 190.000 người tham gia cho thấy chế độ dinh dưỡng lành mạnh nhất (bao gồm trái cây) sẽ làm giảm đến 83% nguy cơ phát triển bệnh tiểu đường tuýp 2 so với người ăn ít rau, trái hơn.\n\nQuả quen mà nên thuốc!\n\nCác loại trái cây sau đây đặc biệt hữu ích. Nếu có thể, hãy đưa chúng vào chế độ ăn của bạn.\n\nMỗi hàng dưới đây tính là một phần ăn\n\n- 1 quả táo/ cam/ lê/ đào/ kiwi/ lựu hoặc quả có cùng kích cỡ\n\n- 2 quả qu­t đường/ chuối/ mận/ mơ/ cà chua hoặc quả có cùng kích cỡ\n\n- ­ quả bưởi/ ổi/ xoài/ dưa lưới hoặc bơ\n\n- 1 nắm nho, cherry, việt quất hoặc dâu tây\n\n- 1 ly nước ép trái cây (100 ml)\n\nChất xơ hòa tan\n\nTrái cây (và rau củ) cung cấp nhiều chất xơ hòa tan giúp làm chậm quá trình hấp thu chất béo và carbohydrate, ngăn chặn sự gia tăng đột ngột lượng đường và axit béo trong máu. Do vậy ăn vào càng nhiều trái cây và rau củ thì càng ít có nguy cơ mắc bệnh tiểu đường tu­p 2, bệnh động mạch vành và đột quỵ.\n\nCách phối trộn\n\nĂn đa dạng các loại quả với nhiều màu sắc khác nhau để có thể hấp thu lợi ích tối đa.\n\nNước ép = 1 phần/ngày (do đã mất một lượng chất xơ)\n\nSinh tố hoa quả xay nhuyễn = 2 phần/ngày (do vẫn còn nguyên lượng chất xơ)\n\nCà chua\n\n2\nĂN NHIỀU RAU CỦ\n\nR\nau củ là nguồn thực phẩm giàu chất xơ, vitamin, chất khoáng, hoạt chất chống oxy hóa và các hormone thực vật giúp bảo vệ cơ thể chống lại các bệnh do quá trình lão hóa gây ra. Các nghiên cứu cho thấy, ăn nhiều rau củ có thể cải thiện sức khỏe toàn diện.\n\nVới 2 phần rau củ mỗi ngày, hiệu suất hoạt động của các cơ quan trong cơ thể sẽ tăng thêm 10%. Do vậy, người ăn nhiều rau củ sẽ sống lâu hơn.\n\nNhững loại rau củ thuộc họ cải có nhiều lợi ích đặc biệt vì chúng chứa nhiều hợp chất thuộc nhóm glucosinolate (tạo mùi vị hăng cay) và hoạt chất chống oxy hóa carotenoid (những sắc tố thực vật vàng/cam/đỏ).\n\nNhững người có nồng độ carotenoid trong máu cao nhất, đặc biệt là alpha-carotene, có khả năng giảm nguy cơ tử vong do bệnh tật (trong đó có bệnh tim và ung thư) đến 40%. Alpha- carotene có hoạt tính ức chế sự tăng trưởng của các tế bào ung thư cao gấp 10 lần so với hoạt chất carotenoid tương tự là beta-carotene. Alpha-carotene được tìm thấy trong các loại rau củ có màu xanh lục (bông cải xanh, đậu que, rau bó xôi, rau diếp…) và vàng (cà rốt, khoai lang, bí đỏ)\n\nHấp thu đủ các chất chống oxy hóa\n\nTiềm năng chống oxy hóa của rau củ cũng được đánh giá bằng chỉ số ORAC. Chỉ số ORAC của các loại rau củ (tính trên 100g thực phẩm) được trình bày trang bên sẽ giúp bạn tăng tối đa lượng thực phẩm chống oxy hóa ăn vào.\n\nBí quyết sống lâu của người nhật\n\nNhật được xem là một trong số các dân tộc có tuổi thọ cao nhất trên thế giới, thậm chí chưa quốc gia nào mà người dân có sức khỏe ngang bằng với người dân nước này. Những người sống ở đảo Okinawa (phía nam) còn sống lâu hơn các cư dân ở phía bắc nước Nhật và hiếm khi mắc các bệnh liên quan đến lão hóa như: tiểu đường, nhồi máu cơ tim, đột quỵ, ung thư. Vậy bí mật nằm ở đâu?\n\nTuổi thọ hiếm có và sức khỏe của người dân Okinawa được cho là do chế độ ăn truyền thống nhiều rau củ, ít calo nhưng nhiều vitamin, khoáng chất và hoạt chất chống oxy hóa.\n\nThực đơn trường sinh\n\nMột bữa ăn cơ bản của người dân okinawa bao gồm:\n\n• Súp miso, có rong biển, đậu hũ, khoai lang, các loại rau lá xanh\n\n• Rau xào – củ cải trắng, củ ngưu bàng, đậu bắp, bí đỏ\n\n• Rong biển phổ tai (kombu)\n\n• Miến konnyaku (sợi miến trong suốt được chế biến từ một loại khoai)\n\n• Một ít cá hoặc thịt heo luộc\n\n• Trà hoa lài\n\nThay vì ăn cơm như bao người Nhật khác, món chính trong khẩu phần của họ là một loại khoai lang. Khoai lang ruột vàng là loại thực phẩm giàu carotenoid và các hormone thực vật như phytoestrogen. Các hoạt chất này có vai trò chống oxy hóa, làm giảm sưng viêm; đồng thời xoa dịu các triệu chứng mãn kinh và giúp phòng chống một số bệnh ung thư, đặc biệt là ung thư vú và ung thư tuyến tiền liệt. Khoai lang được dùng phổ biến trong các món nướng, súp… như các loại khoai khác.\n\n5 phần/ngày\n\nHãy hướng đến mục tiêu ăn tối thiểu 3 phần/ngày, và tốt hơn là 5 phần (hoặc hơn) các loại rau củ khác nhau, không tính đến khoai tây trắng nhiều tinh bột. Không tính (và nếu được thì không ăn!) các loại rau củ muối đóng hộp vì chúng chứa nhiều natri gây tăng huyết áp.\n\nĂn càng đa dạng các loại rau củ càng tốt.\n\n• 1 phần ăn = 1 nắm rau củ thái nhỏ, như: cà rốt, bắp cải, rau xà lách, bắp ngọt, bông cải xanh\n\n• 1 chén rau trộn\n\n• 1 chén canh\n\n• 1 ly nước ép rau củ (100 ml)\n\n\"Chất xanh\" của sự sống!\n\nƯớc tính trong năm 2000, việc ăn ít trái cây và rau củ đã gây ra khoảng 2,6 triệu ca tử vong trên toàn thế giới. Cũng giống như trái cây, các dưỡng chất có trong rau củ giúp cơ thể phòng chống ung thư, bệnh động mạch vành, đột quỵ và tiểu đường. Ăn nhiều rau củ cũng giúp giảm nguy cơ mắc bệnh đục thủy tinh thể, thoái hóa điểm vàng, bệnh túi thừa, loãng xương và béo phì.\n\nhuyết áp\n\nRau củ chứa một số chất có khả năng làm hạ huyết áp, bao gồm kali, ma-giê và canxi. Ăn nhiều rau củ có thể làm giảm huyết áp khoảng 4,0/1,5 mmHg, mức giảm này có thể hạ thấp đáng kể nguy cơ bị nhồi máu cơ tim hoặc đột quỵ.\n\nđột quỵ\n\nTheo các nghiên cứu với tổng cộng hơn 250.000 người tham gia, ăn từ 3 – 5 phần trái cây và rau củ một ngày giúp giảm nguy cơ bị đột quỵ đến 11%; và ăn trên 5 phần một ngày sẽ giảm nguy cơ bị đột quỵ đến 26% so với những người ăn dưới 3 phần mỗi ngày.\n\nTiểu đường\n\nMột tổng kết 6 nghiên cứu trên 223.000 người cho thấy những người ăn nhiều rau lá xanh sẽ ít có nguy cơ mắc bệnh tiểu đường tuýp 2. Ăn thêm 1 ½ phần rau xanh (khoảng 122g) một ngày có thể giảm nguy cơ mắc bệnh tiểu đường tuýp 2 đến 14%.\n\nBệnh động mạch vành ung thư\n\nTương tự, các nghiên cứu cho thấy khi ăn từ 3 – 5 phần trái cây và rau củ một ngày giúp giảm nguy cơ mắc bệnh động mạch vành đến 7%; và ăn trên 5 phần một ngày sẽ giảm nguy cơ bệnh đến 17%.\n\n7/10 bệnh ung thư có liên quan đến chế độ dinh dưỡng. Ăn nhiều rau củ sẽ giúp phòng chống các bệnh ung thư như: dạ dày, thực quản, phổi, miệng, cổ họng, tử cung, tuyến tụy và đại tràng. Nên ăn sống các loại rau củ như hành tây, tỏi, cà rốt, rau xanh và các loại rau củ họ cải để có được nhiều lợi ích nhất."
+}

@@ -1,0 +1,243 @@
+{
+  "item_id": 12692,
+  "title": "Rau củ chữa bệnh",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:09:15.694Z",
+  "input_book": {
+    "id": 12692,
+    "title": "Rau củ chữa bệnh",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/12692.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Rau quả sạch l&agrave; nguồn dinh dưỡng tự nhi&ecirc;n v&agrave; chứa nhiều b&agrave;i thuốc qu&yacute; đối với con người, đặc biệt với chị em đ&acirc;y c&ograve;n l&agrave; nguồn mỹ phẩm l&agrave;m đẹp th&ocirc;ng dụng.</p>\r\n<p>Cuốn s&aacute;ch n&agrave;y chắc chắn sẽ mang đến cho độc giả những nguồn th&ocirc;ng tin bổ &iacute;ch để bạn c&oacute; thể nắm r&otilde; v&agrave; tận dụng tốt nhất những th&agrave;nh phần gi&aacute; trị của rau củ. Mỗi loại reu quả được giới thiệu theo những đề mục sau:</p>\r\n<p>- Tinh vị</p>\r\n<p>- C&ocirc;ng dụng</p>\r\n<p>- T&aacute;c dụng trị bệnh</p>\r\n<p>- Lưu &yacute; khi d&ugrave;ng</p>\r\n<p>- Th&agrave;nh phần dinh dưỡng</p>\r\n<p>- Th&ocirc;ng tin bổ sung</p>\r\n<p>- C&aacute;c b&agrave;i thuốc chữa bệnh</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5823",
+        "name": "Vương Ngọc Điền"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách nói_Trinh thám - Kinh dị_56.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Sức khỏe - Làm đẹp_102.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 07:43:47",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 12692,
+      "title": "Rau củ chữa bệnh",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Rau quả sạch l&agrave; nguồn dinh dưỡng tự nhi&ecirc;n v&agrave; chứa nhiều b&agrave;i thuốc qu&yacute; đối với con người, đặc biệt với chị em đ&acirc;y c&ograve;n l&agrave; nguồn mỹ phẩm l&agrave;m đẹp th&ocirc;ng dụng.</p>\r\n<p>Cuốn s&aacute;ch n&agrave;y chắc chắn sẽ mang đến cho độc giả những nguồn th&ocirc;ng tin bổ &iacute;ch để bạn c&oacute; thể nắm r&otilde; v&agrave; tận dụng tốt nhất những th&agrave;nh phần gi&aacute; trị của rau củ. Mỗi loại reu quả được giới thiệu theo những đề mục sau:</p>\r\n<p>- Tinh vị</p>\r\n<p>- C&ocirc;ng dụng</p>\r\n<p>- T&aacute;c dụng trị bệnh</p>\r\n<p>- Lưu &yacute; khi d&ugrave;ng</p>\r\n<p>- Th&agrave;nh phần dinh dưỡng</p>\r\n<p>- Th&ocirc;ng tin bổ sung</p>\r\n<p>- C&aacute;c b&agrave;i thuốc chữa bệnh</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "04/05/2016",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/rau-cu-chua-benh-vuong-ngoc-dien-bwmQ5W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/rau-cu-chua-benh-vuong-ngoc-dien-bwmQ5W.html?std=type%3D1%26data%3D12692%26title%3DRau%2Bc%25E1%25BB%25A7%2Bch%25E1%25BB%25AFa%2Bb%25E1%25BB%2587nh%26mini_app%3D1&type=1&data=12692&title=Rau+c%E1%BB%A7+ch%E1%BB%AFa+b%E1%BB%87nh&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "40",
+          "name": "NXB Phụ Nữ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5823",
+          "name": "Vương Ngọc Điền",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5823.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5823\",\"name\":\"Vương Ngọc Điền\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5823.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Vương Ngọc Điền",
+      "author_id": "5823",
+      "category_id": "102",
+      "category_name": "Sức khỏe - Làm đẹp",
+      "categories": [
+        {
+          "id": "102",
+          "name": "Sức khỏe - Làm đẹp",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 3,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 141,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=12692&title=rau-cu-chua-benh",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=12692&title=rau-cu-chua-benh#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1465270030,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/12692.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 2933,
+      "number_view": 3739,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/rau-cu-chua-benh-bwmQ5W.html?std=type%3D1%26data%3D12692&type=1&data=12692",
+      "read_link": "https://ebook.waka.vn/rau-cu-chua-benh-rwmQ5W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 5,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 4,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/content.opf?token=0c7a3ze29779a8bb44ed4fa8da71d3dd8eb29f12692",
+        "id": 12692,
+        "chapter_trail": 7,
+        "name": "Rau củ chữa bệnh",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 4,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/rau-cu-chua-benh-rwmQ5W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nCải bó xôi\nRau tần ô\nCải bắp\nRau dền\nCải thìa\nCần tây\nCải thảo\nHẹ\nGừng\nBông cải\nCà chua\nMăng tre\nBầu\nMướp\nDưa leo\nBí đao\nKhổ qua\nBí đỏ\nCủ cải trắng\nCà dốt\nKhoai tây\nKhoai lang\nCủ từ\nKhoai sọ\nNấm hương\nMộc nhĩ\nNgân nhĩ\nRong biển\nCủ sen"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Cải bó xôi",
+      "progress": null,
+      "text": "CẢI BÓ XÔI\n\nGIÀU DINH DƯỠNG, TĂNG CƯỜNG SỰ TIẾT DỊCH CỦA LÁ LÁCH VÀ KHẢ NĂNG TIÊU HÓA\n\nTÍNH VỊ\n\nCải bó xôi: vị ngọt, tính bình.\n\nPhần để ăn: cả cây.\n\nPhần dùng làm thuốc: cả cây, rễ, hạt.\n\nCÔNG DỤNG\n\nCải bó xôi: bổ huyết, cầm máu, lợi ngũ tạng, thông huyết mạch, nhuận trường, thanh nhiệt, trừ phiền, sinh tân dịch, dưỡng gan, sáng mắt, hỗ trợ tiêu hóa.\n\nHạt: làm mát gan, sáng mắt, hết ho, suyễn.\n\nTÁC DỤNG TRỊ BỆNH\n\nCải bó xôi trị cao huyết áp, đau đầu, hoa mắt, tiêu khát, mắt đỏ, táo bón mãn tính, trĩ, viêm môi lưỡi, lở mép, quáng gà, cholesterol cao, táo bón khi mang thai, chảy nước mắt khi gặp gió, rụng tóc, táo bón ở người già, răng yếu, thiếu máu, viêm khớp, phong thấp.\n\nCách dùng: liều lượng đủ dùng, nấu canh ăn hoặc giã nát ép lấy nước uống.\n\nHạt cải bó xôi trị viêm túi mật, ho, lao phổi, viêm khí quản và nhánh khí quản mãn tính, đau mắt đỏ, viêm gan, hoàng đản.\n\nCách dùng: 10 - 25g, sắc nước hoặc tán bột uống.\n\nRễ cải bó xôi trị tóc bạc sớm, tiểu đường, cao huyết đáp.\n\nLƯU Ý KHI DÙNG\n\n1. Nấu chung cải bó xôi với các thực phẩm chứa nhiều canxi có thể phòng kết sỏi.\n\n2. Người tràng vị hư nhược không được ăn sống.\n\n3. Người bị lao phổi, phụ nữ mang thai bị gãy xương, người bị bệnh kết sỏi không nên ăn nhiều.\n\nTHÔNG TIN BỔ SUNG\n\n1. Cải bó xôi có thể tăng cường sự tiết dịch của lá lách, có tác dụng hỗ trợ tiêu hóa. Thường ăn cải bó xôi giúp duy trì thị lực và làm tế bào da khỏe mạnh, phòng trừ các bệnh quáng gà, tăng cường sức đề kháng các bệnh truyền nhiễm, phòng lở mép, viêm môi miệng, viêm lưỡi, viêm da, viêm âm nang v.v. Ngoài ra, cải bó xôi còn có tác dụng tăng cường sự phát triển ở trẻ em.\n\n2. Cải bó xôi giàu chất dinh dưỡng, có thể dưỡng huyết, cầm máu, nhuận trường, thường dùng hỗ trợ trị bệnh thiếu máu, táo bón, cao huyết đáp, tiểu đường.\n\n(*) μg: microgram = 1 phần triệu gram (**) mg: miligram = 1 phần ngàn gram\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẢI BÓ XÔI\n\n(*) Hoàng kỳ: Một loại trầm hương, có màu xanh, còn được gọi là Thanh kỳ."
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Rau tần ô",
+      "progress": null,
+      "text": "RAU TẦN Ô\nGIÀU CHẤT CAROTENE, DƯỠNG TÂM, AN THẦN, BỔ NÃO, HẠ HUYẾT ÁP, KÍCH THÍCH DỊCH VỊ\n\nTÍNH VỊ\n\nRau tần ô (cải cúc): tính ôn, vị ngọt, chát.\n\nPhần để ăn: cọng, lá.\n\nPhần dùng làm thuốc: rễ, cọng, lá, hoa.\n\nTÁC DỤNG TRỊ BỆNH\n\nRau tần ô: Bình can bổ thận; trị chứng đi tiểu nhiều lần; giúp lưu thông khí huyết; trị chứng hồi hộp (tim đập mạnh, đánh trống ngực), mất ngủ, nằm mơ nhiều, tâm phiền bất an, ho nhiều đờm, tiêu chảy, sưng dạ dày, đêm đi tiểu nhiều lần; trợ giúp tiêu hóa; khai vị.\n\nCách dùng:\n\n1. Tinh dầu trong tần ô gặp nóng dễ bay hơi, nên khi chế biến ta cần dùng lửa lớn nấu nhanh.\n\n2. Nấu chung tần ô với thịt, trứng… khi ăn có thể làm tăng khả năng hấp thụ vitamin A.\n\nLƯU Ý KHI DÙNG\n\n1. Thích hợp với người bị bệnh cao huyết đáp, người lao động trí óc, thiếu máu, gãy xương.\n\n2. Tần ô vị cay, thơm và tính nhuận, do đó người vị hư, tiêu chảy không nên ăn nhiều.\n\nTHÔNG TIN BỔ SUNG\n\n1. Trong tần ô chứa tinh dầu có mùi thơm đặc trưng, có thể giúp tiêu hóa, khai vị. Hàm lượng vitamin, carotene phong phú cùng với nhiều loại amino axit, có tác dụng dưỡng tâm an thần, hạ huyết đáp, bổ não, thanh huyết, hóa đờm, nhuận phế, bổ can, ổn định tinh thần, phòng giảm trí nhớ.\n\n2. Tần ô có hàm lượng chất xơ thô cao giúp tăng cường nhu động ruột, lợi tiểu tiện.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ TẦN Ô"
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Cải bắp",
+      "progress": null,
+      "text": "CẢI BẮP\n\nGIẢM ĐAU, CHỐNG UNG THƯ, PHÒNG NGỘ ĐỘC RƯỢU\n\nTÍNH VỊ\n\nCải bắp: vị ngọt, tính bình.\n\nLá cải bắp: vị ngọt, tính bình.\n\nPhần để ăn: lá.\n\nPhần dùng làm thuốc: lá, nước cốt, hạt.\n\nTÁC DỤNG TRỊ BỆNH\n\nCải bắp: trị loét dạ dày, tá tràng, tỳ vị hư, mất ngủ, bồi bổ dạ dày, thông tiện, trị đau và trướng bụng, đau đổ bụng, biếng ăn, tan mệt mỏi.\n\nLá cải bắp: trị bệnh hoàng đản, dạ dày đau và trướng, trị bệnh khớp.\n\nCách dùng: dùng khoảng 200 - 300ml nước cốt uống hoặc lấy lá nấu canh ăn.\n\nHạt: trị bệnh thèm ngủ.\n\nCÔNG DỤNG\n\nCải bắp: dưỡng vị ích tỳ, giảm đau, lợi ngũ tạng, ích thận, giúp miệng vết thương mau lành.\n\nLá cải bắp: thanh nhiệt, lợi thấp, ích thận, thông kinh mạch.\n\nNước cốt: có tác dụng trị đau loét dạ dày, tá tràng, giúp vết thương mau lành.\n\nLƯU Ý KHI DÙNG\n\n1. Cải bắp nếu ăn không quen có thể gây tiêu chảy, do đó những người bị lạnh dạ dày nên cẩn thận khi dùng.\n\n2. Nếu ăn thường xuyên, tốt nhất là nêm bằng muối đi-ốt, để phòng bướu cổ.\n\nTHÔNG TIN BỔ SUNG\n\n1. Cải bắp có thể ăn sống, xào hoặc nấu chín, có tác dụng hỗ trợ tiêu hóa.\n\n2. Cải bắp còn giúp giảm đau thần kinh, phòng trị ngộ độc rượu, giải độc gan.\n\n3. Nước cốt cải bắp có hiệu quả đặc biệt đối với bệnh loét dạ dày, ăn thường xuyên sẽ giúp kiện tỳ ích thận, giảm đau, bổ tủy, lợi khớp, chống ung thư.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẢI BẮP"
+    },
+    {
+      "chapterIndex": "page0007.xhtml",
+      "chapterHref": "contents/page0007.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0007.xhtml",
+      "chapterLabel": "Rau dền",
+      "progress": null,
+      "text": "RAU DỀN\n\nCÒN GỌI LÀ \"RAU TRƯỜNG THỌ\", RẤT GIÀU ĐẠM VÀ CHẤT BÉO\n\nTÍNH VỊ\n\nRau dền: tính mát, vị hơi ngọt.\n\nPhần để ăn: cọng non, lá non.\n\nPhần dùng làm thuốc: cả cây và củ rễ.\n\nTÁC DỤNG TRỊ BỆNH\n\nRau dền: Thanh nhiệt lợi thấp; làm mát máu, cầm máu; ngưng kiết lỵ; chủ trị bệnh lỵ trực khuẩn, tiểu tiện không thông, mắt đỏ, đau họng, chảy máu cam.\n\nCách dùng: 15 - 20g hạt; rễ, cọng khoảng 25 - 50g; đem sắc nước uống.\n\nLƯU Ý KHI DÙNG\n\n1. Người có tỳ vị hư hàn không nên ăn; người dạ dày, ruột có khí hàn, dễ bị tiêu chảy cũng không nên ăn nhiều.\n\n2. Rau dền không được dùng chung với ba ba, nếu không có thể dẫn đến ngộ độc.\n\nTHÔNG TIN BỔ SUNG\n\n1. Rau dền vị ngọt, tính mát nên có tác dụng giải nhiệt lợi thấp, mát gan giải độc, sáng mắt, mát máu tán ứ, hỗ trợ trị các chứng bệnh lỵ trực khuẩn do phong nhiệt, đau mắt đỏ do viêm gan, nóng gan, yết hầu sưng đỏ…\n\n2. Rau dền giàu chất dinh dưỡng, tăng cường thể chất, chứa nhiều protein, chất béo, các loại đường, nhiều loại vitamin và khoáng chất. Protein trong rau dền dễ hấp thụ hơn so với ạm sữa bò, hàm lượng carotene của nó cao gấp hơn 2 lần so với các loại cà, có thể cung cấp nhiều chất dinh dưỡng cho cơ thể, có lợi cho sức khỏe, tăng sức đề kháng của cơ thể, cho nên rau dền còn được mệnh danh là \"rau trường thọ\".\n\n3. Hàm lượng chất sắt trong rau dền cao gấp ôi, và lượng canxi cao gấp 4 lần so với cải bó xôi, chính vì thế nó là loại rau vượt trội về dinh dưỡng trong tất cả các loại rau. Rau dền không chứa oxalic axit; các chất canxi, sắt vào cơ thể rất dễ được hấp thu. Rau dền còn có thể đẩy nhanh sự sinh rưởng đủa trẻ em, giúp mau liền xương gãy.\n\n4. Rau dền giúp duy trì hoạt động bình thường của cơ tim, phòng co giật cơ (chuột rút). Thực phẩm này hàm lượng sắt, canxi và vitamin K phong phú, có tác dụng làm đông máu, tăng hàm lượng hemoglobin trong máu, đồng thời tăng cường khả năng vận chuyển oxy, thúc đẩy quá trình tạo máu mới… Thường xuyên ăn rau dền còn có thể giảm béo, thải chất độc, phòng và trị táo bón.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ RAU DỀN"
+    },
+    {
+      "chapterIndex": "page0008.xhtml",
+      "chapterHref": "contents/page0008.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0008.xhtml",
+      "chapterLabel": "Cải thìa",
+      "progress": null,
+      "text": "CẢI THÌA\nCHỨA HÀM LƯỢNG CANXI RẤT CAO, CÓ TÁC DỤNG GIẢI ĐỘC VÀ NGỪA UNG THƯ\n\nTÍNH VỊ\n\nCải thìa: vị cay, ngọt, tính bình.\n\nHạt cải thìa: vị cay, ngọt, tính bình.\n\nDầu hạt cải thìa: vị cay, ngọt, tính bình.\n\nPhần để ăn: thân non.\n\nPhần dùng làm thuốc: thân, hạt, dầu hạt.\n\nTÁC DỤNG TRỊ BỆNH\n\nThân: trị đại tiện ra máu, viêm cơ tim, ứ huyết đau bụng sau khi sinh, chứng giảm bạch cầu, sưng độc, bệnh viêm quầng, táo bón, kiết lỵ, đại tiện ra máu, huyết áp cao, cholesterol cao.\n\nCách dùng: 50 - 250g, nấu ăn hoặc giã nát lấy nước uống, mỗi lần khoảng 20 - 100 ml.\n\nDùng ngoài da: sắc nước rửa hoặc giã ắp.\n\nLá cải thìa: trị kiết lỵ, bệnh tim mạch vành, sưng độc, mụn nhọt.\n\nRễ cải thìa: trị sưng độc do phong nhiệt.\n\nHạt cải thìa: trị sốt rét, viêm cổ tử cung mãn tính, bệnh viêm quầng ở trẻ em, di tinh, vô sinh, viêm quầng sưng và tê, sản dịch ra không ngừng sau khi sinh, ứ huyết, đau bụng, đau bụng kinh, đại tiện ra máu, kiết lỵ ra máu, táo bón, tắc dính ruột, phong thấp sưng khớp.\n\nCách dùng: 5 - 15g, sắc nước uống.\n\nDùng ngoài da: nghiền nát rồi bôi lên vết thương.\n\nDầu hạt cải thìa: trị trùn vào tai, ngứa da, sưng tê, táo bón, bị bỏng.\n\nCách dùng: uống 10 - 15 ml.\n\nDùng ngoài da: bôi, xoa bóp.\n\nCÔNG DỤNG\n\nThân cải thìa: hoạt huyết, nhuận trường, giải độc, giảm sưng phù, lọc máu, giảm huyết áp, cầm máu.\n\nDầu hạt cải thìa: giải độc, giảm sưng phù, nhuận trường.\n\nHạt cải thìa: giúp máu lưu thông, tiêu chỗ sưng phù, nhuận trường.\n\nLƯU Ý KHI DÙNG\n\n1. Người sau khi bị sởi, bị mụn ghẻ, bị bệnh về mắt không nên ăn rau cải thìa.\n\n2. Người bệnh huyết hư tuyệt đối không dùng hạt cải thìa.\n\n3. Người bị tiêu chảy cẩn thận khi dùng dầu hạt cải thìa.\n\n4. Người bị mồ hôi nặng mùi có thể ăn cải thìa để trị bệnh.\n\nTHÔNG TIN BỔ SUNG\n\n1. Cải thìa có hai loại: loại có hoa và không hoa, đều có thể dùng thay thế cho nhau. Cải thìa chứa hàm lượng xơ thực vật lớn, có tác dụng tăng cường nhu động ruột, đẩy nhanh quá trình tiêu hóa, trị táo bón và phòng u xơ đường ruột.\n\n2. Cải thìa là loại rau có thể giảm sự hấp thụ các chất béo, đồng thời giảm lượng cholesterol trong máu.\n\n3. Cải thìa có tác dụng tăng cường cơ chế thải chất độc trong gan, giải độc và ngừa ung thư.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẢI THÌA\n\n(*) Bán hạ: Loài cây có họ với khoai sọ, hoa màu đỏ, củ dùng làm thuốc.\n\n(**) Phục linh: Còn có tên Bạch linh, Bạch phục linh, là một loại nấm mọc trên rễ cây thông."
+    },
+    {
+      "chapterIndex": "page0009.xhtml",
+      "chapterHref": "contents/page0009.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12692_4/OEBPS/contents/page0009.xhtml",
+      "chapterLabel": "Cần tây",
+      "progress": null,
+      "text": "CẦN TÂY\n\nCÓ TÁC DỤNG HẠ HUYẾT ÁP, THANH NHIỆT GIẢI ĐỘC\n\nTÍNH VỊ\n\nCần tây (cần cạn): vị ngọt, cay, tính mát.\n\nCần nước (cần ta): vị cay, ngọt, tính mát.\n\nPhần để ăn: thân non.\n\nPhần dùng làm thuốc: thân, lá.\n\nCÔNG DỤNG\n\nThân cần tây: thanh nhiệt, lợi tiểu, bình can ích vị, tiêu đờm, điều kinh, an thần, giảm ho, hoạt huyết, tăng cường tuyến thận, cầm máu, giải độc.\n\nLá cần tây: có giá trị làm thuốc tốt hơn thân.\n\nCần nước: thanh nhiệt giải độc, lợi tiểu, cầm máu.\n\nTÁC DỤNG TRỊ BỆNH\n\nThân cần tây: trị ho, hen suyễn, nôn ra máu, cao huyết áp, nhức đầu, chóng mặt, trúng gió, tiểu ra máu, viêm tiểu cầu thận cấp tính, sỏi tiết niệu, tiểu đường, đau ruột thừa, tê liệt thần kinh vùng mặt, nổi mề ay, trật khớp, đổ mồ hôi trộm, kinh nguyệt không đều, có kinh sớm, ho gà, chảy máu cam, bệnh tưa(*), rụng tóc, chảy máu chân răng, nhiễm trùng rốn ở trẻ sơ sinh, rôm sảy, viêm dạ dày, ruột, thổ tả ở trẻ sơ sinh, ù tai, bệnh bạch hầu, gặp gió chảy nước mắt, viêm loét giác mạc, mắt sưng đau.\n\n(*) Bệnh tưa: Là loại bệnh nấm biểu hiện dưới dạng những đốm trắng như cặn sữa trong miệng.\n\nRễ cần tây: chống nôn mửa, trị bệnh lao phổi, viêm khí quản, thần kinh suy nhược, cao huyết áp, cholesterol cao, mất ngủ, bệnh giun chỉ, xuất huyết sau khi sinh, bệnh tim - phổi.\n\nLá cần tây: trị bệnh sởi.\n\nCần nước: trị bệnh lỵ trực khuẩn, ái dắt, viêm tuyến mang tai, trẻ em phát sốt.\n\nLƯU Ý KHI DÙNG\n\n1. Người tỳ vị hư hàn không nên dùng.\n\n2. Người sốt cao, miệng khô, khát không được dùng.\n\n3. Rau cần không được nấu lâu, nếu không sẽ mất chất dinh dưỡng và ăn không ngon; cần cạn và cần nước có giá trị dinh dưỡng như nhau, nhưng cần cạn làm thuốc tốt hơn.\n\nCách dùng\n\nCẦN NƯỚC: cần nước tươi 50 - 370,5g ; sắc hoặc giã lấy nước uống.\n\nDùng ngoài da: giã nát bôi hoặc giã lấy nước ắp lên chỗ bị viêm.\n\nCẦN CẠN: cần cạn khô 15 - 25g, cần cạn tươi 40 - 75g, sắc nước uống.\n\nDùng ngoài da: giã nát rồi bôi hoặc sắc nước rửa.\n\nTHÔNG TIN BỔ SUNG\n\n1. Ăn cần tây thường xuyên có tác dụng điều trị cao huyết áp, xơ cứng động mạch, cùng với bệnh loãng xương ở trẻ em.\n\n2. Cần tây còn có tác dụng thanh nhiệt, bình can, sáng mắt.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẦN TÂY"
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nCải bó xôi\nRau tần ô\nCải bắp\nRau dền\nCải thìa\nCần tây\nCải thảo\nHẹ\nGừng\nBông cải\nCà chua\nMăng tre\nBầu\nMướp\nDưa leo\nBí đao\nKhổ qua\nBí đỏ\nCủ cải trắng\nCà dốt\nKhoai tây\nKhoai lang\nCủ từ\nKhoai sọ\nNấm hương\nMộc nhĩ\nNgân nhĩ\nRong biển\nCủ sen\n\nCẢI BÓ XÔI\n\nGIÀU DINH DƯỠNG, TĂNG CƯỜNG SỰ TIẾT DỊCH CỦA LÁ LÁCH VÀ KHẢ NĂNG TIÊU HÓA\n\nTÍNH VỊ\n\nCải bó xôi: vị ngọt, tính bình.\n\nPhần để ăn: cả cây.\n\nPhần dùng làm thuốc: cả cây, rễ, hạt.\n\nCÔNG DỤNG\n\nCải bó xôi: bổ huyết, cầm máu, lợi ngũ tạng, thông huyết mạch, nhuận trường, thanh nhiệt, trừ phiền, sinh tân dịch, dưỡng gan, sáng mắt, hỗ trợ tiêu hóa.\n\nHạt: làm mát gan, sáng mắt, hết ho, suyễn.\n\nTÁC DỤNG TRỊ BỆNH\n\nCải bó xôi trị cao huyết áp, đau đầu, hoa mắt, tiêu khát, mắt đỏ, táo bón mãn tính, trĩ, viêm môi lưỡi, lở mép, quáng gà, cholesterol cao, táo bón khi mang thai, chảy nước mắt khi gặp gió, rụng tóc, táo bón ở người già, răng yếu, thiếu máu, viêm khớp, phong thấp.\n\nCách dùng: liều lượng đủ dùng, nấu canh ăn hoặc giã nát ép lấy nước uống.\n\nHạt cải bó xôi trị viêm túi mật, ho, lao phổi, viêm khí quản và nhánh khí quản mãn tính, đau mắt đỏ, viêm gan, hoàng đản.\n\nCách dùng: 10 - 25g, sắc nước hoặc tán bột uống.\n\nRễ cải bó xôi trị tóc bạc sớm, tiểu đường, cao huyết đáp.\n\nLƯU Ý KHI DÙNG\n\n1. Nấu chung cải bó xôi với các thực phẩm chứa nhiều canxi có thể phòng kết sỏi.\n\n2. Người tràng vị hư nhược không được ăn sống.\n\n3. Người bị lao phổi, phụ nữ mang thai bị gãy xương, người bị bệnh kết sỏi không nên ăn nhiều.\n\nTHÔNG TIN BỔ SUNG\n\n1. Cải bó xôi có thể tăng cường sự tiết dịch của lá lách, có tác dụng hỗ trợ tiêu hóa. Thường ăn cải bó xôi giúp duy trì thị lực và làm tế bào da khỏe mạnh, phòng trừ các bệnh quáng gà, tăng cường sức đề kháng các bệnh truyền nhiễm, phòng lở mép, viêm môi miệng, viêm lưỡi, viêm da, viêm âm nang v.v. Ngoài ra, cải bó xôi còn có tác dụng tăng cường sự phát triển ở trẻ em.\n\n2. Cải bó xôi giàu chất dinh dưỡng, có thể dưỡng huyết, cầm máu, nhuận trường, thường dùng hỗ trợ trị bệnh thiếu máu, táo bón, cao huyết đáp, tiểu đường.\n\n(*) μg: microgram = 1 phần triệu gram (**) mg: miligram = 1 phần ngàn gram\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẢI BÓ XÔI\n\n(*) Hoàng kỳ: Một loại trầm hương, có màu xanh, còn được gọi là Thanh kỳ.\n\nRAU TẦN Ô\nGIÀU CHẤT CAROTENE, DƯỠNG TÂM, AN THẦN, BỔ NÃO, HẠ HUYẾT ÁP, KÍCH THÍCH DỊCH VỊ\n\nTÍNH VỊ\n\nRau tần ô (cải cúc): tính ôn, vị ngọt, chát.\n\nPhần để ăn: cọng, lá.\n\nPhần dùng làm thuốc: rễ, cọng, lá, hoa.\n\nTÁC DỤNG TRỊ BỆNH\n\nRau tần ô: Bình can bổ thận; trị chứng đi tiểu nhiều lần; giúp lưu thông khí huyết; trị chứng hồi hộp (tim đập mạnh, đánh trống ngực), mất ngủ, nằm mơ nhiều, tâm phiền bất an, ho nhiều đờm, tiêu chảy, sưng dạ dày, đêm đi tiểu nhiều lần; trợ giúp tiêu hóa; khai vị.\n\nCách dùng:\n\n1. Tinh dầu trong tần ô gặp nóng dễ bay hơi, nên khi chế biến ta cần dùng lửa lớn nấu nhanh.\n\n2. Nấu chung tần ô với thịt, trứng… khi ăn có thể làm tăng khả năng hấp thụ vitamin A.\n\nLƯU Ý KHI DÙNG\n\n1. Thích hợp với người bị bệnh cao huyết đáp, người lao động trí óc, thiếu máu, gãy xương.\n\n2. Tần ô vị cay, thơm và tính nhuận, do đó người vị hư, tiêu chảy không nên ăn nhiều.\n\nTHÔNG TIN BỔ SUNG\n\n1. Trong tần ô chứa tinh dầu có mùi thơm đặc trưng, có thể giúp tiêu hóa, khai vị. Hàm lượng vitamin, carotene phong phú cùng với nhiều loại amino axit, có tác dụng dưỡng tâm an thần, hạ huyết đáp, bổ não, thanh huyết, hóa đờm, nhuận phế, bổ can, ổn định tinh thần, phòng giảm trí nhớ.\n\n2. Tần ô có hàm lượng chất xơ thô cao giúp tăng cường nhu động ruột, lợi tiểu tiện.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ TẦN Ô\n\nCẢI BẮP\n\nGIẢM ĐAU, CHỐNG UNG THƯ, PHÒNG NGỘ ĐỘC RƯỢU\n\nTÍNH VỊ\n\nCải bắp: vị ngọt, tính bình.\n\nLá cải bắp: vị ngọt, tính bình.\n\nPhần để ăn: lá.\n\nPhần dùng làm thuốc: lá, nước cốt, hạt.\n\nTÁC DỤNG TRỊ BỆNH\n\nCải bắp: trị loét dạ dày, tá tràng, tỳ vị hư, mất ngủ, bồi bổ dạ dày, thông tiện, trị đau và trướng bụng, đau đổ bụng, biếng ăn, tan mệt mỏi.\n\nLá cải bắp: trị bệnh hoàng đản, dạ dày đau và trướng, trị bệnh khớp.\n\nCách dùng: dùng khoảng 200 - 300ml nước cốt uống hoặc lấy lá nấu canh ăn.\n\nHạt: trị bệnh thèm ngủ.\n\nCÔNG DỤNG\n\nCải bắp: dưỡng vị ích tỳ, giảm đau, lợi ngũ tạng, ích thận, giúp miệng vết thương mau lành.\n\nLá cải bắp: thanh nhiệt, lợi thấp, ích thận, thông kinh mạch.\n\nNước cốt: có tác dụng trị đau loét dạ dày, tá tràng, giúp vết thương mau lành.\n\nLƯU Ý KHI DÙNG\n\n1. Cải bắp nếu ăn không quen có thể gây tiêu chảy, do đó những người bị lạnh dạ dày nên cẩn thận khi dùng.\n\n2. Nếu ăn thường xuyên, tốt nhất là nêm bằng muối đi-ốt, để phòng bướu cổ.\n\nTHÔNG TIN BỔ SUNG\n\n1. Cải bắp có thể ăn sống, xào hoặc nấu chín, có tác dụng hỗ trợ tiêu hóa.\n\n2. Cải bắp còn giúp giảm đau thần kinh, phòng trị ngộ độc rượu, giải độc gan.\n\n3. Nước cốt cải bắp có hiệu quả đặc biệt đối với bệnh loét dạ dày, ăn thường xuyên sẽ giúp kiện tỳ ích thận, giảm đau, bổ tủy, lợi khớp, chống ung thư.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẢI BẮP\n\nRAU DỀN\n\nCÒN GỌI LÀ \"RAU TRƯỜNG THỌ\", RẤT GIÀU ĐẠM VÀ CHẤT BÉO\n\nTÍNH VỊ\n\nRau dền: tính mát, vị hơi ngọt.\n\nPhần để ăn: cọng non, lá non.\n\nPhần dùng làm thuốc: cả cây và củ rễ.\n\nTÁC DỤNG TRỊ BỆNH\n\nRau dền: Thanh nhiệt lợi thấp; làm mát máu, cầm máu; ngưng kiết lỵ; chủ trị bệnh lỵ trực khuẩn, tiểu tiện không thông, mắt đỏ, đau họng, chảy máu cam.\n\nCách dùng: 15 - 20g hạt; rễ, cọng khoảng 25 - 50g; đem sắc nước uống.\n\nLƯU Ý KHI DÙNG\n\n1. Người có tỳ vị hư hàn không nên ăn; người dạ dày, ruột có khí hàn, dễ bị tiêu chảy cũng không nên ăn nhiều.\n\n2. Rau dền không được dùng chung với ba ba, nếu không có thể dẫn đến ngộ độc.\n\nTHÔNG TIN BỔ SUNG\n\n1. Rau dền vị ngọt, tính mát nên có tác dụng giải nhiệt lợi thấp, mát gan giải độc, sáng mắt, mát máu tán ứ, hỗ trợ trị các chứng bệnh lỵ trực khuẩn do phong nhiệt, đau mắt đỏ do viêm gan, nóng gan, yết hầu sưng đỏ…\n\n2. Rau dền giàu chất dinh dưỡng, tăng cường thể chất, chứa nhiều protein, chất béo, các loại đường, nhiều loại vitamin và khoáng chất. Protein trong rau dền dễ hấp thụ hơn so với ạm sữa bò, hàm lượng carotene của nó cao gấp hơn 2 lần so với các loại cà, có thể cung cấp nhiều chất dinh dưỡng cho cơ thể, có lợi cho sức khỏe, tăng sức đề kháng của cơ thể, cho nên rau dền còn được mệnh danh là \"rau trường thọ\".\n\n3. Hàm lượng chất sắt trong rau dền cao gấp ôi, và lượng canxi cao gấp 4 lần so với cải bó xôi, chính vì thế nó là loại rau vượt trội về dinh dưỡng trong tất cả các loại rau. Rau dền không chứa oxalic axit; các chất canxi, sắt vào cơ thể rất dễ được hấp thu. Rau dền còn có thể đẩy nhanh sự sinh rưởng đủa trẻ em, giúp mau liền xương gãy.\n\n4. Rau dền giúp duy trì hoạt động bình thường của cơ tim, phòng co giật cơ (chuột rút). Thực phẩm này hàm lượng sắt, canxi và vitamin K phong phú, có tác dụng làm đông máu, tăng hàm lượng hemoglobin trong máu, đồng thời tăng cường khả năng vận chuyển oxy, thúc đẩy quá trình tạo máu mới… Thường xuyên ăn rau dền còn có thể giảm béo, thải chất độc, phòng và trị táo bón.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ RAU DỀN\n\nCẢI THÌA\nCHỨA HÀM LƯỢNG CANXI RẤT CAO, CÓ TÁC DỤNG GIẢI ĐỘC VÀ NGỪA UNG THƯ\n\nTÍNH VỊ\n\nCải thìa: vị cay, ngọt, tính bình.\n\nHạt cải thìa: vị cay, ngọt, tính bình.\n\nDầu hạt cải thìa: vị cay, ngọt, tính bình.\n\nPhần để ăn: thân non.\n\nPhần dùng làm thuốc: thân, hạt, dầu hạt.\n\nTÁC DỤNG TRỊ BỆNH\n\nThân: trị đại tiện ra máu, viêm cơ tim, ứ huyết đau bụng sau khi sinh, chứng giảm bạch cầu, sưng độc, bệnh viêm quầng, táo bón, kiết lỵ, đại tiện ra máu, huyết áp cao, cholesterol cao.\n\nCách dùng: 50 - 250g, nấu ăn hoặc giã nát lấy nước uống, mỗi lần khoảng 20 - 100 ml.\n\nDùng ngoài da: sắc nước rửa hoặc giã ắp.\n\nLá cải thìa: trị kiết lỵ, bệnh tim mạch vành, sưng độc, mụn nhọt.\n\nRễ cải thìa: trị sưng độc do phong nhiệt.\n\nHạt cải thìa: trị sốt rét, viêm cổ tử cung mãn tính, bệnh viêm quầng ở trẻ em, di tinh, vô sinh, viêm quầng sưng và tê, sản dịch ra không ngừng sau khi sinh, ứ huyết, đau bụng, đau bụng kinh, đại tiện ra máu, kiết lỵ ra máu, táo bón, tắc dính ruột, phong thấp sưng khớp.\n\nCách dùng: 5 - 15g, sắc nước uống.\n\nDùng ngoài da: nghiền nát rồi bôi lên vết thương.\n\nDầu hạt cải thìa: trị trùn vào tai, ngứa da, sưng tê, táo bón, bị bỏng.\n\nCách dùng: uống 10 - 15 ml.\n\nDùng ngoài da: bôi, xoa bóp.\n\nCÔNG DỤNG\n\nThân cải thìa: hoạt huyết, nhuận trường, giải độc, giảm sưng phù, lọc máu, giảm huyết áp, cầm máu.\n\nDầu hạt cải thìa: giải độc, giảm sưng phù, nhuận trường.\n\nHạt cải thìa: giúp máu lưu thông, tiêu chỗ sưng phù, nhuận trường.\n\nLƯU Ý KHI DÙNG\n\n1. Người sau khi bị sởi, bị mụn ghẻ, bị bệnh về mắt không nên ăn rau cải thìa.\n\n2. Người bệnh huyết hư tuyệt đối không dùng hạt cải thìa.\n\n3. Người bị tiêu chảy cẩn thận khi dùng dầu hạt cải thìa.\n\n4. Người bị mồ hôi nặng mùi có thể ăn cải thìa để trị bệnh.\n\nTHÔNG TIN BỔ SUNG\n\n1. Cải thìa có hai loại: loại có hoa và không hoa, đều có thể dùng thay thế cho nhau. Cải thìa chứa hàm lượng xơ thực vật lớn, có tác dụng tăng cường nhu động ruột, đẩy nhanh quá trình tiêu hóa, trị táo bón và phòng u xơ đường ruột.\n\n2. Cải thìa là loại rau có thể giảm sự hấp thụ các chất béo, đồng thời giảm lượng cholesterol trong máu.\n\n3. Cải thìa có tác dụng tăng cường cơ chế thải chất độc trong gan, giải độc và ngừa ung thư.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẢI THÌA\n\n(*) Bán hạ: Loài cây có họ với khoai sọ, hoa màu đỏ, củ dùng làm thuốc.\n\n(**) Phục linh: Còn có tên Bạch linh, Bạch phục linh, là một loại nấm mọc trên rễ cây thông.\n\nCẦN TÂY\n\nCÓ TÁC DỤNG HẠ HUYẾT ÁP, THANH NHIỆT GIẢI ĐỘC\n\nTÍNH VỊ\n\nCần tây (cần cạn): vị ngọt, cay, tính mát.\n\nCần nước (cần ta): vị cay, ngọt, tính mát.\n\nPhần để ăn: thân non.\n\nPhần dùng làm thuốc: thân, lá.\n\nCÔNG DỤNG\n\nThân cần tây: thanh nhiệt, lợi tiểu, bình can ích vị, tiêu đờm, điều kinh, an thần, giảm ho, hoạt huyết, tăng cường tuyến thận, cầm máu, giải độc.\n\nLá cần tây: có giá trị làm thuốc tốt hơn thân.\n\nCần nước: thanh nhiệt giải độc, lợi tiểu, cầm máu.\n\nTÁC DỤNG TRỊ BỆNH\n\nThân cần tây: trị ho, hen suyễn, nôn ra máu, cao huyết áp, nhức đầu, chóng mặt, trúng gió, tiểu ra máu, viêm tiểu cầu thận cấp tính, sỏi tiết niệu, tiểu đường, đau ruột thừa, tê liệt thần kinh vùng mặt, nổi mề ay, trật khớp, đổ mồ hôi trộm, kinh nguyệt không đều, có kinh sớm, ho gà, chảy máu cam, bệnh tưa(*), rụng tóc, chảy máu chân răng, nhiễm trùng rốn ở trẻ sơ sinh, rôm sảy, viêm dạ dày, ruột, thổ tả ở trẻ sơ sinh, ù tai, bệnh bạch hầu, gặp gió chảy nước mắt, viêm loét giác mạc, mắt sưng đau.\n\n(*) Bệnh tưa: Là loại bệnh nấm biểu hiện dưới dạng những đốm trắng như cặn sữa trong miệng.\n\nRễ cần tây: chống nôn mửa, trị bệnh lao phổi, viêm khí quản, thần kinh suy nhược, cao huyết áp, cholesterol cao, mất ngủ, bệnh giun chỉ, xuất huyết sau khi sinh, bệnh tim - phổi.\n\nLá cần tây: trị bệnh sởi.\n\nCần nước: trị bệnh lỵ trực khuẩn, ái dắt, viêm tuyến mang tai, trẻ em phát sốt.\n\nLƯU Ý KHI DÙNG\n\n1. Người tỳ vị hư hàn không nên dùng.\n\n2. Người sốt cao, miệng khô, khát không được dùng.\n\n3. Rau cần không được nấu lâu, nếu không sẽ mất chất dinh dưỡng và ăn không ngon; cần cạn và cần nước có giá trị dinh dưỡng như nhau, nhưng cần cạn làm thuốc tốt hơn.\n\nCách dùng\n\nCẦN NƯỚC: cần nước tươi 50 - 370,5g ; sắc hoặc giã lấy nước uống.\n\nDùng ngoài da: giã nát bôi hoặc giã lấy nước ắp lên chỗ bị viêm.\n\nCẦN CẠN: cần cạn khô 15 - 25g, cần cạn tươi 40 - 75g, sắc nước uống.\n\nDùng ngoài da: giã nát rồi bôi hoặc sắc nước rửa.\n\nTHÔNG TIN BỔ SUNG\n\n1. Ăn cần tây thường xuyên có tác dụng điều trị cao huyết áp, xơ cứng động mạch, cùng với bệnh loãng xương ở trẻ em.\n\n2. Cần tây còn có tác dụng thanh nhiệt, bình can, sáng mắt.\n\nCÁC BÀI THUỐC CHỮA BỆNH TỪ CẦN TÂY"
+}

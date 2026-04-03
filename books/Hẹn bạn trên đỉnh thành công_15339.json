@@ -1,0 +1,245 @@
+{
+  "item_id": 15339,
+  "title": "Hẹn bạn trên đỉnh thành công",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T07:57:23.750Z",
+  "input_book": {
+    "id": 15339,
+    "title": "Hẹn bạn trên đỉnh thành công",
+    "price": 0,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/15339.jpg?v=1&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      {
+        "id": 4,
+        "code": "Tủ sách thanh niên",
+        "type": "waka_youth",
+        "text_color": "#FF0000",
+        "background_color": "#fed9d9"
+      }
+    ],
+    "description": "<p><strong>Hẹn bạn tr&ecirc;n đỉnh th&agrave;nh c&ocirc;ng</strong> được xem như một cẩm nang sống với rất nhiều phần l&yacute; thuyết hữu dụng v&agrave; cả những c&acirc;u chuyện thực tế sinh động. Những &yacute; tưởng v&agrave; b&iacute; quyết trong cuốn s&aacute;ch n&agrave;y được r&uacute;t ra từ kinh nghiệm, vốn sống v&agrave; sự t&iacute;ch lũy những b&agrave;i học trong kinh doanh của những con người từ thường d&acirc;n cho đến c&aacute;c nh&agrave; l&atilde;nh đạo c&ocirc;ng ty h&agrave;ng đầu thế giới. V&igrave; thế, đọc cuốn s&aacute;ch n&agrave;y gi&uacute;p độc giả học hỏi để ph&aacute;t triển bản th&acirc;n từ những thực tế đ&atilde; được kiểm chứng chứ kh&ocirc;ng phải qua l&yacute; thuyết su&ocirc;ng.</p>\r\n<p>Đ&acirc;y ch&iacute;nh l&agrave; đường lối thực dụng duy nhất để ph&aacute;t triển v&igrave; học mọi thứ bằng những chứng nghiệm c&aacute; nh&acirc;n tất sẽ chẳng mấy kết quả m&agrave; lại tốn k&eacute;m qu&aacute; nhiều th&igrave; giờ v&agrave; tiền bạc.</p>\r\n<p>Bạn c&oacute; thể cầm s&aacute;ch l&ecirc;n đọc bất cứ trang n&agrave;o cho tinh thần bạn được điểm t&acirc;m, đọc một chương cho tinh thần bạn được no thỏa hoặc đọc hết cả cuốn cho tinh thần bạn t&igrave;m ra một lối sống. Rồi bạn h&atilde;y đọc đi đọc lại, v&agrave; nếu bạn đem những tư tưởng trong s&aacute;ch n&agrave;y ra &aacute;p dụng th&igrave; t&ocirc;i sẽ &ldquo;gặp bạn tr&ecirc;n đỉnh th&agrave;nh c&ocirc;ng&rdquo;.</p>\r\n<p>Mời c&aacute;c bạn đ&oacute;n đọc&nbsp;<strong>Hẹn bạn tr&ecirc;n đỉnh th&agrave;nh c&ocirc;ng -&nbsp;Zig Ziglar.</strong></p>",
+    "authors": [
+      {
+        "id": "2305",
+        "name": "Zig Ziglar"
+      }
+    ],
+    "audio_id": 3629,
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách nói_Tâm Lý - Sức Khỏe Tinh Thần _155.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Nghệ thuật sống_155.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 3629,
+      "epub_id": 15339,
+      "updated_time": "2026-03-29 11:46:56",
+      "size": 394,
+      "total_chapter": 0,
+      "audio_price": 0,
+      "audio_name": "[Tóm tắt sách] Hẹn bạn trên đỉnh thành công",
+      "audio_chapter_type": 1,
+      "id": 15339,
+      "title": "Hẹn bạn trên đỉnh thành công",
+      "content_type": "book",
+      "our_price": 0,
+      "price": 0,
+      "description": "<p><strong>Hẹn bạn tr&ecirc;n đỉnh th&agrave;nh c&ocirc;ng</strong> được xem như một cẩm nang sống với rất nhiều phần l&yacute; thuyết hữu dụng v&agrave; cả những c&acirc;u chuyện thực tế sinh động. Những &yacute; tưởng v&agrave; b&iacute; quyết trong cuốn s&aacute;ch n&agrave;y được r&uacute;t ra từ kinh nghiệm, vốn sống v&agrave; sự t&iacute;ch lũy những b&agrave;i học trong kinh doanh của những con người từ thường d&acirc;n cho đến c&aacute;c nh&agrave; l&atilde;nh đạo c&ocirc;ng ty h&agrave;ng đầu thế giới. V&igrave; thế, đọc cuốn s&aacute;ch n&agrave;y gi&uacute;p độc giả học hỏi để ph&aacute;t triển bản th&acirc;n từ những thực tế đ&atilde; được kiểm chứng chứ kh&ocirc;ng phải qua l&yacute; thuyết su&ocirc;ng.</p>\r\n<p>Đ&acirc;y ch&iacute;nh l&agrave; đường lối thực dụng duy nhất để ph&aacute;t triển v&igrave; học mọi thứ bằng những chứng nghiệm c&aacute; nh&acirc;n tất sẽ chẳng mấy kết quả m&agrave; lại tốn k&eacute;m qu&aacute; nhiều th&igrave; giờ v&agrave; tiền bạc.</p>\r\n<p>Bạn c&oacute; thể cầm s&aacute;ch l&ecirc;n đọc bất cứ trang n&agrave;o cho tinh thần bạn được điểm t&acirc;m, đọc một chương cho tinh thần bạn được no thỏa hoặc đọc hết cả cuốn cho tinh thần bạn t&igrave;m ra một lối sống. Rồi bạn h&atilde;y đọc đi đọc lại, v&agrave; nếu bạn đem những tư tưởng trong s&aacute;ch n&agrave;y ra &aacute;p dụng th&igrave; t&ocirc;i sẽ &ldquo;gặp bạn tr&ecirc;n đỉnh th&agrave;nh c&ocirc;ng&rdquo;.</p>\r\n<p>Mời c&aacute;c bạn đ&oacute;n đọc&nbsp;<strong>Hẹn bạn tr&ecirc;n đỉnh th&agrave;nh c&ocirc;ng -&nbsp;Zig Ziglar.</strong></p>",
+      "zone": 0,
+      "published_time": "05/12/2016",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/hen-ban-tren-dinh-thanh-cong-zig-ziglar-bMozvW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/hen-ban-tren-dinh-thanh-cong-zig-ziglar-bMozvW.html?std=type%3D1%26data%3D15339%26title%3DH%25E1%25BA%25B9n%2Bb%25E1%25BA%25A1n%2Btr%25C3%25AAn%2B%25C4%2591%25E1%25BB%2589nh%2Bth%25C3%25A0nh%2Bc%25C3%25B4ng%26mini_app%3D5&type=1&data=15339&title=H%E1%BA%B9n+b%E1%BA%A1n+tr%C3%AAn+%C4%91%E1%BB%89nh+th%C3%A0nh+c%C3%B4ng&mini_app=5",
+      "publishing_houses": [
+        {
+          "id": "36",
+          "name": "NXB Trẻ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "2305",
+          "name": "Zig Ziglar",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/2305.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"2305\",\"name\":\"Zig Ziglar\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/2305.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Zig Ziglar",
+      "author_id": "2305",
+      "category_id": "155",
+      "category_name": "Nghệ thuật sống",
+      "categories": [
+        {
+          "id": "155",
+          "name": "Nghệ thuật sống",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.8",
+      "total_rate_count": 21,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 1,
+      "total_wishlist": 135,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=15339&title=hen-ban-tren-dinh-thanh-cong",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=15339&title=hen-ban-tren-dinh-thanh-cong#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1480660612,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/15339.jpg?v=1&w=480&h=700",
+      "share_thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book_fb/0/0/0/15339.jpg?v=1&w=1200&h=632",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 1720,
+      "number_view": 8038,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/2n6o",
+      "read_link": "https://ebook.waka.vn/hen-ban-tren-dinh-thanh-cong-rMozvW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 19
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 1,
+        "owner": 0,
+        "button_buy": 0,
+        "message": "Chúc bạn đọc truyện vui vẻ"
+      },
+      "file_path": "https://307a0e78.vws.vegacdn.vn/static/ebook/0/0/0/15339_4_drm.epub",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 0,
+      "message": "Thành công",
+      "data": {
+        "file_version": 4,
+        "auto_update": true,
+        "id": 15339,
+        "name": "Hẹn bạn trên đỉnh thành công",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/content.opf?token=0c4a5z14067f136ce4d6a1dd77d671a8762b0915339",
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null,
+        "chapter_trail": 4
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/hen-ban-tren-dinh-thanh-cong-rMozvW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0060.xhtml",
+      "chapterHref": "contents/page0060.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/contents/page0060.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu nhân dịp lần xuất bản mới See You At The Top\nĐoạn kết\nLời nói đầu\nPHẦN MỘT - NẤC THANG ĐẦU TIÊN\nChương 1: Một cuộc sống “tốt đẹp hơn”\nChương 2: Hãy bắt đầu ngay từ hôm nay\nPHẦN HAI - HÌNH ẢNH TỰ THÂN\nChương 3: Những tên trộm nổi tiếng\nChương 4: 7 Nguyên nhân của một hình ảnh tự thân yếu kém\nChương 5: Những biểu hiện của một hình ảnh tự thân yếu kém\nChương 6: 15 Bước tạo dựng hình ảnh tự thân tích cực\nPHẦN BA - CÁC MỐI QUAN HỆ\nChương 7: Cách thức nhìn nhận người khác\nChương 8: Tốt hay xấu nằm ở cách nhìn nhận của bạn\nChương 9: Một người tối quan trọng “khác”\nPHẦN BỐN - NHỮNG MỤC TIÊU CUỘC SỐNG\nChương 10: Các mục tiêu có thực sự cần thiết trong cuộc sống của bạn?\nChương 11: Các lưu ý khi xác định mục tiêu của bạn\nChương 12: Xác lập mục tiêu\nChương 13: Đạt mục tiêu những nguyên tắc cơ bản\nPHẦN NĂM - THÁI ĐỘ SỐNG\nChương 14: Thế nào là một thái độ sống đúng đắn?\nChương 15: Duy trì thái độ tích cực\nChương 16: Bước thứ tư: nuôi dưỡng tâm hồn\nChương 17: Thói quen và thái độ thói quen đến từ đâu?\nChương 18: Tránh thói quen xấu học thói quen tốt\nChương 19: Tiềm thức\nPHẦN SÁU - GIÁ TRỊ CỦA LAO ĐỘNG\nChương 20: Những người chiến thắng\nChương 21: Hãy sẵn sàng\nChương 22: Câu chuyện về máy bơm nước\nPHẦN BẢY - KHÁT VỌNG\nChương 23: Từ tầm thường đến khác thường\nChương 24: Sự ngờ nghệch thông minh\nChương 25: David và Goliath\nChương 26: phần mở đầu\nNiềm tin\nVề tác giả Zig Ziglar"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": "Lời giới thiệu nhân dịp lần xuất bản mới See You At The Top",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU NHÂN DỊP LẦN XUẤT BẢN MỚI SEE YOU AT THE TOP\n\nL\ný do quan trọng nhất khiến tôi quyết định sửa đổi bổ sung quyển sách này là vì tôi tin rằng mình có thể làm cho nó hữu ích hơn và giá trị hơn nữa. Thật lòng mà nói, các tác giả và nhiều nhà xuất bản thường rất cân nhắc trong việc chỉnh lý một tác phẩm đang bán chạy và có tầm ảnh hưởng lớn như SEE YOU AT THE TOP, một cuốn sách đã được dịch ra rất nhiều thứ tiếng và đã in đến lần thứ 58 với gần 2 triệu bản bán ra trên toàn thế giới. 25 năm sau lần xuất bản đầu tiên, chúng tôi vẫn còn bán ra hàng ngàn bản in bìa cứng mỗi năm. Vì vậy, đối với tôi đó là một quyết định đầy khó khăn, rất mạo hiểm, nhưng thật sựcần thiết vì lợi ích của bạn đọc.\n\nThứ đến, một số thông tin theo thời gian đã trở nên lạc hậu và tôi quyết định cắt bỏ ở một số chương.\n\nVà, xét trong mối tương quan giữa các chương, tôi thấy cần sắp xếp lại một số nội dung để độc giả dễ tiếp thu hơn và ít gây tranh cãi hơn, nhất là khi đề cập đến các vấn đề về mối quan hệ vợ – chồng.\n\nCuối cùng, một trong số các ví dụ ở phần các mục tiêu (goals) đã không còn đúng nữa và tôi thấy cần phải sửa đổi ví dụ đó.\n\nĐó là tất cả những lý do SEE YOU AT THE TOP được sửa đổi bổ sung trong lần tái bản này.\n\nThú thật với các bạn rằng, gần đây tôi ít diễn thuyết hơn nhưng viết nhiều hơn và chúng tôi tập trung tổ chức các khóa học ngay tại công ty. Hiện một năm tôi chỉ còn “lui tới” với khoảng 50 công ty và có khoảng 45 buổi nói chuyện học đường vào các ngày Chủ nhật. Nhiều bạn hỏi khi nào tôi nghỉ hưu, thậm chí có bạn còn nói rằng họ nghe nói tôi đã về hưu, và câu trả lời của tôi vẫn luôn luôn là: “Bạn nghe nhầm rồi. Lẽ ra bạn phải nghe là tôi đã được tiếp thêm “lửa”[1] mới đúng!”. Tôi không phải là người đi tìm sự dễ dàng, là kẻ dễ buông xuôi, dễ câm nín, chừng nào tôi còn được giao trọng trách này. Sự thật là, tôi chỉ đang hâm nóng mỗi ngày bầu nhiệt huyết của mình mà thôi. Tôi thực sự tìm thấy niềm vui lớn hơn, có nhiều việc để làm hơn và phấn khích chưa từng có với những gì mình đang làm. Tôi không thấy ích lợi gì nếu ngừng những công việc mình vẫn vô cùng yêu thích này; đặc biệt là khi đọc những bức thư của độc giả gửi đến, khiến tôi nhận ra rằng mình vẫn còn quan trọng đối với rất nhiều người.\n\n[1] Nguyên văn: refired. Tác giả chơi chữ: Retired (nghỉ hưu) - refired (tiếp thêm lửa ).\n\nVề gia đình, Tóc Đỏ [2] và tôi vừa kỷ niệm 53 năm ngày cưới vào năm ngoái (1999). Chúng tôi có 4 đứa con, 7 đứa cháu và tất cả chúng tôi đều sống riêng. Con gái lớn của tôi, Jean Suzanne Ziglar Witmeyer, đã về với Chúa vào mùa hè năm 1995, để lại trong lòng chúng tôi một khoảng trống vô cùng lớn. Nhưng điều đó càng làm cho chúng tôi gần gũi nhau hơn nữa và niềm tin của chúng tôi càng vững mạnh hơn.\n\n[2] Zig Ziglar thích gọi yêu vợ mình là Redhead, tên riêng của bà là Jean. Tính đến nay (2008), họ cưới nhau đã được 62 năm. Bạn đang cầm trên tay ấn bản See You At The Top năm 2000.\n\nTóc Đỏ và tôi thường đi đó đây và dành thời gian cho nhau nhiều hơn bao giờ hết. Đôi khi tôi tự hỏi rằng làm sao mà mình được ban cho một gia đình đáng yêu như thế, bắt đầu từ người bạn đời tuyệt vời mà Chúa đã tặng cho tôi vào năm 1946. Chúng tôi ngày càng yêu nhau hơn, tâm tình với nhau nhiều hơn, cùng nhau làm nhiều việc hơn và tìm thấy nhiều niềm vui hơn bao giờ hết. Quả thật Chúa là đấng tốt lành vô cùng.\n\n- Zig Ziglar\n\nDallas, Texas Tháng 03/2000"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "Đoạn kết",
+      "progress": null,
+      "text": "ĐOẠN KẾT\n\nQ\nuả là không bình thường khi một quyển sách bắt đầu bằng đoạn kết, nhưng tôi muốn nói ngay rằng đây là một cuốn sách “khác thường”. Nó được viết cho chính bạn, gia đình bạn và tương lai của bạn. Nó giúp bạn NHẬN được nhiều hơn từ họ, từ tương lai của bạn bằng việc bạn CHO đi nhiều hơn. Chúng tôi tin rằng đây là “đoạn kết”, hay chí ít cũng là sự bắt đầu cho đoạn kết của lối suy nghĩ, hành động và phản ứng tiêu cực ; sự kết thúc của tư tưởng chủ bại và sự cùn nhụt ý chí; sự kết thúc của ýnghĩ rằng mình không bao giờ được đền bù xứng đáng; sự kết thúc, không còn bị ảnh hưởng bởi những con người chỉ biết sống nhỏ nhen, ích kỷ, tầm thường. Nói tóm lại, đối với bạn, đó là sự chấm dứt của căn bệnh nguy hiểm nhất trên đời: bệnh “vô cảm ” trước mọi biến chuyển của cuộc sống.\n\nĐúng vậy, bạn được sinh ra để chiến thắng!"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Zig và Redhead"
+    },
+    {
+      "chapterIndex": "page0061.xhtml",
+      "chapterHref": "contents/page0061.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/contents/page0061.xhtml",
+      "chapterLabel": "Lời nói đầu",
+      "progress": null,
+      "text": "LỜI NÓI ĐẦU\n\nK\nhi đọc SEE YOU AT THE TOP, chắc chắn bạn sẽ nhận ra sự khác biệt của nó. Đó không chỉ là sự khác biệt trong cảm nhận mà ngay cả trong cách trình bày và diễn đạt. Chẳng hạn để tăng thêm sự hưng phấn cho bạn, tôi thường chèn vào một câu nào đó trong số hơn 800 câu nói đùa, ví dụ, những câu nói loại suy hoặc một cụm từ có sức kích hoạt năng lượng để khiến bạn phải ngừng lại và đọc lại lần nữa điều vừa được đề cập. Tất cả chỉ nhằm một mục đích duy nhất là giúp bạn nắm thật chắc vấn đề. Tôi cũng sẽ nhấn mạnh đến chủ đề “khác biệt”, vì tôi luôn tin rằng bạn sẽ có tất cả mọi thứ bạn muốn trên đời nếu bạn sẵn lòng giúp người khác đạt được điều họ muốn.\n\nTôi không chủ tâm viết ra một cuốn sách “khác biệt ” để ghi dấu ấn của riêng tôi, mà tôi muốn đây là cuốn sách mang lại hiệu quả và sự khác biệt cho chính bạn. Sự khác biệt này tiến hóa theo tiến trình giảng dạy của tôi. Qua thời gian, tôi đã từng có hơn 3.000 lần thuyết trình về “Biscuits, Fleas and Pump Handles”[3], là tựa ban đầu của quyển sách này. Vào thời gian đầu, tài liệu thuyết trình chỉ đủ để nói trong 45 phút. Dần dần buổi nói chuyện 45 phút ấy được mở rộng theo chiều dài của quyển sách. Đây là tài liệu chính được sử dụng cho các khóa huấn luyện “I CAN”[4] tổ chức trong các trường học và nhà thờ, cũng như khóa học ba ngày có tên gọi “BORN TO WIN”[5] được tôi giảng hai lần trong năm tại Dallas, Texas.\n\n[3] Tạm dịch: Bánh quy, Bọc hét và Tay bơm.\n\n[4] I CAN: Tên một hội thảo của Tổ chức Zig Ziglar. Tạm dịch: Tôi có thể.\n\n[5] BORN TO WIN: Tên một khóa huấn luyện của Tổ chức Zig Ziglar. Tạm dịch: Sinh ra để Chiến thắng.\n\nCó nhiều chủ đề được đề cập trong sách, nhưng tôi thiết tha mong muốn chia sẻ với các bạn những cảm nhận của riêng tôi về lòng tin, tình yêu, tinh thần lạc quan, và lòng nhiệt tình. Điều này rất quan trọng vì nhiều người hiện vẫn lẫn lộn giữa thật – giả trong niềm tin và tình yêu, rằng thật là “phức tạp” khi phải bày tỏ cảm giác thật và thể hiện lòng nhiệt tình thực sự trong bất cứ công việc, hoàn cảnh nào.\n\nSEE YOU AT THE TOP là một lẽ sống, tuy nhiên nó cũng chứa đựng một chút lý thuyết. Những ý tưởng và bí quyết trong quyển sách này được rút ra từ kinh nghiệm sống và thực tế kinh doanh của những con người từ thường dân cho đến các nhà lãnh đạo công ty hàng đầu thế giới. Vì thế, đọc cuốn sách này là bạn đang học hỏi để phát triển bản thân từ những thực tế đã được kiểm chứng chứ không phải qua lý thuyết suông. Học qua kinh nghiệm của chính mình sẽ làm bạn mất nhiều thời giờ, tiền bạc và công sức hơn. Tôi tin chắc rằng nếu tôi có được một quyển sách như thế này khi bước chân vào đời thì tôi còn tiến nhanh hơn và xa hơn nữa. Tất nhiên, tôi mừng là bạn may mắn hơn tôi, bạn có điều kiện để tiếp cận một quyển sách mà tác giả của nó đã bỏ ra hơn 2.000 giờ để chắt lọc từng câu chữ và viết ra.\n\nHy vọng rằng cũng như nhiều độc giả khác của SEE YOU AT THE TOP, bạn cũng sẽ đồng ý rằng đây là một cuốn sách không bao giờ có thể đọc xong. Hãy cầm sách lên, mở nó ra và đọc bất cứ trang nào, chương nào bạn thích để nhâm nhi, để thưởng thức, để chiêm nghiệm và để áp dụng vào cuộc sống nhằm thay đổi cuộc đời bạn. Nếu bạn làm như thế, tôi không ngần ngại nói với bạn rằng: Hẹn gặp bạn trên đỉnh thành công!\n\nSỰ THẬT LÀ:\n\nChướng ngại trước mặt hay sau lưng chúng ta thật nhỏ bé so với chướng ngại nằm bên trong con người chúng ta.\n\n- Ralph Waldo Emerson\n\nVÀ:\n\nBạn là người duy nhất biết rõ và sử dụng tốt nhất khả năng của mình. Đó là một trách nhiệm lớn của mỗi chúng ta."
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15339_3/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "PHẦN MỘT - NẤC THANG ĐẦU TIÊN",
+      "progress": null,
+      "text": "Phần một\nNẤC THANG ĐẦU TIÊN\n\nMục tiêu:\n\nI. Mở mang trí tuệ, khơi gợi óc tưởng tượng và khả năng sáng tạo, kích thích quá trình tư duy. Khơi dậy bản tính hiếu kỳ của con người và hình thành quan điểm không chấp nhận hiện tại.\n\nII. Nhận biết các mục tiêu cuộc sống, từ đó lập ra kế hoạch hành động cụ thể.\n\nIII. Đánh thức “gã khổng lồ” đang ngủ yên trong bạn.\n\nIV. Phát hiện và khắc phục những điểm yếu của bản thân."
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu nhân dịp lần xuất bản mới See You At The Top\nĐoạn kết\nLời nói đầu\nPHẦN MỘT - NẤC THANG ĐẦU TIÊN\nChương 1: Một cuộc sống “tốt đẹp hơn”\nChương 2: Hãy bắt đầu ngay từ hôm nay\nPHẦN HAI - HÌNH ẢNH TỰ THÂN\nChương 3: Những tên trộm nổi tiếng\nChương 4: 7 Nguyên nhân của một hình ảnh tự thân yếu kém\nChương 5: Những biểu hiện của một hình ảnh tự thân yếu kém\nChương 6: 15 Bước tạo dựng hình ảnh tự thân tích cực\nPHẦN BA - CÁC MỐI QUAN HỆ\nChương 7: Cách thức nhìn nhận người khác\nChương 8: Tốt hay xấu nằm ở cách nhìn nhận của bạn\nChương 9: Một người tối quan trọng “khác”\nPHẦN BỐN - NHỮNG MỤC TIÊU CUỘC SỐNG\nChương 10: Các mục tiêu có thực sự cần thiết trong cuộc sống của bạn?\nChương 11: Các lưu ý khi xác định mục tiêu của bạn\nChương 12: Xác lập mục tiêu\nChương 13: Đạt mục tiêu những nguyên tắc cơ bản\nPHẦN NĂM - THÁI ĐỘ SỐNG\nChương 14: Thế nào là một thái độ sống đúng đắn?\nChương 15: Duy trì thái độ tích cực\nChương 16: Bước thứ tư: nuôi dưỡng tâm hồn\nChương 17: Thói quen và thái độ thói quen đến từ đâu?\nChương 18: Tránh thói quen xấu học thói quen tốt\nChương 19: Tiềm thức\nPHẦN SÁU - GIÁ TRỊ CỦA LAO ĐỘNG\nChương 20: Những người chiến thắng\nChương 21: Hãy sẵn sàng\nChương 22: Câu chuyện về máy bơm nước\nPHẦN BẢY - KHÁT VỌNG\nChương 23: Từ tầm thường đến khác thường\nChương 24: Sự ngờ nghệch thông minh\nChương 25: David và Goliath\nChương 26: phần mở đầu\nNiềm tin\nVề tác giả Zig Ziglar\n\nLỜI GIỚI THIỆU NHÂN DỊP LẦN XUẤT BẢN MỚI SEE YOU AT THE TOP\n\nL\ný do quan trọng nhất khiến tôi quyết định sửa đổi bổ sung quyển sách này là vì tôi tin rằng mình có thể làm cho nó hữu ích hơn và giá trị hơn nữa. Thật lòng mà nói, các tác giả và nhiều nhà xuất bản thường rất cân nhắc trong việc chỉnh lý một tác phẩm đang bán chạy và có tầm ảnh hưởng lớn như SEE YOU AT THE TOP, một cuốn sách đã được dịch ra rất nhiều thứ tiếng và đã in đến lần thứ 58 với gần 2 triệu bản bán ra trên toàn thế giới. 25 năm sau lần xuất bản đầu tiên, chúng tôi vẫn còn bán ra hàng ngàn bản in bìa cứng mỗi năm. Vì vậy, đối với tôi đó là một quyết định đầy khó khăn, rất mạo hiểm, nhưng thật sựcần thiết vì lợi ích của bạn đọc.\n\nThứ đến, một số thông tin theo thời gian đã trở nên lạc hậu và tôi quyết định cắt bỏ ở một số chương.\n\nVà, xét trong mối tương quan giữa các chương, tôi thấy cần sắp xếp lại một số nội dung để độc giả dễ tiếp thu hơn và ít gây tranh cãi hơn, nhất là khi đề cập đến các vấn đề về mối quan hệ vợ – chồng.\n\nCuối cùng, một trong số các ví dụ ở phần các mục tiêu (goals) đã không còn đúng nữa và tôi thấy cần phải sửa đổi ví dụ đó.\n\nĐó là tất cả những lý do SEE YOU AT THE TOP được sửa đổi bổ sung trong lần tái bản này.\n\nThú thật với các bạn rằng, gần đây tôi ít diễn thuyết hơn nhưng viết nhiều hơn và chúng tôi tập trung tổ chức các khóa học ngay tại công ty. Hiện một năm tôi chỉ còn “lui tới” với khoảng 50 công ty và có khoảng 45 buổi nói chuyện học đường vào các ngày Chủ nhật. Nhiều bạn hỏi khi nào tôi nghỉ hưu, thậm chí có bạn còn nói rằng họ nghe nói tôi đã về hưu, và câu trả lời của tôi vẫn luôn luôn là: “Bạn nghe nhầm rồi. Lẽ ra bạn phải nghe là tôi đã được tiếp thêm “lửa”[1] mới đúng!”. Tôi không phải là người đi tìm sự dễ dàng, là kẻ dễ buông xuôi, dễ câm nín, chừng nào tôi còn được giao trọng trách này. Sự thật là, tôi chỉ đang hâm nóng mỗi ngày bầu nhiệt huyết của mình mà thôi. Tôi thực sự tìm thấy niềm vui lớn hơn, có nhiều việc để làm hơn và phấn khích chưa từng có với những gì mình đang làm. Tôi không thấy ích lợi gì nếu ngừng những công việc mình vẫn vô cùng yêu thích này; đặc biệt là khi đọc những bức thư của độc giả gửi đến, khiến tôi nhận ra rằng mình vẫn còn quan trọng đối với rất nhiều người.\n\n[1] Nguyên văn: refired. Tác giả chơi chữ: Retired (nghỉ hưu) - refired (tiếp thêm lửa ).\n\nVề gia đình, Tóc Đỏ [2] và tôi vừa kỷ niệm 53 năm ngày cưới vào năm ngoái (1999). Chúng tôi có 4 đứa con, 7 đứa cháu và tất cả chúng tôi đều sống riêng. Con gái lớn của tôi, Jean Suzanne Ziglar Witmeyer, đã về với Chúa vào mùa hè năm 1995, để lại trong lòng chúng tôi một khoảng trống vô cùng lớn. Nhưng điều đó càng làm cho chúng tôi gần gũi nhau hơn nữa và niềm tin của chúng tôi càng vững mạnh hơn.\n\n[2] Zig Ziglar thích gọi yêu vợ mình là Redhead, tên riêng của bà là Jean. Tính đến nay (2008), họ cưới nhau đã được 62 năm. Bạn đang cầm trên tay ấn bản See You At The Top năm 2000.\n\nTóc Đỏ và tôi thường đi đó đây và dành thời gian cho nhau nhiều hơn bao giờ hết. Đôi khi tôi tự hỏi rằng làm sao mà mình được ban cho một gia đình đáng yêu như thế, bắt đầu từ người bạn đời tuyệt vời mà Chúa đã tặng cho tôi vào năm 1946. Chúng tôi ngày càng yêu nhau hơn, tâm tình với nhau nhiều hơn, cùng nhau làm nhiều việc hơn và tìm thấy nhiều niềm vui hơn bao giờ hết. Quả thật Chúa là đấng tốt lành vô cùng.\n\n- Zig Ziglar\n\nDallas, Texas Tháng 03/2000\n\nĐOẠN KẾT\n\nQ\nuả là không bình thường khi một quyển sách bắt đầu bằng đoạn kết, nhưng tôi muốn nói ngay rằng đây là một cuốn sách “khác thường”. Nó được viết cho chính bạn, gia đình bạn và tương lai của bạn. Nó giúp bạn NHẬN được nhiều hơn từ họ, từ tương lai của bạn bằng việc bạn CHO đi nhiều hơn. Chúng tôi tin rằng đây là “đoạn kết”, hay chí ít cũng là sự bắt đầu cho đoạn kết của lối suy nghĩ, hành động và phản ứng tiêu cực ; sự kết thúc của tư tưởng chủ bại và sự cùn nhụt ý chí; sự kết thúc của ýnghĩ rằng mình không bao giờ được đền bù xứng đáng; sự kết thúc, không còn bị ảnh hưởng bởi những con người chỉ biết sống nhỏ nhen, ích kỷ, tầm thường. Nói tóm lại, đối với bạn, đó là sự chấm dứt của căn bệnh nguy hiểm nhất trên đời: bệnh “vô cảm ” trước mọi biến chuyển của cuộc sống.\n\nĐúng vậy, bạn được sinh ra để chiến thắng!\n\nZig và Redhead\n\nLỜI NÓI ĐẦU\n\nK\nhi đọc SEE YOU AT THE TOP, chắc chắn bạn sẽ nhận ra sự khác biệt của nó. Đó không chỉ là sự khác biệt trong cảm nhận mà ngay cả trong cách trình bày và diễn đạt. Chẳng hạn để tăng thêm sự hưng phấn cho bạn, tôi thường chèn vào một câu nào đó trong số hơn 800 câu nói đùa, ví dụ, những câu nói loại suy hoặc một cụm từ có sức kích hoạt năng lượng để khiến bạn phải ngừng lại và đọc lại lần nữa điều vừa được đề cập. Tất cả chỉ nhằm một mục đích duy nhất là giúp bạn nắm thật chắc vấn đề. Tôi cũng sẽ nhấn mạnh đến chủ đề “khác biệt”, vì tôi luôn tin rằng bạn sẽ có tất cả mọi thứ bạn muốn trên đời nếu bạn sẵn lòng giúp người khác đạt được điều họ muốn.\n\nTôi không chủ tâm viết ra một cuốn sách “khác biệt ” để ghi dấu ấn của riêng tôi, mà tôi muốn đây là cuốn sách mang lại hiệu quả và sự khác biệt cho chính bạn. Sự khác biệt này tiến hóa theo tiến trình giảng dạy của tôi. Qua thời gian, tôi đã từng có hơn 3.000 lần thuyết trình về “Biscuits, Fleas and Pump Handles”[3], là tựa ban đầu của quyển sách này. Vào thời gian đầu, tài liệu thuyết trình chỉ đủ để nói trong 45 phút. Dần dần buổi nói chuyện 45 phút ấy được mở rộng theo chiều dài của quyển sách. Đây là tài liệu chính được sử dụng cho các khóa huấn luyện “I CAN”[4] tổ chức trong các trường học và nhà thờ, cũng như khóa học ba ngày có tên gọi “BORN TO WIN”[5] được tôi giảng hai lần trong năm tại Dallas, Texas.\n\n[3] Tạm dịch: Bánh quy, Bọc hét và Tay bơm.\n\n[4] I CAN: Tên một hội thảo của Tổ chức Zig Ziglar. Tạm dịch: Tôi có thể.\n\n[5] BORN TO WIN: Tên một khóa huấn luyện của Tổ chức Zig Ziglar. Tạm dịch: Sinh ra để Chiến thắng.\n\nCó nhiều chủ đề được đề cập trong sách, nhưng tôi thiết tha mong muốn chia sẻ với các bạn những cảm nhận của riêng tôi về lòng tin, tình yêu, tinh thần lạc quan, và lòng nhiệt tình. Điều này rất quan trọng vì nhiều người hiện vẫn lẫn lộn giữa thật – giả trong niềm tin và tình yêu, rằng thật là “phức tạp” khi phải bày tỏ cảm giác thật và thể hiện lòng nhiệt tình thực sự trong bất cứ công việc, hoàn cảnh nào.\n\nSEE YOU AT THE TOP là một lẽ sống, tuy nhiên nó cũng chứa đựng một chút lý thuyết. Những ý tưởng và bí quyết trong quyển sách này được rút ra từ kinh nghiệm sống và thực tế kinh doanh của những con người từ thường dân cho đến các nhà lãnh đạo công ty hàng đầu thế giới. Vì thế, đọc cuốn sách này là bạn đang học hỏi để phát triển bản thân từ những thực tế đã được kiểm chứng chứ không phải qua lý thuyết suông. Học qua kinh nghiệm của chính mình sẽ làm bạn mất nhiều thời giờ, tiền bạc và công sức hơn. Tôi tin chắc rằng nếu tôi có được một quyển sách như thế này khi bước chân vào đời thì tôi còn tiến nhanh hơn và xa hơn nữa. Tất nhiên, tôi mừng là bạn may mắn hơn tôi, bạn có điều kiện để tiếp cận một quyển sách mà tác giả của nó đã bỏ ra hơn 2.000 giờ để chắt lọc từng câu chữ và viết ra.\n\nHy vọng rằng cũng như nhiều độc giả khác của SEE YOU AT THE TOP, bạn cũng sẽ đồng ý rằng đây là một cuốn sách không bao giờ có thể đọc xong. Hãy cầm sách lên, mở nó ra và đọc bất cứ trang nào, chương nào bạn thích để nhâm nhi, để thưởng thức, để chiêm nghiệm và để áp dụng vào cuộc sống nhằm thay đổi cuộc đời bạn. Nếu bạn làm như thế, tôi không ngần ngại nói với bạn rằng: Hẹn gặp bạn trên đỉnh thành công!\n\nSỰ THẬT LÀ:\n\nChướng ngại trước mặt hay sau lưng chúng ta thật nhỏ bé so với chướng ngại nằm bên trong con người chúng ta.\n\n- Ralph Waldo Emerson\n\nVÀ:\n\nBạn là người duy nhất biết rõ và sử dụng tốt nhất khả năng của mình. Đó là một trách nhiệm lớn của mỗi chúng ta.\n\nPhần một\nNẤC THANG ĐẦU TIÊN\n\nMục tiêu:\n\nI. Mở mang trí tuệ, khơi gợi óc tưởng tượng và khả năng sáng tạo, kích thích quá trình tư duy. Khơi dậy bản tính hiếu kỳ của con người và hình thành quan điểm không chấp nhận hiện tại.\n\nII. Nhận biết các mục tiêu cuộc sống, từ đó lập ra kế hoạch hành động cụ thể.\n\nIII. Đánh thức “gã khổng lồ” đang ngủ yên trong bạn.\n\nIV. Phát hiện và khắc phục những điểm yếu của bản thân."
+}

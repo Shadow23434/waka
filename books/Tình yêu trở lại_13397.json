@@ -1,0 +1,201 @@
+{
+  "item_id": 13397,
+  "title": "Tình yêu trở lại",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:29:25.246Z",
+  "input_book": {
+    "id": 13397,
+    "title": "Tình yêu trở lại",
+    "price": 0,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13397.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Một cuốn truyện t&igrave;nh y&ecirc;u cảm động về những đấu tranh bu&ocirc;ng bỏ hay n&iacute;u giữ t&igrave;nh y&ecirc;u sau bao năm tưởng c&oacute; thể qu&ecirc;n lại dường như trở lại....</p>\r\n<p>Anh ấy kh&ocirc;ng y&ecirc;u t&ocirc;i</p>\r\n<p>Daisy Lee Monroe cho rằng m&igrave;nh đ&atilde; dứt bỏ được Lovette, Texas từ nhiều năm về trước, nhưng khi trở lại qu&ecirc; nh&agrave;, c&ocirc; nhận ra mọi thứ chẳng thay đổi g&igrave; mấy. Em g&aacute;i c&ocirc; vẫn suy nghĩ thiếu s&aacute;ng suốt, s&acirc;n trước nh&agrave; mẹ c&ocirc; vẫn c&ograve;n những con hồng hạc nhựa m&agrave;u hồng. V&agrave; Jackson Lamott Parrish, anh ch&agrave;ng xấu xa m&agrave; c&ocirc; từng bỏ lại sau lưng, vẫn quyến rũ đến chết người. Chẳng c&oacute; g&igrave; l&agrave;m c&ocirc; thấy dễ chịu hơn l&agrave; tr&aacute;nh xa người n&agrave;y, nhưng c&ocirc; kh&ocirc;ng thể. Daisy c&oacute; chuyện muốn n&oacute;i với Jackson, v&agrave; c&ocirc; sẽ chẳng đi đ&acirc;u hết cho đến khi anh chịu lắng nghe c&ocirc; n&oacute;i.<br />Jackson từng nhận được một b&agrave;i học cay đắng về Daisy, v&agrave; giờ đ&acirc;y từ duy nhất anh muốn nghe từ đ&ocirc;i m&ocirc;i đỏ mọng của Daisy l&agrave;: tạm biệt. Nhưng c&ocirc; xuất hiện ở khắp mọi nơi, v&agrave; anh kh&ocirc;ng tin đ&oacute; l&agrave; sự tr&ugrave;ng hợp ngẫu nhi&ecirc;n. C&oacute; vẻ như c&aacute;ch duy nhất để buộc c&ocirc; im miệng l&agrave; h&ocirc;n c&ocirc;, nhưng trước đ&acirc;y, việc h&ocirc;n Daisy từng khiến anh thảm hại v&ocirc; c&ugrave;ng. Hiện tại, liệu anh c&oacute; đủ mạnh mẽ để cưỡng lại sức h&uacute;t của c&ocirc; kh&ocirc;ng? C&oacute; đủ cứng rắn đứng nh&igrave;n c&ocirc; bước ra khỏi đời m&igrave;nh một lần nữa kh&ocirc;ng? C&oacute; đủ ki&ecirc;n quyết để c&ocirc; giữ c&ocirc; ở lại b&ecirc;n anh?</p>\r\n<p>Một cuốn truyện hấp dẫn những ai đang băn khoăn t&igrave;m hiểu những cảm x&uacute;c nằm ngo&agrave;i l&iacute; tr&iacute; của t&igrave;nh y&ecirc;u.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "282",
+        "name": "Rachel Gibson"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-01 20:27:27",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13397,
+      "title": "Tình yêu trở lại",
+      "content_type": "book",
+      "our_price": 0,
+      "price": 0,
+      "description": "<p>Một cuốn truyện t&igrave;nh y&ecirc;u cảm động về những đấu tranh bu&ocirc;ng bỏ hay n&iacute;u giữ t&igrave;nh y&ecirc;u sau bao năm tưởng c&oacute; thể qu&ecirc;n lại dường như trở lại....</p>\r\n<p>Anh ấy kh&ocirc;ng y&ecirc;u t&ocirc;i</p>\r\n<p>Daisy Lee Monroe cho rằng m&igrave;nh đ&atilde; dứt bỏ được Lovette, Texas từ nhiều năm về trước, nhưng khi trở lại qu&ecirc; nh&agrave;, c&ocirc; nhận ra mọi thứ chẳng thay đổi g&igrave; mấy. Em g&aacute;i c&ocirc; vẫn suy nghĩ thiếu s&aacute;ng suốt, s&acirc;n trước nh&agrave; mẹ c&ocirc; vẫn c&ograve;n những con hồng hạc nhựa m&agrave;u hồng. V&agrave; Jackson Lamott Parrish, anh ch&agrave;ng xấu xa m&agrave; c&ocirc; từng bỏ lại sau lưng, vẫn quyến rũ đến chết người. Chẳng c&oacute; g&igrave; l&agrave;m c&ocirc; thấy dễ chịu hơn l&agrave; tr&aacute;nh xa người n&agrave;y, nhưng c&ocirc; kh&ocirc;ng thể. Daisy c&oacute; chuyện muốn n&oacute;i với Jackson, v&agrave; c&ocirc; sẽ chẳng đi đ&acirc;u hết cho đến khi anh chịu lắng nghe c&ocirc; n&oacute;i.<br />Jackson từng nhận được một b&agrave;i học cay đắng về Daisy, v&agrave; giờ đ&acirc;y từ duy nhất anh muốn nghe từ đ&ocirc;i m&ocirc;i đỏ mọng của Daisy l&agrave;: tạm biệt. Nhưng c&ocirc; xuất hiện ở khắp mọi nơi, v&agrave; anh kh&ocirc;ng tin đ&oacute; l&agrave; sự tr&ugrave;ng hợp ngẫu nhi&ecirc;n. C&oacute; vẻ như c&aacute;ch duy nhất để buộc c&ocirc; im miệng l&agrave; h&ocirc;n c&ocirc;, nhưng trước đ&acirc;y, việc h&ocirc;n Daisy từng khiến anh thảm hại v&ocirc; c&ugrave;ng. Hiện tại, liệu anh c&oacute; đủ mạnh mẽ để cưỡng lại sức h&uacute;t của c&ocirc; kh&ocirc;ng? C&oacute; đủ cứng rắn đứng nh&igrave;n c&ocirc; bước ra khỏi đời m&igrave;nh một lần nữa kh&ocirc;ng? C&oacute; đủ ki&ecirc;n quyết để c&ocirc; giữ c&ocirc; ở lại b&ecirc;n anh?</p>\r\n<p>Một cuốn truyện hấp dẫn những ai đang băn khoăn t&igrave;m hiểu những cảm x&uacute;c nằm ngo&agrave;i l&iacute; tr&iacute; của t&igrave;nh y&ecirc;u.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 0,
+      "published_time": "02/08/2012",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/tinh-yeu-tro-lai-rachel-gibson-bnx5pW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/tinh-yeu-tro-lai-rachel-gibson-bnx5pW.html?std=type%3D1%26data%3D13397%26title%3DT%25C3%25ACnh%2By%25C3%25AAu%2Btr%25E1%25BB%259F%2Bl%25E1%25BA%25A1i%26mini_app%3D1&type=1&data=13397&title=T%C3%ACnh+y%C3%AAu+tr%E1%BB%9F+l%E1%BA%A1i&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "8",
+          "name": "NXB Văn Học"
+        }
+      ],
+      "authors": [
+        {
+          "id": "282",
+          "name": "Rachel Gibson",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/282.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"282\",\"name\":\"Rachel Gibson\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/282.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Rachel Gibson",
+      "author_id": "282",
+      "category_id": "71",
+      "category_name": "Truyện - Tiểu thuyết",
+      "categories": [
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.8",
+      "total_rate_count": 25,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 1,
+      "total_wishlist": 70,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "Nguyễn Mai Trang",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13397&title=tinh-yeu-tro-lai",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13397&title=tinh-yeu-tro-lai#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1466737462,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13397.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3366,
+      "number_view": 4790,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/Rn4z",
+      "read_link": "https://ebook.waka.vn/tinh-yeu-tro-lai-rnx5pW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 2,
+        "4": 2,
+        "5": 21
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 1,
+        "owner": 0,
+        "button_buy": 0,
+        "message": "Chúc bạn đọc truyện vui vẻ"
+      },
+      "file_path": "https://307a0e78.vws.vegacdn.vn/static/ebook/0/0/0/13397_3_drm.epub",
+      "file_version": 3,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 0,
+      "message": "Thành công",
+      "data": {
+        "file_version": 3,
+        "auto_update": true,
+        "id": 13397,
+        "name": "Tình yêu trở lại",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13397_3/OEBPS/content.opf?token=0c0a7z2262a7ae3a2a36423d2878ab03e8ca7713397",
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null,
+        "chapter_trail": 0
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/tinh-yeu-tro-lai-rnx5pW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13397_3/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11\nChương 12\nChương 13\nChương 14\nChương 15\nChương 16\nChương 17\nChương 18\nChương 19\nChương 20"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13397_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11\nChương 12\nChương 13\nChương 14\nChương 15\nChương 16\nChương 17\nChương 18\nChương 19\nChương 20"
+    }
+  ],
+  "full_text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11\nChương 12\nChương 13\nChương 14\nChương 15\nChương 16\nChương 17\nChương 18\nChương 19\nChương 20\n\nMục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nChương 11\nChương 12\nChương 13\nChương 14\nChương 15\nChương 16\nChương 17\nChương 18\nChương 19\nChương 20"
+}

@@ -1,0 +1,194 @@
+{
+  "item_id": 12962,
+  "title": "Tỉnh Thức",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:20:00.500Z",
+  "input_book": {
+    "id": 12962,
+    "title": "Tỉnh Thức",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/12962.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>L&agrave; đề t&agrave;i t&acirc;m linh, nhưng qua c&aacute;ch nh&igrave;n v&agrave; trải nghiệm của một nh&agrave; khoa học, Tỉnh thức kh&ocirc;ng sa v&agrave;o gi&aacute;o điều m&agrave; được tr&igrave;nh b&agrave;y rất khoa học, logic nhằm dẫn dắt người đọc bước v&agrave;o cuộc h&agrave;nh tr&igrave;nh nội t&acirc;m. Tỉnh thức gồm hai phần:</p>\r\n<p>Phần 1 chia sẻ trải nghiệm về t&acirc;m linh theo g&oacute;c nh&igrave;n khoa học, &ldquo;giải phẫu&rdquo; t&acirc;m hồn con người để t&igrave;m ra nguồn gốc căn nguy&ecirc;n của mọi đau khổ, bất an.</p>\r\n<p>&nbsp;Phần 2 l&agrave; c&acirc;u chuyện về con đường dẫn đến sự trưởng th&agrave;nh nội t&acirc;m, con đường giải tho&aacute;t ta khỏi nỗi đau, sợ h&atilde;i hay khổ sở, l&agrave; một lời gọi mời hướng đến niềm hạnh ph&uacute;c đ&iacute;ch thực v&agrave; trải nghiệm t&iacute;nh nguy&ecirc;n vẹn của t&acirc;m hồn.</p>\r\n<p>&nbsp;Lấy bối cảnh từ sử thi Ấn Độ, cả c&acirc;u chuyện kể được kết th&agrave;nh từ những h&igrave;nh ảnh ẩn dụ với c&aacute;c nh&acirc;n vật thần thoại để sau mỗi lần đọc sẽ nhận ra nhiều điều rất quen thuộc nhưng cũng rất mới, khiến cho vốn hiểu biết của bạn c&agrave;ng th&ecirc;m s&acirc;u sắc.</p>\r\n<p>&nbsp;Đ&acirc;y l&agrave; chuyến h&agrave;nh tr&igrave;nh nội t&acirc;m m&agrave; mỗi người ch&uacute;ng ta đều cần thực hiện nếu muốn ho&agrave;n th&agrave;nh mục đ&iacute;ch của đời m&igrave;nh. Bạn h&atilde;y đọc c&acirc;u chuyện bằng c&aacute;i nh&igrave;n mới mẻ v&agrave; t&igrave;m thấy &yacute; nghĩa trong h&agrave;nh tr&igrave;nh của ri&ecirc;ng m&igrave;nh.</p>\r\n<p>Tr&acirc;n trọng giới thiệu</p>",
+    "authors": [
+      {
+        "id": "5862",
+        "name": "Dr. Prashant Kakode"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Tâm linh - Tôn giáo_428.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 13:03:45",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 12962,
+      "title": "Tỉnh Thức",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>L&agrave; đề t&agrave;i t&acirc;m linh, nhưng qua c&aacute;ch nh&igrave;n v&agrave; trải nghiệm của một nh&agrave; khoa học, Tỉnh thức kh&ocirc;ng sa v&agrave;o gi&aacute;o điều m&agrave; được tr&igrave;nh b&agrave;y rất khoa học, logic nhằm dẫn dắt người đọc bước v&agrave;o cuộc h&agrave;nh tr&igrave;nh nội t&acirc;m. Tỉnh thức gồm hai phần:</p>\r\n<p>Phần 1 chia sẻ trải nghiệm về t&acirc;m linh theo g&oacute;c nh&igrave;n khoa học, &ldquo;giải phẫu&rdquo; t&acirc;m hồn con người để t&igrave;m ra nguồn gốc căn nguy&ecirc;n của mọi đau khổ, bất an.</p>\r\n<p>&nbsp;Phần 2 l&agrave; c&acirc;u chuyện về con đường dẫn đến sự trưởng th&agrave;nh nội t&acirc;m, con đường giải tho&aacute;t ta khỏi nỗi đau, sợ h&atilde;i hay khổ sở, l&agrave; một lời gọi mời hướng đến niềm hạnh ph&uacute;c đ&iacute;ch thực v&agrave; trải nghiệm t&iacute;nh nguy&ecirc;n vẹn của t&acirc;m hồn.</p>\r\n<p>&nbsp;Lấy bối cảnh từ sử thi Ấn Độ, cả c&acirc;u chuyện kể được kết th&agrave;nh từ những h&igrave;nh ảnh ẩn dụ với c&aacute;c nh&acirc;n vật thần thoại để sau mỗi lần đọc sẽ nhận ra nhiều điều rất quen thuộc nhưng cũng rất mới, khiến cho vốn hiểu biết của bạn c&agrave;ng th&ecirc;m s&acirc;u sắc.</p>\r\n<p>&nbsp;Đ&acirc;y l&agrave; chuyến h&agrave;nh tr&igrave;nh nội t&acirc;m m&agrave; mỗi người ch&uacute;ng ta đều cần thực hiện nếu muốn ho&agrave;n th&agrave;nh mục đ&iacute;ch của đời m&igrave;nh. Bạn h&atilde;y đọc c&acirc;u chuyện bằng c&aacute;i nh&igrave;n mới mẻ v&agrave; t&igrave;m thấy &yacute; nghĩa trong h&agrave;nh tr&igrave;nh của ri&ecirc;ng m&igrave;nh.</p>\r\n<p>Tr&acirc;n trọng giới thiệu</p>",
+      "zone": 1,
+      "published_time": "10/02/2010",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/tinh-thuc-dr-prashant-kakode-b2jzLW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/tinh-thuc-dr-prashant-kakode-b2jzLW.html?std=type%3D1%26data%3D12962%26title%3DT%25E1%25BB%2589nh%2BTh%25E1%25BB%25A9c%26mini_app%3D1&type=1&data=12962&title=T%E1%BB%89nh+Th%E1%BB%A9c&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "59",
+          "name": "NXB Văn Hóa Sài Gòn"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5862",
+          "name": "Dr. Prashant Kakode",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5862.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5862\",\"name\":\"Dr. Prashant Kakode\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5862.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Dr. Prashant Kakode",
+      "author_id": "5862",
+      "category_id": "428",
+      "category_name": "Tâm linh - Tôn giáo",
+      "categories": [
+        {
+          "id": "428",
+          "name": "Tâm linh - Tôn giáo",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.9",
+      "total_rate_count": 21,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 4,
+      "total_wishlist": 122,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "Lê Văn Mậu, Trần Thế Lâm",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=12962&title=tinh-thuc",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=12962&title=tinh-thuc#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1465376892,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/12962.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3347,
+      "number_view": 10830,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/tinh-thuc-b2jzLW.html?std=type%3D1%26data%3D12962&type=1&data=12962",
+      "read_link": "https://ebook.waka.vn/tinh-thuc-r2jzLW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 20
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 3,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 3,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12962_3/OEBPS/content.opf?token=0c0a4z31e6aad15963bec19bcf99978d3259c012962",
+        "id": 12962,
+        "chapter_trail": 0,
+        "name": "Tỉnh Thức",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/tinh-thuc-r2jzLW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0012.xhtml",
+      "chapterHref": "contents/page0012.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12962_3/OEBPS/contents/page0012.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nPHẦN I: GIẢI PHẪU NỖI KHỔ ĐAU\nChương 1: Thông điệp từ tạo hóa\nChương 2: Tôi là ai?\nChương 3: Smriti\nChương 4: Lực Vinash\nChương 5: Lựa chọn thứ hai\nChương 6: Sự tưởng nhớ\nChương 7: Những sức mạnh và đức hạnh\nPHẦN II: ĐƯỜNG RANH HUYỀN DIỆU\nVề tác giả"
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nPHẦN I: GIẢI PHẪU NỖI KHỔ ĐAU\nChương 1: Thông điệp từ tạo hóa\nChương 2: Tôi là ai?\nChương 3: Smriti\nChương 4: Lực Vinash\nChương 5: Lựa chọn thứ hai\nChương 6: Sự tưởng nhớ\nChương 7: Những sức mạnh và đức hạnh\nPHẦN II: ĐƯỜNG RANH HUYỀN DIỆU\nVề tác giả"
+}

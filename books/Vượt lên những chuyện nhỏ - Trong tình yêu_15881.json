@@ -1,0 +1,233 @@
+{
+  "item_id": 15881,
+  "title": "Vượt lên những chuyện nhỏ - Trong tình yêu",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T09:22:26.645Z",
+  "input_book": {
+    "id": 15881,
+    "title": "Vượt lên những chuyện nhỏ - Trong tình yêu",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/15881.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p style=\"text-align: justify;\">Tập s&aacute;ch giới thiệu đến bạn đọc những b&iacute; quyết đơn giản m&agrave; rất hữu hiệu trong việc l&agrave;m thế n&agrave;o để x&acirc;y đắp v&agrave; g&igrave;n giữ cuộc sống h&ocirc;n nh&acirc;n hạnh ph&uacute;c v&agrave; vững bền m&atilde;i m&atilde;i. Những b&iacute; quyết cụ thể v&agrave; thực tế từ cuộc h&ocirc;n nh&acirc;n hạnh ph&uacute;c của t&aacute;c giả c&oacute; sức mạnh kết nối những tr&aacute;i tim y&ecirc;u v&agrave; giữ cho mối quan hệ của c&aacute;c đ&ocirc;i vợ chồng ng&agrave;y c&agrave;ng khắng kh&iacute;t.</p>\r\n<p style=\"text-align: justify;\">\"T&ocirc;i viết cuốn s&aacute;ch n&agrave;y với hy vọng g&oacute;p một phần nhỏ b&eacute; v&agrave;o việc giải quyết những m&acirc;u thuẫn nảy sinh trong cuộc sống gia đ&igrave;nh. Những lời khuy&ecirc;n n&agrave;y gi&uacute;p bạn x&aacute;c định đ&acirc;u l&agrave; nguy&ecirc;n nh&acirc;n thường gặp nhất trong việc g&acirc;y ra phiền muộn, t&igrave;m lại được những niềm vui m&agrave; đ&ocirc;i khi ch&uacute;ng ta đ&atilde; đ&aacute;nh mất giữa bộn bề của cuộc sống\".</p>\r\n<p style=\"text-align: justify;\">Mời bạn đ&oacute;n đọc <strong>Vượt l&ecirc;n những chuyện nhỏ - Trong t&igrave;nh y&ecirc;u&nbsp;</strong>của t&aacute;c giả <strong>Richard Carlson</strong>.</p>",
+    "authors": [
+      {
+        "id": "192",
+        "name": "Richard Carlson"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách nói_Tâm Lý - Sức Khỏe Tinh Thần _155.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Nghệ thuật sống_155.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Phát triển cá nhân_94.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 10:38:45",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 15881,
+      "title": "Vượt lên những chuyện nhỏ - Trong tình yêu",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p style=\"text-align: justify;\">Tập s&aacute;ch giới thiệu đến bạn đọc những b&iacute; quyết đơn giản m&agrave; rất hữu hiệu trong việc l&agrave;m thế n&agrave;o để x&acirc;y đắp v&agrave; g&igrave;n giữ cuộc sống h&ocirc;n nh&acirc;n hạnh ph&uacute;c v&agrave; vững bền m&atilde;i m&atilde;i. Những b&iacute; quyết cụ thể v&agrave; thực tế từ cuộc h&ocirc;n nh&acirc;n hạnh ph&uacute;c của t&aacute;c giả c&oacute; sức mạnh kết nối những tr&aacute;i tim y&ecirc;u v&agrave; giữ cho mối quan hệ của c&aacute;c đ&ocirc;i vợ chồng ng&agrave;y c&agrave;ng khắng kh&iacute;t.</p>\r\n<p style=\"text-align: justify;\">\"T&ocirc;i viết cuốn s&aacute;ch n&agrave;y với hy vọng g&oacute;p một phần nhỏ b&eacute; v&agrave;o việc giải quyết những m&acirc;u thuẫn nảy sinh trong cuộc sống gia đ&igrave;nh. Những lời khuy&ecirc;n n&agrave;y gi&uacute;p bạn x&aacute;c định đ&acirc;u l&agrave; nguy&ecirc;n nh&acirc;n thường gặp nhất trong việc g&acirc;y ra phiền muộn, t&igrave;m lại được những niềm vui m&agrave; đ&ocirc;i khi ch&uacute;ng ta đ&atilde; đ&aacute;nh mất giữa bộn bề của cuộc sống\".</p>\r\n<p style=\"text-align: justify;\">Mời bạn đ&oacute;n đọc <strong>Vượt l&ecirc;n những chuyện nhỏ - Trong t&igrave;nh y&ecirc;u&nbsp;</strong>của t&aacute;c giả <strong>Richard Carlson</strong>.</p>",
+      "zone": 1,
+      "published_time": "09/03/2017",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/vuot-len-nhung-chuyen-nho-trong-tinh-yeu-richard-carlson-b7EE6W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/vuot-len-nhung-chuyen-nho-trong-tinh-yeu-richard-carlson-b7EE6W.html?std=type%3D1%26data%3D15881%26title%3DV%25C6%25B0%25E1%25BB%25A3t%2Bl%25C3%25AAn%2Bnh%25E1%25BB%25AFng%2Bchuy%25E1%25BB%2587n%2Bnh%25E1%25BB%258F%2B-%2BTrong%2Bt%25C3%25ACnh%2By%25C3%25AAu%26mini_app%3D1&type=1&data=15881&title=V%C6%B0%E1%BB%A3t+l%C3%AAn+nh%E1%BB%AFng+chuy%E1%BB%87n+nh%E1%BB%8F+-+Trong+t%C3%ACnh+y%C3%AAu&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "36",
+          "name": "NXB Trẻ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "192",
+          "name": "Richard Carlson",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/192.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"192\",\"name\":\"Richard Carlson\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/192.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Richard Carlson",
+      "author_id": "192",
+      "category_id": "94",
+      "category_name": "Phát triển cá nhân",
+      "categories": [
+        {
+          "id": "94",
+          "name": "Phát triển cá nhân",
+          "parent_id": 0
+        },
+        {
+          "id": "155",
+          "name": "Nghệ thuật sống",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.9",
+      "total_rate_count": 10,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 3,
+      "total_wishlist": 58,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=15881&title=vuot-len-nhung-chuyen-nho-trong-tinh-yeu",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=15881&title=vuot-len-nhung-chuyen-nho-trong-tinh-yeu#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1488768096,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/15881.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 4669,
+      "number_view": 3382,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/UaKN",
+      "read_link": "https://ebook.waka.vn/vuot-len-nhung-chuyen-nho-trong-tinh-yeu-r7EE6W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 9
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 3,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 2,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15881_2/OEBPS/content.opf?token=0c4a2zf2c2b3877157020e5a7698cc0ec535c915881",
+        "id": 15881,
+        "chapter_trail": 4,
+        "name": "Vượt lên những chuyện nhỏ - Trong tình yêu",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 2,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/vuot-len-nhung-chuyen-nho-trong-tinh-yeu-r7EE6W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0077.xhtml",
+      "chapterHref": "contents/page0077.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15881_2/OEBPS/contents/page0077.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nHãy là bạn thân của nhau\nHọc cách tự cười mình\nBỏ qua những chuyện cũ\nKhơi dậy lửa đam mê\nĐừng đứng núi này trông núi nọ\nLuôn đối xử tử tế với nhau\nĐừng trút mọi nỗi bực tức lên người bạn đời\nTrò chuyện theo cách của người ấy\nLuôn thể hiện sự yêu thương\nTìm kiếm những điều tốt đẹp\nĐánh dấu lịch mỗi tháng\nTrao đổi cách nhìn cuộc sống\nNgừng ngay những \"tối hậu thư\"\nKhông phản ứng khi tâm trạng bất an\nBiết khẳng định giá trị bản thân\nChọn góc nhìn tích cực\nNêu gương tốt\nBỏ qua những chuyện nhỏ nhặt\nTrở thành một người lắng nghe tuyệt vời\nCòn điều gì tuyệt vời hơn thế nữa?\nTôn trọng sở thích riêng của người bạn đời\nGiá trị của những lời khen tặng\nHãy thôi mơ ước người bạn đời của mình sẽ đổi khác\nĐừng dồn người bạn đời vào thế bí\nCẩn trọng trong lời nói\nSẵn sàng nhận lỗi\nLuôn biết cảm thông\nSống theo cách của bạn\nMỗi sáng, hãy nghĩ về ba điều bạn yêu thích ở người bạn đời\nLuôn chọn giải pháp hòa bình\nCó thái độ mềm mỏng trước những lời phê bình\nGiữ được sự khôi hài\nĐừng tự cho mình là trung tâm của các câu chuyện\nMỗi ngày đều là sự khởi đầu\nNgồi bên nhau trong thinh lặng\nTự chịu trách nhiệm về hạnh phúc của mình\nTrò chuyện chân thành\nĐừng để những rắc rối của riêng bạn ảnh hưởng đến đời sống hôn nhân\nLoại bỏ tâm thế phòng thủ\nLuôn thể hiện lòng biết ơn\nƯu tiên dành thời gian cho gia đình\nHãy cùng nhau tổ chức một dự án từ thiện\nTự xét xem có phải mình đang nghiêm trọng hóa vấn đề?\nĐừng hy vọng kết quả khác nếu bạn vẫn hành xử như cũ\nĐáp lại người bạn đời bằng thái độ yêu thương\nTự soi mình trong gương\nChấp nhận các khuyết điểm của người bạn đời\nChấp nhận sự thay đổi\nLuôn ủng hộ người bạn đời\nĐặt mình ở tương lai để nhìn về hiện tại\nQuy tắc về hạnh phúc sóng đôi\nTìm hiểu về những ước mơ mới của nhau\nSức mạnh của việc thể hiện tình yêu thương\nĐừng để con cái xen vào giữa\nĐể những mệt nhọc sau một ngày làm việc bên ngoài cánh cửa nhà bạn\nĐừng chất vấn các quyết định của người bạn đời\nLường trước những phản ứng của người bạn đời\nNgừng xử sự như thể mọi chuyện đều trong tình trạng khẩn cấp\nTác dụng kỳ diệu của những cánh thư\nĐón nhận lời xin lỗi một cách nhã nhặn\nKhông nói hộ người khác\nTruyền cảm hứng cho nhau\nYêu là không ghen\nChấp nhận một vài sở thích kỳ cục của người bạn đời\nHãy thôi đòi hỏi quá đáng\nTạo khoảng dừng trước những nghi ngờ\nThể hiện tình yêu thương vô điều kiện\nGiúp người bạn đời hoàn thành nốt những công việc còn dang dở\nHọc tập thế hệ trẻ\nĐừng cố chấp\nNâng cao chất lượng của cuộc sống\nThông cảm với những khoảnh khắc \"mất kiểm soát\" của người bạn đời\nCân bằng cuộc sống\nLuôn nhớ về sự kỳ diệu của tình yêu"
+    },
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15881_2/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": "Lời giới thiệu",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU\n\nTặng hai con gái của cha mẹ, Jazzy và Kenna, với tất cả tình yêu thương. Món quà ý nghĩa nhất cha mẹ có thể tặng cho hai con chính là tình yêu không có tuổi mà cha mẹ đang dành tặng nhau mỗi ngày.\n\nC\nó rất nhiều nguyên nhân dẫn đến những rạn nứt thầm lặng trong đời sống hôn nhân: có thể đó là một số bất đồng về quan điểm sống, sự thiếu hòa hợp trong nếp sinh hoạt hay đơn giản là sự thiếu vắng niềm vui và hạnh phúc thật sự. Thế nhưng khi được hỏi về cuộc sống hôn nhân, các cặp vợ chồng đều thường trả lời: \"Chúng tôi cho rằng nó vẫn ổn\" hoặc họ sẽ đưa ra những câu trả lời chung chung. Dường như rất nhiều người vẫn tìm một vài lý do nào đó để tự trấn an rằng tình trạng hôn nhân hiện thời của họ là hoàn toàn bình thường và có thể chấp nhận được. Thậm chí còn có những cặp tự cho rằng họ đang sở hữu một cuộc sống hôn nhân tốt đẹp, dù đôi lúc họ không tránh khỏi băn khoăn đâu mới là hạnh phúc thực sự trong đời sống vợ chồng. Nói cách khác, những cặp vợ chồng này cho rằng mình và người bạn đời đang sống hòa thuận, nhưng có vẻ như giữa họ ngày càng nảy sinh nhiều mâu thuẫn. Họ ngày càng thất vọng về nhau, rồi sau đó thất vọng về chính cuộc hôn nhân của mình.\n\nRõ ràng là việc phải đối mặt với một vài biến cố đau buồn trong cuộc sống là điều không thể tránh khỏi. Tuy nhiên, hẳn các bạn đồng ý với chúng tôi rằng phần lớn mọi người đều đối mặt và vượt qua những tình huống nghiêm trọng bằng tất cả sự can đảm và khả năng sáng tạo của mình. Chúng ta thường được chuẩn bị tâm thế để đối phó với những biến cố lớn thay vì những vấn đề nhỏ nhặt. Nhưng có một nghịch lý là những điều nhỏ nhặt hóa ra lại có sức tàn phá rất lớn, và những biến cố lớn trong cuộc đời ta hóa ra lại được hình thành từ những chuyện rất nhỏ vẫn diễn ra hàng ngày, hằng giờ. Vì vậy, chúng tôi tin rằng một khi chúng ta học được cách bình thản vượt qua những điều nhỏ nhặt thì chúng ta có thể giải quyết những vấn đề quan trọng một cách thật sự hiệu quả.\n\nHy vọng rằng những bí quyết trong cuốn sách này sẽ giúp bạn giảm bớt những rắc rối không đáng có trong hôn nhân, từ đó bạn sẽ chuẩn bị cho mình tâm thế vững vàng và cách ứng xử tuyệt vời khi phải đối mặt với những vấn đề quan trọng khác trong cuộc sống. Một khi có được tâm thế vững vàng và lòng tin vững chắc vào bản thân mình, cuộc hôn nhân của bạn sẽ sớm trở lại tốt đẹp như xưa.\n\nCùng nhau viết cuốn sách này là niềm vui chung lớn lao đồng thời là một trong những sự kiện đánh dấu những thời khắc hạnh phúc thăng hoa trong cuộc đời chúng tôi. Hy vọng những bí quyết được chúng tôi xem là chìa khóa để bảo vệ và xây đắp một cuộc hôn nhân bền vững, mặn nồng được trình bày trong cuốn sách này sẽ giúp bạn xây đắp một cuộc sống hôn nhân đúng như bạn mong ước. Việc này sẽ giúp thắp sáng tâm hồn bạn, mở cửa trái tim bạn, nâng cao cuộc sống bạn.\n\nCó một lưu ý nhỏ: Chúng tôi hợp tác với nhau trong cả cuốn sách, nhưng có một vài vấn đề được nhìn từ quan điểm của Richard, và có một vài vấn đề được nhìn từ quan điểm của Kris. Để đơn giản thì những vấn đề nào được viết lên từ quan điểm của Kris sẽ được đánh dấu (Kris) ngay dưới tiêu đề. Còn những vấn đề viết từ quan điểm của Richard hay quan điểm của cả hai thì sẽ không được đánh dấu.\n\nTrước khi cùng nhau bắt đầu hành trình tìm về hạnh phúc, chúng tôi có lời khuyên dành cho bạn: hãy hướng đến những vì sao. Càng nhìn xa, bạn sẽ càng đi được xa hơn. Càng sớm nhận ra tầm quan trọng của việc bỏ qua những điều nhỏ nhặt, bạn sẽ càng nhanh chóng tìm được bí quyết hữu hiệu để bảo vệ hạnh phúc quý giá của gia đình mình.\n\nChúc các bạn luôn may mắn và thành công!\n\n- Richard và Kris Carlson"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15881_2/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": "Hãy là bạn thân của nhau",
+      "progress": null,
+      "text": "HÃY LÀ BẠN THÂN CỦA NHAU\n\nB\ní quyết đầu tiên và quan trọng nhất giúp tình yêu của chúng tôi bao năm qua vẫn luôn giữ được sức hút, sự hấp dẫn, vui vẻ và nồng ấm chính là vì chúng tôi đã thật sự trở thành những người bạn thân của nhau.\n\nChúng tôi đã cam kết là luôn thẳng thắn và trung thực với nhau, tôn trọng nhau và cùng chia sẻ những mối quan tâm chung trong cuộc sống - đó là tình yêu lớn lao dành cho các con, sự tương đồng về những giá trị và mục tiêu sống. Chúng tôi vô cùng may mắn và hạnh phúc khi có chung nhiều bạn bè, chung niềm tin về tôn giáo và những giá trị tinh thần cao đẹp.\n\nTuy nhiên, các bạn nên hiểu rằng không có bất kỳ yếu tố nào trong số những điều kiện tuyệt vời kể trên có thể bảo đảm cho tình yêu luôn nồng thắm và trường tồn. Có rất nhiều cặp vợ chồng tuy vẫn chung thủy và cuốn hút lẫn nhau, vẫn kiên trì cùng nhau gánh vác, chia sẻ những giá trị chung trong cuộc sống, nhưng giữa họ vẫn thường xuyên xảy ra những trận cãi cọ, xung đột. Những cảm xúc bất mãn, giận dữ, oán trách… nảy sinh từ việc thường xuyên bất đồng không thể bảo đảm cho một cuộc hôn nhân bền vững lâu dài.\n\nĐúng là cuộc sống hôn nhân rất khó tránh khỏi những lúc bất đồng. Nhưng một khi hai vợ chồng đã xem nhau là bạn thân thì mối quan hệ bạn bè bình đẳng và thân thiện này sẽ giúp duy trì một tình yêu bền chặt. Đó là vì những người bạn thân luôn ủng hộ và giúp đỡ nhau, dành cho nhau sự kiên nhẫn, tử tế và biết bổ khuyết cho nhau. Những người bạn thân luôn biết cách lắng nghe và biến những vấn đề nghiêm trọng thành những trận cười. Họ gắn bó với nhau, chia sẻ cho nhau những giây phút tươi đẹp cũng như luôn bên nhau trong những biến cố của cuộc đời.\n\nMột khi bạn đã có lòng tin rằng bí quyết tốt nhất để giữ vững tình yêu là hai người hãy trở thành bạn thân của nhau, mọi chuyện sẽ trở nên rất dễ dàng. Hãy luôn đối xử với người bạn đời bằng tất cả sự tử tế, nâng niu và tôn trọng như đối với người bạn thân thiết nhất của mình. Khi ấy, giữa hai người sẽ luôn hiện diện một tình yêu khắng khít, bởi họ biết rằng người bạn đời của mình luôn chia sẻ và ủng hộ mọi mơ ước của họ, bất kể mơ ước ấy có thể thành sự thật hay không.\n\nViệc hai người yêu nhau trở thành bạn thân của nhau thật sự là một món quà và là một mục tiêu đáng để theo đuổi. Khi đó, mỗi người sẽ thấy mình trong những ước mơ của người kia và cùng chia sẻ chúng mà không có cảm giác rằng có ai đó phải hy sinh. Tuy nhiên, để trở thành bạn thân của nhau, mỗi người sẽ phải không ngừng quan sát, suy ngẫm, thậm chí buộc phải thay đổi một vài thói quen. Nhưng hãy tin rằng những nỗ lực của bạn chắc chắn sẽ được đền đáp!"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15881_2/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "Học cách tự cười mình",
+      "progress": null,
+      "text": "HỌC CÁCH TỰ CƯỜI MÌNH\n\nM\nột trong những cách hữu hiệu nhất giúp bạn vượt qua nhiều việc khó chịu vụn vặt hàng ngày chính là khiếu hài hước. Sau một thời gian dài gắn bó bên nhau, đến một lúc nào đó người bạn đời cũng hiểu bạn như chính bạn hiểu về người ấy – sẽ thấy rõ những tật xấu của bạn, lường trước được những phản ứng tiêu cực của bạn, cũng như biết được những khoảnh khắc bạn chìm đắm trong cảm xúc riêng. Lúc này, dù cố gắng đến đâu, bạn cũng không thể che giấu con người thật của mình với người bạn đời.\n\nNếu bạn không thể học cách tự cười mình, cuộc hôn nhân có thể sẽ trở nên tồi tệ. Bởi vì khi người bạn đời chế giễu hay chú ý đến những tật xấu của bạn, bạn sẽ có cảm giác người ấy đang tìm cơ hội \"bêu rếu\" bạn, và bạn sẽ có hành động phản kháng để tự vệ, khiến cho những điểm yếu của bạn bộc lộ rõ hơn. Khi ấy, mâu thuẫn sẽ trở nên cực kỳ trầm trọng. Hơn thế, những phản ứng không hay của bạn nhằm trả đũa lại người bạn đời sẽ vô tình tạo thêm rắc rối cho cuộc sống hôn nhân. Như vậy, rõ ràng \"chuyện bé đã xé ra to\".\n\nNếu để ý xung quanh, bạn sẽ thấy những cặp vợ chồng hạnh phúc nhất thường thấu hiểu lẫn nhau sâu sắc đến mức cả hai không còn e ngại khi những khiếm khuyết của mình bị đối phương phát hiện. Việc hai vợ chồng quan sát hoặc góp ý lẫn nhau là điều rất đỗi bình thường, Lúc này, tình cảm giữa hai người sẽ ngày càng trở nên sâu đậm, khăng khít.\n\nKhi tiếp xúc với một người lúc nào cũng vui vẻ, hài hước, bạn dễ dàng cảm nhận được sự sôi nổi và nhiệt huyết từ người đó truyền sang bạn. Thông thường, khi bạn biết kiểm soát thái độ của bản thân, có khả năng bộc lộ khiếu hài hước trong những tình thế sắp dẫn đến xung đột căng thẳng, người bạn đời của bạn sẽ nhận ra rằng họ đã hơi quá đà và sẽ tỏ ý xin lỗi bạn. Ngay cả khi người bạn đời của bạn không nhận ra điều này, bạn cũng sẽ chẳng lấy làm phiền lòng bởi vì đối với bạn, đó không phải là một vấn đề to tát.\n\nBạn hẳn là người rất tuyệt vời thì mới giữ được người bạn đời ở bên cạnh mình trong một thời gian dài. Tuy nhiên, nếu thỉnh thoảng anh ấy hoặc cô ấy có buông ra một vài lời chê bai nào đó, bạn cần hiểu rằng những nhận xét ấy không phải hoàn toàn là vô căn cứ. Ngay cả khi bạn không bằng lòng với cách nói ấy thì cách tốt nhất để đáp lại là hãy cười xòa và quên chúng đi. Bằng cách biết tự cười mình và đón nhận những lời phê bình với thái độ hợp tác, bạn sẽ tạo nên được một bầu không khí yêu đương dễ chịu và ấm áp. Như vậy, cuộc hôn nhân của bạn sẽ trở nên mặn nồng hơn bao giờ hết."
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/15881_2/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Bỏ qua những chuyện cũ",
+      "progress": null,
+      "text": "BỎ QUA NHỮNG CHUYỆN CŨ\n\nT\nhật mệt mỏi khi phải ở bên những người không biết quên đi những chuyện không đáng nhớ hay những người thường xuyên bị dằn vặt bởi những chuyện đã qua. Cũng thật khổ sở biết bao nếu ta tiếp tục yêu một người luôn có những đòi hỏi phi thực tế, một người không biết mở cửa trái tim mình để chấp nhận sự thật rằng người bạn đời của mình thực ra cũng chỉ là một con người bình thường với bao khiếm khuyết, lỗi lầm.\n\nMối quan hệ nào cũng phải đối mặt với những biến cố không thể lường trước được. Vì vậy, đừng bao giờ để những chuyện đã qua tác động đến khả năng yêu thương, tha thứ và trưởng thành của bạn. Một khi trong đầu bạn chất chứa phiền muộn, u sầu về những chuyện cũ, trái tim bạn cũng sẽ chìm đắm trong cảm giác lo sợ, nghi ngờ và thất vọng – đây là những cảm giác tiêu cực, những cảm giác không phải tình yêu. Lúc này, sự thất vọng sẽ len lỏi vào mọi ngóc ngách trong cơ thể và tâm hồn bạn. Cuối cùng bạn sẽ đau khổ chỉ vì những điều vụn vặt không đáng.\n\nSự thật là ai trong chúng ta cũng sẽ có lúc cư xử không đúng mực hay ít nhất đều từng có những phán xét sai lầm. Tuy nhiên cách tốt nhất để vượt qua những điều này là tha thứ và sống với một thái độ không xét đoán. Nếu người bạn yêu mắc phải một lỗi lầm nào đó, điều quan trọng là bạn phải luôn thật lòng yêu thương và ủng hộ người ấy chứ không phải làm cho vấn đề trở nên trầm trọng hơn. Hãy tha thứ cho nhau và hướng tới tương lai rộng mở, tràn đầy hy vọng ở phía trước. Đây chính là cơ sở nền tảng cho một cuộc hôn nhân ngày càng hoàn thiện và phát triển tốt đẹp."
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nHãy là bạn thân của nhau\nHọc cách tự cười mình\nBỏ qua những chuyện cũ\nKhơi dậy lửa đam mê\nĐừng đứng núi này trông núi nọ\nLuôn đối xử tử tế với nhau\nĐừng trút mọi nỗi bực tức lên người bạn đời\nTrò chuyện theo cách của người ấy\nLuôn thể hiện sự yêu thương\nTìm kiếm những điều tốt đẹp\nĐánh dấu lịch mỗi tháng\nTrao đổi cách nhìn cuộc sống\nNgừng ngay những \"tối hậu thư\"\nKhông phản ứng khi tâm trạng bất an\nBiết khẳng định giá trị bản thân\nChọn góc nhìn tích cực\nNêu gương tốt\nBỏ qua những chuyện nhỏ nhặt\nTrở thành một người lắng nghe tuyệt vời\nCòn điều gì tuyệt vời hơn thế nữa?\nTôn trọng sở thích riêng của người bạn đời\nGiá trị của những lời khen tặng\nHãy thôi mơ ước người bạn đời của mình sẽ đổi khác\nĐừng dồn người bạn đời vào thế bí\nCẩn trọng trong lời nói\nSẵn sàng nhận lỗi\nLuôn biết cảm thông\nSống theo cách của bạn\nMỗi sáng, hãy nghĩ về ba điều bạn yêu thích ở người bạn đời\nLuôn chọn giải pháp hòa bình\nCó thái độ mềm mỏng trước những lời phê bình\nGiữ được sự khôi hài\nĐừng tự cho mình là trung tâm của các câu chuyện\nMỗi ngày đều là sự khởi đầu\nNgồi bên nhau trong thinh lặng\nTự chịu trách nhiệm về hạnh phúc của mình\nTrò chuyện chân thành\nĐừng để những rắc rối của riêng bạn ảnh hưởng đến đời sống hôn nhân\nLoại bỏ tâm thế phòng thủ\nLuôn thể hiện lòng biết ơn\nƯu tiên dành thời gian cho gia đình\nHãy cùng nhau tổ chức một dự án từ thiện\nTự xét xem có phải mình đang nghiêm trọng hóa vấn đề?\nĐừng hy vọng kết quả khác nếu bạn vẫn hành xử như cũ\nĐáp lại người bạn đời bằng thái độ yêu thương\nTự soi mình trong gương\nChấp nhận các khuyết điểm của người bạn đời\nChấp nhận sự thay đổi\nLuôn ủng hộ người bạn đời\nĐặt mình ở tương lai để nhìn về hiện tại\nQuy tắc về hạnh phúc sóng đôi\nTìm hiểu về những ước mơ mới của nhau\nSức mạnh của việc thể hiện tình yêu thương\nĐừng để con cái xen vào giữa\nĐể những mệt nhọc sau một ngày làm việc bên ngoài cánh cửa nhà bạn\nĐừng chất vấn các quyết định của người bạn đời\nLường trước những phản ứng của người bạn đời\nNgừng xử sự như thể mọi chuyện đều trong tình trạng khẩn cấp\nTác dụng kỳ diệu của những cánh thư\nĐón nhận lời xin lỗi một cách nhã nhặn\nKhông nói hộ người khác\nTruyền cảm hứng cho nhau\nYêu là không ghen\nChấp nhận một vài sở thích kỳ cục của người bạn đời\nHãy thôi đòi hỏi quá đáng\nTạo khoảng dừng trước những nghi ngờ\nThể hiện tình yêu thương vô điều kiện\nGiúp người bạn đời hoàn thành nốt những công việc còn dang dở\nHọc tập thế hệ trẻ\nĐừng cố chấp\nNâng cao chất lượng của cuộc sống\nThông cảm với những khoảnh khắc \"mất kiểm soát\" của người bạn đời\nCân bằng cuộc sống\nLuôn nhớ về sự kỳ diệu của tình yêu\n\nLỜI GIỚI THIỆU\n\nTặng hai con gái của cha mẹ, Jazzy và Kenna, với tất cả tình yêu thương. Món quà ý nghĩa nhất cha mẹ có thể tặng cho hai con chính là tình yêu không có tuổi mà cha mẹ đang dành tặng nhau mỗi ngày.\n\nC\nó rất nhiều nguyên nhân dẫn đến những rạn nứt thầm lặng trong đời sống hôn nhân: có thể đó là một số bất đồng về quan điểm sống, sự thiếu hòa hợp trong nếp sinh hoạt hay đơn giản là sự thiếu vắng niềm vui và hạnh phúc thật sự. Thế nhưng khi được hỏi về cuộc sống hôn nhân, các cặp vợ chồng đều thường trả lời: \"Chúng tôi cho rằng nó vẫn ổn\" hoặc họ sẽ đưa ra những câu trả lời chung chung. Dường như rất nhiều người vẫn tìm một vài lý do nào đó để tự trấn an rằng tình trạng hôn nhân hiện thời của họ là hoàn toàn bình thường và có thể chấp nhận được. Thậm chí còn có những cặp tự cho rằng họ đang sở hữu một cuộc sống hôn nhân tốt đẹp, dù đôi lúc họ không tránh khỏi băn khoăn đâu mới là hạnh phúc thực sự trong đời sống vợ chồng. Nói cách khác, những cặp vợ chồng này cho rằng mình và người bạn đời đang sống hòa thuận, nhưng có vẻ như giữa họ ngày càng nảy sinh nhiều mâu thuẫn. Họ ngày càng thất vọng về nhau, rồi sau đó thất vọng về chính cuộc hôn nhân của mình.\n\nRõ ràng là việc phải đối mặt với một vài biến cố đau buồn trong cuộc sống là điều không thể tránh khỏi. Tuy nhiên, hẳn các bạn đồng ý với chúng tôi rằng phần lớn mọi người đều đối mặt và vượt qua những tình huống nghiêm trọng bằng tất cả sự can đảm và khả năng sáng tạo của mình. Chúng ta thường được chuẩn bị tâm thế để đối phó với những biến cố lớn thay vì những vấn đề nhỏ nhặt. Nhưng có một nghịch lý là những điều nhỏ nhặt hóa ra lại có sức tàn phá rất lớn, và những biến cố lớn trong cuộc đời ta hóa ra lại được hình thành từ những chuyện rất nhỏ vẫn diễn ra hàng ngày, hằng giờ. Vì vậy, chúng tôi tin rằng một khi chúng ta học được cách bình thản vượt qua những điều nhỏ nhặt thì chúng ta có thể giải quyết những vấn đề quan trọng một cách thật sự hiệu quả.\n\nHy vọng rằng những bí quyết trong cuốn sách này sẽ giúp bạn giảm bớt những rắc rối không đáng có trong hôn nhân, từ đó bạn sẽ chuẩn bị cho mình tâm thế vững vàng và cách ứng xử tuyệt vời khi phải đối mặt với những vấn đề quan trọng khác trong cuộc sống. Một khi có được tâm thế vững vàng và lòng tin vững chắc vào bản thân mình, cuộc hôn nhân của bạn sẽ sớm trở lại tốt đẹp như xưa.\n\nCùng nhau viết cuốn sách này là niềm vui chung lớn lao đồng thời là một trong những sự kiện đánh dấu những thời khắc hạnh phúc thăng hoa trong cuộc đời chúng tôi. Hy vọng những bí quyết được chúng tôi xem là chìa khóa để bảo vệ và xây đắp một cuộc hôn nhân bền vững, mặn nồng được trình bày trong cuốn sách này sẽ giúp bạn xây đắp một cuộc sống hôn nhân đúng như bạn mong ước. Việc này sẽ giúp thắp sáng tâm hồn bạn, mở cửa trái tim bạn, nâng cao cuộc sống bạn.\n\nCó một lưu ý nhỏ: Chúng tôi hợp tác với nhau trong cả cuốn sách, nhưng có một vài vấn đề được nhìn từ quan điểm của Richard, và có một vài vấn đề được nhìn từ quan điểm của Kris. Để đơn giản thì những vấn đề nào được viết lên từ quan điểm của Kris sẽ được đánh dấu (Kris) ngay dưới tiêu đề. Còn những vấn đề viết từ quan điểm của Richard hay quan điểm của cả hai thì sẽ không được đánh dấu.\n\nTrước khi cùng nhau bắt đầu hành trình tìm về hạnh phúc, chúng tôi có lời khuyên dành cho bạn: hãy hướng đến những vì sao. Càng nhìn xa, bạn sẽ càng đi được xa hơn. Càng sớm nhận ra tầm quan trọng của việc bỏ qua những điều nhỏ nhặt, bạn sẽ càng nhanh chóng tìm được bí quyết hữu hiệu để bảo vệ hạnh phúc quý giá của gia đình mình.\n\nChúc các bạn luôn may mắn và thành công!\n\n- Richard và Kris Carlson\n\nHÃY LÀ BẠN THÂN CỦA NHAU\n\nB\ní quyết đầu tiên và quan trọng nhất giúp tình yêu của chúng tôi bao năm qua vẫn luôn giữ được sức hút, sự hấp dẫn, vui vẻ và nồng ấm chính là vì chúng tôi đã thật sự trở thành những người bạn thân của nhau.\n\nChúng tôi đã cam kết là luôn thẳng thắn và trung thực với nhau, tôn trọng nhau và cùng chia sẻ những mối quan tâm chung trong cuộc sống - đó là tình yêu lớn lao dành cho các con, sự tương đồng về những giá trị và mục tiêu sống. Chúng tôi vô cùng may mắn và hạnh phúc khi có chung nhiều bạn bè, chung niềm tin về tôn giáo và những giá trị tinh thần cao đẹp.\n\nTuy nhiên, các bạn nên hiểu rằng không có bất kỳ yếu tố nào trong số những điều kiện tuyệt vời kể trên có thể bảo đảm cho tình yêu luôn nồng thắm và trường tồn. Có rất nhiều cặp vợ chồng tuy vẫn chung thủy và cuốn hút lẫn nhau, vẫn kiên trì cùng nhau gánh vác, chia sẻ những giá trị chung trong cuộc sống, nhưng giữa họ vẫn thường xuyên xảy ra những trận cãi cọ, xung đột. Những cảm xúc bất mãn, giận dữ, oán trách… nảy sinh từ việc thường xuyên bất đồng không thể bảo đảm cho một cuộc hôn nhân bền vững lâu dài.\n\nĐúng là cuộc sống hôn nhân rất khó tránh khỏi những lúc bất đồng. Nhưng một khi hai vợ chồng đã xem nhau là bạn thân thì mối quan hệ bạn bè bình đẳng và thân thiện này sẽ giúp duy trì một tình yêu bền chặt. Đó là vì những người bạn thân luôn ủng hộ và giúp đỡ nhau, dành cho nhau sự kiên nhẫn, tử tế và biết bổ khuyết cho nhau. Những người bạn thân luôn biết cách lắng nghe và biến những vấn đề nghiêm trọng thành những trận cười. Họ gắn bó với nhau, chia sẻ cho nhau những giây phút tươi đẹp cũng như luôn bên nhau trong những biến cố của cuộc đời.\n\nMột khi bạn đã có lòng tin rằng bí quyết tốt nhất để giữ vững tình yêu là hai người hãy trở thành bạn thân của nhau, mọi chuyện sẽ trở nên rất dễ dàng. Hãy luôn đối xử với người bạn đời bằng tất cả sự tử tế, nâng niu và tôn trọng như đối với người bạn thân thiết nhất của mình. Khi ấy, giữa hai người sẽ luôn hiện diện một tình yêu khắng khít, bởi họ biết rằng người bạn đời của mình luôn chia sẻ và ủng hộ mọi mơ ước của họ, bất kể mơ ước ấy có thể thành sự thật hay không.\n\nViệc hai người yêu nhau trở thành bạn thân của nhau thật sự là một món quà và là một mục tiêu đáng để theo đuổi. Khi đó, mỗi người sẽ thấy mình trong những ước mơ của người kia và cùng chia sẻ chúng mà không có cảm giác rằng có ai đó phải hy sinh. Tuy nhiên, để trở thành bạn thân của nhau, mỗi người sẽ phải không ngừng quan sát, suy ngẫm, thậm chí buộc phải thay đổi một vài thói quen. Nhưng hãy tin rằng những nỗ lực của bạn chắc chắn sẽ được đền đáp!\n\nHỌC CÁCH TỰ CƯỜI MÌNH\n\nM\nột trong những cách hữu hiệu nhất giúp bạn vượt qua nhiều việc khó chịu vụn vặt hàng ngày chính là khiếu hài hước. Sau một thời gian dài gắn bó bên nhau, đến một lúc nào đó người bạn đời cũng hiểu bạn như chính bạn hiểu về người ấy – sẽ thấy rõ những tật xấu của bạn, lường trước được những phản ứng tiêu cực của bạn, cũng như biết được những khoảnh khắc bạn chìm đắm trong cảm xúc riêng. Lúc này, dù cố gắng đến đâu, bạn cũng không thể che giấu con người thật của mình với người bạn đời.\n\nNếu bạn không thể học cách tự cười mình, cuộc hôn nhân có thể sẽ trở nên tồi tệ. Bởi vì khi người bạn đời chế giễu hay chú ý đến những tật xấu của bạn, bạn sẽ có cảm giác người ấy đang tìm cơ hội \"bêu rếu\" bạn, và bạn sẽ có hành động phản kháng để tự vệ, khiến cho những điểm yếu của bạn bộc lộ rõ hơn. Khi ấy, mâu thuẫn sẽ trở nên cực kỳ trầm trọng. Hơn thế, những phản ứng không hay của bạn nhằm trả đũa lại người bạn đời sẽ vô tình tạo thêm rắc rối cho cuộc sống hôn nhân. Như vậy, rõ ràng \"chuyện bé đã xé ra to\".\n\nNếu để ý xung quanh, bạn sẽ thấy những cặp vợ chồng hạnh phúc nhất thường thấu hiểu lẫn nhau sâu sắc đến mức cả hai không còn e ngại khi những khiếm khuyết của mình bị đối phương phát hiện. Việc hai vợ chồng quan sát hoặc góp ý lẫn nhau là điều rất đỗi bình thường, Lúc này, tình cảm giữa hai người sẽ ngày càng trở nên sâu đậm, khăng khít.\n\nKhi tiếp xúc với một người lúc nào cũng vui vẻ, hài hước, bạn dễ dàng cảm nhận được sự sôi nổi và nhiệt huyết từ người đó truyền sang bạn. Thông thường, khi bạn biết kiểm soát thái độ của bản thân, có khả năng bộc lộ khiếu hài hước trong những tình thế sắp dẫn đến xung đột căng thẳng, người bạn đời của bạn sẽ nhận ra rằng họ đã hơi quá đà và sẽ tỏ ý xin lỗi bạn. Ngay cả khi người bạn đời của bạn không nhận ra điều này, bạn cũng sẽ chẳng lấy làm phiền lòng bởi vì đối với bạn, đó không phải là một vấn đề to tát.\n\nBạn hẳn là người rất tuyệt vời thì mới giữ được người bạn đời ở bên cạnh mình trong một thời gian dài. Tuy nhiên, nếu thỉnh thoảng anh ấy hoặc cô ấy có buông ra một vài lời chê bai nào đó, bạn cần hiểu rằng những nhận xét ấy không phải hoàn toàn là vô căn cứ. Ngay cả khi bạn không bằng lòng với cách nói ấy thì cách tốt nhất để đáp lại là hãy cười xòa và quên chúng đi. Bằng cách biết tự cười mình và đón nhận những lời phê bình với thái độ hợp tác, bạn sẽ tạo nên được một bầu không khí yêu đương dễ chịu và ấm áp. Như vậy, cuộc hôn nhân của bạn sẽ trở nên mặn nồng hơn bao giờ hết.\n\nBỎ QUA NHỮNG CHUYỆN CŨ\n\nT\nhật mệt mỏi khi phải ở bên những người không biết quên đi những chuyện không đáng nhớ hay những người thường xuyên bị dằn vặt bởi những chuyện đã qua. Cũng thật khổ sở biết bao nếu ta tiếp tục yêu một người luôn có những đòi hỏi phi thực tế, một người không biết mở cửa trái tim mình để chấp nhận sự thật rằng người bạn đời của mình thực ra cũng chỉ là một con người bình thường với bao khiếm khuyết, lỗi lầm.\n\nMối quan hệ nào cũng phải đối mặt với những biến cố không thể lường trước được. Vì vậy, đừng bao giờ để những chuyện đã qua tác động đến khả năng yêu thương, tha thứ và trưởng thành của bạn. Một khi trong đầu bạn chất chứa phiền muộn, u sầu về những chuyện cũ, trái tim bạn cũng sẽ chìm đắm trong cảm giác lo sợ, nghi ngờ và thất vọng – đây là những cảm giác tiêu cực, những cảm giác không phải tình yêu. Lúc này, sự thất vọng sẽ len lỏi vào mọi ngóc ngách trong cơ thể và tâm hồn bạn. Cuối cùng bạn sẽ đau khổ chỉ vì những điều vụn vặt không đáng.\n\nSự thật là ai trong chúng ta cũng sẽ có lúc cư xử không đúng mực hay ít nhất đều từng có những phán xét sai lầm. Tuy nhiên cách tốt nhất để vượt qua những điều này là tha thứ và sống với một thái độ không xét đoán. Nếu người bạn yêu mắc phải một lỗi lầm nào đó, điều quan trọng là bạn phải luôn thật lòng yêu thương và ủng hộ người ấy chứ không phải làm cho vấn đề trở nên trầm trọng hơn. Hãy tha thứ cho nhau và hướng tới tương lai rộng mở, tràn đầy hy vọng ở phía trước. Đây chính là cơ sở nền tảng cho một cuộc hôn nhân ngày càng hoàn thiện và phát triển tốt đẹp."
+}

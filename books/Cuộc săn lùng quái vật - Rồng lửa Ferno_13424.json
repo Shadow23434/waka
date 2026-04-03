@@ -1,0 +1,238 @@
+{
+  "item_id": 13424,
+  "title": "Cuộc săn lùng quái vật - Rồng lửa Ferno",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:38:50.492Z",
+  "input_book": {
+    "id": 13424,
+    "title": "Cuộc săn lùng quái vật - Rồng lửa Ferno",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13424.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Những sự việc kỳ lạ đang li&ecirc;n tiếp xảy ra tại ng&ocirc;i l&agrave;ng của Tom. Đầu ti&ecirc;n, ngựa bị tấn c&ocirc;ng. Tiếp đ&oacute;, s&ocirc;ng ng&ograve;i kh&ocirc; cạn. Giờ đ&acirc;y, m&ugrave;a m&agrave;ng bị thi&ecirc;u rụi một c&aacute;ch b&iacute; ẩn. L&ograve;ng người hoang mang khiếp sợ. Nhưng Tom th&igrave; kh&ocirc;ng. Cậu lu&ocirc;n mơ đến một cuộc săn l&ugrave;ng - v&acirc;ng, một cuộc săn l&ugrave;ng thực sự!</p>\r\n<p>V&agrave; cậu cam đoan với d&acirc;n l&agrave;ng sẽ t&igrave;m đến đức vua, cầu ng&agrave;i gi&uacute;p đỡ. Chẳng bao l&acirc;u sau, Tom được biết kh&ocirc;ng chỉ c&oacute; l&agrave;ng của cậu gặp rắc rối. D&acirc;n ch&uacute;ng khắp vương quốc đều đang lo &acirc;u phiền muộn, gần như đ&aacute;nh mất hy vọng.</p>\r\n<p>Đấy cũng l&agrave; l&uacute;c nh&agrave; vua ban cho Tom một nhiệm vụ - g&aacute;nh v&aacute;c cuộc săn l&ugrave;ng quan trọng hơn cả - Cuộc Săn l&ugrave;ng Qu&aacute;i vật.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "5984",
+        "name": "Adam Blade"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Sách thiếu nhi_92.json",
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json",
+      "e:\\Crawl\\waka\\output\\Truyện tranh_Xuyên không_34.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 06:45:09",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13424,
+      "title": "Cuộc săn lùng quái vật - Rồng lửa Ferno",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Chuyến đi t&igrave;m sự trợ gi&uacute;p về cho ng&ocirc;i l&agrave;ng của một cậu b&eacute; trở th&agrave;nh cuộc săn l&ugrave;ng giải cứu vương quốc. Từng qu&aacute;i vật đ&aacute;ng sợ được khắc họa sinh động trong mỗi tập s&aacute;ch.</p>\r\n<p>Những sự việc kỳ lạ đang li&ecirc;n tiếp xảy ra tại ng&ocirc;i l&agrave;ng của Tom. Đầu ti&ecirc;n, ngựa bị tấn c&ocirc;ng. Tiếp đ&oacute;, s&ocirc;ng ng&ograve;i kh&ocirc; cạn. Giờ đ&acirc;y, m&ugrave;a m&agrave;ng bị thi&ecirc;u rụi một c&aacute;ch b&iacute; ẩn. L&ograve;ng người hoang mang khiếp sợ. Nhưng Tom th&igrave; kh&ocirc;ng. Cậu lu&ocirc;n mơ đến một cuộc săn l&ugrave;ng - v&acirc;ng, một cuộc săn l&ugrave;ng thực sự!</p>\r\n<p>V&agrave; cậu cam đoan với d&acirc;n l&agrave;ng sẽ t&igrave;m đến đức vua, cầu ng&agrave;i gi&uacute;p đỡ. Chẳng bao l&acirc;u sau, Tom được biết kh&ocirc;ng chỉ c&oacute; l&agrave;ng của cậu gặp rắc rối. D&acirc;n ch&uacute;ng khắp vương quốc đều đang lo &acirc;u phiền muộn, gần như đ&aacute;nh mất hy vọng.</p>\r\n<p>Đấy cũng l&agrave; l&uacute;c nh&agrave; vua ban cho Tom một nhiệm vụ - g&aacute;nh v&aacute;c cuộc săn l&ugrave;ng quan trọng hơn cả - Cuộc Săn l&ugrave;ng Qu&aacute;i vật.</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "19/08/2015",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/cuoc-san-lung-quai-vat-rong-lua-ferno-adam-blade-b8w2QW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/cuoc-san-lung-quai-vat-rong-lua-ferno-adam-blade-b8w2QW.html?std=type%3D1%26data%3D13424%26title%3DCu%25E1%25BB%2599c%2Bs%25C4%2583n%2Bl%25C3%25B9ng%2Bqu%25C3%25A1i%2Bv%25E1%25BA%25ADt%2B-%2BR%25E1%25BB%2593ng%2Bl%25E1%25BB%25ADa%2BFerno%26mini_app%3D1&type=1&data=13424&title=Cu%E1%BB%99c+s%C4%83n+l%C3%B9ng+qu%C3%A1i+v%E1%BA%ADt+-+R%E1%BB%93ng+l%E1%BB%ADa+Ferno&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "44",
+          "name": "NXB Văn Hóa Văn Nghệ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5984",
+          "name": "Adam Blade",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5984\",\"name\":\"Adam Blade\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5984.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Adam Blade",
+      "author_id": "5984",
+      "category_id": "34",
+      "category_name": "Viễn tưởng ",
+      "categories": [
+        {
+          "id": "34",
+          "name": "Viễn tưởng ",
+          "parent_id": 83
+        },
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        },
+        {
+          "id": "92",
+          "name": "Giáo dục - Sách thiếu nhi",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "Viễn tưởng ",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.8",
+      "total_rate_count": 9,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 29,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13424&title=cuoc-san-lung-quai-vat-rong-lua-ferno",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13424&title=cuoc-san-lung-quai-vat-rong-lua-ferno#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1467078559,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13424.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 3719,
+      "number_view": 4645,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/uVUH",
+      "read_link": "https://ebook.waka.vn/cuoc-san-lung-quai-vat-rong-lua-ferno-r8w2QW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 7
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 3,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13424_3/OEBPS/content.opf?token=0c3a2z93c13f5b718c9a45d6c127cd57b8679d13424",
+        "id": 13424,
+        "chapter_trail": 3,
+        "name": "Cuộc săn lùng quái vật - Rồng lửa Ferno",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/cuoc-san-lung-quai-vat-rong-lua-ferno-r8w2QW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13424_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nMở đầu\nChương một: Ngọn lửa bí ẩn\nChương hai: Hành trình đến thành phố\nChương ba: Buổi thiết triều của nhà vua\nChương bốn: Cuộc săn lùng\nChương năm: Sóng gió sắp đến\nChương sáu: Khu rừng của nỗi sợ hãi\nChương bảy: Chạm trán rồng lửa\nChương tám: Trận chiến cuối cùng\nChương chín: Khởi đầu"
+    },
+    {
+      "chapterIndex": "page0015.xhtml",
+      "chapterHref": "contents/page0015.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13424_3/OEBPS/contents/page0015.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Xin gửi lời cảm ơn đặc biệt đến Stephen Cole\n\nDành tặng Jamie Morgan"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13424_3/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Mở đầu",
+      "progress": null,
+      "text": "MỞ ĐẦU\n\nC\naldor Can Đảm đứng dưới chân núi. Bộ áo giáp bằng đồng của chàng lấp lánh trong nắng mai yếu ớt.\n\n“Rồng lửa đang ở gần đây. Ta cảm nhận được điều đó.” Chàng hiệp sĩ chĩa thanh kiếm lên màn sương mù trên đỉnh núi. “Vì vương quốc, ta cần phải ngăn nó lại!”\n\n“Chúc ngài may mắn.” Người hầu Edward nói.\n\nCaldor siết chặt bàn tay bọc giáp bảo vệ đặt lên vai Edward. Cả hai đều hiểu có thể họ sẽ không gặp lại nhau nữa.\n\nChàng hiệp sĩ bắt đầu leo lên con dốc trơn tuột tối tăm. Mặc cho chân trượt trên đá, chàng vẫn kiên trì lê mình, chầm chậm leo càng lúc càng cao. Sương mù nhanh chóng che khuất phía sau và chàng mất hút khỏi tầm nhìn.\n\nBốn bề chỉ còn lại sự im lặng kỳ lạ. Edward rùng mình.\n\nĐột nhiên ngọn núi bắt đầu rung chuyển.\n\nEdward nhận thấy cơn rung chấn đang lan từ hai bàn chân hướng lên cẳng chân. Một trận rung lắc mạnh làm cậu mất thăng bằng té nhào, cằm đập xuống đất. Có vị tanh tanh trong miệng cậu. Máu!\n\nChuyện gì đang xảy ra vậy?\n\n“Ngài Caldor!” Edward la lớn, lồm cồm bò dậy. Những tảng đá ầm ầm dịch chuyển dưới chân cậu. “Quay lại đi!”\n\nNhưng giọng cậu lọt thỏm giữa không gian tràn ngập tiếng nghiến rít. Toàn bộ ngọn núi lung lay dữ dội. Có phải nó sắp đổ sầm xuống cậu không?\n\nEdward chợt thấy sợ. Tim đập thình thịch, cậu nhìn lên, thấy hai tảng đá đang nhô ra bắt đầu chuyển động. Những gờ đá sắc cạnh lóe sáng trong ánh mặt trời khi chúng xê dịch. Bất thình lình, chúng rạch ngang không khí như những lưỡi rìu khổng lồ. Edward chùn bước.\n\nSương mù tan, cậu thoáng thấy Caldor đang chật vật bám lấy vách núi. Có thứ gì đó nhô cao bên trên chàng hiệp sĩ, rồi Edward trông thấy một con mắt vụt lóe sáng cùng bộ da phủ vảy dày cui. Đó là cái đầu nhọn hoắt của một con rồng khổng lồ!\n\nBỗng mọi chuyện trở nên khủng khiếp. Chủ nhân của cậu đã đúng. Quái vật cách bọn họ rất gần. Đây không phải là một ngọn núi, mà là con rồng. Liếc xuống, trong lòng trào lên nỗi sợ hãi, Edward nhận ra mình đang đứng trên đuôi nó - và Caldor đang bám lên lưng con quái vật! Hai tảng đá nhô ra ngoài kia là đôi cánh to lớn. Cậu muốn bỏ chạy, nhưng hai chân cậu cứng đơ vì sợ.\n\nGiờ đây, cậu có thể thấy hai bên hông con rồng phập phồng khi nó hít thở nặng nhọc. Hơi nước thoát ra từ lỗ mũi con vật.\n\n“Ngài Caldor ơi, quay lại đi!” Edward la lên lần nữa. Nhưng một tiếng gầm kinh hãi đã át tiếng cậu.\n\nĐôi cánh rồng lại mở ra, sải rộng, đập nhịp nhàng một cách buồn tẻ.\n\n“Nó sắp bay!” Edward thét lớn. “Ngài Caldor, nhanh...”\n\n“Quay về đi!” Những mệnh lệnh của\n\nCaldor từ không trung loáng thoáng vọng đến. “Trở lại thành phố. Cảnh báo Đức vua Hugo. Chạy đi!”\n\nTrước khi Edward kịp nhúc nhích, con rồng đã quẫy đuôi hất bay cậu. Cậu rớt xuống nền đất cứng, run lẩy bẩy và thở hổn hển khi Quái vật đáng sợ bay lên trời. Trong đầu cậu tràn ngập tiếng thét của Caldor.\n\nEdward cố đứng dậy, định đuổi theo chủ nhân, nhưng con rồng đã ở tít trên đầu cậu. Nó gầm một tiếng thật to, phun ra tia lửa cam sáng rực bầu trời. Lúc nó mất hút vào khoảng không, một chiếc găng bảo hộ cháy sém, bốc khói nghi ngút rơi loảng xoảng trên mặt đất cạnh Edward. Giữa những ngón tay nắm chặt là một chiếc chìa khóa vàng.\n\nTiếng kêu thét của Caldor văng vẳng trong không gian. Và rồi, bốn bề lặng ngắt như tờ. Chàng hiệp sĩ biến mất.\n\nNhiệm vụ giải thoát rồng lửa khỏi lời nguyền của Malvel đã thất bại."
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13424_3/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Chương một: Ngọn lửa bí ẩn",
+      "progress": null,
+      "text": "Chương một\nNGỌN LỬA BÍ ẨN\n\nT\nom nhìn chằm chằm vào kẻ địch. “Đầu hàng đi tên hung ác!” Cậu la lớn.\n\n“Đầu hàng đi, nếu không mi sẽ nếm mùi lưỡi kiếm của ta!”\n\nCậu dùng que cời giáng một đòn mạnh vào bao cỏ khô. “Cẩn thận đấy,” cậu tuyên bố. “Một ngày nào đó ta sẽ trở thành tay kiếm cừ khôi nhất Avantia. Thậm chí còn hơn cả cha ta, Taladon Tốc Độ!”\n\nMỗi khi nghĩ về cha, Tom luôn thấy lòng mình đau đớn. Chú thím đã nuôi nấng Tom từ khi cậu hãy còn là một đứa bé. Họ không bao giờ nhắc đến cha hay giải thích tại sao ông bỏ rơi Tom sau khi mẹ cậu qua đời.\n\nCậu nhét lại que cời vào túi. “Một ngày nào đó, nhất định mình sẽ biết sự thật,” cậu thề.\n\nTrên đường Tom về làng, một mùi hăng xộc vào mũi cậu.\n\n“Khói!” Cậu nghĩ.\n\nCậu dừng lại và nhìn quanh. Xuyên qua đám cây cối bên trái, cậu nghe thấy tiếng lốp bốp nho nhỏ, cùng lúc ấy, một làn hơi ấm phà vào người cậu.\n\nCháy!\n\nTom chen qua đám cây và chạy xộc ra đồng. Cánh đồng lúa mì vàng ruộm đã cháy đen, chỉ còn trơ gốc rạ. Màn khói lơ lửng trong không trung. Tom khiếp sợ, trố mắt nhìn cảnh tượng ấy. Sao chuyện này có thể xảy ra?\n\nCậu ngước lên và nheo mắt quan sát. Trong khoảnh khắc, cậu tưởng chừng đã thấy một bóng đen di chuyển về phía những ngọn đồi xa xa. Nhưng rồi bầu trời lại một mảnh vắng vẻ như cũ.\n\nMột giọng nói tức giận cất lên. “Ai đó?” Qua làn khói, Tom thấy một người đang giậm chân giậm cẳng quanh bìa cánh đồng.\n\n“Cháu đi ngang qua khu rừng hả?” Người đàn ông gặng hỏi. “Cháu có thấy ai làm việc này không?”\n\nTom lắc đầu. “Cháu chả thấy bóng ai cả!”\n\n“Một tội ác đã diễn ra ở đây,” bác nông dân nói, hai mắt long lên. “Hãy về kể cho chú cháu nghe chuyện này. Làng Errinel của chúng ta đã bị nguyền rủa - và có lẽ tất cả chúng ta đều vướng lời nguyền!”\n\nTom quay đi, cắm đầu cắm cổ mà chạy, chân va vào gốc rạ cháy đen.\n\nTom lao đến bãi đất trống của làng, miệng thở hồng hộc. Nơi đó đông nghịt dân làng. Họ làm gì ở đây vậy? Hôm nay không phải ngày họp chợ. Họ la ó và vẫy tay với chú cậu, người đứng trên cái ghế dài ở rìa bãi đất.\n\n“Đồng lúa cháy rụi! Rồi gì nữa?” Một người đàn ông hét.\n\n“Tai ương ngày một tệ hơn!” Một người khác la lớn.\n\n“Các Quái vật trở nên hung ác!”\n\nTom biết vương quốc Avantia được sáu Quái vật bảo vệ, trong đó có một con rồng lửa, nhưng không ai khẳng định chúng có thật.\n\n“Mọi người nhìn qua dòng sông rồi chứ?” Một phụ nữ hỏi. “Nó chảy quá chậm, chúng ta sẽ sớm hết nước uống.”\n\n“Chúng ta bị nguyền rủa,” một ông lão rên rỉ.\n\n“Tôi không tin những lời nguyền,” chú của Tom cả quyết. “Nhưng làng ta cần sự hỗ trợ. Chúng ta phải cử người đến yết kiến đức vua và thỉnh cầu ngài giúp đỡ.”\n\nTom bước tới trước. “Cháu sẽ đến cung điện.”\n\nDân làng cười to. “Phái một cậu bé đi làm nhiệm vụ này ư? Ha!”\n\n“Đức vua sẽ cười vào mặt chúng ta.” Chú của Tom nhẹ nhàng khuyên giải.\n\n“Không được đâu, Tom à. Cháu còn quá nhỏ. Ta là trưởng làng. Ta sẽ đi.”\n\nThình lình một cậu bé mình mẩy đầy bồ hóng chen qua đám đông. “Giúp cháu với!” Cậu thở dốc. “Làm ơn cứu với! Kho thóc nhà cháu đang cháy!”\n\n“Cánh đàn ông! Mang xô ra sông ngay!” Chú của Tom gào to với đám đông. “Mấy người còn lại vác thuổng đến kho thóc - nếu không dập được lửa, chúng ta sẽ chôn lấp nó. Nhanh lên!”\n\nTrong khi những người đàn ông khác nghe lời hối hả làm việc, Tom nhìn chú mình. “Ngôi làng cần một thủ lĩnh như chú ở đây, chú Henry,” Tom nói. “Hãy để cháu đi thay chú.”\n\nQuay lại nhìn Tom, vẻ mặt chú cậu cực kỳ nghiêm túc. “Ta nghĩ sớm hay muộn gì ta cũng phải để cháu rời khỏi đây và bước ra thế giới bên ngoài,” ông nói. Ánh mắt ông đăm đăm hướng về phương xa. “Mà điều đó có thể nghĩa là...” Ông rùng mình quay lưng đi. “Ừ, cháu phải đến gặp nhà vua. Đừng rề rà làm mất thời gian nữa - sáng sớm mai cháu sẽ khởi hành!”"
+    },
+    {
+      "chapterIndex": "page0007.xhtml",
+      "chapterHref": "contents/page0007.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13424_3/OEBPS/contents/page0007.xhtml",
+      "chapterLabel": "Chương hai: Hành trình đến thành phố",
+      "progress": null,
+      "text": "Chương hai\nHÀNH TRÌNH ĐẾN THÀNH PHỐ\n\nT\nom xuất phát lúc trời vẫn còn tối.\n\nNhưng khi mặt trời lên, cậu mới biết không chỉ có làng Errinel hứng chịu tai ương. Sải bước rời làng càng lúc càng xa, cậu đi qua vô số cánh đồng cháy đen. Nơi những dòng suối từng róc rách chảy qua giờ chỉ còn là những con mương khô cạn.\n\nCậu đi một mạch từ sáng đến trưa, mặc cho các bắp thịt mỏi mệt và hai chân đau nhức. Khi cậu gần đến thành phố, có những người khác đi cùng cậu trên con đường bụi bặm. Những kỵ sĩ cưỡi ngựa thả nước kiệu lọc cọc chạy ngang qua. Những con lừa lưng thồ hàng nặng trịch chậm chạp lê gót, bị các gia đình sóng bước bên cạnh lôi đi. Cậu nghe được chuyện mọi người đang xầm xì với nhau. Có vẻ như họ đang tìm nơi lánh nạn đói và tránh tai họa. Rõ ràng cậu không phải là người duy nhất đến cung điện thỉnh cầu giúp đỡ. Tom bắt đầu bước nhanh.\n\nCổng thành cao chót vót rốt cuộc cũng hiện ra trước mắt. Thời điểm bước qua hai cánh cổng rộng mở, Tom cảm thấy một luồng năng lượng mới dâng tràn. Cuối cùng cậu cũng đến nơi! Cậu len qua những con phố đông đúc, chật hẹp. Mục tiêu của cậu - tới được cung điện càng nhanh càng tốt. Cậu có thể thấy đích đến của mình ngay phía trước. Nó có vẻ nhỏ so với những dãy nhà khác, với những ngọn tháp tím và mái vòm bằng kính xanh nước biển. Tom chưa từng thấy thứ gì giống vậy!\n\nNhưng khi đi qua cổng chính dẫn vào sân cung điện, cậu rên lên. Trước mặt cậu là một hàng dài người gần như không nhúc nhích.\n\n“Nhóc tìm gặp thư ký của đức vua hả?” Một anh lính hỏi Tom.\n\n“Dạ không, em đến yết kiến nhà vua!” Tom trả lời.\n\nAnh lính cười ha ha. “Nhóc phải gặp ngài thư ký trước. Ông ấy sẽ quyết định ai được gặp nhà vua. Xếp hàng đi. Còn phải chờ lâu đấy.”\n\n“Em không thể chờ ở đây!” Tom nói. “Làng em cần giúp đỡ - mà phải nhanh lên!”\n\n“Ai cũng cần giúp đỡ hết,” một ông béo râu mọc dài tới đầu gối bắt bẻ. “Vùng phía Tây quê nhà chúng ta bị sóng thần ập vào. Chúng ta cần xây đê chắn sóng, nhưng không có đức vua thì chúng ta bó tay!”\n\n“Những trận bão tuyết kinh khủng ở miền Bắc,” một bà lão nói. “Cả vương quốc đang gặp nguy hiểm! Và hãy nhớ lời tôi nói - các Quái vật đã gây ra chuyện này.”\n\n“Các Quái vật ư?” Ông béo chế giễu. “Bà đang đùa đấy à?!”\n\nBà lão trừng ông. “Chả ai tin có Quái vật thì làm sao ngăn được chúng? Điều gì đó đã xảy ra, khiến chúng chống đối chúng ta. Đúng vậy, thứ tà ma nào đó đã quấy nhiễu các Quái vật...”\n\n“Bà nói vậy là sao ạ?” Tom hỏi. Nhưng bà lão đã quay lưng bỏ đi.\n\nTom nhận ra mình đang nghĩ đến bóng đen thoáng thấy giữa những ngọn đồi phía sau làng Errinel. Đó có thể là một Quái vật không? Là rồng lửa ư? Tom nhìn đoàn người xếp hàng dài trước mặt lần nữa và quyết định. Cậu đến đây cầu đức vua giúp đỡ - và đấy là việc cậu sẽ làm - dù cậu có phải đột nhập vào hoàng cung đi chăng nữa. “Chừng nào máu còn chảy trong huyết quản,” cậu thề với lòng, “mình sẽ cứu bằng được dân làng!” Cậu chen trở ra và rời khỏi sân cung điện.\n\nMàn đêm buông xuống, Tom bắt đầu đi một vòng quanh tường thành. Ánh trăng mờ ảo chiếu lên cậu. “Mình cần một ô cửa sổ mở,” cậu lầm rầm trong miệng. “Hoặc một cánh cửa không khóa.”\n\nNhưng lính canh được bố trí khắp trong cung. Tom rón rén tiến về phía cửa đông, rủi thay lại có hai gã lực lưỡng mặc đồ lính gác màu nâu đứng đấy.\n\nThình lình có tiếng bước chân chạy đằng sau Tom. Trong đêm tối, một cậu bé ăn mặc rách rưới chân đi loạng choạng xuất hiện.\n\n“Mở cửa ra!” Cậu bé khản giọng kêu lên. Cậu trạc tuổi Tom, mình mẩy lấm lem bùn đất. Một tay cậu nắm chặt chiếc găng tay cháy đen, tay kia là cuộn giấy da.\n\n“Cháu cần chuyển lời của ngài Caldor. Cháu phải gặp nhà vua!”\n\nLính gác mở hé cổng và chạy đến giúp cậu.\n\n“Cơ hội đây rồi!” Tom nghĩ."
+    }
+  ],
+  "full_text": "Mục lục\nMở đầu\nChương một: Ngọn lửa bí ẩn\nChương hai: Hành trình đến thành phố\nChương ba: Buổi thiết triều của nhà vua\nChương bốn: Cuộc săn lùng\nChương năm: Sóng gió sắp đến\nChương sáu: Khu rừng của nỗi sợ hãi\nChương bảy: Chạm trán rồng lửa\nChương tám: Trận chiến cuối cùng\nChương chín: Khởi đầu\n\nXin gửi lời cảm ơn đặc biệt đến Stephen Cole\n\nDành tặng Jamie Morgan\n\nMỞ ĐẦU\n\nC\naldor Can Đảm đứng dưới chân núi. Bộ áo giáp bằng đồng của chàng lấp lánh trong nắng mai yếu ớt.\n\n“Rồng lửa đang ở gần đây. Ta cảm nhận được điều đó.” Chàng hiệp sĩ chĩa thanh kiếm lên màn sương mù trên đỉnh núi. “Vì vương quốc, ta cần phải ngăn nó lại!”\n\n“Chúc ngài may mắn.” Người hầu Edward nói.\n\nCaldor siết chặt bàn tay bọc giáp bảo vệ đặt lên vai Edward. Cả hai đều hiểu có thể họ sẽ không gặp lại nhau nữa.\n\nChàng hiệp sĩ bắt đầu leo lên con dốc trơn tuột tối tăm. Mặc cho chân trượt trên đá, chàng vẫn kiên trì lê mình, chầm chậm leo càng lúc càng cao. Sương mù nhanh chóng che khuất phía sau và chàng mất hút khỏi tầm nhìn.\n\nBốn bề chỉ còn lại sự im lặng kỳ lạ. Edward rùng mình.\n\nĐột nhiên ngọn núi bắt đầu rung chuyển.\n\nEdward nhận thấy cơn rung chấn đang lan từ hai bàn chân hướng lên cẳng chân. Một trận rung lắc mạnh làm cậu mất thăng bằng té nhào, cằm đập xuống đất. Có vị tanh tanh trong miệng cậu. Máu!\n\nChuyện gì đang xảy ra vậy?\n\n“Ngài Caldor!” Edward la lớn, lồm cồm bò dậy. Những tảng đá ầm ầm dịch chuyển dưới chân cậu. “Quay lại đi!”\n\nNhưng giọng cậu lọt thỏm giữa không gian tràn ngập tiếng nghiến rít. Toàn bộ ngọn núi lung lay dữ dội. Có phải nó sắp đổ sầm xuống cậu không?\n\nEdward chợt thấy sợ. Tim đập thình thịch, cậu nhìn lên, thấy hai tảng đá đang nhô ra bắt đầu chuyển động. Những gờ đá sắc cạnh lóe sáng trong ánh mặt trời khi chúng xê dịch. Bất thình lình, chúng rạch ngang không khí như những lưỡi rìu khổng lồ. Edward chùn bước.\n\nSương mù tan, cậu thoáng thấy Caldor đang chật vật bám lấy vách núi. Có thứ gì đó nhô cao bên trên chàng hiệp sĩ, rồi Edward trông thấy một con mắt vụt lóe sáng cùng bộ da phủ vảy dày cui. Đó là cái đầu nhọn hoắt của một con rồng khổng lồ!\n\nBỗng mọi chuyện trở nên khủng khiếp. Chủ nhân của cậu đã đúng. Quái vật cách bọn họ rất gần. Đây không phải là một ngọn núi, mà là con rồng. Liếc xuống, trong lòng trào lên nỗi sợ hãi, Edward nhận ra mình đang đứng trên đuôi nó - và Caldor đang bám lên lưng con quái vật! Hai tảng đá nhô ra ngoài kia là đôi cánh to lớn. Cậu muốn bỏ chạy, nhưng hai chân cậu cứng đơ vì sợ.\n\nGiờ đây, cậu có thể thấy hai bên hông con rồng phập phồng khi nó hít thở nặng nhọc. Hơi nước thoát ra từ lỗ mũi con vật.\n\n“Ngài Caldor ơi, quay lại đi!” Edward la lên lần nữa. Nhưng một tiếng gầm kinh hãi đã át tiếng cậu.\n\nĐôi cánh rồng lại mở ra, sải rộng, đập nhịp nhàng một cách buồn tẻ.\n\n“Nó sắp bay!” Edward thét lớn. “Ngài Caldor, nhanh...”\n\n“Quay về đi!” Những mệnh lệnh của\n\nCaldor từ không trung loáng thoáng vọng đến. “Trở lại thành phố. Cảnh báo Đức vua Hugo. Chạy đi!”\n\nTrước khi Edward kịp nhúc nhích, con rồng đã quẫy đuôi hất bay cậu. Cậu rớt xuống nền đất cứng, run lẩy bẩy và thở hổn hển khi Quái vật đáng sợ bay lên trời. Trong đầu cậu tràn ngập tiếng thét của Caldor.\n\nEdward cố đứng dậy, định đuổi theo chủ nhân, nhưng con rồng đã ở tít trên đầu cậu. Nó gầm một tiếng thật to, phun ra tia lửa cam sáng rực bầu trời. Lúc nó mất hút vào khoảng không, một chiếc găng bảo hộ cháy sém, bốc khói nghi ngút rơi loảng xoảng trên mặt đất cạnh Edward. Giữa những ngón tay nắm chặt là một chiếc chìa khóa vàng.\n\nTiếng kêu thét của Caldor văng vẳng trong không gian. Và rồi, bốn bề lặng ngắt như tờ. Chàng hiệp sĩ biến mất.\n\nNhiệm vụ giải thoát rồng lửa khỏi lời nguyền của Malvel đã thất bại.\n\nChương một\nNGỌN LỬA BÍ ẨN\n\nT\nom nhìn chằm chằm vào kẻ địch. “Đầu hàng đi tên hung ác!” Cậu la lớn.\n\n“Đầu hàng đi, nếu không mi sẽ nếm mùi lưỡi kiếm của ta!”\n\nCậu dùng que cời giáng một đòn mạnh vào bao cỏ khô. “Cẩn thận đấy,” cậu tuyên bố. “Một ngày nào đó ta sẽ trở thành tay kiếm cừ khôi nhất Avantia. Thậm chí còn hơn cả cha ta, Taladon Tốc Độ!”\n\nMỗi khi nghĩ về cha, Tom luôn thấy lòng mình đau đớn. Chú thím đã nuôi nấng Tom từ khi cậu hãy còn là một đứa bé. Họ không bao giờ nhắc đến cha hay giải thích tại sao ông bỏ rơi Tom sau khi mẹ cậu qua đời.\n\nCậu nhét lại que cời vào túi. “Một ngày nào đó, nhất định mình sẽ biết sự thật,” cậu thề.\n\nTrên đường Tom về làng, một mùi hăng xộc vào mũi cậu.\n\n“Khói!” Cậu nghĩ.\n\nCậu dừng lại và nhìn quanh. Xuyên qua đám cây cối bên trái, cậu nghe thấy tiếng lốp bốp nho nhỏ, cùng lúc ấy, một làn hơi ấm phà vào người cậu.\n\nCháy!\n\nTom chen qua đám cây và chạy xộc ra đồng. Cánh đồng lúa mì vàng ruộm đã cháy đen, chỉ còn trơ gốc rạ. Màn khói lơ lửng trong không trung. Tom khiếp sợ, trố mắt nhìn cảnh tượng ấy. Sao chuyện này có thể xảy ra?\n\nCậu ngước lên và nheo mắt quan sát. Trong khoảnh khắc, cậu tưởng chừng đã thấy một bóng đen di chuyển về phía những ngọn đồi xa xa. Nhưng rồi bầu trời lại một mảnh vắng vẻ như cũ.\n\nMột giọng nói tức giận cất lên. “Ai đó?” Qua làn khói, Tom thấy một người đang giậm chân giậm cẳng quanh bìa cánh đồng.\n\n“Cháu đi ngang qua khu rừng hả?” Người đàn ông gặng hỏi. “Cháu có thấy ai làm việc này không?”\n\nTom lắc đầu. “Cháu chả thấy bóng ai cả!”\n\n“Một tội ác đã diễn ra ở đây,” bác nông dân nói, hai mắt long lên. “Hãy về kể cho chú cháu nghe chuyện này. Làng Errinel của chúng ta đã bị nguyền rủa - và có lẽ tất cả chúng ta đều vướng lời nguyền!”\n\nTom quay đi, cắm đầu cắm cổ mà chạy, chân va vào gốc rạ cháy đen.\n\nTom lao đến bãi đất trống của làng, miệng thở hồng hộc. Nơi đó đông nghịt dân làng. Họ làm gì ở đây vậy? Hôm nay không phải ngày họp chợ. Họ la ó và vẫy tay với chú cậu, người đứng trên cái ghế dài ở rìa bãi đất.\n\n“Đồng lúa cháy rụi! Rồi gì nữa?” Một người đàn ông hét.\n\n“Tai ương ngày một tệ hơn!” Một người khác la lớn.\n\n“Các Quái vật trở nên hung ác!”\n\nTom biết vương quốc Avantia được sáu Quái vật bảo vệ, trong đó có một con rồng lửa, nhưng không ai khẳng định chúng có thật.\n\n“Mọi người nhìn qua dòng sông rồi chứ?” Một phụ nữ hỏi. “Nó chảy quá chậm, chúng ta sẽ sớm hết nước uống.”\n\n“Chúng ta bị nguyền rủa,” một ông lão rên rỉ.\n\n“Tôi không tin những lời nguyền,” chú của Tom cả quyết. “Nhưng làng ta cần sự hỗ trợ. Chúng ta phải cử người đến yết kiến đức vua và thỉnh cầu ngài giúp đỡ.”\n\nTom bước tới trước. “Cháu sẽ đến cung điện.”\n\nDân làng cười to. “Phái một cậu bé đi làm nhiệm vụ này ư? Ha!”\n\n“Đức vua sẽ cười vào mặt chúng ta.” Chú của Tom nhẹ nhàng khuyên giải.\n\n“Không được đâu, Tom à. Cháu còn quá nhỏ. Ta là trưởng làng. Ta sẽ đi.”\n\nThình lình một cậu bé mình mẩy đầy bồ hóng chen qua đám đông. “Giúp cháu với!” Cậu thở dốc. “Làm ơn cứu với! Kho thóc nhà cháu đang cháy!”\n\n“Cánh đàn ông! Mang xô ra sông ngay!” Chú của Tom gào to với đám đông. “Mấy người còn lại vác thuổng đến kho thóc - nếu không dập được lửa, chúng ta sẽ chôn lấp nó. Nhanh lên!”\n\nTrong khi những người đàn ông khác nghe lời hối hả làm việc, Tom nhìn chú mình. “Ngôi làng cần một thủ lĩnh như chú ở đây, chú Henry,” Tom nói. “Hãy để cháu đi thay chú.”\n\nQuay lại nhìn Tom, vẻ mặt chú cậu cực kỳ nghiêm túc. “Ta nghĩ sớm hay muộn gì ta cũng phải để cháu rời khỏi đây và bước ra thế giới bên ngoài,” ông nói. Ánh mắt ông đăm đăm hướng về phương xa. “Mà điều đó có thể nghĩa là...” Ông rùng mình quay lưng đi. “Ừ, cháu phải đến gặp nhà vua. Đừng rề rà làm mất thời gian nữa - sáng sớm mai cháu sẽ khởi hành!”\n\nChương hai\nHÀNH TRÌNH ĐẾN THÀNH PHỐ\n\nT\nom xuất phát lúc trời vẫn còn tối.\n\nNhưng khi mặt trời lên, cậu mới biết không chỉ có làng Errinel hứng chịu tai ương. Sải bước rời làng càng lúc càng xa, cậu đi qua vô số cánh đồng cháy đen. Nơi những dòng suối từng róc rách chảy qua giờ chỉ còn là những con mương khô cạn.\n\nCậu đi một mạch từ sáng đến trưa, mặc cho các bắp thịt mỏi mệt và hai chân đau nhức. Khi cậu gần đến thành phố, có những người khác đi cùng cậu trên con đường bụi bặm. Những kỵ sĩ cưỡi ngựa thả nước kiệu lọc cọc chạy ngang qua. Những con lừa lưng thồ hàng nặng trịch chậm chạp lê gót, bị các gia đình sóng bước bên cạnh lôi đi. Cậu nghe được chuyện mọi người đang xầm xì với nhau. Có vẻ như họ đang tìm nơi lánh nạn đói và tránh tai họa. Rõ ràng cậu không phải là người duy nhất đến cung điện thỉnh cầu giúp đỡ. Tom bắt đầu bước nhanh.\n\nCổng thành cao chót vót rốt cuộc cũng hiện ra trước mắt. Thời điểm bước qua hai cánh cổng rộng mở, Tom cảm thấy một luồng năng lượng mới dâng tràn. Cuối cùng cậu cũng đến nơi! Cậu len qua những con phố đông đúc, chật hẹp. Mục tiêu của cậu - tới được cung điện càng nhanh càng tốt. Cậu có thể thấy đích đến của mình ngay phía trước. Nó có vẻ nhỏ so với những dãy nhà khác, với những ngọn tháp tím và mái vòm bằng kính xanh nước biển. Tom chưa từng thấy thứ gì giống vậy!\n\nNhưng khi đi qua cổng chính dẫn vào sân cung điện, cậu rên lên. Trước mặt cậu là một hàng dài người gần như không nhúc nhích.\n\n“Nhóc tìm gặp thư ký của đức vua hả?” Một anh lính hỏi Tom.\n\n“Dạ không, em đến yết kiến nhà vua!” Tom trả lời.\n\nAnh lính cười ha ha. “Nhóc phải gặp ngài thư ký trước. Ông ấy sẽ quyết định ai được gặp nhà vua. Xếp hàng đi. Còn phải chờ lâu đấy.”\n\n“Em không thể chờ ở đây!” Tom nói. “Làng em cần giúp đỡ - mà phải nhanh lên!”\n\n“Ai cũng cần giúp đỡ hết,” một ông béo râu mọc dài tới đầu gối bắt bẻ. “Vùng phía Tây quê nhà chúng ta bị sóng thần ập vào. Chúng ta cần xây đê chắn sóng, nhưng không có đức vua thì chúng ta bó tay!”\n\n“Những trận bão tuyết kinh khủng ở miền Bắc,” một bà lão nói. “Cả vương quốc đang gặp nguy hiểm! Và hãy nhớ lời tôi nói - các Quái vật đã gây ra chuyện này.”\n\n“Các Quái vật ư?” Ông béo chế giễu. “Bà đang đùa đấy à?!”\n\nBà lão trừng ông. “Chả ai tin có Quái vật thì làm sao ngăn được chúng? Điều gì đó đã xảy ra, khiến chúng chống đối chúng ta. Đúng vậy, thứ tà ma nào đó đã quấy nhiễu các Quái vật...”\n\n“Bà nói vậy là sao ạ?” Tom hỏi. Nhưng bà lão đã quay lưng bỏ đi.\n\nTom nhận ra mình đang nghĩ đến bóng đen thoáng thấy giữa những ngọn đồi phía sau làng Errinel. Đó có thể là một Quái vật không? Là rồng lửa ư? Tom nhìn đoàn người xếp hàng dài trước mặt lần nữa và quyết định. Cậu đến đây cầu đức vua giúp đỡ - và đấy là việc cậu sẽ làm - dù cậu có phải đột nhập vào hoàng cung đi chăng nữa. “Chừng nào máu còn chảy trong huyết quản,” cậu thề với lòng, “mình sẽ cứu bằng được dân làng!” Cậu chen trở ra và rời khỏi sân cung điện.\n\nMàn đêm buông xuống, Tom bắt đầu đi một vòng quanh tường thành. Ánh trăng mờ ảo chiếu lên cậu. “Mình cần một ô cửa sổ mở,” cậu lầm rầm trong miệng. “Hoặc một cánh cửa không khóa.”\n\nNhưng lính canh được bố trí khắp trong cung. Tom rón rén tiến về phía cửa đông, rủi thay lại có hai gã lực lưỡng mặc đồ lính gác màu nâu đứng đấy.\n\nThình lình có tiếng bước chân chạy đằng sau Tom. Trong đêm tối, một cậu bé ăn mặc rách rưới chân đi loạng choạng xuất hiện.\n\n“Mở cửa ra!” Cậu bé khản giọng kêu lên. Cậu trạc tuổi Tom, mình mẩy lấm lem bùn đất. Một tay cậu nắm chặt chiếc găng tay cháy đen, tay kia là cuộn giấy da.\n\n“Cháu cần chuyển lời của ngài Caldor. Cháu phải gặp nhà vua!”\n\nLính gác mở hé cổng và chạy đến giúp cậu.\n\n“Cơ hội đây rồi!” Tom nghĩ."
+}

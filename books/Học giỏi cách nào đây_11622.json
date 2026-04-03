@@ -1,0 +1,238 @@
+{
+  "item_id": 11622,
+  "title": "Học giỏi cách nào đây",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T04:58:20.969Z",
+  "input_book": {
+    "id": 11622,
+    "title": "Học giỏi cách nào đây",
+    "price": 0,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11622.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      {
+        "id": 4,
+        "code": "Tủ sách thanh niên",
+        "type": "waka_youth",
+        "text_color": "#FF0000",
+        "background_color": "#fed9d9"
+      }
+    ],
+    "description": "<p dir=\"ltr\">Cuốn s&aacute;ch <strong>Học giỏi c&aacute;ch n&agrave;o đ&acirc;y?</strong> của <strong>Teo Aik Cher</strong> được coi l&agrave; một cẩm nang d&agrave;nh cho bạn Trẻ Ng&agrave;y Nay để t&igrave;m ra phương ph&aacute;p học tập hiệu quả cho ri&ecirc;ng m&igrave;nh.</p>\r\n<p dir=\"ltr\">Cuốn s&aacute;ch n&agrave;y đặc biệt d&agrave;nh cho những bạn trẻ bận rộn, kh&ocirc;ng c&oacute; thời gian v&agrave; l&ograve;ng ki&ecirc;n nhẫn để đọc trọn vẹn một cuốn s&aacute;ch d&agrave;y cộp n&agrave;o đ&oacute;. Aik Cher đ&atilde; biến những trang s&aacute;ch trở n&ecirc;n v&ocirc; c&ugrave;ng chuyện rất th&uacute; vị để bạn thưởng thức v&agrave; những b&iacute; quyết đơn giản h&oacute;a rất hữu &iacute;ch.</p>\r\n<p dir=\"ltr\">Ch&uacute;ng ta đang sống trong một x&atilde; hội bận rộn, lu&ocirc;n phải vội v&atilde; ho&agrave;n th&agrave;nh hết mục ti&ecirc;u n&agrave;y đến mục ti&ecirc;u kh&aacute;c. V&agrave; c&aacute;c bạn trẻ cũng bị cuốn theo lối sống hối hả n&agrave;y. Trong cuốn \"Học giỏi c&aacute;ch n&agrave;o đ&acirc;y?\" Teo Aik Cher l&yacute; giải cho ch&uacute;ng ta l&yacute; do v&igrave; sao ta phải sống cuộc sống như vốn c&oacute;, đồng thời mang đến cho ta c&aacute;ch để l&agrave;m cho cuộc sống trở n&ecirc;n đơn giản v&agrave; gặt h&aacute;i được nhiều th&agrave;nh c&ocirc;ng hơn.</p>\r\n<p><strong id=\"docs-internal-guid-3c182b86-0b1a-df9d-96b0-a4658c6ada8c\"></strong>Waka tr&acirc;n trọng giới thiệu t&aacute;c phẩm<strong> Học giỏi c&aacute;ch n&agrave;o đ&acirc;y? -&nbsp;Teo Aik Cher</strong></p>",
+    "authors": [
+      {
+        "id": "6140",
+        "name": " Teo Aik Cher "
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Văn hóa & Xã hội_383.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-02 23:22:21",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 11622,
+      "title": "Học giỏi cách nào đây",
+      "content_type": "book",
+      "our_price": 0,
+      "price": 0,
+      "description": "<p dir=\"ltr\">Cuốn s&aacute;ch <strong>Học giỏi c&aacute;ch n&agrave;o đ&acirc;y?</strong> của <strong>Teo Aik Cher</strong> được coi l&agrave; một cẩm nang d&agrave;nh cho bạn Trẻ Ng&agrave;y Nay để t&igrave;m ra phương ph&aacute;p học tập hiệu quả cho ri&ecirc;ng m&igrave;nh.</p>\r\n<p dir=\"ltr\">Cuốn s&aacute;ch n&agrave;y đặc biệt d&agrave;nh cho những bạn trẻ bận rộn, kh&ocirc;ng c&oacute; thời gian v&agrave; l&ograve;ng ki&ecirc;n nhẫn để đọc trọn vẹn một cuốn s&aacute;ch d&agrave;y cộp n&agrave;o đ&oacute;. Aik Cher đ&atilde; biến những trang s&aacute;ch trở n&ecirc;n v&ocirc; c&ugrave;ng chuyện rất th&uacute; vị để bạn thưởng thức v&agrave; những b&iacute; quyết đơn giản h&oacute;a rất hữu &iacute;ch.</p>\r\n<p dir=\"ltr\">Ch&uacute;ng ta đang sống trong một x&atilde; hội bận rộn, lu&ocirc;n phải vội v&atilde; ho&agrave;n th&agrave;nh hết mục ti&ecirc;u n&agrave;y đến mục ti&ecirc;u kh&aacute;c. V&agrave; c&aacute;c bạn trẻ cũng bị cuốn theo lối sống hối hả n&agrave;y. Trong cuốn \"Học giỏi c&aacute;ch n&agrave;o đ&acirc;y?\" Teo Aik Cher l&yacute; giải cho ch&uacute;ng ta l&yacute; do v&igrave; sao ta phải sống cuộc sống như vốn c&oacute;, đồng thời mang đến cho ta c&aacute;ch để l&agrave;m cho cuộc sống trở n&ecirc;n đơn giản v&agrave; gặt h&aacute;i được nhiều th&agrave;nh c&ocirc;ng hơn.</p>\r\n<p><strong id=\"docs-internal-guid-3c182b86-0b1a-df9d-96b0-a4658c6ada8c\"></strong>Waka tr&acirc;n trọng giới thiệu t&aacute;c phẩm<strong> Học giỏi c&aacute;ch n&agrave;o đ&acirc;y? -&nbsp;Teo Aik Cher</strong></p>",
+      "zone": 0,
+      "published_time": "02/04/2026",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/hoc-gioi-cach-nao-day-teo-aik-cher-bj070W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/hoc-gioi-cach-nao-day-teo-aik-cher-bj070W.html?std=type%3D1%26data%3D11622%26title%3DH%25E1%25BB%258Dc%2Bgi%25E1%25BB%258Fi%2Bc%25C3%25A1ch%2Bn%25C3%25A0o%2B%25C4%2591%25C3%25A2y%26mini_app%3D5&type=1&data=11622&title=H%E1%BB%8Dc+gi%E1%BB%8Fi+c%C3%A1ch+n%C3%A0o+%C4%91%C3%A2y&mini_app=5",
+      "publishing_houses": [
+        {
+          "id": "100",
+          "name": "NXB Tổng hợp thành phố HCM"
+        }
+      ],
+      "authors": [
+        {
+          "id": "6140",
+          "name": " Teo Aik Cher ",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/6140.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"6140\",\"name\":\" Teo Aik Cher \",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/6140.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": " Teo Aik Cher ",
+      "author_id": "6140",
+      "category_id": "383",
+      "category_name": "Giáo dục - Văn hóa & Xã hội",
+      "categories": [
+        {
+          "id": "383",
+          "name": "Giáo dục - Văn hóa & Xã hội",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.9",
+      "total_rate_count": 59,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 2,
+      "total_wishlist": 1203,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "Phạm Hoa Phượng",
+      "isbn": "",
+      "seo": {
+        "title": "Đọc sách: Học giỏi cách nào đây?, Tác giả: Teo Aik Cher",
+        "description": "Học giỏi cách nào đây? của Teo Aik Cher được coi là một Cẩm Nang dành cho bạn Trẻ Ngày Nay để tìm ra phương pháp học tập hiệu quả cho riêng mình.",
+        "keyword": "Hoc gioi cach nao day, Teo Aik Cher, Hoc gioi cach nao day Teo Aik Cher, ebook Hoc gioi cach nao day, Waka",
+        "news_keyword": "Hoc gioi cach nao day, Teo Aik Cher, Hoc gioi cach nao day Teo Aik Cher, ebook Hoc gioi cach nao day, Waka"
+      },
+      "meta_ios": "vwaka://open?type=1&data=11622&title=hoc-gioi-cach-nao-day",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=11622&title=hoc-gioi-cach-nao-day#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1454056983,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11622.jpg?v=2&w=480&h=700",
+      "share_thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book_fb/0/0/0/11622.jpg?v=1&w=1200&h=632",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 4559,
+      "number_view": 11883,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/hoc-gioi-cach-nao-day-bj070W.html?std=type%3D1%26data%3D11622&type=1&data=11622",
+      "read_link": "https://ebook.waka.vn/hoc-gioi-cach-nao-day-rj070W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 4,
+        "5": 54
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 1,
+        "owner": 0,
+        "button_buy": 0,
+        "message": "Chúc bạn đọc truyện vui vẻ"
+      },
+      "file_path": "https://307a0e78.vws.vegacdn.vn/static/ebook/0/0/0/11622_6_drm.epub",
+      "file_version": 6,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 0,
+      "message": "Thành công",
+      "data": {
+        "file_version": 6,
+        "auto_update": true,
+        "id": 11622,
+        "name": "Học giỏi cách nào đây",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11622_7/OEBPS/content.opf?token=0c4a9zda554e84d9dba16edc0bca8da91f7c5411622",
+        "pdf_url": "",
+        "epub_version": 7,
+        "pdf_version": null,
+        "chapter_trail": 4
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/hoc-gioi-cach-nao-day-rj070W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0015.xhtml",
+      "chapterHref": "contents/page0015.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11622_7/OEBPS/contents/page0015.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời nói đầu\nLời cảm ơn\nLời giới thiệu\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nLời kết"
+    },
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11622_7/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": "Lời nói đầu",
+      "progress": null,
+      "text": "LỜI NÓI ĐẦU\n\n\"\nC\non chuẩn bị cho cuộc thi đánh vần rồi chứ?” “Con học bài thi xong chưa vậy?”\n\n“Con làm bài tập về nhà xong hết chưa?”\n\nThế hệ tôi thường phải nghe các bậc phụ huynh hỏi những câu như thế. Và phản ứng của chúng tôi là vội vàng lôi ra mớ tài liệu của môn học vừa được cha mẹ nhắc tới: những cuốn sách bài học, bài tập,… chất đống trước mặt; và rồi ngồi đó, tự hỏi làm thế nào mình có thể học cho thông toàn bộ kiến thức ấy!\n\nCó một điều chắc chắn là chúng ta luôn ao ước mình có được một trí nhớ siêu phàm để có thể sao chụp và lưu giữ toàn bộ thông tin, dù đó là thông tin nhỏ nhặt nhất, ví dụ như ai là người đã sáng lập ra đất nước Singapore (đó là Sang Nila Utama, nếu như bạn lỡ quên), như những điều điên rồ mà Malvolio đã làm trong tác phẩm Đêm thứ mười hai của Shakespeare, hay hiện tượng nào xảy ra khi cho natri hidroxit tác dụng với axit clohidric.\n\nThầy cô dạy kiến thức cho chúng ta mà không chỉ cho ta cách học. Chúng ta chỉ làm những gì mình có thể: cập nhật thông tin vào bộ não của chúng ta, lục tìm nó trong các kỳ kiểm tra, rồi xóa bỏ thông tin, sau đó lặp lại toàn bộ quá trình ấy. Đó quả là một vòng lẩn quẩn! Chúng ta CHĂM HỌC, nhưng chẳng KHÔN NGOAN chút nào cả. Không phải vì chúng ta không muốn, mà bởi không ai chỉ cho ta cách thức thực hiện điều đó. Khi Aik Cher trao cho tôi vinh dự viết lời tựa cho cuốn sách này, tôi đã rất vui. Cuối cùng cũng có người chỉ ra cho chúng ta PHƯƠNG PHÁP và LÝ DO để học tập một cách khôn ngoan. Tôi ước gì quyển sách này được xuất bản từ 20 năm về trước, vậy thì chắc chắn tôi đã có kết quả thi cử tốt đẹp hơn và có nhiều thời gian hơn để nghỉ ngơi, thư giãn rồi.\n\nQuyển sách này không chỉ chia sẻ những phương pháp dễ thực hành nhằm phát huy hiệu quả học tập, mà gần như mỗi trang đều có những hình ảnh minh họa sinh động của Aik Cher. Ông đã phả vào đó hơi thở của cuộc sống bằng nét vẽ tài tình của mình. Chính sự kết hợp này sẽ mang lại cho bạn những trải nghiệm vui vẻ và thú vị xuyên suốt quyển sách. Nếu bạn đang lướt qua tựa sách này trong nhà sách, thì còn chần chừ gì nữa? Hãy mang nó đến quầy thanh toán ngay đi nào! Còn nếu bạn đã mua nó rồi, thì xin chúc mừng. Bạn sẽ mau chóng trở thành độc giả trung thành của Aik Cher, giống như tôi vậy.\n\nChúc các bạn tìm thấy nhiều niềm vui trong hành trình học tập một cách khôn ngoan!\n\nCayden Chang\n\n(Nhà sáng lập và điều hành Hiệp hội phát triển năng lực tư duy Singapore)"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11622_7/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": "Lời cảm ơn",
+      "progress": null,
+      "text": "LỜI CẢM ƠN\n\nK\nhông theo một thứ tự đặc biệt nào cả, tôi muốn gửi lời cảm ơn đến những người sau - những người đã có ảnh hưởng lớn lao trong cuộc đời tôi và khiến cho quá trình hoàn thành cuốn sách này bớt gian nan đi rất nhiều:\n\nPauline, người vợ yêu quý của tôi\n\nRaeAnne và RaeLynn, hai cô con gái nhỏ đáng yêu\n\nCha mẹ yêu dấu\n\nTới tất cả thầy cô và những người cố vấn, đặc biệt là Giáo sư Ho Chee Lick, Giáo sư Paulin Straughan, Giáo sư Moulmein và Giáo sư Linda Thompson.\n\nCác bạn bè thân hữu của tôi tại trường Tiểu học Ngee Ann, Trường Trung học Dunman, Trường Cao đẳng Victoria, Trường Đại học Quốc gia Singapore (NUS) và Trường Đại học Kỹ thuật Nanyang.\n\nCác bạn và đồng nghiệp của tôi tại trường Cao đẳng Victoria.\n\nCô Lee Phui Mun, Cô Chan Khah Gek và Thầy Chan Poh Meng, những vị hiệu trưởng tiền nhiệm và đương nhiệm của trường Cao đẳng Victoria, cũng như Thầy Bernard Chew, Cô Audrey Chen và Chua Nga Woon, hiệu phó của trường.\n\nGửi đến những người đặc biệt sau: Adam Khoo, Stuart Tan, Conrad Alvin Lim, Gary Lee, Merry & Alva. Rita Emmett, Khoo Siew Chiow, Elim Chew, Cayden Chang, Sean Seah và Johnson Lee. Mong các bạn tiếp tục tạo cho tôi nguồn cảm hứng.\n\nNhững bạn sinh viên của tôi từ trước đến nay. Các em hãy tiếp tục phấn đấu để đạt được nhiều thành quả tốt đẹp nhé. Hãy tận hưởng từng phút giây của cuộc sống mình đang có.\n\nCuối cùng nhưng cũng không kém phần quan trọng, đó là tất cả những người đã ảnh hưởng đến cuộc sống của tôi theo một cách nào đó.\n\nCác bạn vẫn ngự trị trong sâu thẳm tâm hồn tôi và tôi sẽ không bao giờ quên các bạn."
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11622_7/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "Lời giới thiệu",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU\n\nĐ\nến trường – đó là việc mà mọi bạn trẻ ở khắp nơi trên thế giới đều phải trải nghiệm. Trong khi phần lớn bạn trẻ đều thích thú với các mối quan hệ ở trường cũng như việc tiếp thu kiến thức, thì điều ngán ngẩm nhất của họ là lượng bài tập về nhà cũng như quá nhiều bài kiểm tra mà họ phải thực hiện.\n\nVâng, cuộc sống đâu trải toàn hoa hồng. Việc các bạn trẻ than phiền về cuộc sống và trường học là điều hoàn toàn có thể hiểu được, đặc biệt là với những bạn phải khốn khổ vật lộn với việc học hành. Tuy thế, tại sao vẫn có những bạn có thể làm rất tốt việc này, trở thành người đứng đầu với thành tích cao chót vót? Có phải họ là những thiên tài mà chúng ta – những người bình thường – không thể nào hiểu được và cũng không thể với tới đẳng cấp như họ? Hay họ đã phải từ bỏ những hoạt động xã hội của mình để tập trung hoàn toàn thời gian công sức cho việc học?\n\nSự thực thì, đáp án cho những câu hỏi trên vô cùng đơn giản. Những bạn trẻ này đạt được kết quả rất tốt bởi họ có phương pháp học tập có hệ thống. Kết quả họ có được hoàn toàn không phải do tình cờ. Họ biết rõ điểm mạnh, điểm yếu của mình, và dựa vào đó để phát huy tối đa lợi thế cũng như hạn chế ở mức thấp nhất những nhược điểm của mình. Nói cách khác, họ không cần phải lúc nào cũng học hành vất vả, nhưng rõ ràng là họ biết cách học tập một cách khôn ngoan.\n\nCuộc sống không trải toàn hoa hồng\n\nĐó cũng là chủ đề của quyển sách này. Qua những chữ cái trong cụm từ Study Smart (Phương pháp học\n\nHọc giỏi, cácH nào đây?\n\ntập khôn ngoan), chúng ta sẽ tìm hiểu lý do vì sao cần phải học khôn ngoan chứ không chỉ học chăm. Chúng ta cũng sẽ khám phá những phương pháp và cách tư duy khác nhau mà các bạn trẻ thành công trong học vấn vẫn thường áp dụng. Những bạn này không hẳn là người thông minh nhất, nhưng họ có những chiến lược giúp chúng ta thành công trong học tập.\n\nTrước khi chúng ta bắt đầu cuộc hành trình khám phá sự cần thiết cũng như các bí mật đằng sau phương pháp học tập khôn ngoan, câu chuyện này hẳn sẽ khơi gợi sự háo hức trong bạn:\n\nNgày xưa, có một chàng kiến thợ thông minh luôn thích làm việc theo phương pháp độc đáo của riêng mình. Trong khi các bạn kiến đều khuân vác đồ đạc trên vai, thì kiến ta lại đăm chiêu suy nghĩ cách giúp công việc này trở nên nhẹ nhàng hơn. Ví dụ như khi cả bầy đang vận chuyển đá cuội xây tổ, thì chàng kiến nhận thấy các hòn cuội có hình tròn nên hoàn toàn có thể đẩy đi thay vì vác. Thế là trong khi các chú kiến thợ hì hục khuân những viên đá, thì chàng kiến thông minh lại thảnh thơi đẩy các hòn cuội lăn đi mà hầu như không tốn sức. Thậm chí có lúc chàng ta chỉ cần dùng chân của mình để lăn đá!\n\nChú kiến thợ thông minh\n\nChúng ta đều biết rằng kiến là loài cực kỳ cần cù, luôn tích trữ, chuẩn bị cho mùa mưa lũ. Dù chăm chỉ là vậy, nhưng chúng lại chưa bao giờ ngẫm xem cách làm việc của mình đã thực sự hiệu quả chưa. Hay nói cách khác, chúng làm việc chăm, nhưng liệu có khôn ngoan?\n\nVậy thì, hãy là những chú kiến thông minh bằng cách tìm ra các phương pháp giúp cho cuộc sống cũng như việc học hành của mình có ý nghĩa hơn, bạn nhé.\n\nNào, chúng ta bắt đầu làm việc và học tập một cách khôn ngoan thôi!"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11622_7/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Chương 1",
+      "progress": null,
+      "text": "CHƯƠNG 1\n\n\"\nK\nhi cuộc sống trở nên quá phức tạp, thì sự đơn giản chính là giải pháp.”\n\n- Khuyết danh\n\nSTUDY SMART\n\nMaking Studying Simple\n\nLÀM CHO VIỆC HỌC TRỞ NÊN ĐƠN GIẢN\n\n“Đơn giản = không phức tạp hay rắc rối.”\n\nLàm cho việc học trở nên đơn giản\n\n“Tại sao lại phải làm cho việc học trở nên đơn giản?” Câu trả lời đơn giản và rõ ràng cho câu hỏi này là:\n\n“Tại sao không?”.\n\nMỗi ngày, chúng ta bị cuốn vào rất nhiều thứ xung quanh. Với những người trưởng thành, cuộc sống của họ là một hành trình bất tận với những nỗi lo toan và rắc rối. Với các bạn trẻ, cuộc sống lại đầy những thử thách với các vấn đề như tình bạn và những trở ngại từ các mối quan hệ xung quanh. Tất nhiên, trường học và việc học hành là một phần quan trọng trong cuộc sống mà mỗi bạn trẻ chúng mình phải dành phần lớn thời gian cho nó. Vì vậy, việc làm cho mọi chuyện trở nên đơn giản hơn để có thể xử lý dễ dàng là một giải pháp thông minh.\n\nCuộc sống bận rộn\n\nNếu bạn trẻ nhận thức được bản chất của việc học hành và có thể đương đầu với những yêu cầu của việc học, của các bài kiểm tra và các kỳ thi, thì họ sẽ thấy rằng tiến trình “đơn giản hóa” là có thể thực hiện được và cũng chẳng khó nhằn như họ từng nghĩ.\n\nCuộc sống có thể rất phức tạp\n\nCuộc sống cũng giống như một hộp sô-cô-la nhiều hương vị. Chúng ta có được rất nhiều lựa chọn và việc quyết định chọn viên nào là hoàn toàn tùy thuộc vào mỗi chúng ta.\n\nNhiều người sẽ chọn một cuộc sống đơn giản, bằng lòng với những gì mình có. Số khác lại chọn cho mình cách sống trọn vẹn nhất bằng\n\nSô-cô-la kìa, chọn viên nào đây?\n\ncách tham gia vào bất kỳ hoạt động nào mà họ biết. Ở nhóm thứ hai, cuộc sống có thể bận rộn thật đấy, nhưng nhóm này biết cách chủ động thu xếp mọi việc và làm cho cuộc sống của mình thú vị hơn.\n\nBí quyết của nhóm bận rộn này chính là thái độ của họ đối với cuộc sống, là cách mà họ đơn giản hóa những phức tạp của cuộc sống. Cũng tương tự như vậy\n\nđối với các bạn trẻ phải vật lộn với đống bài vở của mình mỗi ngày. Với nhiều bạn, cơn lũ học hành thường xuyên nhấn chìm họ. Tuy nhiên, một nhóm bạn trẻ đặc biệt khác có thể giải quyết công việc rất hiệu quả mà vẫn có thời gian tận hưởng cuộc sống.\n\nThế nên, dù cuộc sống có thể rất phức tạp, chúng ta vẫn có thể làm cho nó trở nên dễ dàng và ý nghĩa hơn rất nhiều.\n\nViệc học có thực sự khó khăn?\n\nĐây chẳng phải là câu hỏi dễ trả lời, và cũng không có câu trả lời cuối cùng cho nó. Với nhiều bạn trẻ, việc học cũng giống như hành trình xuyên qua một khu rừng nguyên sinh dày đặc, nơi mọi thứ xung quanh đều bí ẩn, xa lạ và họ có thể lạc lối bất kỳ lúc nào. Số khác thì xem việc học như một cuộc tản bộ thư thái trong công viên. Vẫn còn một nhóm bạn trẻ khác nữa ở giữa hai nhóm trên. Với họ thì việc học là điều có thể xoay xở được. Tuy nhiên, dù họ có cố gắng thế nào đi nữa, kết quả đạt được cũng chỉ ở mức trung bình. Thử thách đối với nhóm này là làm sao giữ được lòng hăng say và sự phấn đấu bền bỉ, bởi họ rất dễ nản lòng khi những cố gắng của họ không mang lại kết quả.\n\nThế nên, những gì chúng ta cần quan tâm là làm sao để cho việc học trở nên đơn giản hơn mà lại hiệu quả hơn. Và giải pháp cho vấn đề này là quan sát và học hỏi cách học của những bạn nằm trong top giỏi nhất.\n\nMình lạc đường mất rồi!\n\n“Đơn giản” không có nghĩa là “dễ dàng”\n\nCó nhiều người, nếu không muốn nói là hầu hết mọi người, nghĩ rằng khi một việc hay một quá trình nào đó “đơn giản”, có nghĩa là nó cũng “dễ dàng”. Đây là một quan niệm sai lầm, bởi “đơn giản” không có nghĩa là “dễ dàng” đâu bạn. Chẳng hạn như việc rán trứng, trông có vẻ đơn giản đấy: bạn chỉ cần đập vỡ quả trứng\n\ntrên chảo nóng. Việc đó thì có gì khó khăn chứ! Tuy nhiên, không dễ gì để rán trứng cho hoàn hảo đâu nhé. Món trứng của bạn có thể bị cháy đen ở mặt dưới nếu như bạn không biết cách điều chỉnh lượng dầu và độ lửa. Và việc đánh trứng coi vậy chứ cũng không phải dễ đâu. Nhiều người nghĩ rằng việc đơn giản hóa mọi thứ là một quá trình đơn giản. Họ chỉ việc bỏ qua một số công đoạn theo họ là không cần hay lược bớt một số bước không quan trọng. Nhưng sự thật thì không phải thế.\n\nĐơn giản ≠ Dễ dàng\n\nKhi đơn giản hóa mọi thứ, chúng ta cần đong đếm cái lợi và hại của mỗi bước, và điều này khá là mất thời gian cũng như công sức. Hãy tưởng tượng bạn phải tốn hàng giờ để làm hết mọi thứ để cuối cùng mới rút ra được điều gì là thực sự quan trọng. Cách dễ dàng hơn là hãy để mọi thứ y nguyên như cũ và học hỏi mọi thứ, nhưng điều này liệu có tác dụng không?\n\nThế nên, chúng ta phải tạo lập một hệ thống để hỗ trợ chúng ta trong việc học hành. Hệ thống này cần tương đối đơn giản để lược bớt những bước cũng như những công đoạn không cần thiết (và không hiệu quả).\n\nĐơn giản hóa là một cách sống\n\nTại sao cần đơn giản? là một trong những quyển sách của tôi, trong đó tôi giới thiệu và khuyến khích quan niệm đơn giản hóa cuộc sống. Trong nhịp sống hối hả và náo nhiệt như hiện nay, sẽ rất khôn ngoan nếu bạn suy ngẫm cách khiến cho cuộc sống của mình\n\nđơn giản hơn bằng việc ghi chú lại cách thức mình thực hiện mọi thứ. Một bước tiến triển hơn nữa, là lập kế hoạch hay hệ thống để khiến mọi thứ trở nên dễ xoay xở hơn, và như thế bạn sẽ không cần phải vật lộn với mớ bòng bong công việc cần phải hoàn thành mỗi ngày nữa.\n\nVậy ai là người cần đơn giản hóa phương pháp học hành?\n\nCâu trả lời hiển nhiên: đó là TẤT CẢ MỌI NGƯỜI.\n\nThử nghĩ mà xem. Một phương pháp học tập đơn giản sẽ giải phóng nhiều thời gian hơn để bạn theo đuổi các mục tiêu khác của cuộc sống.\n\nDưới đây là ba câu hỏi để bạn cân nhắc xem mình có nên đơn giản hóa việc học hành của mình không nhé:\n\n1- Bạn có cảm thấy ngộp thở với mớ bài vở của các môn học mà không biết mình phải bắt đầu từ đâu?\n\n2- Bạn có phải cặm cụi hàng giờ bên bàn học mà vẫn thấy lơ mơ không hiểu bài?\n\n3- Bạn có nhận thấy là bạn phải ghi chép nhiều hơn những gì bạn được học?\n\nNếu câu trả lời của bạn cho cả ba câu hỏi trên là “có”, thì rõ ràng là bạn cần đơn giản hóa cách học của mình. Ngay cả khi bạn trả lời “có” chỉ với một trong những câu trên, thì tốt hơn cả là bạn cũng cần nghiêm túc xem lại cách đơn giản hóa của bạn đã ổn chưa.\n\nCâu hỏi thứ nhất cho thấy chúng ta thường bị nhồi nhét một lượng thông tin quá lớn trong mỗi môn học. Mà ở trường chúng ta không phải chỉ học một môn! Đây là điều mà phần lớn học sinh phải đối mặt, từ thế hệ này sang thế hệ khác.\n\nCâu hỏi thứ hai giúp ta nhận ra rằng: lượng thời gian dành cho việc học hành không nói lên điều gì cả nếu chúng ta không có phương pháp học. Học không có phương pháp thực chất là sự lãng phí thời gian.\n\nMột mớ bòng bong\n\nVới câu hỏi thứ ba, đây là một tình huống thường gặp. Nếu học sinh có thể hiểu và ghi chép vắn tắt thì sẽ có thời gian nhiều hơn để nghe giảng và ghi nhớ bài học ngay tại lớp. Đó chắc chắn là cách học đơn giản hơn là việc ghi chép dày đặc trong vở để rồi ngán ngẩm khi mở ra xem. Khi chúng ta có phương pháp học hiệu quả và đơn giản hơn, chúng ta chỉ cần ghi chép ít thôi.\n\nMột kiểu vận dụng phức tạp\n\nRoger là một học sinh chăm chỉ, luôn cần mẫn với việc học của mình. Cậu luôn sẵn sàng tiếp nhận các phương pháp học tập mới để cải thiện điểm số của mình. Trong một thời gian ngắn, cậu thử rất nhiều phương pháp khác nhau, ví dụ như bản đồ tư duy, phương pháp sử dụng trí nhớ, và một số phương cách khác nữa.\n\nMột cách tiếp cận phức tạp\n\nCậu thường áp dụng những điều học được một cách thiếu suy xét, khiến việc học của cậu trở nên phức tạp hơn. Roger rất đáng được hoan nghênh vì có cố gắng cải thiện phương pháp học của mình, nhưng cách cậu\n\náp dụng điều đó thật đáng tiếc. Và lúc này thì vấn đề không phải là tìm thêm phương pháp học tập nào hiệu quả, mà quan trọng là chúng ta đừng làm phức tạp hơn bất kỳ vấn đề nào.\n\nKết luận\n\nĐơn giản hóa phương pháp học chính là bước đầu tiên để học tập một cách khôn ngoan."
+    }
+  ],
+  "full_text": "Mục lục\nLời nói đầu\nLời cảm ơn\nLời giới thiệu\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\nChương 9\nChương 10\nLời kết\n\nLỜI NÓI ĐẦU\n\n\"\nC\non chuẩn bị cho cuộc thi đánh vần rồi chứ?” “Con học bài thi xong chưa vậy?”\n\n“Con làm bài tập về nhà xong hết chưa?”\n\nThế hệ tôi thường phải nghe các bậc phụ huynh hỏi những câu như thế. Và phản ứng của chúng tôi là vội vàng lôi ra mớ tài liệu của môn học vừa được cha mẹ nhắc tới: những cuốn sách bài học, bài tập,… chất đống trước mặt; và rồi ngồi đó, tự hỏi làm thế nào mình có thể học cho thông toàn bộ kiến thức ấy!\n\nCó một điều chắc chắn là chúng ta luôn ao ước mình có được một trí nhớ siêu phàm để có thể sao chụp và lưu giữ toàn bộ thông tin, dù đó là thông tin nhỏ nhặt nhất, ví dụ như ai là người đã sáng lập ra đất nước Singapore (đó là Sang Nila Utama, nếu như bạn lỡ quên), như những điều điên rồ mà Malvolio đã làm trong tác phẩm Đêm thứ mười hai của Shakespeare, hay hiện tượng nào xảy ra khi cho natri hidroxit tác dụng với axit clohidric.\n\nThầy cô dạy kiến thức cho chúng ta mà không chỉ cho ta cách học. Chúng ta chỉ làm những gì mình có thể: cập nhật thông tin vào bộ não của chúng ta, lục tìm nó trong các kỳ kiểm tra, rồi xóa bỏ thông tin, sau đó lặp lại toàn bộ quá trình ấy. Đó quả là một vòng lẩn quẩn! Chúng ta CHĂM HỌC, nhưng chẳng KHÔN NGOAN chút nào cả. Không phải vì chúng ta không muốn, mà bởi không ai chỉ cho ta cách thức thực hiện điều đó. Khi Aik Cher trao cho tôi vinh dự viết lời tựa cho cuốn sách này, tôi đã rất vui. Cuối cùng cũng có người chỉ ra cho chúng ta PHƯƠNG PHÁP và LÝ DO để học tập một cách khôn ngoan. Tôi ước gì quyển sách này được xuất bản từ 20 năm về trước, vậy thì chắc chắn tôi đã có kết quả thi cử tốt đẹp hơn và có nhiều thời gian hơn để nghỉ ngơi, thư giãn rồi.\n\nQuyển sách này không chỉ chia sẻ những phương pháp dễ thực hành nhằm phát huy hiệu quả học tập, mà gần như mỗi trang đều có những hình ảnh minh họa sinh động của Aik Cher. Ông đã phả vào đó hơi thở của cuộc sống bằng nét vẽ tài tình của mình. Chính sự kết hợp này sẽ mang lại cho bạn những trải nghiệm vui vẻ và thú vị xuyên suốt quyển sách. Nếu bạn đang lướt qua tựa sách này trong nhà sách, thì còn chần chừ gì nữa? Hãy mang nó đến quầy thanh toán ngay đi nào! Còn nếu bạn đã mua nó rồi, thì xin chúc mừng. Bạn sẽ mau chóng trở thành độc giả trung thành của Aik Cher, giống như tôi vậy.\n\nChúc các bạn tìm thấy nhiều niềm vui trong hành trình học tập một cách khôn ngoan!\n\nCayden Chang\n\n(Nhà sáng lập và điều hành Hiệp hội phát triển năng lực tư duy Singapore)\n\nLỜI CẢM ƠN\n\nK\nhông theo một thứ tự đặc biệt nào cả, tôi muốn gửi lời cảm ơn đến những người sau - những người đã có ảnh hưởng lớn lao trong cuộc đời tôi và khiến cho quá trình hoàn thành cuốn sách này bớt gian nan đi rất nhiều:\n\nPauline, người vợ yêu quý của tôi\n\nRaeAnne và RaeLynn, hai cô con gái nhỏ đáng yêu\n\nCha mẹ yêu dấu\n\nTới tất cả thầy cô và những người cố vấn, đặc biệt là Giáo sư Ho Chee Lick, Giáo sư Paulin Straughan, Giáo sư Moulmein và Giáo sư Linda Thompson.\n\nCác bạn bè thân hữu của tôi tại trường Tiểu học Ngee Ann, Trường Trung học Dunman, Trường Cao đẳng Victoria, Trường Đại học Quốc gia Singapore (NUS) và Trường Đại học Kỹ thuật Nanyang.\n\nCác bạn và đồng nghiệp của tôi tại trường Cao đẳng Victoria.\n\nCô Lee Phui Mun, Cô Chan Khah Gek và Thầy Chan Poh Meng, những vị hiệu trưởng tiền nhiệm và đương nhiệm của trường Cao đẳng Victoria, cũng như Thầy Bernard Chew, Cô Audrey Chen và Chua Nga Woon, hiệu phó của trường.\n\nGửi đến những người đặc biệt sau: Adam Khoo, Stuart Tan, Conrad Alvin Lim, Gary Lee, Merry & Alva. Rita Emmett, Khoo Siew Chiow, Elim Chew, Cayden Chang, Sean Seah và Johnson Lee. Mong các bạn tiếp tục tạo cho tôi nguồn cảm hứng.\n\nNhững bạn sinh viên của tôi từ trước đến nay. Các em hãy tiếp tục phấn đấu để đạt được nhiều thành quả tốt đẹp nhé. Hãy tận hưởng từng phút giây của cuộc sống mình đang có.\n\nCuối cùng nhưng cũng không kém phần quan trọng, đó là tất cả những người đã ảnh hưởng đến cuộc sống của tôi theo một cách nào đó.\n\nCác bạn vẫn ngự trị trong sâu thẳm tâm hồn tôi và tôi sẽ không bao giờ quên các bạn.\n\nLỜI GIỚI THIỆU\n\nĐ\nến trường – đó là việc mà mọi bạn trẻ ở khắp nơi trên thế giới đều phải trải nghiệm. Trong khi phần lớn bạn trẻ đều thích thú với các mối quan hệ ở trường cũng như việc tiếp thu kiến thức, thì điều ngán ngẩm nhất của họ là lượng bài tập về nhà cũng như quá nhiều bài kiểm tra mà họ phải thực hiện.\n\nVâng, cuộc sống đâu trải toàn hoa hồng. Việc các bạn trẻ than phiền về cuộc sống và trường học là điều hoàn toàn có thể hiểu được, đặc biệt là với những bạn phải khốn khổ vật lộn với việc học hành. Tuy thế, tại sao vẫn có những bạn có thể làm rất tốt việc này, trở thành người đứng đầu với thành tích cao chót vót? Có phải họ là những thiên tài mà chúng ta – những người bình thường – không thể nào hiểu được và cũng không thể với tới đẳng cấp như họ? Hay họ đã phải từ bỏ những hoạt động xã hội của mình để tập trung hoàn toàn thời gian công sức cho việc học?\n\nSự thực thì, đáp án cho những câu hỏi trên vô cùng đơn giản. Những bạn trẻ này đạt được kết quả rất tốt bởi họ có phương pháp học tập có hệ thống. Kết quả họ có được hoàn toàn không phải do tình cờ. Họ biết rõ điểm mạnh, điểm yếu của mình, và dựa vào đó để phát huy tối đa lợi thế cũng như hạn chế ở mức thấp nhất những nhược điểm của mình. Nói cách khác, họ không cần phải lúc nào cũng học hành vất vả, nhưng rõ ràng là họ biết cách học tập một cách khôn ngoan.\n\nCuộc sống không trải toàn hoa hồng\n\nĐó cũng là chủ đề của quyển sách này. Qua những chữ cái trong cụm từ Study Smart (Phương pháp học\n\nHọc giỏi, cácH nào đây?\n\ntập khôn ngoan), chúng ta sẽ tìm hiểu lý do vì sao cần phải học khôn ngoan chứ không chỉ học chăm. Chúng ta cũng sẽ khám phá những phương pháp và cách tư duy khác nhau mà các bạn trẻ thành công trong học vấn vẫn thường áp dụng. Những bạn này không hẳn là người thông minh nhất, nhưng họ có những chiến lược giúp chúng ta thành công trong học tập.\n\nTrước khi chúng ta bắt đầu cuộc hành trình khám phá sự cần thiết cũng như các bí mật đằng sau phương pháp học tập khôn ngoan, câu chuyện này hẳn sẽ khơi gợi sự háo hức trong bạn:\n\nNgày xưa, có một chàng kiến thợ thông minh luôn thích làm việc theo phương pháp độc đáo của riêng mình. Trong khi các bạn kiến đều khuân vác đồ đạc trên vai, thì kiến ta lại đăm chiêu suy nghĩ cách giúp công việc này trở nên nhẹ nhàng hơn. Ví dụ như khi cả bầy đang vận chuyển đá cuội xây tổ, thì chàng kiến nhận thấy các hòn cuội có hình tròn nên hoàn toàn có thể đẩy đi thay vì vác. Thế là trong khi các chú kiến thợ hì hục khuân những viên đá, thì chàng kiến thông minh lại thảnh thơi đẩy các hòn cuội lăn đi mà hầu như không tốn sức. Thậm chí có lúc chàng ta chỉ cần dùng chân của mình để lăn đá!\n\nChú kiến thợ thông minh\n\nChúng ta đều biết rằng kiến là loài cực kỳ cần cù, luôn tích trữ, chuẩn bị cho mùa mưa lũ. Dù chăm chỉ là vậy, nhưng chúng lại chưa bao giờ ngẫm xem cách làm việc của mình đã thực sự hiệu quả chưa. Hay nói cách khác, chúng làm việc chăm, nhưng liệu có khôn ngoan?\n\nVậy thì, hãy là những chú kiến thông minh bằng cách tìm ra các phương pháp giúp cho cuộc sống cũng như việc học hành của mình có ý nghĩa hơn, bạn nhé.\n\nNào, chúng ta bắt đầu làm việc và học tập một cách khôn ngoan thôi!\n\nCHƯƠNG 1\n\n\"\nK\nhi cuộc sống trở nên quá phức tạp, thì sự đơn giản chính là giải pháp.”\n\n- Khuyết danh\n\nSTUDY SMART\n\nMaking Studying Simple\n\nLÀM CHO VIỆC HỌC TRỞ NÊN ĐƠN GIẢN\n\n“Đơn giản = không phức tạp hay rắc rối.”\n\nLàm cho việc học trở nên đơn giản\n\n“Tại sao lại phải làm cho việc học trở nên đơn giản?” Câu trả lời đơn giản và rõ ràng cho câu hỏi này là:\n\n“Tại sao không?”.\n\nMỗi ngày, chúng ta bị cuốn vào rất nhiều thứ xung quanh. Với những người trưởng thành, cuộc sống của họ là một hành trình bất tận với những nỗi lo toan và rắc rối. Với các bạn trẻ, cuộc sống lại đầy những thử thách với các vấn đề như tình bạn và những trở ngại từ các mối quan hệ xung quanh. Tất nhiên, trường học và việc học hành là một phần quan trọng trong cuộc sống mà mỗi bạn trẻ chúng mình phải dành phần lớn thời gian cho nó. Vì vậy, việc làm cho mọi chuyện trở nên đơn giản hơn để có thể xử lý dễ dàng là một giải pháp thông minh.\n\nCuộc sống bận rộn\n\nNếu bạn trẻ nhận thức được bản chất của việc học hành và có thể đương đầu với những yêu cầu của việc học, của các bài kiểm tra và các kỳ thi, thì họ sẽ thấy rằng tiến trình “đơn giản hóa” là có thể thực hiện được và cũng chẳng khó nhằn như họ từng nghĩ.\n\nCuộc sống có thể rất phức tạp\n\nCuộc sống cũng giống như một hộp sô-cô-la nhiều hương vị. Chúng ta có được rất nhiều lựa chọn và việc quyết định chọn viên nào là hoàn toàn tùy thuộc vào mỗi chúng ta.\n\nNhiều người sẽ chọn một cuộc sống đơn giản, bằng lòng với những gì mình có. Số khác lại chọn cho mình cách sống trọn vẹn nhất bằng\n\nSô-cô-la kìa, chọn viên nào đây?\n\ncách tham gia vào bất kỳ hoạt động nào mà họ biết. Ở nhóm thứ hai, cuộc sống có thể bận rộn thật đấy, nhưng nhóm này biết cách chủ động thu xếp mọi việc và làm cho cuộc sống của mình thú vị hơn.\n\nBí quyết của nhóm bận rộn này chính là thái độ của họ đối với cuộc sống, là cách mà họ đơn giản hóa những phức tạp của cuộc sống. Cũng tương tự như vậy\n\nđối với các bạn trẻ phải vật lộn với đống bài vở của mình mỗi ngày. Với nhiều bạn, cơn lũ học hành thường xuyên nhấn chìm họ. Tuy nhiên, một nhóm bạn trẻ đặc biệt khác có thể giải quyết công việc rất hiệu quả mà vẫn có thời gian tận hưởng cuộc sống.\n\nThế nên, dù cuộc sống có thể rất phức tạp, chúng ta vẫn có thể làm cho nó trở nên dễ dàng và ý nghĩa hơn rất nhiều.\n\nViệc học có thực sự khó khăn?\n\nĐây chẳng phải là câu hỏi dễ trả lời, và cũng không có câu trả lời cuối cùng cho nó. Với nhiều bạn trẻ, việc học cũng giống như hành trình xuyên qua một khu rừng nguyên sinh dày đặc, nơi mọi thứ xung quanh đều bí ẩn, xa lạ và họ có thể lạc lối bất kỳ lúc nào. Số khác thì xem việc học như một cuộc tản bộ thư thái trong công viên. Vẫn còn một nhóm bạn trẻ khác nữa ở giữa hai nhóm trên. Với họ thì việc học là điều có thể xoay xở được. Tuy nhiên, dù họ có cố gắng thế nào đi nữa, kết quả đạt được cũng chỉ ở mức trung bình. Thử thách đối với nhóm này là làm sao giữ được lòng hăng say và sự phấn đấu bền bỉ, bởi họ rất dễ nản lòng khi những cố gắng của họ không mang lại kết quả.\n\nThế nên, những gì chúng ta cần quan tâm là làm sao để cho việc học trở nên đơn giản hơn mà lại hiệu quả hơn. Và giải pháp cho vấn đề này là quan sát và học hỏi cách học của những bạn nằm trong top giỏi nhất.\n\nMình lạc đường mất rồi!\n\n“Đơn giản” không có nghĩa là “dễ dàng”\n\nCó nhiều người, nếu không muốn nói là hầu hết mọi người, nghĩ rằng khi một việc hay một quá trình nào đó “đơn giản”, có nghĩa là nó cũng “dễ dàng”. Đây là một quan niệm sai lầm, bởi “đơn giản” không có nghĩa là “dễ dàng” đâu bạn. Chẳng hạn như việc rán trứng, trông có vẻ đơn giản đấy: bạn chỉ cần đập vỡ quả trứng\n\ntrên chảo nóng. Việc đó thì có gì khó khăn chứ! Tuy nhiên, không dễ gì để rán trứng cho hoàn hảo đâu nhé. Món trứng của bạn có thể bị cháy đen ở mặt dưới nếu như bạn không biết cách điều chỉnh lượng dầu và độ lửa. Và việc đánh trứng coi vậy chứ cũng không phải dễ đâu. Nhiều người nghĩ rằng việc đơn giản hóa mọi thứ là một quá trình đơn giản. Họ chỉ việc bỏ qua một số công đoạn theo họ là không cần hay lược bớt một số bước không quan trọng. Nhưng sự thật thì không phải thế.\n\nĐơn giản ≠ Dễ dàng\n\nKhi đơn giản hóa mọi thứ, chúng ta cần đong đếm cái lợi và hại của mỗi bước, và điều này khá là mất thời gian cũng như công sức. Hãy tưởng tượng bạn phải tốn hàng giờ để làm hết mọi thứ để cuối cùng mới rút ra được điều gì là thực sự quan trọng. Cách dễ dàng hơn là hãy để mọi thứ y nguyên như cũ và học hỏi mọi thứ, nhưng điều này liệu có tác dụng không?\n\nThế nên, chúng ta phải tạo lập một hệ thống để hỗ trợ chúng ta trong việc học hành. Hệ thống này cần tương đối đơn giản để lược bớt những bước cũng như những công đoạn không cần thiết (và không hiệu quả).\n\nĐơn giản hóa là một cách sống\n\nTại sao cần đơn giản? là một trong những quyển sách của tôi, trong đó tôi giới thiệu và khuyến khích quan niệm đơn giản hóa cuộc sống. Trong nhịp sống hối hả và náo nhiệt như hiện nay, sẽ rất khôn ngoan nếu bạn suy ngẫm cách khiến cho cuộc sống của mình\n\nđơn giản hơn bằng việc ghi chú lại cách thức mình thực hiện mọi thứ. Một bước tiến triển hơn nữa, là lập kế hoạch hay hệ thống để khiến mọi thứ trở nên dễ xoay xở hơn, và như thế bạn sẽ không cần phải vật lộn với mớ bòng bong công việc cần phải hoàn thành mỗi ngày nữa.\n\nVậy ai là người cần đơn giản hóa phương pháp học hành?\n\nCâu trả lời hiển nhiên: đó là TẤT CẢ MỌI NGƯỜI.\n\nThử nghĩ mà xem. Một phương pháp học tập đơn giản sẽ giải phóng nhiều thời gian hơn để bạn theo đuổi các mục tiêu khác của cuộc sống.\n\nDưới đây là ba câu hỏi để bạn cân nhắc xem mình có nên đơn giản hóa việc học hành của mình không nhé:\n\n1- Bạn có cảm thấy ngộp thở với mớ bài vở của các môn học mà không biết mình phải bắt đầu từ đâu?\n\n2- Bạn có phải cặm cụi hàng giờ bên bàn học mà vẫn thấy lơ mơ không hiểu bài?\n\n3- Bạn có nhận thấy là bạn phải ghi chép nhiều hơn những gì bạn được học?\n\nNếu câu trả lời của bạn cho cả ba câu hỏi trên là “có”, thì rõ ràng là bạn cần đơn giản hóa cách học của mình. Ngay cả khi bạn trả lời “có” chỉ với một trong những câu trên, thì tốt hơn cả là bạn cũng cần nghiêm túc xem lại cách đơn giản hóa của bạn đã ổn chưa.\n\nCâu hỏi thứ nhất cho thấy chúng ta thường bị nhồi nhét một lượng thông tin quá lớn trong mỗi môn học. Mà ở trường chúng ta không phải chỉ học một môn! Đây là điều mà phần lớn học sinh phải đối mặt, từ thế hệ này sang thế hệ khác.\n\nCâu hỏi thứ hai giúp ta nhận ra rằng: lượng thời gian dành cho việc học hành không nói lên điều gì cả nếu chúng ta không có phương pháp học. Học không có phương pháp thực chất là sự lãng phí thời gian.\n\nMột mớ bòng bong\n\nVới câu hỏi thứ ba, đây là một tình huống thường gặp. Nếu học sinh có thể hiểu và ghi chép vắn tắt thì sẽ có thời gian nhiều hơn để nghe giảng và ghi nhớ bài học ngay tại lớp. Đó chắc chắn là cách học đơn giản hơn là việc ghi chép dày đặc trong vở để rồi ngán ngẩm khi mở ra xem. Khi chúng ta có phương pháp học hiệu quả và đơn giản hơn, chúng ta chỉ cần ghi chép ít thôi.\n\nMột kiểu vận dụng phức tạp\n\nRoger là một học sinh chăm chỉ, luôn cần mẫn với việc học của mình. Cậu luôn sẵn sàng tiếp nhận các phương pháp học tập mới để cải thiện điểm số của mình. Trong một thời gian ngắn, cậu thử rất nhiều phương pháp khác nhau, ví dụ như bản đồ tư duy, phương pháp sử dụng trí nhớ, và một số phương cách khác nữa.\n\nMột cách tiếp cận phức tạp\n\nCậu thường áp dụng những điều học được một cách thiếu suy xét, khiến việc học của cậu trở nên phức tạp hơn. Roger rất đáng được hoan nghênh vì có cố gắng cải thiện phương pháp học của mình, nhưng cách cậu\n\náp dụng điều đó thật đáng tiếc. Và lúc này thì vấn đề không phải là tìm thêm phương pháp học tập nào hiệu quả, mà quan trọng là chúng ta đừng làm phức tạp hơn bất kỳ vấn đề nào.\n\nKết luận\n\nĐơn giản hóa phương pháp học chính là bước đầu tiên để học tập một cách khôn ngoan."
+}

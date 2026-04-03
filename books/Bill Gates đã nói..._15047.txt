@@ -1,0 +1,585 @@
+Mục lục
+Một con người, một con đường
+Giai đoạn trưởng thành
+Vượt ra khỏi lộ trình quy ước
+Trên con đường công nghệ cao
+Phong cách quản lý kiểu "Gates"
+Mô hình kinh doanh của Microsoft
+Cuộc chiến tranh máy tính
+Những sai lầm của Microsoft
+Tấn công vào tương lai
+Người khác nói về Gates
+Tột đỉnh danh vọng
+Một chút thời gian dành cho tình yêu
+Nền văn hóa máy tính
+Gates trên đường đời
+Những dòng sau cùng
+Các mốc thời gian quan trọng trong cuộc đời Bill Gates
+Hiện tình ngành công nghệ thông tin qua tư duy của Bill Gates
+
+MỘT CON NGƯỜI, MỘT CON ĐƯỜNG
+
+W
+illiam Henry Gates III, Bill Gates, đồng sáng lập và là Chủ tịch của Tập đoàn Microsoft, một con người tài năng đặc biệt, có tầm nhìn xa trông rộng tuyệt vời; một người đã có những thành công đáng kinh ngạc trong rất nhiều lĩnh vực:
+
+- Sự khai phá của anh trong thế giới phần mềm máy tính cá nhân đã làm thay đổi cuộc sống của tất cả chúng ta trên hành tinh này. Vào năm 1997, hầu như máy tính đã có mặt trong tất cả các cơ sở thương mại và nhiều gia đình. Trong tương lai, máy tính sẽ trở thành một vật dụng không thể thiếu đối với mọi người. Bill Gates “đối với phần mềm máy tính có thể so sánh với Edison đối với bóng đèn điện - vừa là nhà phát minh, vừa là nhà kinh doanh, vừa là chuyên gia tiếp thị phân phối và đích thực - không còn nghi ngờ gì nữa - là một thiên tài”.
+
+- Gates đã phá vỡ một quan niệm định kiến, sai lầm cố hữu cho rằng những tư tưởng lớn chỉ đến từ những triết gia, từ những nhà văn hoặc từ giới hàn lâm. Rich Karlgaard của tạp chí Forbes đã giải thích “Ranh giới xưa cũ giữa ý tưởng và sản phẩm, giữa phù du và vĩnh cửu đang bị xóa nhòa”.
+
+- Gates không chỉ là một nhà điều hành doanh nghiệp. Là biểu tượng văn hóa, anh giữ vai trò của một đấng tối cao và là linh hồn của Microsoft – công ty đã giúp anh trở thành tỷ phú ở tuổi 31 và trở thành người giàu nhất nước Mỹ khi chưa bước vào tuổi 40.
+
+- Gates là người sống sót, thực tế là người chiến thắng, trong một ngành công nghiệp bán khai với một lịch sử phát triển ngắn ngủi, chưa nhiều truyền thống, gần như chưa tạo ra phong cách nào và rõ ràng rất ít phương thức hoạt động được thiết lập hoàn chỉnh; vì vậy còn rất nhiều thiếu sót và tòa án trên khắp thế giới là nơi thường xuyên được các phía nhờ đến để giải quyết các vụ tranh chấp.
+
+Và thật ngẫu nhiên, Gates lại còn hơn người ở một điểm khác. Anh đã khuấy động đến cực điểm tất cả những cảm xúc xung đột luôn có trong xã hội tư bản: khao khát được thành công và thống trị đời sống kinh tế trên toàn nước Mỹ nhưng lại giận dữ, lo âu và cảm thấy bị sỉ nhục khi có ai đó đạt được điều ấy.
+
+Muốn biết cảm xúc dữ dội của mọi người như thế nào khi nghĩ về Gates, bạn chỉ cần lên Internet và vào một vài địa chỉ Web được tạo ra với lý do duy nhất là trút giận vào anh, thậm chí một vài Website còn tổ chức cả những diễn đàn nghiêm chỉnh để tranh cãi xem liệu Gates có phải là ma quỷ trá hình hay không.
+
+Trong Bill Gates Joke Page, có một chuyện cười về Gates như sau: “Ai là người bạn sẽ bóp cò súng để trút giận nếu bạn bị kẹt trong thang máy cùng với Timothy McVeight (người đặt bom Trung Tâm Thương Mại Thế Giới ở Oklahama – ND), Saddam Hussein và Bill Gates trong lúc khẩu súng của bạn chỉ còn còn hai viên đạn? Để chắc ăn, cứ nả cả hai phát vào Bill”.
+
+Các lời công kích chống lại Gates không chỉ giới hạn trong phạm vi Internet. Mitch Kapor, người sáng lập và là lãnh đạo cũ của công ty Lotus 1-2-3, nói về Gates: ”Một người tài giỏi, mạnh mẽ, rất thành công nhưng là kẻ tàn nhẫn và bất nhân bất nghĩa. Tôi cho rằng nếu ai đó hành động bất chấp tất cả để chiến thắng, triệt tiêu mọi cơ hội cạnh tranh thì kẻ đó đang làm những việc trái với luân thường đạo lý. Và Gates là khuôn mẫu vô cùng chính xác và điển hình về điểm này”.
+
+Tạp chí ComputerWorld viết về Gates.
+
+...Chỉ mới vài năm trước đây, anh ta được tuyên dương như một người làm ăn năng nổ, người đã dũng cảm kiến tạo nên một ngành kinh doanh thịnh vượng từ bãi công nghệ bị các hãng lớn bỏ hoang. Còn bây giờ, anh ta bị phỉ báng là kẻ ác tâm muốn trở thành ông chủ của toàn bộ thế giới phần mềm, là kẻ tham lam lúc nào cũng chõ mũi vào khắp mọi nơi, bất kể đó là khách hàng hay đối thủ cạnh tranh.
+
+Vậy Bill Gates thật sự là người như thế nào? Là người giàu nhất nước Mỹ với khoảng 22% vốn trong Microsoft, Gates trở thành đối tượng của sự thèm muốn và nể sợ, hoang tưởng và tâng bốc. Với những cảm xúc mãnh liệt như thế, việc đánh giá công bằng về những hành động của Gates là điều bất khả.
+
+Gates thường được so sánh với những tiền bối lãnh đạo cuộc cách mạng công nghiệp trước kia và sự tương quan này ít nhiều có giá trị. Theo nhận xét của Nathan Myhrvold, nhà tương lai học và là nhà tư tưởng về công nghệ mới của Microsoft, những người này, bằng cách này hoặc cách khác, đã thu lợi được từ những tiến bộ trong nền công nghệ đã buộc chúng ta phải thay đổi cách sống. Myhrvold giải thích rằng chỉ trong thời gian từ 1875 đến 1900, các phát minh mới, bao gồm máy chữ, máy điện thoại, động cơ đốt trong, khóa phecmơtuya, đã nở rộ khắp nơi.
+
+Các phương tiện thông tin đại chúng lúc đó đều hết lời ca ngợi những tên tuổi như Thomas Edison, Alexander Graham Bell, Andrew Carnegie, John D.Rockefeller, xem họ là một thành phần “quý tộc” mới, những người lắm tiền nhiều bạc và giàu sức sáng tạo. Nhìn lại giai đoạn này ta thấy rằng, điều dường như không thể tránh khỏi là chỉ một vài cá nhân có tinh thần mạnh mẽ mới có thể nhìn thấy trước các cơ hội và nhanh tay đầu tư vào chúng vì khả năng đặt cược vào kỷ nguyên công nghiệp này không phải là công việc dành cho những người tầm thường. Canh bạc mà họ lao vào với kết quả “được ăn cả ngã về không” đã làm cho họ hốt trọn và mang đến cho bản thân họ và cho quyền sở hữu vô cùng lớn của họ một danh tiếng rộng khắp.
+
+Nhưng không chỉ có sự giàu có và uy danh làm cho Gates trở thành hấp dẫn với mọi người.
+
+Sức hút của anh với mọi người còn ở sự bất tương xứng giữa tài năng và ngoại hình của anh. Giọng nói rổn rảng của anh, thứ tiếng lóng mà anh nói, mái tóc có vẻ hơi kỳ quặc và chiếc áo len mua ở cửa hàng xem ra không phù hợp với một người có thế lực như anh. Sự bất tương xứng lớn nhất có thể thấy rất rõ ở Gates trong thời gian đầu: anh bắt đầu lao vào thương trường năm 19 tuổi nhưng lại trông già dặn như người ở tuổi 30.
+
+Những họa sĩ vẽ tranh biếm họa và những người có máu hài hước muốn “đánh cắp” cách thể hiện đặc thù của Gates thì anh đúng là một mục tiêu “béo bở”. Khi ai đó trong giới điện toán bắt chéo hai tay rồi đong đưa người tới lui như một đứa trẻ mắc bệnh tự kỷ, mọi người đều biết người này đang nhại Bill Gates. Mặc dầu những năm gần đây Gates đã có da có thịt hơn và thường xuyên đi cắt tóc nhưng hình ảnh một chàng trai gầy nhom với mái tóc không chải của Gates vẫn chưa xóa nhòa trong tâm khảm mọi người.
+
+Tạp chí Vanity Fair đã gọi Gates là một cậu bé 13 tuổi mượn hình hài của một gã côn đồ, đó là “một người có ít cơ hội trở thành thủ lĩnh của ngành công nghệ, sự điềm tĩnh của anh, giọng nói đều đều của anh ẩn dấu năng lực và sức mạnh dữ dội”.
+
+Những lời đàm tiếu về con người của Bill Gates phần nào đó xuất phát từ việc anh xuất hiện trước công chúng khi còn quá trẻ, riêng các câu chuyện về kinh doanh của Gates vào những năm đầu đã cho thấy rõ thiên tài của một kẻ ngỗ ngược. Anh mang tiếng xấu là một gã chua cay, khinh người, thậm chí là một người khiếm nhã. Chẳng qua chúng ta đã được chứng kiến sự lớn lên của một cậu bé có tài nhưng lại chất chứa quá nhiều điều, những điều đã từng diễn ra cho Mozart trong thời niên thiếu.
+
+Thậm chí khi bước vào tuổi trung niên, Gates vẫn là một người thực sự rất khó đánh giá. Trong những câu chuyện kể về sự phát triển nhanh chóng của Microsoft đôi lúc có vẻ như Gates đã thổi phồng đôi chút, nhưng các phân tích kinh doanh và tầm nhìn vào tương lai của anh lại tỏ ra rất chính xác. Anh rất cẩn trọng trong việc lập gia đình, trong vai trò làm cha, trong hoạt động từ thiện khi giới truyền thông lúc nào cũng kiên trì bám sát theo từng bước. Vào lúc các hoạt động kinh doanh của Microsoft trở thành đối tượng chú ý của chính quyền tiểu bang và liên bang của Mỹ, Gates nhận ngay ra rằng anh nên cải thiện hình ảnh của mình trước công chúng, trở nên hòa nhã hơn, gần gũi hơn và khoan dung hơn. Nhìn lại quá trình biến đổi của anh cho tới nay chúng ta có thể thấy rằng Gates vẫn còn phải cố gắng nhiều hơn nữa.
+
+Nếu không bàn về khía cạnh phát triển của cá nhân thì thách thức lớn nhất của Gates lúc này là giúp cho Microsoft sống lâu trong sự lịch lãm và thu được lợi nhuận. Sự tồn tại và phát triển lâu bền của một công ty rất hiếm gặp trong môi trường công nghệ cao, thậm chí cả những công ty kỳ cựu như IBM cũng có những giai đoạn thăng trầm. Dù sao, Rockerfeller, Edison, Bell và nhiều nhà tư bản khác - những người mà Gates được sánh ngang hàng – cũng đã sáng lập công ty rồi duy trì sự tồn tại và thịnh vượng của chúng cho đến tận thế kỷ sau. Những công ty của họ đã trở thành nền tảng vững chắc cho nền kinh tế của cả nước Mỹ. Mặc dù thường xuyên bị thanh tra và đôi lúc bị xé lẻ, chia nhỏ - hoặc bởi luật chống độc quyền hoặc bởi sự quản lý thấp kém - nhưng hậu duệ của chúng ngày nay vẫn tồn tại như những thành phần đi đầu trong công nghiệp. Gates hướng sự tập trung của mình vào việc bảo đảm rằng Microsoft sẽ được như họ. Và bởi vì anh khởi nghiệp từ lúc còn rất trẻ nên anh vẫn còn thừa thời gian cho điều đó.
+
+Những dòng tiếp theo sau đây sẽ là một số chỉ dẫn cần thiết giúp bạn nắm được thâm ý của tác giả khi viết sách này. Đây không phải là một quyển sách viết về kỹ thuật mặc dù chúng ta có thể bắt gặp một số phần có đề cập đến kỹ thuật. Đây cũng không phải là những giải trình chi li về cách thức mà công ty Microsoft chỉ trong vòng chưa đầy 20 năm đã trở thành một trong những công ty hàng đầu trên thế giới mặc dù chúng ta có thể bắt gặp chúng ở đây. Quyển sách này cũng không viết ra nhằm mục đích chứng minh Gates là Quỷ Dữ hay là Kẻ Cứu Thế: việc đó dành cho bạn đọc tự đánh giá và quyết định.
+
+Đây là một quyển sách được viết trên tinh thần thừa nhận những ảnh hưởng của Gates đối với thế giới trong lãnh vực công nghệ, kinh tế và xã hội. Nội dung của sách thuật lại câu chuyện về một thiên tài về kỹ thuật, người giữ vai trò đi đầu trong việc làm đổi thay hoàn toàn cách làm việc, cách vui chơi, cách học tập cùng nhiều lĩnh vực khác trong đời sống hàng ngày của chúng ta. Đây cũng là một quyển sách ghi chép lại những điều Bill Gates suy nghĩ và cách suy nghĩ của anh ta, và những gì chúng ta có thể học hỏi được từ nhân vật này.
+
+Quyển sách này không được trình bày theo thứ tự thời gian mà theo từng chủ đề. Tác giả đề nghị người đọc tham khảo thêm phần Các mốc thời gian quan trọng trong cuộc đời Bill Gates ở cuối sách.
+
+Bất kể lịch sử miêu tả Gates như thế nào, nhưng việc anh ta là doanh gia nổi tiếng nhất trong thời đại chúng ta là điều không có gì phải bàn cãi. Theo một thống kê năm 1997 thì Gates đã được nhắc đến 8433 lần trên những phương tiện truyền thông chính thống. Một cuộc điều tra dư luận của tạp chí Fortune đã cho thấy có tới 73% những người điều hành các công ty xem Microsoft là một trong những cơ sở kinh doanh vĩ đại của nước Mỹ.
+
+Tại một buổi hội thảo gồm 500 nhà lãnh đạo kinh doanh tham gia do tạp chí Inc. tổ chức vào năm 1997, tuyệt đại đa số đã cho rằng Gates là nhà kinh doanh “được khâm phục nhất”. Gates nhận được 59% phiếu bầu, trong khi ông vua truyền thông Ted Turner chỉ có 8%, Steven Job của hãng máy tính Apple được 5%, Ross Perot được 4% và Wayne Huizenga, người sáng lập Waste Management Inc., được 3%.
+
+Cũng vào thời điểm đó, theo khảo sát của Merrill Lynch dành cho những nhân viên công nghệ thông tin trong các công ty thì có tới 59% người cho rằng Microsoft đã có hành vi lạm dụng quyền lực. Mặt khác, 62% lại tin rằng Bộ Tư pháp Mỹ sẽ phải chịu thua và cho phép Microsoft tích hợp trình duyệt Internet của họ vào hệ điều hành.
+
+Nói chung có nhiều quan điểm khác nhau về Gates và trong thời gian chờ đợi ngã ngũ, cuộc chiến để có thể hiểu rõ về Gates vẫn tiếp tục diễn ra. Như John Huey, người phụ trách chuyên mục của tạp chí Fortune, đã bình luận: “Bạn có thể yêu hoặc ghét anh ta nhưng không thể không để ý đến anh ta”.
+
+MỘT CON NGƯỜI, MỘT CON ĐƯỜNG
+
+W
+illiam Henry Gates III, Bill Gates, đồng sáng lập và là Chủ tịch của Tập đoàn Microsoft, một con người tài năng đặc biệt, có tầm nhìn xa trông rộng tuyệt vời; một người đã có những thành công đáng kinh ngạc trong rất nhiều lĩnh vực:
+
+- Sự khai phá của anh trong thế giới phần mềm máy tính cá nhân đã làm thay đổi cuộc sống của tất cả chúng ta trên hành tinh này. Vào năm 1997, hầu như máy tính đã có mặt trong tất cả các cơ sở thương mại và nhiều gia đình. Trong tương lai, máy tính sẽ trở thành một vật dụng không thể thiếu đối với mọi người. Bill Gates “đối với phần mềm máy tính có thể so sánh với Edison đối với bóng đèn điện - vừa là nhà phát minh, vừa là nhà kinh doanh, vừa là chuyên gia tiếp thị phân phối và đích thực - không còn nghi ngờ gì nữa - là một thiên tài”.
+
+- Gates đã phá vỡ một quan niệm định kiến, sai lầm cố hữu cho rằng những tư tưởng lớn chỉ đến từ những triết gia, từ những nhà văn hoặc từ giới hàn lâm. Rich Karlgaard của tạp chí Forbes đã giải thích “Ranh giới xưa cũ giữa ý tưởng và sản phẩm, giữa phù du và vĩnh cửu đang bị xóa nhòa”.
+
+- Gates không chỉ là một nhà điều hành doanh nghiệp. Là biểu tượng văn hóa, anh giữ vai trò của một đấng tối cao và là linh hồn của Microsoft – công ty đã giúp anh trở thành tỷ phú ở tuổi 31 và trở thành người giàu nhất nước Mỹ khi chưa bước vào tuổi 40.
+
+- Gates là người sống sót, thực tế là người chiến thắng, trong một ngành công nghiệp bán khai với một lịch sử phát triển ngắn ngủi, chưa nhiều truyền thống, gần như chưa tạo ra phong cách nào và rõ ràng rất ít phương thức hoạt động được thiết lập hoàn chỉnh; vì vậy còn rất nhiều thiếu sót và tòa án trên khắp thế giới là nơi thường xuyên được các phía nhờ đến để giải quyết các vụ tranh chấp.
+
+Và thật ngẫu nhiên, Gates lại còn hơn người ở một điểm khác. Anh đã khuấy động đến cực điểm tất cả những cảm xúc xung đột luôn có trong xã hội tư bản: khao khát được thành công và thống trị đời sống kinh tế trên toàn nước Mỹ nhưng lại giận dữ, lo âu và cảm thấy bị sỉ nhục khi có ai đó đạt được điều ấy.
+
+Muốn biết cảm xúc dữ dội của mọi người như thế nào khi nghĩ về Gates, bạn chỉ cần lên Internet và vào một vài địa chỉ Web được tạo ra với lý do duy nhất là trút giận vào anh, thậm chí một vài Website còn tổ chức cả những diễn đàn nghiêm chỉnh để tranh cãi xem liệu Gates có phải là ma quỷ trá hình hay không.
+
+Trong Bill Gates Joke Page, có một chuyện cười về Gates như sau: “Ai là người bạn sẽ bóp cò súng để trút giận nếu bạn bị kẹt trong thang máy cùng với Timothy McVeight (người đặt bom Trung Tâm Thương Mại Thế Giới ở Oklahama – ND), Saddam Hussein và Bill Gates trong lúc khẩu súng của bạn chỉ còn còn hai viên đạn? Để chắc ăn, cứ nả cả hai phát vào Bill”.
+
+Các lời công kích chống lại Gates không chỉ giới hạn trong phạm vi Internet. Mitch Kapor, người sáng lập và là lãnh đạo cũ của công ty Lotus 1-2-3, nói về Gates: ”Một người tài giỏi, mạnh mẽ, rất thành công nhưng là kẻ tàn nhẫn và bất nhân bất nghĩa. Tôi cho rằng nếu ai đó hành động bất chấp tất cả để chiến thắng, triệt tiêu mọi cơ hội cạnh tranh thì kẻ đó đang làm những việc trái với luân thường đạo lý. Và Gates là khuôn mẫu vô cùng chính xác và điển hình về điểm này”.
+
+Tạp chí ComputerWorld viết về Gates.
+
+...Chỉ mới vài năm trước đây, anh ta được tuyên dương như một người làm ăn năng nổ, người đã dũng cảm kiến tạo nên một ngành kinh doanh thịnh vượng từ bãi công nghệ bị các hãng lớn bỏ hoang. Còn bây giờ, anh ta bị phỉ báng là kẻ ác tâm muốn trở thành ông chủ của toàn bộ thế giới phần mềm, là kẻ tham lam lúc nào cũng chõ mũi vào khắp mọi nơi, bất kể đó là khách hàng hay đối thủ cạnh tranh.
+
+Vậy Bill Gates thật sự là người như thế nào? Là người giàu nhất nước Mỹ với khoảng 22% vốn trong Microsoft, Gates trở thành đối tượng của sự thèm muốn và nể sợ, hoang tưởng và tâng bốc. Với những cảm xúc mãnh liệt như thế, việc đánh giá công bằng về những hành động của Gates là điều bất khả.
+
+Gates thường được so sánh với những tiền bối lãnh đạo cuộc cách mạng công nghiệp trước kia và sự tương quan này ít nhiều có giá trị. Theo nhận xét của Nathan Myhrvold, nhà tương lai học và là nhà tư tưởng về công nghệ mới của Microsoft, những người này, bằng cách này hoặc cách khác, đã thu lợi được từ những tiến bộ trong nền công nghệ đã buộc chúng ta phải thay đổi cách sống. Myhrvold giải thích rằng chỉ trong thời gian từ 1875 đến 1900, các phát minh mới, bao gồm máy chữ, máy điện thoại, động cơ đốt trong, khóa phecmơtuya, đã nở rộ khắp nơi.
+
+Các phương tiện thông tin đại chúng lúc đó đều hết lời ca ngợi những tên tuổi như Thomas Edison, Alexander Graham Bell, Andrew Carnegie, John D.Rockefeller, xem họ là một thành phần “quý tộc” mới, những người lắm tiền nhiều bạc và giàu sức sáng tạo. Nhìn lại giai đoạn này ta thấy rằng, điều dường như không thể tránh khỏi là chỉ một vài cá nhân có tinh thần mạnh mẽ mới có thể nhìn thấy trước các cơ hội và nhanh tay đầu tư vào chúng vì khả năng đặt cược vào kỷ nguyên công nghiệp này không phải là công việc dành cho những người tầm thường. Canh bạc mà họ lao vào với kết quả “được ăn cả ngã về không” đã làm cho họ hốt trọn và mang đến cho bản thân họ và cho quyền sở hữu vô cùng lớn của họ một danh tiếng rộng khắp.
+
+Nhưng không chỉ có sự giàu có và uy danh làm cho Gates trở thành hấp dẫn với mọi người.
+
+Sức hút của anh với mọi người còn ở sự bất tương xứng giữa tài năng và ngoại hình của anh. Giọng nói rổn rảng của anh, thứ tiếng lóng mà anh nói, mái tóc có vẻ hơi kỳ quặc và chiếc áo len mua ở cửa hàng xem ra không phù hợp với một người có thế lực như anh. Sự bất tương xứng lớn nhất có thể thấy rất rõ ở Gates trong thời gian đầu: anh bắt đầu lao vào thương trường năm 19 tuổi nhưng lại trông già dặn như người ở tuổi 30.
+
+Những họa sĩ vẽ tranh biếm họa và những người có máu hài hước muốn “đánh cắp” cách thể hiện đặc thù của Gates thì anh đúng là một mục tiêu “béo bở”. Khi ai đó trong giới điện toán bắt chéo hai tay rồi đong đưa người tới lui như một đứa trẻ mắc bệnh tự kỷ, mọi người đều biết người này đang nhại Bill Gates. Mặc dầu những năm gần đây Gates đã có da có thịt hơn và thường xuyên đi cắt tóc nhưng hình ảnh một chàng trai gầy nhom với mái tóc không chải của Gates vẫn chưa xóa nhòa trong tâm khảm mọi người.
+
+Tạp chí Vanity Fair đã gọi Gates là một cậu bé 13 tuổi mượn hình hài của một gã côn đồ, đó là “một người có ít cơ hội trở thành thủ lĩnh của ngành công nghệ, sự điềm tĩnh của anh, giọng nói đều đều của anh ẩn dấu năng lực và sức mạnh dữ dội”.
+
+Những lời đàm tiếu về con người của Bill Gates phần nào đó xuất phát từ việc anh xuất hiện trước công chúng khi còn quá trẻ, riêng các câu chuyện về kinh doanh của Gates vào những năm đầu đã cho thấy rõ thiên tài của một kẻ ngỗ ngược. Anh mang tiếng xấu là một gã chua cay, khinh người, thậm chí là một người khiếm nhã. Chẳng qua chúng ta đã được chứng kiến sự lớn lên của một cậu bé có tài nhưng lại chất chứa quá nhiều điều, những điều đã từng diễn ra cho Mozart trong thời niên thiếu.
+
+Thậm chí khi bước vào tuổi trung niên, Gates vẫn là một người thực sự rất khó đánh giá. Trong những câu chuyện kể về sự phát triển nhanh chóng của Microsoft đôi lúc có vẻ như Gates đã thổi phồng đôi chút, nhưng các phân tích kinh doanh và tầm nhìn vào tương lai của anh lại tỏ ra rất chính xác. Anh rất cẩn trọng trong việc lập gia đình, trong vai trò làm cha, trong hoạt động từ thiện khi giới truyền thông lúc nào cũng kiên trì bám sát theo từng bước. Vào lúc các hoạt động kinh doanh của Microsoft trở thành đối tượng chú ý của chính quyền tiểu bang và liên bang của Mỹ, Gates nhận ngay ra rằng anh nên cải thiện hình ảnh của mình trước công chúng, trở nên hòa nhã hơn, gần gũi hơn và khoan dung hơn. Nhìn lại quá trình biến đổi của anh cho tới nay chúng ta có thể thấy rằng Gates vẫn còn phải cố gắng nhiều hơn nữa.
+
+Nếu không bàn về khía cạnh phát triển của cá nhân thì thách thức lớn nhất của Gates lúc này là giúp cho Microsoft sống lâu trong sự lịch lãm và thu được lợi nhuận. Sự tồn tại và phát triển lâu bền của một công ty rất hiếm gặp trong môi trường công nghệ cao, thậm chí cả những công ty kỳ cựu như IBM cũng có những giai đoạn thăng trầm. Dù sao, Rockerfeller, Edison, Bell và nhiều nhà tư bản khác - những người mà Gates được sánh ngang hàng – cũng đã sáng lập công ty rồi duy trì sự tồn tại và thịnh vượng của chúng cho đến tận thế kỷ sau. Những công ty của họ đã trở thành nền tảng vững chắc cho nền kinh tế của cả nước Mỹ. Mặc dù thường xuyên bị thanh tra và đôi lúc bị xé lẻ, chia nhỏ - hoặc bởi luật chống độc quyền hoặc bởi sự quản lý thấp kém - nhưng hậu duệ của chúng ngày nay vẫn tồn tại như những thành phần đi đầu trong công nghiệp. Gates hướng sự tập trung của mình vào việc bảo đảm rằng Microsoft sẽ được như họ. Và bởi vì anh khởi nghiệp từ lúc còn rất trẻ nên anh vẫn còn thừa thời gian cho điều đó.
+
+Những dòng tiếp theo sau đây sẽ là một số chỉ dẫn cần thiết giúp bạn nắm được thâm ý của tác giả khi viết sách này. Đây không phải là một quyển sách viết về kỹ thuật mặc dù chúng ta có thể bắt gặp một số phần có đề cập đến kỹ thuật. Đây cũng không phải là những giải trình chi li về cách thức mà công ty Microsoft chỉ trong vòng chưa đầy 20 năm đã trở thành một trong những công ty hàng đầu trên thế giới mặc dù chúng ta có thể bắt gặp chúng ở đây. Quyển sách này cũng không viết ra nhằm mục đích chứng minh Gates là Quỷ Dữ hay là Kẻ Cứu Thế: việc đó dành cho bạn đọc tự đánh giá và quyết định.
+
+Đây là một quyển sách được viết trên tinh thần thừa nhận những ảnh hưởng của Gates đối với thế giới trong lãnh vực công nghệ, kinh tế và xã hội. Nội dung của sách thuật lại câu chuyện về một thiên tài về kỹ thuật, người giữ vai trò đi đầu trong việc làm đổi thay hoàn toàn cách làm việc, cách vui chơi, cách học tập cùng nhiều lĩnh vực khác trong đời sống hàng ngày của chúng ta. Đây cũng là một quyển sách ghi chép lại những điều Bill Gates suy nghĩ và cách suy nghĩ của anh ta, và những gì chúng ta có thể học hỏi được từ nhân vật này.
+
+Quyển sách này không được trình bày theo thứ tự thời gian mà theo từng chủ đề. Tác giả đề nghị người đọc tham khảo thêm phần Các mốc thời gian quan trọng trong cuộc đời Bill Gates ở cuối sách.
+
+Bất kể lịch sử miêu tả Gates như thế nào, nhưng việc anh ta là doanh gia nổi tiếng nhất trong thời đại chúng ta là điều không có gì phải bàn cãi. Theo một thống kê năm 1997 thì Gates đã được nhắc đến 8433 lần trên những phương tiện truyền thông chính thống. Một cuộc điều tra dư luận của tạp chí Fortune đã cho thấy có tới 73% những người điều hành các công ty xem Microsoft là một trong những cơ sở kinh doanh vĩ đại của nước Mỹ.
+
+Tại một buổi hội thảo gồm 500 nhà lãnh đạo kinh doanh tham gia do tạp chí Inc. tổ chức vào năm 1997, tuyệt đại đa số đã cho rằng Gates là nhà kinh doanh “được khâm phục nhất”. Gates nhận được 59% phiếu bầu, trong khi ông vua truyền thông Ted Turner chỉ có 8%, Steven Job của hãng máy tính Apple được 5%, Ross Perot được 4% và Wayne Huizenga, người sáng lập Waste Management Inc., được 3%.
+
+Cũng vào thời điểm đó, theo khảo sát của Merrill Lynch dành cho những nhân viên công nghệ thông tin trong các công ty thì có tới 59% người cho rằng Microsoft đã có hành vi lạm dụng quyền lực. Mặt khác, 62% lại tin rằng Bộ Tư pháp Mỹ sẽ phải chịu thua và cho phép Microsoft tích hợp trình duyệt Internet của họ vào hệ điều hành.
+
+Nói chung có nhiều quan điểm khác nhau về Gates và trong thời gian chờ đợi ngã ngũ, cuộc chiến để có thể hiểu rõ về Gates vẫn tiếp tục diễn ra. Như John Huey, người phụ trách chuyên mục của tạp chí Fortune, đã bình luận: “Bạn có thể yêu hoặc ghét anh ta nhưng không thể không để ý đến anh ta”.
+
+GIAI ĐOẠN TRƯỞNG THÀNH
+
+NHÂN VẬT YOUNG JUMP
+
+M
+ột bé trai có cặp mắt xanh, quần áo tươm tất, gọn gàng, với mái tóc óng mượt và một khoảnh tóc mọc trái khoáy – rất giống với mẹ cậu - và nụ cười tươi tắn luôn nở ra là hình ảnh người ta thường nhìn thấy trong những bức ảnh thời niên thiếu của Bill Gates. Những ấn tượng này có thể gây ngộ nhận đây là một cậu bé hiền lành, ngoan ngoãn. Nhưng chớ vội kết luận bởi trong thực tế Gates là một cậu bé hiếu động, luôn luôn nhảy nhổm lên vì một chuyện gì đó. Cậu bé này thường không biết chán khi chơi trò tự nhét người vào một cái hộp rồi búng nhảy ra ngoài và đo xem mỗi lần cậu đã nhảy được bao xa. Trong lứa tuổi vị thành niên và thậm chí cả sau này, cậu ta thường bất ngờ phóng người nhảy lên và với tay chạm vào các nhánh cây, chấn song cửa hoặc bất kỳ vật gì trên cao lọt vào mắt cậu bé.
+
+GIAI ĐOẠN TRƯỞNG THÀNH
+
+Những hành động thể hiện sự hiếu động đó đã tạo nguồn cảm hứng cho một họa sĩ truyện tranh người Nhật đặt tên cho nhân vật mà ông mô phỏng theo Gates là Young Jump. Giống như nguyên mẫu, nhân vật Young Jump nổi tiếng này cũng bất chấp mọi thủ đoạn trong lúc mạo hiểm lao vào ngành công nghệ cao của mình.
+
+Gates là con trai duy nhất trong gia đình, anh có một chị gái lớn hơn anh một tuổi và một em gái kém anh chín tuổi. Anh được bà đặt cho biệt danh là “Trey” bởi vì chữ số “III” đi sau tên anh. Trey là một thuật ngữ của những người chơi bài hoặc chơi cờ domino để chỉ quân bài hoặc cờ domino có ba nút. Thân sinh của Gates, ông bà Bill Sr. và Mary Maxwell Gates, xuất thân trong những gia đình đã đến định cư tại bang Washington từ rất sớm. Đó là những gia đình có truyền thống gắn bó, đoàn kết chặt chẽ với nhau và luôn duy trì một nguồn tài chính an toàn, ổn định. Hai ông bà đã gặp gỡ và lập gia đình với nhau khi vẫn còn đang theo học đại học. Cha của Gates là thành viên của một công ty luật danh tiếng ở Seattle; và mẹ anh, một giáo viên, có mối quan hệ rất rộng với giới thượng lưu tại Seattle và tích cực tham gia vào các hoạt động văn hóa, xã hội của thành phố này.
+
+Lúc còn bé, Gates rất thích được đu đưa trên lưng những chú ngựa gỗ; khi đã trưởng thành, Gates vẫn có thói quen đu đưa khi đang tập trung suy nghĩ hoặc đang chịu áp lực. Anh là một người rất dễ bị buồn chán.
+
+“Khi còn là sinh viên, tôi ghi chép bằng cả hai tay và chỉ sử dụng tay phải khi cảm thấy buồn chán và muốn có một thách thức nhỏ nào đó”.
+
+Năm lớp sáu, Gates là học sinh kém trong lớp, là đứa con ngỗ ngược trong mắt mẹ mình và thường gặp khó khăn trong cuộc sống. Cha mẹ anh quyết định đưa anh đến bác sỹ tâm lý để khám bệnh.
+
+Gates nhận xét về bác sỹ này: “Ông ấy thật tuyệt vời. Ông đưa sách cho tôi đọc sau mỗi lần khám, những sách của Freud(*), và tôi thực sự bước vào lý thuyết tâm thần học”.
+
+(*) Sigment Freud, người đã khởi xướng và xây dựng bộ môn phân tâm học, dựa trên các ý tưởng cho rằng đời sống tinh thần chi phối trên cả hai cấp ý thức và vô thức, và các biến cố thời thơ ấu có ảnh hưởng mạnh về mặt tâm lý trong suốt cuộc đời.
+
+Sau một năm điều trị cho cậu bé, bác sỹ công bố những kết luận khiến mẹ của Gates phải lo âu. Ông nói rằng sẽ vô ích nếu ép buộc cậu bé phải tuân theo các nề nếp ứng xử truyền thống hoặc bắt cậu phải biết vâng lời và ngoan ngoãn hơn:
+
+“Ông bà sẽ thất bại nếu không điều chỉnh lại cách giáo dục bởi vì sẽ không có tác dụng trong việc khuất phục cháu nhà đâu”.
+
+Gates liên tục thay đổi nhiều thú say mê của mình. Thổi kèn Trombone một thời gian, rồi quay sang nghiền ngẫm truyện Tarzan và Martian của nhà văn Edgar Rice Burroughs. Khi lên bảy tuổi, Gates quyết định đọc toàn bộ bộ sách bách khoa toàn thư. Cậu bé đã đọc tới tận vần P và rồi quyết định chuyển sang thú say mê khác. Cậu ngấu nghiến tìm hiểu cuộc đời của những người nổi tiếng như Franklin D.Roosevelt (1882-1945, Tổng thống thứ 32 của Mỹ - ND) hoặc Napoléon, cố gắng học theo mọi điều về vị hoàng đế Pháp này.
+
+“Ngày còn bé, khoa học tự nhiên làm tôi rất thích thú bởi vì nhờ nó mới có các cuộc phóng tàu vũ trụ lên mặt trăng. Chúng tôi có thể tìm hiểu về oxy lỏng và biết được phải đạt đến vận tốc bao nhiêu thì tên lửa mới có thể thắng được lực hút của trái đất. Bây giờ, phần lớn các chương trình không gian đã được phổ biến rộng rãi nên nỗi khát khao tìm hiểu về nókhông còn thôi thúc tôi như trước kia nữa.”
+
+Gia đình Gates đi lễ ở nhà thờ thuộc giáo đoàn University Congregational Church của mục sư Dale Turner. Hằng năm, mục sư Turner đều có lời hứa sẽ khao một bữa ăn tối tại nhà hàng Space Needle, cao gần 200m ở Seattle, cho những em đang học lớp giáo lý của nhà thờ có thể thuộc lòng đoạn Lời giảng trên Núi (Sermon on the Mount). Ba mươi mốt đứa trẻ khác tuy đọc được các chương 5, 6 và 7 của Sách Mathew nhưng vẫn còn vấp váp, khi đến lượt Gates, cha Turner thật sự kinh ngạc khi cậu bé đọc thuộc làu làu và càng kinh ngạc hơn khi biết Bill đã học các đoạn này khi đang trên đường đi ra bãi biển cùng gia đình. Mục sư nói:
+
+“Chỉ cần tới nhà cậu bé ngày hôm ấy là tôi biết ngay rằng cậu bé này có điều gì đó rất đặc biệt. Tôi không thể tưởng tượng nổi là vì sao một đứa bé 11 tuổi lại có một trí tuệ như vậy. Qua các câu hỏi kiểm tra lại, tôi phát hiện ra là cậu bé không chỉ thuộc lòng mà còn hiểu rất sâu sắc đoạn kinh thánh đó”.
+
+Mục sư Turner cũng phải thừa nhận rằng có lẽ Gates học thuộc đoạn kinh thánh này không phải vì đức tin mà chỉ vì cậu bé ưa thích sự thách thức.
+
+“Khi bước vào tuổi trưởng thành, cha mẹ tôi thường khuyến khích các con đọc sách thật nhiều và cổ vũ cho tính độc lập suy nghĩ của chúng tôi. Hai người thường kéo chúng tôi vào mọi cuộc thảo luận trong bất cứ đề tài nào, từ nội dung của một quyển sách nào đó cho đến các vấn đề về chính trị. Vào mùa hè, gia đình chúng tôi cùng một số gia đình khác thường đến nghỉ ở Hood Canal. Ở đấy chúng tôi thường hay chơi các trò chơi có tính cạnh tranh cao như chạy tiếp sức, ném trứng, cướp cờ. Đó là những thời gian luôn bổ ích và mang đến cho chúng tôi cảm giác rằng chúng tôi có thể đua tranh và thành công”.
+
+Gates nói trí nhớ của anh không phải là chiếc máy chụp hình mà đơn giản là vì nó cực tốt – đặc biệt đối với những vấn đề anh say mê.
+
+“Tôi vẫn có thể nhớ được tất cả các dòng thoại trong vở kịch hồi trung học, Black Comedy. Tôi rất sợ sẽ quên mất những lời thoại này đến mức tôi phải khắc sâu chúng vào trong đầu ”.
+
+Ngay từ nhỏ, anh đã rất giỏi trong việc đàm phán kinh doanh. Gates đã điều đình với chị gái Kristi để được phép sử dụng đôi găng tay chơi bóng chày của chị ấy bất cứ khi nào cần và người chị không được phép nại ra bất kỳ lý do nào để từ chối. Bù lại, Gates trả cho chị mình 5 đô la và yêu cầu chị phải ký tên vào một bản hợp đồng.
+
+Gates sinh hoạt trong đoàn Hướng đạo sinh và đạt được rất nhiều danh hiệu. Trong một lần cắm trại trên núi, đôi giày mới của Gates làm chân của anh bị phồng rộp và vì vậy mẹ anh phải lái xe đến tận nơi cắm trại để đón anh về nhà. Mặc dù kham khổ như vậy nhưng sau này Gates vẫn cho rằng “đó là một môi trường tốt, nó khuyến khích sự học hỏi và tính ham hiểu biết”.
+
+Để khỏa lấp những khó khăn khi học tại trường công lập, Gates thường phải nhận đóng vai hề trong lớp. Điều đó đã thay đổi khi cha mẹ anh quyết định con trai họ phải được học trong môi trường giáo dục đặc biệt phù hợp với nhu cầu của cậu bé và Gates được đưa vào học tại Lakeside School, một trường tư rất nghiêm khắc tại Seattle.
+
+“Thế là tôi vào học ở trường tư và ở đây không có chỗ cho một anh hề dù tôi đã viết đơn xin nhận vai này. Thực tế thì tôi đã không có gì nổi bật trong một vài năm đầu ở trường. Tôi thử trình diễn cái bài quen thuộc của mình: hơi-đâu-mà-chứng- tỏ-là-người-ngon-lành. Khi tôi bắt đầu nỗ lực, các bạn tôi nói: “Ai chà! Chúng tôi cứ nghĩ cậu ta ngu đần chứ! Tốt nhất là phải đánh giá lại anh bạn này”.
+
+Gates dùng thời gian nghỉ hè năm 1972 để trở thành cậu bé chạy văn thư cho Quốc hội. Vốn đã có đôi chút kinh nghiệm trong kinh doanh, Gates tiếp tục thể hiện xu hướng này khi kết hợp với một người bạn bỏ tiền ra mua 5.000 huy hiệu vận động tranh cử tổng thống của George S.McGovern Thomas Eagleton, với giá 5 xu/cái, sau khi nghị sĩ này bị loại khỏi danh sách đề cử ứng viên tổng thống của đảng Dân chủ. Những chiếc huy hiệu này sau đó đã nhanh chóng trở thành vật được nhiều người sưu tầm săn lùng. Gates và bạn của anh ta đã bán những huy hiệu của mình với giá cao gấp nhiều lần, đôi khi lên tới hơn 25 đô la/cái.
+
+Ed Roberts, người sáng lập ra công ty MITS, nơi Gates và Allen bắt đầu công việc đầu tiên của họ, nhận xét rằng Gates đã gặt hái thành công từ khi còn quá trẻ và vì vậy anh ta hoàn toàn không phải vất vả, nỗ lực gì trong tuổi thanh niên của mình.
+
+“Đại loại anh ta giống như Elvis Presley vậy,” Roberts nói về anh ta, “Anh ta chẳng cần phải trưởng thành.”
+
+Tuy nhiên, về một phương diện nào đó, tuổi tác cũng đã trui rèn tâm tính của Gates:
+
+“Tôi không còn bất chợt nhảy cẫng lên như tôi đã thường làm trước kia, khi công ty mới thành lập... hoặc thậm chí cả trong lúc đang họp... Bây giờ, hành động đó không còn thường xảy ra nữa”.
+
+Có thể tin được điều anh nói miễn là anh không bị thách thức bởi một người sau này trở thành mẹ của các con anh:
+
+Tại một bữa tiệc của Microsoft, Gates bị thách nhảy qua một cái bàn. Hôm đó là một buổi tiệc trang trọng và Gates đang mặc trên người bộ tuxedo và chân xỏ đôi giày da bóng láng nên cú nhảy này xem ra không phải dễ. Tuy vậy anh vẫn chấp nhận và nhảy qua được. Không chỉ có thế. Khi Melinda French cắm thêm một ngọn nến đang cháy lên bàn và thách anh ta nhảy lần nữa. Và rồi cứ sau mỗi lần anh nhảy qua được cô lại đặt thêm nến lên bàn. Gates mỗi lúc mỗi lùi xa hơn để lấy đà trong khi mọi người bu quanh hò reo, cổ vũ anh.
+
+Sau này, trong khu nhà mới của gia đình Gates ở Lake Washington, họ cho đặt một dụng cụ thể dục tập nhào lộn trên không (trampoline) thật lớn.
+
+BILL GATES CÓ KHẢ NĂNG TRỞ THÀNH NGƯỜI BỊ BÊNH TỰ KỶ KHÔNG?
+
+Có người suy diễn rằng Bill Gates trông gần gần giống như người mắc bệnh tự kỷ. Một câu hỏi mà có lẽ không bao giờ chúng ta nhận được câu trả lời đầy đủ. Tự kỷ là một căn bệnh chưa được hiểu cặn kẽ, dù đã được nghiên cứu rất kỹ nhưng sự hiểu biết của chúng ta về bệnh trạng thuộc về hành vi này còn rất hạn chế. Tuy nhiên chúng ta đã biết rằng hầu hết các cậu bé bị mắc chứng tự kỷ được sinh ra trong những gia đình mà cả cha lẫn mẹ đều có chỉ số thông minh cao. Tạp chí Time đã có lần so sánh và đưa ra những đặc điểm của người mắc chứng tự kỷ được biểu hiện ở Gates:
+
+- Khả năng tuyệt vời trong tư duy đối với lĩnh vực trừu tượng, logic và nhắm thẳng đến mục tiêu.
+
+- Đột ngột hoảng loạn, giận dữ, hoặc các cơn bộc phát cảm xúc không thể kiểm soát khác.
+
+- Rất miễn cưỡng khi phải nhìn thẳng vào mắt người khác.
+
+- Dễ dàng có những động tác không tự chủ hoặc lặp đi lặp lại như co giật, máy giật hoặc đong đưa người.
+
+- Thích nhào lộn hoặc nhảy nhót.
+
+CÂU LẠC BỘ CÁC BÀ MẸ CỦA TRƯỜNG LAKESIDE
+
+Các bậc cha mẹ nào còn nghi ngờ việc họ có thể tác động mạnh mẽ đến cách giáo dục của con em mình thì nên nhớ đến hiệu quả tuyệt vời từ việc làm của Câu lạc bộ Các Bà Mẹ ở trường Lakeside.
+
+Vào năm 1967, Câu lạc bộ này sử dụng số tiền thu được từ việc bán đồ cũ để lắp đặt một máy trạm đầu cuối thô sơ để con em mình có dịp tiếp xúc với những công nghệ mới lạ (nói rõ ra thì đó là chiếc máy nhập liệu ASR-33 Teletype, được nối với máy tính chủ General Electric Mark II đặt ở nơi khác. Để con em mình có thể làm việc trên chiếc máy trạm này, các bà mẹ phải trả phí thuê bao mỗi giờ để được phép truy cập vào máy chủ.)
+
+Cha của Gates nói rằng cậu con trai học lớp bảy của ông nhanh chóng bị chiếc máy mê mẩn và không rời khỏi nó. Chẳng mấy chốc, Gates và các bạn của cậu đã bỏ bê lớp học để cả ngày quanh quẩn tại trung tâm máy tính; đến năm lớp tám, Gates đã có thể kiếm tiền được từ công việc lập trình.
+
+Gần một chục học sinh của trường Lakeside đã trở thành những người đi tiên phong trong lĩnh vực phần mềm vi tính, Bill Gates và Paul Allen – đồng sáng lập viên của Microsoft – là những người nổi bật nhất trong số học sinh này.
+
+Ngay từ khi còn nhỏ, chủ tâm của Gates dường như là không muốn học những môn mà mình không thích nhưng ngược lại, với những môn mà anh đã thích rồi thì anh có khả năng tự học rất nhanh. Năm 13 tuổi, Gates tự học lập trình vi tính.
+
+“Tất nhiên, theo suy nghĩ chung thì thầy giáo sẽ say sưa tìm hiểu những gì liên quan đến máy tính rồi sau đó sẽ dạy lại cho học sinh. Nhưng điều đó đã không xảy ra. Sự việc lại diễn biến theo hướng ngược lại. Có một nhóm học sinh có thển ói là đã tự ý làm thay công việc của các người thầy.”
+
+Bill Gates và trường Lakeside
+
+“Giờ đây khi nhìn lại và suy nghĩ, tôi đã thắc mắc – quái lạ, làm sao mà mình lại đâm ra nghiện cái máy đó như vậy nhỉ? Thật khó hiểu. Thời đó, người ta không dùng một đường điện thoại riêng cho chiếc máy, nên chúng tôi phải dùng chung đường điện thoại của văn phòng kinh doanh. Vì vậy chúng tôi phải luôn cố tranh giành để được ngồi vào chiếc máy này và thường phải ở lại cho đến tận trời tối. Trong khi đó, những người bảo vệ thì luôn tìm cách tống cổ chúng tôi ra ngoài. Cái máy trạm đâu phải là một máy tính, vì vậy chúng tôi phải quay số điện thoại kết nối với một máy tính ởxa. Một máy tính đúng nghĩa thời đó rất đắt, đến mức người ta chỉ có thể thuê giờ sử dụng thôi. Chiếc máy tính GE màchúng tôi thường kết nối tới có giá là 4 triệu đô la.”
+
+Gates có thể là một thiên tài về công nghệ, nhưng sau lần ghé thăm Seattle, Jay Leno, người dẫn chương trình hài hước nổi tiếng của truyền hình Mỹ, đã đùa:
+
+“Gates đâu cần thiết phải tỏ ra lập dị, khác người. Tối qua tôi ghé thăm nơi ở của anh ấy và thấy đầu máy video của anh ta vẫn lóe sáng 12 giờ.”
+
+NHÓM LẬP TRÌNH
+
+Bill Gates và Paul Allen
+
+Lamont Benson, một người hàng xóm của Paul Allen nhớ lại:
+
+“Tôi nhớ là lúc nào cũng nhìn thấy đèn mở sáng tới tận 3 giờ sáng trong phòng của Paul. Cậu ta cùng với Gates thức suốt đêm để làm việc bên máy tính.”
+
+Mặc dầu Gates là người không có quy cũ trong nơi ăn chốn ở, trong vệ sinh cá nhân hoặc khi lái xe nhưng anh lại rất thích sự ngăn nắp gọn gàng trong việc lập trình máy tính:
+
+“Cho chạy chương trình chỉ làmột cuộc sát hạch tuyệt đối. Bạn viết một chương trình, chạy thử nó và chỉ có hai khả năng xảy ra, hoặc là nó hoạt động hoặc nó không.”
+
+Gates bị loại khỏi Câu lạc bộ Những Lập Trình Viên Lakeside chỉ vì cậu nhỏ hơn hai tuổi so với Paul Allen và những thành viên khác trong nhóm. Họ cho rằng Gates chưa đủ chín chắn. Nhưng khi thấy Câu lạc bộ không thể làm được việc gì nếu thiếu cậu ta nên cả nhóm đã mời Gates nhập bọn lại. Gates ra điều kiện. Và cậu bé trở thành người đứng mũi chịu sào trong các dự án sau này.
+
+Thầy giáo môn toán của trường Lakeside nhớ lại rằng Gates có tài ứng dụng toán học vào việc lập trình rất tốt: “Cậu ta có khả năng nhìn ra được những giải pháp ngắn gọn và trực tiếp hơn”.
+
+Khi nhóm lập trình viên của phòng máy tính xài hết khoản tiền lớn để trả cho thời gian họ ngồi sử dụng máy tính tại Câu lạc bộ Các Bà Mẹ thì thiết bị này phải “lên đường” thôi. Tuy nhiên một bà mẹ đã kịp tạo ra cho nhóm một cơ hội thật khó tin. Trong những năm cuối thập niên 1960, Gates và các thành viên của nhóm Lập trình viên Lakeside sử dụng bất kỳ phương tiện nào: xe đạp, xe buýt hoặc đi nhờ xe, để mỗi buổi chiều đi tới văn phòng công ty Computer Center Corporation (C-Cubed), tại đó, thay phiên nhau, dùng thời gian rãnh của chiếc máy tính Digital Equipment Corporation đời mới, họ truy tìm lỗi lập trình.
+
+Cứ 6 giờ chiều mỗi ngày, khi các nhân viên của C-Cubed xếp hàng ra về cũng là lúc ba cậu học sinh trung học bắt đầu đến. “Chúng tôi thường xuyên ở lại làm việc cho đến hết đêm chỉ bởi chúng tôi quá thích được làm việc với các phần mềm. Đó là thời gian vui thú của chúng tôi,” Allen nhớ lại Gates và những người bạn của mình sau đó đã biên soạn một tập sách hướng dẫn dày 300 trang có tên là The Problem Report Book và nó được các chuyên gia lập trình của C-Cubed sử dụng.
+
+Gates nói rằng anh và những người bạn của mình không bao giờ viết virus máy tính mà theo anh lúc đó vẫn hoàn toàn vô danh vì tại thời điểm đó các máy tính còn chưa được nối mạng. Gates không thể hiểu được tại sao lại thích thú khi phá hỏng công việc của người khác nhưng bản thân anh rất hiểu lý do tại sao người ta vui vẻ chấp nhận thách thức chứng tỏ sự thông minh hơn một hệ thống máy tính.
+
+“Khi tôi còn nhỏ, việc làm cho một máy tính phải ngưng hoạt động là một việc ghê gớm. Nó là một cách để học hỏi.”
+
+“Chúng tôi may mắn là được cho phép thâm nhập vào bên trong hệ thống máy tính chứ vào lúc đó nếu không được phép mà làm như vậy thì thế nào cũng gây ra những rắc rối nho nhỏ.”
+
+Các cậu bé đã nắm lấy cơ hội để lén lút học ngôn ngữ máy tính.
+
+“Paul công kênh tôi lên để lục lọi trong các thùng đựng rác và tôi đã nhặt nhạnh những tờ giấy ghi chép lấm lem đầy vết cà phê của các lập trình viên để học về hệ điều hành.”
+
+Sự thèm muốn đi đến tận cùng giới hạn của Gates cuối cùng đã khiến cho cậu bé bị rắc rối to khi cậu đột nhập vào một chương trình được bảo vệ. Mật khẩu của người sử dụng là giấy thông hành trình ra cho máy tính cho biết khu vực nào thì người sử dụng được phép vào và khu vực nào thì không. Chỉ vì vui thích, Gates đã vòng vèo tránh được khóa bảo mật này và thâm nhập được vào hệ thống tài chính kế toán và nhiều thông tin bí mật khác của công ty. Việc làm mạo hiểm của cậu đã làm tê liệt hệ điều hành và sau đó bị phát hiện. Cha mẹ cậu đã bắt cậu phải rời xa máy tính, và lần này Gates đã nghe lời.
+
+“Trong khoảng thời gian nửa cuối lớp chín và trọn năm học lớp mười, tôi thề là không đụng đến máy tính nữa. Tôi cố gắng trở thành một cậu bé bình thường và ngoan nhất có thể được.”
+
+Không bao lâu sau, Gates quay trở lại gặp lúc Câu lạc bộ máy tính đang đảm nhận công việc kiếm tiền để trả cho chi phí sử dụng máy tính. Các thành viên bắt đầu thực hiện dự án sử dụng máy tính để đếm lưu lượng ô tô trên đường. Traf-O-Data, tên chương trình này, đã mang về cho họ 20.000 đô la trước khi các khách hàng của họ tìm nơi cung cấp dịch vụ tinh vi hơn. Sau này, đã xảy ra rất nhiều cuộc tranh cãi về khoản lợi nhuận thu được từ dự án này, nhưng phần lớn mọi tài liệu liên quan, thậm chí cả chương trình cũng bị thất lạc. Tuy nhiên, Gates và Allen nói rằng, công ty nhỏ này là một vụ kiểm nghiệm khả năng của họ trong thế giới kinh doanh và cho biết họ đã kiếm được nhiều tiền. Cho đến thời điểm đó, Gates nói:
+
+“... Tôi như một kẻ say mê công nghệ từ trong xương tủy.”
+
+Giống như các thiếu niên khác, Gates và bạn bè của mình luôn tìm cách tranh thủ cảm tình từ các giáo viên:
+
+“Khi nhận làm công việc sắp xếp lịch học trong trường, chúng tôi tính toán rằng qua đó chúng tôi có thể quyết định một cách chính xác học sinh nam hay nữ nào sẽ vào học ở lớp chúng tôi và điều này là một phần thưởng tuyệt vời. Công việc đó đã thúc đẩy chúng tôi học cách viết các phần mềm thú vị.”
+
+Vào mùa hè đó, Gates và Allen đã kiếm được khoảng 5.000 đô la trả bằng giờ sử dụng máy tính, nhờ vào việc viết chương trình xếp lịch lớp học.
+
+Một tối, nhân viên của công ty cho thuê thiết bị văn phòng đến văn phòng của C-Cubed và lấy đi những cái ghế mà các cậu bé đang ngồi làm việc. Gates và những người bạn của anh có một bài học sống động trước mắt về ý nghĩa của từ “phá sản”.
+
+Gates và Allen với MITS Altair 8080
+
+Gates và Allen cảm thấy thất vọng khi khó tìm được một máy tính nào khác để làm việc nên cuối cùng Gates và Allen bỏ tiền ra mua một bộ vi xử lý 8008, với giá 360 đô la, để hai người, cùng với nhóm bạn, tự lắp ráp máy tính riêng cho chính mình. Khi con chip xử lý được mang đến, gói cẩn thận bằng giấy nhôm mỏng, tất cả cậu bé thấy nó như một vật thiêng liêng bí hiểm đến nỗi không ai dám chạm tay vào nó. Công việc lắp ráp một máy tính đã thuyết phục Gates và Allen rằng họ nên sống chết với công việc kinh doanh phần mềm.
+
+Thế nhưng:
+
+“Khi chúng tôi còn trẻ, Paul Allen đã hướng dẫn cho tôi rất nhiều về phần cứng máy tính và luôn khuyến khích tôi đặt lòng tin – và đánh cược – vào bộ vi xử lý. Tôi có may mắn là ngay từ khi còn rất trẻ đã tìm thấy điều mà tôi yêu thích và hấp dẫn tôi – thậm chí đến tận bây giờ. Và tôi cũng may mắn có được song thân luôn động viên khuyến khích tôi.”
+
+Gates nói rằng mãi tới lúc Allen hướng dẫn anh về máy tính và bộ vi xử lý máy tính, anh vẫn còn đang cân nhắc giữa hai ngả đường, hoặc trở thành luật sư hoặc trở thành nhà khoa học:
+
+“Tôi không biết nên quyết định lựa chọn con đường nào. Cha tôi là một luật sư, nhưng các nhà khoa học có những công việc thú vị hơn so với các luật sư.”
+
+Mặc dầu vậy, Gates vẫn không nhìn thấy rõ tương lai của mình trong lãnh vực điện toán. Đó “không phải là dòng suy nghĩ chủ đạo của tôi, tôi không nghĩ mình suốt đời cứ mãi làm hacker, chuyên thâm nhập vào bên trong máy tính để mày mò kiếm tìm gì đó.”
+
+THỰC TẬP TẠI MẠNG LƯỚI NĂNG LƯỢNG
+
+Chơi trò chơi điện tử và lãng phí thời gian vào những chuyện vô bổ trên máy tính không bao giờ đủ thỏa mãn với Gates và Paul Allen. Lúc ấy họ đã mơ tới một ngày họ sẽ là chủ một công ty phần mềm:
+
+“Trong thực tế, chúng tôi đã nhiều lần rất thất vọng khi thử liên hệ với công ty IBM hoặc Digital và hỏi: “Các ông có cần bộ biên dịch hoặc phần mềm soạn thảo của chúng tôi không?” và thường câu trả lời của họ sẽ là: “Không, chúng tôi tự làm ra những sản phẩm này và dù sao các cậu cũng chỉ là những học sinh trung học. Mà tại sao các cậu lại cứ gọi điện thoại đến chúng tôi với những sản phẩm đó vậy.”
+
+Cơ hội được làm công việc lập trình nghiêm chỉnh xuất hiện khi các kỹ sư đang làm việc cho mạng lưới năng lượng Northwest gặp rắc rối, và trong quá trình tìm kiếm câu trả lời, họ đã phát hiện ra tài liệu C-Cubed Problem Report Book. TRW Inc. là công ty đang nhận trách nhiệm viết các chương trình phân tích nhu cầu điện năng của Columbia Basin, rồi sau đó kiểm soát lượng điện do các đập nước phát ra. Nhưng các lỗi xuất hiện ở chương trình đang chạy trên máy PDP-10 đã làm giảm tiến độ phát triển đi rất nhiều. Tài liệu The Problem Report Book đã chỉ ra và giải thích được rất nhiều lỗi và người ta đọc được trên tài liệu họ tên của hai lập trình viên đã khám phá ra các lỗi này - Bill Gates và Paul Allen. Công ty TRW đã tìm ra họ và yêu cầu họ đến Portland, Oregon để phỏng vấn vào làm việc ở công ty.
+
+“Không một ai biết chúng tôi mới chỉ là học sinh lớp 9 và lớp 10.”
+
+Dẫu sao họ cũng được nhận vào làm việc. Gates xin giấy phép nghỉ học tại trường rồi đi tới Portland, tại đây anh và Allen được bố trí riêng một phòng và được phân công làm việc dưới quyền nhà lập trình John Norton. Với khả năng có thể nhớ được một danh sách 5.000 trang của hệ điều hành, Norton đã làm lóa mắt các anh bạn trẻ tài năng vừa mới nhận việc. Gates thường nói rằng khả năng của Norton đã thách thức mình làm việc tốt hơn.
+
+“Trong đầu tôi luôn in đậm hình ảnh của người tên là Norton mà tôi đã gặp tại TRW. Anh luôn chỉ bảo mỗi khi công việc của tôi không đạt đến mức tốt nhất. Vì vậy khi làm việc cẩu thả hoặc lười biếng, tôi liền tưởng tượng thấy anh ấy đến bên tôi, nhìn vào chương trình và nói, Nhìn đây nhé, làm cách này thì tốt hơn đấy.”
+
+Gates trở lại nhà và hoàn thành nốt chương trình trung học vào năm 1973 sau khi đã đạt được số điểm hoàn hảo 800 về môn toán trong kỳ kiểm tra Scholastic Aptitude Test.
+
+Trong bức thư của Vernon Harrington, giáo viên trường Lakeside, giới thiệu Gates tới trường Harvard có đoạn viết:
+
+“Khi là học sinh lớp 10 Bill Gates đã nổi tiếng trong nhóm những học sinh say mê máy tính trong trường. Học sinh tài năng này có khả năng đặc biệt trong toán học, anh ta có thể tính toán nhanh hơn cả những người thầy của mình. Cùng với hai người bạn, anh đã hoàn thành một hợp đồng cài đặt hệ thống trả lương cho một công ty ở Portland. Họ đã từng kiếm được 5.000 đô la, trả bằng giờ sử dụng máy tính, nhờ đã điện toán hóa chương trình sắp xếp lịch học cho trường.”
+
+Harrington cũng viết thêm, trong hai năm cuối tại trường trung học Gates cũng có sự chú tâm vào các lĩnh vực chính trị, kịch nghệ trong lúc vẫn giữ thói quen đọc sách thuộc đủ loại đề tài.
+
+VƯỢT RA KHỎI LỘ TRÌNH QUY ƯỚC
+
+TRƯỜNG HARVARD
+
+B
+ill Gates được nhận vào học ở cả ba trường đại học danh tiếng: Princeton, Yale và Harvard theo chương trình học bỗng cấp quốc gia – National Merit Scholar. Anh chọn đại học Harvard và nhập học vào mùa thu năm 1973. Về nhiều phương diện, Gates là mẫu sinh viên năm thứ nhất điển hình, bị hụt hẫng trước những đòi hỏi mới và mức độ ganh đua gay gắt hơn. Anh chểnh mảng việc đến lớp học để suốt ngày vùi đầu vào những dự án riêng của mình trong phòng máy của trường, chơi bài suốt đêm và leo lên giường là lăn ra ngủ chẳng cần phải trải ra giường. Các sinh viên khác nhớ lại rằng anh ta có thể đi chơi suốt 18 tới 36 tiếng mà không cần ngủ.
+
+Thậm chí ngay tại Harvard, Gates cũng vẫn duy trì kiểu học cũ từ hồi còn ở trung học. Anh học rất giỏi những môn ưa thích và xem thường những môn anh không say mê. Tâm trí anh dường như không dành cho việc học. Gates rất ít khi tham gia vào các hoạt động của trường trừ khi người bạn cùng dãy phòng trong ký túc xá, Steve Ballmer, phải hết sức vất vả mới kéo được anh tới các buổi tiệc.
+
+Gates và Ballmer, sinh viên khoa toán ứng dụng, đã trở thành bạn thân thiết của nhau và cuối cùng Ballmer đã cùng tham gia với Gates tại công ty Microsoft:
+
+“Anh ta [Ballmer] là người rất trái ngược với tôi. Tôi rất ít khi vào lớp học và không quan tâm đến các hoạt động ở trường. Ngược lại Steve tham gia vào bất kỳ sinh hoạt nào và biết hết tất cả mọi người trong trường. Anh ấy là ông bầu đội bóng bầu dục, là chủ biên tờ tạp chí văn học và là giám đốc quảng cáo của tờ báo Crimson. Ballmer rủ tôi gia nhập Fox Club, một câu lạc bộ của quý ông, nơi mà bạn phải ăn mặc sang trọng, hút xì gà, uống rượu như hũ chìm, đứng hẳn lên trên ghế để kể chuyện cho mọi người nghe, chơi bi da. Một kiểu cách rất cổ xưa.”
+
+Một phần vấn đề của Gates là anh thực sự không biết mình muốn làm gì trong cuộc sống:
+
+“...tất cả mọi thứ đều có vẻ - rất hấp dẫn và khi bạn phải chọn rõ ràng một thứ thì bạn sẽ phải nói không với số còn lại. Tôi cũng đã nghĩ nếu tôi đi làm cho một công ty luật nào đó có thể sẽ có người không thích tôi và rồi họ lại giao cho tôi những vụ kiện dấm dớ nào đó. Và tôi đã nghĩ kỹ lắm rồi, lạy Chúa, rất có thể đó là các vụ kiện thực sự chẳng ra gì.”
+
+Vì vậy, Gates bỏ ra rất nhiều thời gian ưu tư:
+
+“...trong phòng của tôi lúc nào cũng có một gã buồn chán, ngồi suy tư như một triết gia, cố gắng tính toán cho ra những gì sẽ phải thực hiện cho đời mình.”
+
+Mặc dầu không là học sinh xuất sắc nhất về môn toán ở Harvard, nhưng Gates đã bắt đầu chọn giải toán của sinh viên cao học khi mới học năm thứ nhất và thường được điểm A cao nhất.
+
+BÀI TOÁN XẾP ĐĨA
+
+“Đầu bếp của chúng tôi vốn là người cẩu thả. Khi ông đặt bánh vào đĩa và xếp thành từng chồng thì chúng luôn có các kích cỡ khác nhau. Vì vậy trong lúc mang đến bàn cho khách hàng, tôi lại phải sắp xếp lại chồng bánh đó (sao cho đĩa bánh nhỏ nhất ở trên cùng rồi tới những đĩa bánh lớn, lớn hơn và dưới cùng sẽ là đĩa bánh lớn nhất) bằng cách lấy một số đĩa bánh trên cùng rồi đặt chúng xuống dưới, lặp lại thao tác này (số bánh tôi lấy ra đặt xuống dưới không giống nhau) bao nhiêu lần tùy ý. Nếu có “n” đĩa bánh, số lần chuyển đổi tối đa để sắp xếp lại chồng bánh theo thứ tự lớn dưới, nhỏ trên sẽ là bao nhiêu?”
+
+“Đây là một bài toán nhìn trông đơn giản nhưng đã được chứng minh là rất khó giải”, Christos Papadimitriou, giáo sư khoa Khoa Học Máy Tính của trường Harvard nói. Tuy nhiên, Bill Gates xem việc viết một chương trình máy tính phức tạp để giải bài toán này là một thách thức phải vượt qua. Giải pháp của anh ta hơi dài nhưng rất thông minh. Giáo sư Papadimitriou đã viết bài khen ngợi cách giải của Gates và đến năm 1979, bài viết này được đăng trong tờ Journal of Discrete Mathematics. Cách giải đột phá của Gates trong bài toán này cho đến nay vẫn còn được coi là một cách giải hay. Sau này, giáo sư đã ra bài toán này cho những sinh viên khác và hứa rằng nếu họ giải được bài toán trên thì giáo sư sẽ đến làm việc cho họ. Nếu vậy, đáng lẽ giáo sư đã phải thực hiện lời hứa đó với Gates.
+
+Gates và Ballmer cùng học chung khóa lý thuyết kinh tế dành cho sinh viên cao học. Họ là những sinh viên đại học duy nhất của khóa học này.
+
+“... chúng tôi gần như không theo kịp khóa học đó, trong khi những gì gọi là “giai đoạn đọc sách”, cả hai chúng tôi phải học cả đêm và cố gắng hình dung xem cái quỷ quái gì đang diễn ra. Chúng tôi luôn nghĩ rằng mình có được thuận lợi lớn vì là sinh viên toán. Chúng tôi hiểu toán học và những gã sinh viên kinh tế đáng thương kia thực ra thì chẳng biết gì về toán cả. Vì vậy chúng tôi nghĩ rằng mình có thuận lợi hơn, nhưng mỗi khi làm bài kiểm tra chúng tôi lại không làm giỏi lắm. Chúng tôi chỉ biết ra sức học và học, và thực sự đó là lý do chính mà Steve và tôi trở nên thân thiết với nhau hơn.”
+
+Bill Gates và Steve Ballmer
+
+Giáo sư Micheal Spense nói rằng cả Gates và Ballmer đạt điểm A trong lớp học.
+
+Dù rằng việc học ở Harvard trải qua không được suôn sẻ, nhưng Gates cho biết:
+
+“Tôi rất lo ngại khi nghe mọi người nói rằng một số bạn trẻ không muốn học đại học chỉ bởi vì họ thấy tôi cũng không tốt nghiệp đại học...”
+
+“Có điều như vầy, mặc dù tôi không theo học đến nơi đến chốn ở đó nhưng việc học của tôi cũng tương đối khá. Ngoài ra, thế giới ngày càng trở nên cạnh tranh gay gắt hơn, mỗi năm một chuyên môn hóa và phức tạp hơn, vì vậy tốt nghiệp đại học của ngày hôm nay chỉ tương đương như tốt nghiệp trung học tại thời điểm trước.”
+
+Gates nói thêm:
+
+“Tôi yêu những năm học của tôi tại trường đại học. Và về nhiều phương diện, tôi tiếc là đã bỏ dở việc học hành. Sở dĩ tôi làm vậy là chỉ vì trong đầu tôi nung nấu một ý tưởng – lập ra một công ty phần mềm vi tính đầu tiên – và điều đó thì không đợi được.”
+
+Khi việc học ở Harvard làm anh nhàm chán, Gates xin đi làm những công việc có liên quan đến máy tính trong phạm vi bang Boston. Digital Equipment là một trong những công ty anh rất thích đến phỏng vấn xin việc bởi vì ở đây họ dùng trực thăng để đưa những người xin việc từ một sân bay Boston tới trụ sở chính của công ty. Gates khuyến khích Paul Allen cố gắng tìm kiếm một công việc lập trình tại Honeywell để cả hai cùng có điều kiện tiếp tục thực hiện giấc mơ thành lập công ty phần mềm. Allen và bạn gái anh ta liền lên chiếc xe Chrysler New Yorker cổ lổ sỉ và đến Boston ngay. Và tất nhiên, chẳng bao lâu nữa cuộc sống của Gates sẽ có một thay đổi bất ngờ.
+
+RỜI BỎ HARVARD ĐỂ THEO ĐUỔI GIẤC MƠ
+
+Paul Allen đã có một phát hiện tuyệt vời vào một ngày băng giá của tháng chạp khi đi ngang qua sân trường Harvard sau khi vừa ghé thăm Gates. Trên một quầy báo, anh nhìn thấy trên trang bìa tờ Popular Mechanics, số phát hành tháng 1 năm 1975 có in hình một bộ máy vi tính mới mang tính cách mạng, chiếc máy MITS Altair 8080. Allen mua ngay một tờ rồi chạy ngược về chỗ Gates để thuyết phục Gates rằng họ nên phát triển một ngôn ngữ riêng cho cỗ máy này.
+
+Chiếc Altair 8080 có 256 byte bộ nhớ (so sánh với 8 triệu hoặc hơn của phần lớn những máy tính cá nhân ngày nay) nhưng không có phần mềm.
+
+“Paul cứ luôn miệng nói, Chúng ta hãy bắt đầu một công ty. Hãy làm việc đó ngay.”
+
+“Chúng tôi nhận ra rằng cuộc cách mạng có thể xảy ra mà không cần đến chúng tôi và vì vậy, sau khi đọc bài báo, mọi câu hỏi về việc lựa chọn đường đi trong cuộc sống của chúng tôi đã được giải đáp.”
+
+Gates và Allen liên lạc với Ed Roberts, người sáng lập ra hãng MITS, và hứa hẹn là sẽ cung cấp một chương trình cho máy Altar trước khi họ viết nó.
+
+Roberts nhớ lại: “Chúng tôi nhận được khoảng 10 bức thư một ngày. Tôi nói với tất cả rằng Hễ ai mà viết xong chương trình này trước tiên coi như người đó đã được đồng ý.”
+
+Hai người bạn lao tới phòng máy tính của trường Harvard để viết một chương trình mô phỏng bằng ngôn ngữ BASIC.
+
+Máy tính MITS Altair 8080 không phải là chiếc máy tính đầu tiên, nhưng nó là chiếc máy tính đầu tiên đáp ứng được sự mong đợi của công chúng. Với giá tiền không đắt, nó đã thu hút hàng trăm đơn đặt hàng từ giới say mê điện tử tin học.
+
+Gordon Moore, một trong những sáng lập viên của hãng Intel và là tác giả của “Định Luật Moore” nổi tiếng, nhớ lại rằng máy Altair không có nhiều:
+
+“Quý vị cũng đã biết chiếc máy tính MITS Altair đầu tiên rồi đấy – bây giờ chúng ta nên gọi nó là máy PC. Nó trông giống như một thiết bị giải trí với công cụ nhập liệu (input) là những công tắc tắt mở và kết quả xuất ra (output) là những đèn LED. Với chiếc máy này, quý vị có thể hiểu được cách máy tính làm việc, nhưng sẽ rất khó nếu muốn thực hiện bất kỳ công việc tính toán thực tế nào.”
+
+Cũng có cùng ý kiến như vậy, Gates coi Altar chỉ là một cái hộp với một hệ thống đèn nhấp nháy:
+
+“Thực ra nó chỉ là một bộ dụng cụ rời với giá 360 đô la và bạn phải biết cách kết hợp chúng lại với nhau. Thậm chí khi bạn đã ráp lại được rồi, cỗ máy này thực tế cũng không làm được gì nhiều cho bạn mà nó cứ ì ra đấy như thách đố, bắt bạn phải làm cho nó hoạt động và những vấn đề đại loại như bạn hãy cố hình dung xem tôi có khả năng gì hoặc không có khả năng gì mà khiến tôi nổi tiếng đến như vậy.”
+
+“Công ty MITS đã không hiểu được tầm quan trọng của cỗ máy này. Thật sự chẳng ai hiểu cả, chỉ riêng chúng tôi. Chúng tôi đã nhận ra rằng rồi sẽ có ngày tất cả các trường học ở khắp nơi đều phải trang bị chiếc máy tính đó.”
+
+Gates và Allen tin tưởng rằng máy tính sẽ thực hiện được những điều kỳ diệu:
+
+“Và vì vậy khẩu hiệu của chúng tôi khi mới bắt đầu là máy tính có mặt trên mỗi bàn làm việc và trong mỗi gia đình.”
+
+Niềm say mê của Gates và Allen để cho ra đời chiếc máy tính cá nhân cuối cùng đã được chứng minh là đúng:
+
+“...Máy tính cá nhân là dòng chảy chính, là xu thế chủ đạo trong tất cả ngành máy tính. Công tâm mà nói thì nó thực sự trở thành công cụ thiết yếu của thời đại công nghệ thông tin.”
+
+TRÊN CON ĐƯỜNG CÔNG NGHỆ CAO
+
+“CHƯƠNG TRÌNH TUYÊT VỜI NHẤT TÔI TỪNG VIẾT”
+
+S
+au khi Gates và Allen hứa với Roberts sẽ cung cấp một phần mềm cho máy tính Altair, Gates lao ngay tới cỗ máy mainframe tại Aiken Computer Center của trường Harvard, trung tâm này chỉ dùng cho các dự án nghiên cứu của sinh viên chứ không phải cho các dự án thương mại. Vì cả hai không có một máy tính Altair 8080 để chạy thử nghiệm, nên Gates và Allen phải cố gắng thu thập các chức năng của nó trên tờ tạp chí giới thiệu rồi giả lập lại các chức năng này trên máy tính lớn của Harvard.
+
+“Chúng tôi chỉ dựa vào những điều mô tả trong tạp chí này, vì vậy nếu chúng tôi hiểu sai hoặc tài liệu viết sai thì công sức của chúng tôi coi như trôi sông trôi biển.”
+
+Hai chàng trai làm việc miệt mài từ tháng hai đến tháng ba năm 1975 tại căn phòng ký túc xá của Gates để viết các mã lệnh.
+
+“Vấn đề không phải là chúng tôi có thể viết được chương trình đó hay không mà là chúng tôi có thể nén nó còn 4K và làm cho nó chạy nhanh đến cực kỳ.”
+
+Kỹ năng giản lược hóa của Gates đã giải quyết được mắc mứu này.
+
+“Đó là chương trình tuyệt vời nhất mà tôi đã từng viết.”
+
+Allen bay ngay tới Albuquerque bang New Mexico (nơi đặt trụ sở của ông ty MITS – ND) để biểu diễn chương trình thô này cho Roberts xem. Vào phút chót, Allen mới chợt phát hiện ra họ quên lập trình dấu nhắc bắt đầu. Anh vội vàng viết thêm vào rồi hồi hộp nạp chương trình vào máy. Họ đã thành công, chương trình đã làm việc tốt.
+
+Khi Allen trở về Harvard trong chiến thắng, hai người bạn đã ăn mừng bằng cách ra ngoài ăn kem và sô đa. Chàng trai Gates, lúc đó 19 tuổi, đặt mua một phim của nữ diễn viên nhí Shirley Temple.
+
+Gates và Allen đã bán ngôn ngữ BASIC cho MITS với giá 3.000 đô la cộng thêm tiền bản quyền.
+
+Allen kể lại rằng khi quay lại New Mexico để phát triển tiếp chương trình - biến nó thành chuẩn công nghiệp trong sáu năm sau đó, anh thậm chí đã phải vay tiền của Roberts để thuê khách sạn ven đường bởi toàn bộ tiền anh có đã phải chi cho vé máy bay. Điều này đã gây ấn tượng mạnh với Roberts và ít lâu sau chàng trai Allen được trả mức lương tương đương với giám đốc phần mềm của MITS. Tháng sáu năm 1975, Gates xin phép tạm nghỉ học ở Harvard để đến làm việc cùng Allen. Mặc dù Gates trở lại trường vào mùa thu sau đó, nhưng trái tim và khối óc của anh đã để lại Albuquerque. Anh xin một giấy phép nghỉ học thứ hai và không bao giờ quay trở lại trường nữa.
+
+“Cha mẹ tôi vô cùng bất ngờ khi thấy con trai mình bất chợt báo tin sẽ rời bỏ ngôi trường danh tiếng để theo đuổi một ngành kinh doanh mà phần lớn mọi người chưa từng nghe thấy bao giờ có tên là máy vi tính. Nhưng cha mẹ tôi là những người luôn hiểu và hỗ trợ tôi.”
+
+Chương trình BASIC đó mãi mãi khắc sâu trong tâm trí Gates:
+
+“Tôi có thể hình dung ra rất rõ ràng mã nguồn của phiên bản BASIC mà tôi đã viết cho máy vi tính đầu tiên vào năm 1975. Đấy chính là mã chương trình đã giúp cho Microsoft chào đời, vì vậy không có gì ngạc nhiên khi tôi vẫn nhìn thấy rất rõ từng chi tiết trong trang mã đầu tiên, trang thứ hai, trang thứ ba của nó như chúng đang xuất hiện trước mắt tôi vậy.”
+
+Gates nói rằng chương trình BASIC anh viết cho con chíp 8080 là chương trình anh tâm đắc nhất trong những chương trình anh đã từng viết “... vì hiệu quả mà nó mang lại, vì nó ra đời vào thời điểm thích hợp và vì chúng tôi đã cố gắng viết chúng thật nhỏ gọn.”
+
+Gates cũng cho rằng ngôn ngữ BASIC vẫn sẽ tiếp tục còn là ngôn ngữ đầu tiên được các sinh viên học lập trình sử dụng vì nó dễ học và vì người ta đã tìm thấy ở nó nhiều cách dùng khéo léo và sáng tạo. Nó là ngôn ngữ đầu tiên mà Gates và những người bạn thời trẻ của anh đã được học tại Seattle vào cuối thập niên 1960.
+
+“Trong tâm khảm tôi lưu mãi một kỷniệm đẹp đối với ngôn ngữ BASIC. Đó là sản phẩm đầu tiên của Microsoft được viết trong căn phòng ký túc xá đại học của tôi.”
+
+GHI CHÚ: Có rất nhiều các phiên bản của BASIC, viết tắt của Beginners All-purpose Symbolic Instruction Code (tạm dịch Mã Lệnh Tượng Trưng Đa Mục Đích của Người Mới Bắt Đầu); Phiên bản của Gates chỉ đơn giản là chuẩn đầu tiên cho máy vi tính.
+
+“Đôi khi tôi cảm thấy ganh tỵ với những người vẫn còn đang làm công việc lập trình. Sau khi thôi không làm công việc lập trình trong Microsoft nữa, trong các buổi họp, tôi thường nói nửa đùa nửa thật: Có lẽ tôi sẽ tự viết chương trình vào cuối tuần này. Tôi không còn nói như vậy nữa, nhưng tôi thực sự suy nghĩ về điều đó.”
+
+VỪA LÀM VỪA HỌC
+
+Trước khi rời khỏi Albuquerque, Gates và Allen bắt đầu suy nghĩ đến việc đặt tên cho công ty của họ, đã có một vài tên đã được đem ra cân nhắc như Outcorporated Inc., Unlimited Ltd., Allen & Gates. Tên Micro-soft có vẻ là chọn lựa có thể hiểu được. Khi cả hai đã vững vàng ở New Mexico, Gates và Allen tuyển mộ các thành viên cũ của Nhóm Lập Trình Lakeside (và một số bạn bè khác), tên Micro-soft xuất hiện trong tiến trình đó. Khoảng thời gian họ chuyển địa điểm đến Seattle, dấu nối đã bị bỏ đi để trở thành Microsoft.
+
+Mặc dù tỉ lệ hợp tác giữa Gates-Allen được thỏa thuận ban đầu là 50/50, sau đó Gates đã đề nghị tỉ lệ chia phần mới là 60/40 nghiêng về phía anh. Gates cho rằng như vậy là công bằng vì ngoài công việc từ các hợp đồng phụ, Allen còn được hưởng tiền lương từ MITS. Như một nhân viên của Microsoft, Gates làm việc chỉ trông vào tiền bản quyền. Và rồi qua nhiều năm, Gates đã bán dần cổ phần của mình và chỉ còn sở hữu khoảng 22% cổ phần công ty.
+
+Trong những năm mới thành lập, cách quản lý của Microsoft không được chặt chẽ. Cả Gates và Allen cùng làm tất cả mọi việc, mỗi việc một ít. Tuy nhiên, nhìn chung thì Allen tập trung vào công nghệ mới và sản phẩm trong khi Gates thường dành sự quan tâm cho công việc làm ăn mới, các cuộc đàm phán và các hợp đồng kinh tế. Trong vòng 18 tháng, họ đã kiếm được cho công ty mới của mình hàng trăm nghìn đô la qua việc viết chương trình cho công ty Apple Computer Inc. và Commodore.
+
+Một trong những điều làm Gates bực mình khi trở thành một ông chủ trẻ là anh không thể thuê xe ô tô vì anh chưa đủ 21 tuổi. Khi có việc phải đến liên hệ với Applied Digital Data Systems, công ty sản xuất các thiết bị đầu cuối ở Hauppauge, New York, Gates đã phải nhờ khách hàng cho người đưa xe đến sân bay để đón anh.
+
+Allen, Gates và những người bạn trong nhóm lập trình cũ được thành lập lại vẫn tiếp tục sống và làm việc khác với lề thói bình thường, khác với những mô hình công ty khác. Đầu tiên, họ sống tại khách sạn ven đường Tumbleweed Motel bụi bậm, rồi để giảm chi phí, họ đã thuê một căn hộ để ở chung với nhau. Phần lớn thời gian, họ giành cho việc lập trình, ăn bánh pizza, đi xem phim hoặc phóng xe vun vút trên sa mạc vào lúc nửa đêm trên chiếc xe Porsche của Gates.
+
+“Vâng, cuộc sống của chúng tôi là làm việc và có thể là đi xem phim và rồi lại về tiếp tục làm việc. Đôi khi khách hàng cũng đến tận nơi làm việc, và có lúc do quá mệt mỏi chúng tôi thường ngủ ngay trước mặt họ.”
+
+Khoảng một tuần sau khi Miriam Lubow được thuê vào làm quản lý văn phòng, cô nhận thấy một cậu bé tự động đi vào phòng của Gates mà Gates lúc ấy đang đi công tác xa. Đã được dặn trước rằng không ai có quyền bước vào căn phòng đó nếu không được phép, cô vội vàng chạy đi báo cho đồng nghiệp mình là Steve Wood biết. Và cô ta đã thật sự kinh ngạc khi biết ra rằng cậu bé đó chính là ông chủ của mình. Có lẽ để cảnh báo một cách tế nhị cho các khách hàng về ông chủ trẻ của mình, công ty Microsoft khi đăng quảng cáo trên các tạp chí điện tử thường dùng hình vẽ một nhân vật trẻ, Micro Kid, tuy nhỏ bé nhưng rất quyền năng.
+
+Microsoft đã sớm bị mắc mứu vào chuỗi kiện tụng kéo dài đầu tiên của mình, trên tư cách vừa là nguyên đơn vừa là bị đơn. Ngành công nghiệp máy tính, như đã thấy về sau này, đã sống nhờ vào các vụ kiện tụng.
+
+GHI CHÚ: Một bản tin nội bộ của ngành công nghiệp này đã xác nhận công ty Intel kiện các công ty đang tìm cách tung ra thị trường bộ vi xử lý có khả năng cạnh tranh với chip Intel 386 đang gặt hái nhiều thành công của họ. Cho dù Intel thường thua trong các vụ kiện này nhưng họ cũng làm chậm lại quá trình cạnh tranh, đồng thời cũng khiến đối thủ phải suy yếu vì các dự luật.
+
+Hợp đồng giữa công ty Microsoft với Roberts yêu cầu công ty MITS phải “nỗ lực hết sức” để bán phần mềm Microsoft BASIC thay cho việc Microsoft bán phần mềm này trực tiếp cho khách hàng.
+
+Nhưng không lâu sau đó trên thị trường cũng trôi nổi quá nhiều bản sao bất hợp pháp của ngôn ngữ này đến mức MITS không còn ra sức để bán chương trình của Microsoft nữa. Điều này đã làm cho Gates rất tức giận bởi vì anh cho rằng thái độ của MITS sẽ chỉ khuyến khích hành vi sao chép lậu này.
+
+Gates đem chuyện này ra hỏi cha mình và được cha anh bảo đảm rằng anh sẽ thắng nếu nộp đơn kiện đòi lại quyền đối với ngôn ngữ BASIC. Ông bố đã giúp con trai mình tìm một luật sư tại Albuquerque. Lúc này Roberts đã bán MITS cho một công ty khác có tên Pertec.
+
+Gates và Allen cùng đồng ý đưa vụ kiện Pertec đến trọng tài kinh tế vì họ cho rằng như thế sẽ hiệu quả hơn là đưa ra tòa và còn có thể kháng án. Nhưng tốc độ làm việc của hội đồng trọng tài kinh tế chậm như rùa, và Pertec từ chối thanh toán nếu chưa có phán quyết của trọng tài. Microsoft lâm vào hoàn cảnh gần như khánh kiệt:
+
+“Họ đang tìm cách làm chúng tôi chết đói. Chúng tôi thậm chí không có tiền để trả cho luật sư. Họ tìm cách bắt chúng tôi phải dàn xếp và chúng tôi suýt đã làm theo. Nếu vậy thì thật là tồi tệ! Mãi chín tháng sau người ta mới đưa ra được phán quyết chết tiệt của họ. Nhưng khi mọi chuyện kết thúc, trọng tài kinh tế đã xé lẻ công ty này ra vì những việc họ đã làm.”
+
+Trọng tài phân xử vụ kiện này đặc biệt nặng tay đối với Pertec và Ed Roberts vì họ đã không tôn trọng các giao kèo ban đầu với Microsoft. Ông ta gọi đây là “một vụ đạo tặc cuối cùng trong kinh doanh.”
+
+Ed Roberts khăng khăng rằng công ty ông đã bỏ tiền ra để phát triển phần mềm BASIC và là chủ nhân hợp pháp của nó nhưng thú nhận rằng lẽ ra ông phải quan tâm nhiều hơn đến bản hợp đồng:
+
+“Tôi thật ngu ngốc,” Roberts nói. “Bây giờ nói ra điều này có vẻ như tự bào chữa cho mình, nhưng thực sự tôi không cố ý bòn rút gì từ những chàng trai này. Bill chỉ mới 19 tuổi và Allen chỉ lớn hơn vài tuổi, nhưng ngược lại họ già đời hơn tôi nhiều – Bill thì khỏi nói rồi. Paul là một chàng trai xứng đáng được tôn trọng.”
+
+Ed Roberts
+
+Mặc dù Gates có thể vay tiền từ cha mẹ mình, nhưng anh đã không làm như vậy. Ngay từ đầu, Microsoft đã tự lực cánh sinh và kể từ sau rắc rối đó lúc nào Gates cũng duy trì một khoản tiền mặt dự trữ để giúp cho Microsoft luôn có thể chèo chống trước những cuộc khủng hoảng trong tương lai.
+
+Năm 1979, Ross Perot - chủ tịch của công ty dịch vụ tin học EDS, đang cố gắng mua công ty Apple Computer và khi không mua được, ông chuyển sang đặt vấn đề đó với Microsoft. Perot cho rằng Bill nói giá công ty quá cao – ông nhớ lại lúc đó Bill đã ra giá trong khoảng 40-60 triệu đô la mặc dầu theo lời Gates, anh chỉ đòi giá từ 6-15 triệu. Sau này, Perot đã tự dằn vặt mình rất nhiều vì đã không theo đến cùng cuộc giao dịch đó. Đến năm 1998, Microsoft đã phát triển lên tới 25.000 nhân viên, có mặt ở 58 quốc gia và phần lớn các nhân viên, đã nghỉ việc lẫn đang cộng tác, của Microsoft đã là triệu phú và có ba người trở thành tỷ phú.
+
+Sau khi Microsoft tách ra khỏi Pertec, không còn lý do gì để công ty tiếp tục đóng tại Albuquerque nữa vì không còn mấy khách hàng sẵn lòng đến với công ty. Công việc kinh doanh cũng đang vững vàng nên Gates và Allen đã sẵn sàng để chuyển địa điểm. Lúc công ty chuyển trụ sở tới vùng ngoại ô Bellevue của Seattle, Microsoft đã là một công ty có phong cách riêng.
+
+“Bill Gates là Microsoft,” Alan Brew, một cố vấn về thương hiệu ở San Francisco nhận xét, “Đặc trưng của cả công ty được mô phỏng theo đúng như hình mẫu người lãnh đạo nó: hiếu chiến, non trẻ và kiêu ngạo.”
+
+Ngoài Gates và Allen, thành phần nhân sự đầu tiên của Microsoft còn có Steve Wood, Bob Wallace, Jim Lane, Bob ORear, Bob Greenburg, Marc McDonald, Gordon Letwin, Andrea Lewis và Marla Wood. Năm 1979, khi một nhân viên trong nhóm có được một phiếu thưởng chụp ảnh miễn phí, tất cả mọi người đã tập hợp lại để chụp bức ảnh kỷ niệm chỉ vài ngày trước khi chuyển tới Bellevue. Nhìn lại bức ảnh, những con người làm thay đổi cách nhìn của thế giới đối với máy tính trông như thể mới thoát khỏi cảnh bị nhồi nhét trong chiếc xe Volswagen 12 chỗ để đến dự đại hội nhạc rock vậy.
+
+Nhóm lập trình ban đầu của Microsoft
+
+Gates cũng rất nổi tiếng trong việc lái xe bạt mạng, liều lĩnh và nhất là khi phải vội vã về nhà tại Seattle. Lần đó anh đã phải nhận tới ba vé phạt vì chạy quá tốc độ.
+
+NHỮNG NỖ LỰC VƯƠN LÊN CỦA MICROSOFT
+
+“Phần mềm là ngành kinh doanh đặc sệt chất Mỹ. Các công nghệ tiên tiến xuất hiện đầu tiên tại đây. Thị trường phần mềm lớn nhất cũng tại đây. Và môi trường tạo thuận lợi cho tất cả điều đó cũng xảy ra tại đây. Đó là nguyên nhân tại sao những khách hàng đầu tiên của chúng tôi, trong đó có cả IBM, lại có thể gạt mọi tự ái để mua sản phẩm từ một chàng trai mới 25 tuổi và là chủ nhân của một công ty nhỏ ở mãi tiểu bang Washington. Có thể lúc đó họ đã nghĩ chuyện này thật là điên, nhưng họ nói: Này, nếu tay đó biết nhiều về phần mềm thì chắc nó còn biết nhiều hơn nữa đấy.”
+
+Năm 1980, khi Microsoft lần đầu tiên được IBM, ông vua của ngành công nghiệp máy tính, đến tiếp xúc thì Gates mới 25 tuổi và nhân viên của Microsoft chỉ có 32 người.
+
+Gates trông còn quá trẻ để có thể được ưng thuận, “Nhưng đây là một chàng trai khôn ngoan hơn tuổi đời của anh ta - một thiên tài trong lĩnh vực lập trình, một tài năng bẩm sinh trong kinh doanh, điều đó được thể hiện khi anh điều khiển được mối quan hệ của Microsoft với IBM sao cho có lợi nhất cho công ty”, một ủy viên ban quản trị IBM nói.
+
+Khi IBM gọi điện tới để hẹn gặp Gates, họ yêu cầu cuộc hẹn phải xảy ra ngay ngày hôm sau. Gates đã nhanh chóng dời lại cuộc hẹn với Fred Kassar, Chủ tịch công ty trò chơi điện tử Atari. Quyết định này, cộng với vài quyết định khác sau đó, đã biến Gates thành tỷ phú khi mới 31 tuổi.
+
+Trong lần viếng thăm đầu tiên công ty Microsoft, các ủy viên điều hành công ty IBM đến cửa công ty và hỏi một chàng trai trông rất lôi thôi đường đến văn phòng của Bill Gates. Chàng trai theo họ đến văn phòng, rồi ngồi vào phía sau bàn làm việc. Cho tới lúc đó các ủy viên IBM mới nhận ra rằng họ đã gặp Chủ tịch của Microsoft.
+
+Đến lần gặp sau, các ông ủy viên IBM trong các bộ cánh thật bình dị đến văn phòng Gates, nhìn thấy anh chải chuốt trong bộ vét sang trọng, cổ thắt cà vạt, ra tiếp. Cuộc gặp gỡ được mở đầu bằng những tiếng cười lớn thân mật.
+
+IBM được ví như hãng xe hoàng gia Rolls-Royce của ngành công nghiệp máy tính. Tuy nhiên, công ty đã trở nên tụt hậu trong ngành máy tính cá nhân và tìm kiếm sự hợp tác từ bên ngoài để giúp họ mở cuộc đột kích sau đó vào thị trường máy tính nhỏ đang phát triển rất nhanh này. Các ủy viên chấp hành của IBM tại Boca Raton, Florida hy vọng triển khai cùng với Microsoft ý tưởng tạo ra một hệ điều hành dùng trong máy tính IBM dành cho cá nhân sử dụng. Microsoft chưa từng sản xuất hệ điều hành riêng của mình bao giờ, vì vậy họ chuyển cuộc giao dịch này cho đối tác thân thiết của họ là Digital Research. Nhưng việc đàm phán giữa Digital Research và IBM không đi đến đâu, IBM quay trở lại Microsoft.
+
+Sau buổi họp hội đồng quản trị toàn quốc của United Way, Mary Gates, mẹ của Gates, đã đến gặp ủy viên hội đồng John Opel, Chủ tịch IBM. Bà nêu nhận xét rằng công ty của ông hiện đang bắt đầu tiến hành một số công việc cùng với con trai Bill của mình và bà tin rằng họ sẽ vừa ý khi làm việc với Bill. Opel không quan tâm lắm tới lời của bà. Sau này, khi nhóm phát triển máy tính cá nhân đệ trình lên hội đồng quản trị công ty IBM bản kế hoạch của một loại máy còn chưa ra đời, cái tên Microsoft đã được nhắc tới trong bản kế hoạch. Opel lúc ấy mới hỏi, “Đấy có phải là con trai của bà Mary Gates không?” Kể từ lúc đó Gates được coi như một đối tác của IBM.
+
+Gates đã thực hiện một cuộc mua bán được xem như một giao dịch thế kỷ khi mua một hệ điều hành còn thô sơ của Tim Patterson, lập trình viên của công ty Seattle Computer Products, với giá 50.000 đô la. Tim Patterson đã viết ra hệ điều hành này và đặt tên nó là 86-DOS hoặc Q-DOS (viết tắt của Quick and Dirty Operating System). Gates đã sửa lại hệ điều hành này cho nó hoàn thiện hơn, đặt tên lại là MS-DOS (Microsoft Disk Operation System) rồi bán cho IBM. Vì lý do tốc độ, IBM quyết định xây dựng máy PC như một hệ nền mở, nghĩa là nó có thể được dễ dàng mô phỏng. Quả là may mắn. Chiếc máy mới này sẽ trở thành máy IBM-PC nổi tiếng khắp thế giới. Năm 1981, Microsoft chuyển giao hệ điều hành – và MS-DOS nhanh chóng hiện diện mọi nơi. Và rồi ít lâu sau hàng trăm công ty đãđược cấp giấy phép sửdụng MS-DOS đểhọcóthểsản xuất ra những máy tính tương thích với máy của IBM. Qua một đêm, MS- DOS đã trở thành chuẩn công nghiệp.
+
+Những công ty sản xuất máy tính PC lớn khác, gồm cả Sony, Matsushita và NEC cũng tìm đến Microsoft để có được hệ điều hành của họ, và doanh số bán hàng của Microsoft lập tức tăng ngất trời.
+
+Steve Ballmer
+
+Vào năm 1980, Microsoft tạo bước chuyển mình từ một công ty mới khởi nghiệp thành một công ty có cung cách quản lý chuyên nghiệp khi Gates thuê Steve Ballmer, bạn học tại Harvard của Bill Gates, vào làm việc với vai trò trợ lý riêng cho chủ tịch công ty. Họ đã đàm phán về các điều kiện làm việc trong khi Gates đang ở trên một du thuyền có tên Doo-Wah, Doo-Wah trong chuyến đi nghỉ tại vịnh Caribê.
+
+“... Tôi đang trong kỳ nghỉ nhưng tôi phải thương lượng với Steve về mức lương của anh ta. Và chúng tôi đã nói chuyện với nhau qua điện thoại vô tuyến nối liền từ biển vào bờ. Tôi nghĩ chúng tôi đã khởi đầu với mức lương 40.000 đô la. Mọi người đi cùng tôi trên chiếc du thuyền này lúc ấy đang uống rượu và họ luôn miệng nói với tôi Hãy trả lương anh ta cho thật xứng đáng. Hãy kiếm ngay người nào đó để đỡ đần anh, chúng tôi thấy anh thực sự căng thẳng quá rồi! Vì vậy tôi đồng ý mức lương 50.000 đô la...”
+
+Ngoài tiền lương, Ballmer cũng được tặng cổ phiếu của công ty. Số cổ phiếu này đến năm 1997 giá trị của chúng đã lên đến gần 7 tỉ đô la.
+
+Microsoft đã lớn mạnh cùng với ngành công nghiệp phần mềm. Tạp chí Business Software Alliance đã tổng kết rằng ngành công nghiệp phần mềm vào năm 1996 đã giúp cho nền kinh tế Mỹ tăng thêm 67 tỷ đô la chỉ đứng sau ngành công nghiệp ô tô (106 tỷ đô la) và điện tử(78 tỷ đô la).
+
+TINH THẦN LÀM VIÊC QUÊN MÌNH
+
+Microsoft nổi tiếng về việc tạo điều kiện để nhân viên của mình nỗ lực làm việc – nhưng hiếm người nào có thể làm việc siêng năng hơn bản thân Gates. Trong khoảng thời gian từ 1978 tới 1984, Gates chỉ nghỉ phép tổng cộng 15 ngày, kể cả 4 ngày anh ta dành thời gian chơi tennis tại sân tennis gần Phoenix.
+
+Quán ăn tự phục vụ tại trụ sở Microsoft ở Redmon được mở cửa đến nửa đêm để phục vụ những nhân viên làm việc muộn. Một nhân viên nói đùa, “Mọi thứ có chứa caffein đều được miễn phí”. Thực ra toàn bộ thức uống trong quán ăn của Microsoft đều được cung cấp miễn phí.
+
+“Nếu ai không thích làm việc căng thẳng, với cường độ cao và làm hết sức mình thì đây không phải là nơi dành cho người đó.”
+
+Cuộc tranh cãi nghiêm trọng giữa IBM và Microsoft đã nổ ra khi họ cùng hợp tác viết chương trình OS/2 của IBM dùng để thay cho hệ điều hành MS-DOS. IBM cho rằng người của họ viết được nhiều mã lệnh hơn (tính theo dòng mã chương trình) so với người của Microsoft và như vậy thì lập trình viên của Microsoft đang chểnh mảng trong công việc. Phía Microsoft lập luận lại rằng đánh giá công việc lập trình bằng số dòng mã lệnh hoàn toàn vô nghĩa. Chủ trương của họ là phải viết các mã lệnh ngắn gọn và cô đọng tối đa. Mã chương trình càng ít càng tốt và để đạt được điều đó phải cần đến nhiều thời gian hơn.
+
+“Microsoft được tổ chức và điều hành để viết các phần mềm lớn và hiệu quả. Chúng tôi không cấu trúc mình cho những mục tiêu khác. Chúng tôi chỉ biết cách làm thế nào để tuyển dụng, quản lý và phổ biến sản phẩm phần mềm của mình ra toàn cầu. Điểm then chốt là chúng tôi không bao giờ tự xem mình là một công ty dịch vụ.”
+
+Vào mùa hè năm 1997 - Brad Silverberg, 43 tuổi, Phó Chủ tịch cao cấp trong công ty, người đã chỉ đạo phát triển Windows 95, Internet Explorer và một số sản phẩm Microsoft khác – bắt đầu thực hiện chuyến đi xe đạp vòng quanh nước Mỹ và cho đến tận tháng 6 năm 1998 ông vẫn chưa quay lại văn phòng làm việc. Brad Silverberg nói rằng ông không cắt đứt mọi quan hệ với công ty mà chỉ muốn dành thời gian cho gia đình cũng như các sinh hoạt thể thao khác như chạy bộ, cắm trại và trượt tuyết.
+
+Sự việc như trên thường xuyên xảy ra, báo The Wall Street phân tích, khi các nhân viên làm việc vất vả trong một thời gian dài và cùng lúc tích lũy đủ tiền bạc, cổ phiếu thì họ thấy không cần phải làm việc nữa. Microsoft hiện đã chính thức thiết lập chế độ an dưỡng định kỳ đối với những nhân viên kì cựu:
+
+“Như bất kỳ công ty nào khác mà sản phẩm chính của công ty là tài sản trí tuệ, chúng tôi đang đối diện với một thách thức lớn là làm sao để phát hiện và giữ được những cộng sự viên ưu tú nhất. Các trường đại học và một vài công ty phát đạt khác từ lâu đã hiểu rằng có một cách để thu hút và giữ những nhân tài ở lại làm việc là đề nghị một chế độ an dưỡng định kỳ để những người phải làm việc với cường độ cao có được thời gian để nghỉ ngơi, đi du lịch, hoặc tham gia vào các sinh hoạt cộng đồng hoặc bất cứ hoạt động nào họ muốn.”
+
+Microsoft không phải là công ty duy nhất có phong thái làm việc quên mình trong ngành công nghiệp máy tính. Theo tạp chí Inside Intel, chủ tịch của hãng Intel, Andy Grove, đã nạt nộ thư ký riêng của ông vì đã bỏ dở công việc đang làm một giờ trước lễ Giáng sinh, sau đó ông còn ban hành một thông báo, được gọi là Kẻ bần tiện, lệnh cho toàn bộ nhân viên trong thời gian sắp tới, ngày 24 tháng 12 mọi người phải làm việc trọn ngày.
+
+“Bằng cách nào mà công ty Microsoft lại duy trì được nhịp độ làm việc như vậy?”, chủ bút Simon Walch của MNC đã đặt câu hỏi này trong một bài đăng trên American Online. “Một lý do quan trọng: Bill Gates không bao giờ ngủ. Anh ta thường xuyên tìm kiếm những nguồn lợi nhuận mới, thậm chí ngay cả khi những sản phẩm hiện có của anh ta vẫn không ngừng hái ra tiền.”
+
+Nhưng làm việc cật lực không phải là điều duy nhất:
+
+“Duy trì khả năng tập trung là chìa khóa của sự thành công. Bạn phải hiểu tường tận ngọn ngành năng lực, sở trường của bạn nằm ở lĩnh vực nào và rồi dành hết thời gian và tâm lực của mình đúng vào đó.”
+
+“Cho đến hôm nay, tôi làm việc vì nó mang lại cho tôi niềm vui. Hiểu theo ý này có thể bạn sẽ cho rằng tôi tìm đến công việc kinh doanh vì nó giống như một thách thức tìm ra đáp số cho bài toán. Điều đó không có nghĩa là tôi không coi trọng công việc kinh doanh, ngược lại là khác. Thế nhưng đời sống sẽ thú vị hơn nhiều nếu bạn xử trí với các thách thức của cuộc đời bằng những phương thức sáng tạo.”
+
+CỔ PHẦN HÓA CÔNG TY VÌ NHỮNG LÝDO ĐÚNG ĐẮN
+
+Mặc dầu Microsoft không thiếu vốn nhưng vào năm 1981 Gates và Allen vẫn bán đi 6,2% cổ phần công ty cho Technology Venture Investors tại Menlo Park, Califonia – một công ty đầu tư mạo hiểm hàng đầu tại Silicon Valley – và công ty này sẽ giúp chuyển Microsoft thành công ty cổ phần.
+
+Gates rất do dự trong việc cổ phần hóa công ty Microsoft vì sợ rằng điều này sẽ không được hiểu đúng:
+
+“Toàn bộ tiến trình này trông giống như một nỗi đau phải hứng chịu. Và sự đau đớn sẽ xảy ra khi quý vị trở thành người của công chúng. Người ta sẽ hoang mang khi giá cổ phiếu không phản ánh đúng hiệu quả tài chính của bạn. Và một người sở hữu cổ phiếu sẽ gọi điện thoại cho Tổng Giám đốc để hỏi những vấn đề không thuộc về kinh tế – những chiếc bạc đạn không nên chất vấn người tài xế về chuyện dầu mỡ.”
+
+Gates bị buộc phải chọn động thái này, tuy nhiên anh có thể cho phép nhân viên của mình được hưởng quyền hợp đồng option chứng khoán (stock option(*)), qua đó tất cả các nhân viên, kể cả anh, có thể chuyển đổi các cổ phiếu của họ thành tiền mặt khi cần.
+
+(*) stock option: thuật ngữ trong thị trường chứng khoán nói đến một hình thức thông dụng của công ty cổ phần dùng để thưởng hay bù đắp cho nhân viên của mình. Nhân viên được cho một hợp đồng option chứng khoán để mua cổ phần công ty theo một giá nào đó (bằng hoặc dưới giá thị trường vào thời điểm tặng option) trong một khoảng thời gian ấn định bằng năm.
+
+“Chúng tôi sử dụng quyền sởhữu như một công cụ để gắn bó chúng tôi lại với nhau.”
+
+Vào ngày 13 tháng 3 năm 1986, cổ phiếu Microsoft được tung ra với giá ban đầu là 21 đô la một cổ phiếu. Chỉ trong vài ngày, giá đã tăng lên tới 35,5 đô la. Khi giá cổ phiếu tăng đến mức 90,75 đô la, Gates đã trở thành tỷ phú trẻ nhất từ trước đến giờ.
+
+Đến tháng giêng năm 1998, cổ phiếu của Microsoft đã phân chia(**) đến lần thứ bảy kể từ khi phát hành ra công chúng. Ở thời điểm này, giá đã được điều chỉnh theo các lần phân chia, 10.000 đô la bỏ ra mua cổ phiếu vào lúc phát hành đầu tiên sẽ có giá trị tương đương 2,4 triệu đô la.
+
+(**) Cổ phiếu phân chia: thuật ngữ trong thị trường chứng khoán chỉ sự gia tăng số cổ phần đang lưu hành của một công ty mà không thay đổi vốn của cổ đông hay thay đổi tổng số trị giá thị trường vào thời điểm phân chia.
+
+“Khi chúng tôi bắt đầu tiến hành cổ phần hóa công ty vào năm 1986, tôi giữ khoảng 45% tổng số cổ phiếu của công ty. Trong khoảng thời gian 12 năm, tỉ lệ đó sụt xuống và đến nay tôi còn khoảng 22%. Tôi thường xuyên bán cổ phiếu của mình để có thể làm phong phú thêm danh mục đầu tư của tôi, trả thuế và giải quyết nhiều việc khác. Hơn nữa, theo thời gian, Microsoft đã phát hành thêm các cổ phiếu mới để mở rộng hoạt động của công ty, đồng thời gây quỹ cho các kế hoạch stock option của nhân viên công ty nên tổng số cổ phiếu hiện hành đã tăng lên. Nếu tôi không bán đi một cổ phiếu Microsoft nào cả thì đến giờ tôi cũng chỉ nắm giữ khoảng 33%. Tôi có ý định giữ một lượng lớn cổ phiếu trong công ty bởi vì tôi thực lòng cam kết vào tương lai của công ty và vào những cơ hội thúc đẩy chúng tôi phải đưa được những sản phẩm và giải pháp đổi mới đến với khách hàng của mình.”
+
+Gates vẫn không thích chệch hướng khỏi mục tiêu khi công ty đã cổ phần hóa. Tại các buổi họp hội đồng quản trị, anh thường nói:
+
+“Nhiều người thích nói về cách xếp các viên gạch bằng vàng thành từng chồng, thay vì nói đến nguyên nhân tại sao vàng vẫn từ cỗ máy này sản xuất ra.”

@@ -1,0 +1,194 @@
+{
+  "item_id": 14091,
+  "title": "Những câu chuyện thần tiên của bé",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T07:20:14.542Z",
+  "input_book": {
+    "id": 14091,
+    "title": "Những câu chuyện thần tiên của bé",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/14091.jpg?v=3&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Những c&acirc;u chuyện cổ t&iacute;ch, d&acirc;n gian kh&ocirc;ng chỉ khuyến kh&iacute;ch tr&iacute; t&ograve; m&ograve;, sự s&aacute;ng tạo ở trẻ m&agrave; c&ograve;n gi&uacute;p trẻ r&egrave;n luyện những kỹ năng cần thiết để sống h&ograve;a đồng hơn với mọi người. Với lối dẫn truyện gần gũi c&ugrave;ng những h&igrave;nh minh họa sống động, tập s&aacute;ch Những c&acirc;u chuyện thần ti&ecirc;n của b&eacute; sẽ đưa những nguời bạn nhỏ tuổi đến với một thế giới kỳ diệu đầy m&agrave;u sắc v&agrave; cảm x&uacute;c với những b&agrave;i học c&oacute; &yacute; nghĩa.</p>\r\n<p>Những c&acirc;u chuyện thần ti&ecirc;n của b&eacute; chủ yếu d&agrave;nh cho trẻ từ bốn đến mười hai tuổi. Tuy nhi&ecirc;n, c&aacute;c bậc phụ huynh mới ch&iacute;nh l&agrave; người quyết định thời điểm n&agrave;o n&ecirc;n truyền đạt đến trẻ những b&agrave;i học n&agrave;y bởi mỗi lứa tuổi c&oacute; những giai đoạn ph&aacute;t triển tr&iacute; tuệ v&agrave; tinh thần kh&aacute;c nhau. Ở đầu mỗi c&acirc;u chuyện, l&agrave; những h&igrave;nh ảnh ph&aacute;c họa ban đầu về bối cảnh cũng như c&aacute;c nh&acirc;n vật ch&iacute;nh nhằm gi&uacute;p trẻ theo kịp mạch truyện dễ d&agrave;ng hơn.</p>\r\n<p>Th&ocirc;ng qua lối kể nhẹ nh&agrave;ng v&agrave; h&oacute;m hỉnh, hai mươi c&acirc;u chuyện trong cuốn s&aacute;ch n&agrave;y c&oacute; thể gi&uacute;p cha mẹ thắt chặt mối quan hệ gần gũi với c&aacute;c con của m&igrave;nh. B&ecirc;n cạnh đ&oacute;, mỗi c&acirc;u chuyện lại chứa đựng triết l&yacute; nh&acirc;n văn s&acirc;u sắc m&agrave; qua đ&oacute;, cả người kể lẫn người nghe đều c&oacute; thể tự đ&uacute;c kết cho m&igrave;nh những b&agrave;i học bổ &iacute;ch. Chẳng hạn, c&acirc;u chuyện Ch&eacute;n cơm t&igrave;nh người dạy cho ta biết san sẻ t&igrave;nh thương với mọi người trong cơn hoạn nạn; c&acirc;u chuyện Con c&ocirc;ng kho&aacute;c l&aacute;c dạy ta b&agrave;i học về sự khi&ecirc;m tốn; hay c&acirc;u chuyện Ch&uacute; hươu th&ocirc;ng th&aacute;i mang đến th&ocirc;ng điệp về l&ograve;ng bao dung.</p>\r\n<p>C&aacute;c c&acirc;u chuyện trong tập s&aacute;ch n&agrave;y được x&acirc;y dựng tr&ecirc;n tinh thần gần gũi v&agrave; h&ograve;a nhịp c&ugrave;ng thi&ecirc;n nhi&ecirc;n. Đ&oacute; l&agrave; l&yacute; do v&igrave; sao bối cảnh truyện xảy ra tại nhiều nơi, từ v&ugrave;ng sa mạc hẻo l&aacute;nh đến những khu rừng gi&agrave; rậm rạp hay b&atilde;i biển &ecirc;m đềm. B&ecirc;n cạnh đ&oacute;, truyện cũng ch&uacute; trọng x&acirc;y dựng những h&igrave;nh tượng nh&acirc;n vật sinh động bằng nghệ thuật ẩn dụ v&agrave; nh&acirc;n c&aacute;ch h&oacute;a như &ocirc;ng mặt trời, c&ocirc; mặt trăng&hellip;</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+    "authors": [
+      {
+        "id": "6359",
+        "name": "Dharmachari Nagaraja"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Giáo dục - Sách thiếu nhi_92.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-03-31 00:45:46",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 14091,
+      "title": "Những câu chuyện thần tiên của bé",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Những c&acirc;u chuyện cổ t&iacute;ch, d&acirc;n gian kh&ocirc;ng chỉ khuyến kh&iacute;ch tr&iacute; t&ograve; m&ograve;, sự s&aacute;ng tạo ở trẻ m&agrave; c&ograve;n gi&uacute;p trẻ r&egrave;n luyện những kỹ năng cần thiết để sống h&ograve;a đồng hơn với mọi người. Với lối dẫn truyện gần gũi c&ugrave;ng những h&igrave;nh minh họa sống động, tập s&aacute;ch Những c&acirc;u chuyện thần ti&ecirc;n của b&eacute; sẽ đưa những nguời bạn nhỏ tuổi đến với một thế giới kỳ diệu đầy m&agrave;u sắc v&agrave; cảm x&uacute;c với những b&agrave;i học c&oacute; &yacute; nghĩa.</p>\r\n<p>Những c&acirc;u chuyện thần ti&ecirc;n của b&eacute; chủ yếu d&agrave;nh cho trẻ từ bốn đến mười hai tuổi. Tuy nhi&ecirc;n, c&aacute;c bậc phụ huynh mới ch&iacute;nh l&agrave; người quyết định thời điểm n&agrave;o n&ecirc;n truyền đạt đến trẻ những b&agrave;i học n&agrave;y bởi mỗi lứa tuổi c&oacute; những giai đoạn ph&aacute;t triển tr&iacute; tuệ v&agrave; tinh thần kh&aacute;c nhau. Ở đầu mỗi c&acirc;u chuyện, l&agrave; những h&igrave;nh ảnh ph&aacute;c họa ban đầu về bối cảnh cũng như c&aacute;c nh&acirc;n vật ch&iacute;nh nhằm gi&uacute;p trẻ theo kịp mạch truyện dễ d&agrave;ng hơn.</p>\r\n<p>Th&ocirc;ng qua lối kể nhẹ nh&agrave;ng v&agrave; h&oacute;m hỉnh, hai mươi c&acirc;u chuyện trong cuốn s&aacute;ch n&agrave;y c&oacute; thể gi&uacute;p cha mẹ thắt chặt mối quan hệ gần gũi với c&aacute;c con của m&igrave;nh. B&ecirc;n cạnh đ&oacute;, mỗi c&acirc;u chuyện lại chứa đựng triết l&yacute; nh&acirc;n văn s&acirc;u sắc m&agrave; qua đ&oacute;, cả người kể lẫn người nghe đều c&oacute; thể tự đ&uacute;c kết cho m&igrave;nh những b&agrave;i học bổ &iacute;ch. Chẳng hạn, c&acirc;u chuyện Ch&eacute;n cơm t&igrave;nh người dạy cho ta biết san sẻ t&igrave;nh thương với mọi người trong cơn hoạn nạn; c&acirc;u chuyện Con c&ocirc;ng kho&aacute;c l&aacute;c dạy ta b&agrave;i học về sự khi&ecirc;m tốn; hay c&acirc;u chuyện Ch&uacute; hươu th&ocirc;ng th&aacute;i mang đến th&ocirc;ng điệp về l&ograve;ng bao dung.</p>\r\n<p>C&aacute;c c&acirc;u chuyện trong tập s&aacute;ch n&agrave;y được x&acirc;y dựng tr&ecirc;n tinh thần gần gũi v&agrave; h&ograve;a nhịp c&ugrave;ng thi&ecirc;n nhi&ecirc;n. Đ&oacute; l&agrave; l&yacute; do v&igrave; sao bối cảnh truyện xảy ra tại nhiều nơi, từ v&ugrave;ng sa mạc hẻo l&aacute;nh đến những khu rừng gi&agrave; rậm rạp hay b&atilde;i biển &ecirc;m đềm. B&ecirc;n cạnh đ&oacute;, truyện cũng ch&uacute; trọng x&acirc;y dựng những h&igrave;nh tượng nh&acirc;n vật sinh động bằng nghệ thuật ẩn dụ v&agrave; nh&acirc;n c&aacute;ch h&oacute;a như &ocirc;ng mặt trời, c&ocirc; mặt trăng&hellip;</p>\r\n<p>Tr&acirc;n trọng giới thiệu!</p>",
+      "zone": 1,
+      "published_time": "01/06/2016",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/nhung-cau-chuyen-than-tien-cua-be-dharmachari-nagaraja-baw6LW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/nhung-cau-chuyen-than-tien-cua-be-dharmachari-nagaraja-baw6LW.html?std=type%3D1%26data%3D14091%26title%3DNh%25E1%25BB%25AFng%2Bc%25C3%25A2u%2Bchuy%25E1%25BB%2587n%2Bth%25E1%25BA%25A7n%2Bti%25C3%25AAn%2Bc%25E1%25BB%25A7a%2Bb%25C3%25A9%26mini_app%3D1&type=1&data=14091&title=Nh%E1%BB%AFng+c%C3%A2u+chuy%E1%BB%87n+th%E1%BA%A7n+ti%C3%AAn+c%E1%BB%A7a+b%C3%A9&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "100",
+          "name": "NXB Tổng hợp thành phố HCM"
+        }
+      ],
+      "authors": [
+        {
+          "id": "6359",
+          "name": "Dharmachari Nagaraja",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/6359.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"6359\",\"name\":\"Dharmachari Nagaraja\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/6359.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Dharmachari Nagaraja",
+      "author_id": "6359",
+      "category_id": "92",
+      "category_name": "Giáo dục - Sách thiếu nhi",
+      "categories": [
+        {
+          "id": "92",
+          "name": "Giáo dục - Sách thiếu nhi",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "1.0",
+      "total_rate_count": 1,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 5,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=14091&title=nhung-cau-chuyen-than-tien-cua-be",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=14091&title=nhung-cau-chuyen-than-tien-cua-be#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1470192327,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/14091.jpg?v=3&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 2613,
+      "number_view": 3730,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://ebook.waka.vn/ebook/nhung-cau-chuyen-than-tien-cua-be-baw6LW.html?std=type%3D1%26data%3D14091&type=1&data=14091",
+      "read_link": "https://ebook.waka.vn/nhung-cau-chuyen-than-tien-cua-be-raw6LW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 6,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 6,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/14091_6/OEBPS/content.opf?token=0c3a3z32bf395f796cab2c5374cc3b7c3383ce14091",
+        "id": 14091,
+        "chapter_trail": 3,
+        "name": "Những câu chuyện thần tiên của bé",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 6,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/nhung-cau-chuyen-than-tien-cua-be-raw6LW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0025.xhtml",
+      "chapterHref": "contents/page0025.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/14091_6/OEBPS/contents/page0025.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nVì sao nên kể chuyện cho bé?\nĐọc cho bé nghe thế nào là tốt nhất?\nChú vẹt dũng cảm\nVì sao mai rùa bị nứt?\nHoàng tử và con quái vật\nCon bò và bác nông dân\nTình bạn giữa voi và chó\nĐàn chim cun cút và người thợ săn\nBốn nàng công chúa\nNgười cha kiên cường\nCậu bé lười biếng\nChú thỏ bướng bỉnh\nChén cơm tình người\nCon công hợm hĩnh\nCái cốc vàng\nCon ngỗng vàng\nCon huơu thông thái\nChú khỉ tinh quái\nGiống cây lạ\nSư tử và chó rừng\nVị hoàng tử ham học hỏi\nVương quốc yêu tinh"
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nVì sao nên kể chuyện cho bé?\nĐọc cho bé nghe thế nào là tốt nhất?\nChú vẹt dũng cảm\nVì sao mai rùa bị nứt?\nHoàng tử và con quái vật\nCon bò và bác nông dân\nTình bạn giữa voi và chó\nĐàn chim cun cút và người thợ săn\nBốn nàng công chúa\nNgười cha kiên cường\nCậu bé lười biếng\nChú thỏ bướng bỉnh\nChén cơm tình người\nCon công hợm hĩnh\nCái cốc vàng\nCon ngỗng vàng\nCon huơu thông thái\nChú khỉ tinh quái\nGiống cây lạ\nSư tử và chó rừng\nVị hoàng tử ham học hỏi\nVương quốc yêu tinh"
+}

@@ -4,7 +4,12 @@ const puppeteer = require('puppeteer');
 
 const OUTPUT_DIR = path.join(__dirname, 'output');
 const BOOKS_DIR = path.join(__dirname, 'books');
-const INPUT_FILE = process.env.INPUT_FILE || path.join(OUTPUT_DIR, 'Sách điện tử_Chứng khoán - Bất động sản - Đầu tư_371.json');
+
+// Nếu set INPUT_FILE thì chỉ crawl file đó; nếu không sẽ crawl toàn bộ *.json trong thư mục output
+const INPUT_FILE = process.env.INPUT_FILE ? path.resolve(process.env.INPUT_FILE) : null;
+const OUTPUT_FILE_FILTER = String(process.env.OUTPUT_FILE_FILTER || '').trim().toLowerCase();
+const SKIP_EXISTING = String(process.env.SKIP_EXISTING || '0') === '1';
+
 const MAX_BOOKS = Number(process.env.MAX_BOOKS || 0); // 0 = crawl all
 const MAX_STEPS_PER_BOOK = Number(process.env.MAX_STEPS_PER_BOOK || 180);
 const BOOK_IDS = String(process.env.BOOK_IDS || '')
@@ -264,6 +269,105 @@ async function collectReaderText(page, maxSteps) {
     return Array.from(chapters.values());
 }
 
+function getInputFiles() {
+    if (INPUT_FILE) {
+        if (!fs.existsSync(INPUT_FILE)) {
+            throw new Error(`Không tìm thấy file input: ${INPUT_FILE}`);
+        }
+        return [INPUT_FILE];
+    }
+
+    const files = fs
+        .readdirSync(OUTPUT_DIR)
+        .filter((name) => name.toLowerCase().endsWith('.json'))
+        .filter((name) => !OUTPUT_FILE_FILTER || name.toLowerCase().includes(OUTPUT_FILE_FILTER))
+        .map((name) => path.join(OUTPUT_DIR, name));
+
+    if (files.length === 0) {
+        throw new Error(`Không tìm thấy file JSON nào trong thư mục output${OUTPUT_FILE_FILTER ? ` (filter: ${OUTPUT_FILE_FILTER})` : ''}`);
+    }
+
+    return files;
+}
+
+function loadBooksFromInputFiles(inputFiles) {
+    const booksById = new Map();
+
+    for (const filePath of inputFiles) {
+        const raw = fs.readFileSync(filePath, 'utf8');
+        let arr;
+
+        try {
+            arr = JSON.parse(raw);
+        } catch (error) {
+            console.warn(`[Warn] Bỏ qua file lỗi JSON: ${filePath} (${error?.message || String(error)})`);
+            continue;
+        }
+
+        if (!Array.isArray(arr)) {
+            console.warn(`[Warn] Bỏ qua file không phải mảng: ${filePath}`);
+            continue;
+        }
+
+        for (const item of arr) {
+            const id = Number(item?.id);
+            if (!Number.isFinite(id) || id <= 0) continue;
+
+            if (!booksById.has(id)) {
+                booksById.set(id, {
+                    ...item,
+                    id,
+                    __source_files: [filePath]
+                });
+            } else {
+                const existing = booksById.get(id);
+                if (!existing.__source_files.includes(filePath)) {
+                    existing.__source_files.push(filePath);
+                }
+            }
+        }
+    }
+
+    return Array.from(booksById.values()).sort((a, b) => a.id - b.id);
+}
+
+function getExistingCrawledBookIds() {
+    const done = new Set();
+
+    const files = fs
+        .readdirSync(BOOKS_DIR)
+        .filter((name) => name.toLowerCase().endsWith('.json'));
+
+    for (const name of files) {
+        const match = name.match(/_(\d+)\.json$/i);
+        if (match) {
+            done.add(Number(match[1]));
+        }
+    }
+
+    return done;
+}
+
+function filterBooksByEnv(books) {
+    let filtered = books;
+
+    if (BOOK_IDS.length > 0) {
+        const idSet = new Set(BOOK_IDS);
+        filtered = filtered.filter((b) => idSet.has(Number(b.id)));
+    }
+
+    if (SKIP_EXISTING) {
+        const done = getExistingCrawledBookIds();
+        filtered = filtered.filter((b) => !done.has(Number(b.id)));
+    }
+
+    if (MAX_BOOKS > 0) {
+        filtered = filtered.slice(0, MAX_BOOKS);
+    }
+
+    return filtered;
+}
+
 async function crawlOneBook(page, book, index, total) {
     const startTime = Date.now();
 
@@ -342,24 +446,29 @@ async function crawlOneBook(page, book, index, total) {
     let page = null;
 
     try {
-        if (!fs.existsSync(INPUT_FILE)) {
-            console.error(`Không tìm thấy file input: ${INPUT_FILE}`);
-            return;
+        const inputFiles = getInputFiles();
+        const allBooks = loadBooksFromInputFiles(inputFiles);
+        const books = filterBooksByEnv(allBooks);
+
+        console.log(`Input files: ${inputFiles.length}`);
+        if (INPUT_FILE) {
+            console.log(`Input mode: single file (${INPUT_FILE})`);
+        } else {
+            console.log(`Input mode: all output JSON${OUTPUT_FILE_FILTER ? ` (filter: ${OUTPUT_FILE_FILTER})` : ''}`);
         }
-
-        const allBooks = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf8'));
-        let books = MAX_BOOKS > 0 ? allBooks.slice(0, MAX_BOOKS) : allBooks;
-
-        if (BOOK_IDS.length > 0) {
-            const idSet = new Set(BOOK_IDS);
-            books = books.filter((b) => idSet.has(Number(b.id)));
-        }
-
-        console.log(`Đã load ${books.length}/${allBooks.length} sách từ file: ${INPUT_FILE}`);
+        console.log(`Đã load ${books.length}/${allBooks.length} sách (unique by id).`);
         if (BOOK_IDS.length > 0) {
             console.log(`Filter BOOK_IDS: ${BOOK_IDS.join(', ')}`);
         }
+        if (SKIP_EXISTING) {
+            console.log('SKIP_EXISTING=1: Bỏ qua sách đã có file .json trong thư mục books');
+        }
         console.log('Launching browser...');
+
+        if (books.length === 0) {
+            console.log('Không có sách nào cần crawl theo bộ lọc hiện tại.');
+            return;
+        }
 
         browser = await puppeteer.launch({
             headless: true,

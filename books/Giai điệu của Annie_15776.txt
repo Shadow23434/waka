@@ -1,0 +1,597 @@
+Mục lục
+Lời giới thiệu
+Phần mở đầu
+Chương một
+Chương hai
+Chương ba
+Chương bốn
+Chương năm
+Chương sáu
+Chương bảy
+Chương tám
+Chương chín
+Chương mười
+Chương mười một
+Chương mười hai
+Chương mười ba
+Chương mười bốn
+Chương mười lăm
+Chương mười sáu
+Chương mười bảy
+Chương mười tám
+Chương mười chín
+Chương hai mươi
+Chương hai mươi mốt
+Chương hai mươi hai
+Chương hai mươi ba
+Chương hai mươi bốn
+Chương hai mươi lăm
+Chương hai mươi sáu
+Chương cuối
+
+LỜI GIỚI THIỆU
+
+C
+atherine Anderson sinh năm 1948 và hiện đang sống cùng chồng là Sidney D. Anderson tại Oregon, Mỹ. Là con gái của một nhà văn nên những mảnh ghép ký ức sớm nhất Catherine Anderson có được trong cuộc đời là tiếng gõ trên chiếc máy đánh chữ cũ kỹ cùng những tác phẩm của mẹ, vì thế từ rất lâu trước khi biết đọc bảng chữ cái, một thế giới kỳ diệu và bí ẩn của những câu chuyện hư cấu đã mở ra trước mắt bà. Cùng với đam mê và nguồn cảm hứng ấy, bà đã viết rất nhiều những câu chuyện của riêng mình trong suốt thời niên thiếu.
+
+Tuy nhiên, nhận thức được rằng việc bắt đầu sự nghiệp như một nhà văn chính thống là một điều rất khó khăn, bà đã quyết định theo học chuyên ngành kế toán ở trường đại học để có thể phụ giúp công việc sổ sách ở công ty của chồng. Sau khi nhận ra rằng những con số không khiến mình cảm thấy hạnh phúc, cùng với sự động viên của chồng, Catherine đã nghỉ học ở trường để có thể toàn tâm theo đuổi sự nghiệp viết lách.
+
+Catherine Anderson bắt đầu sự nghiệp văn học với dòng lãng mạn, sau đó bà chuyển nguồn cảm hứng sang các tác phẩm có tiêu đề một chữ (Single-title) thuộc dòng lãng mạn lịch sử và lãng mạn đương đại. Không ít các tác phẩm của bà tập trung vào các nhân vật mang trên mình những khiếm khuyết về thể chất hoặc tinh thần, và cách họ vượt qua những khiếm khuyết đó. Theo nhận định của tạp chí Romantic Times, tiểu thuyết của bà rất “cảm động, ấm lòng và tạo lập thứ tình yêu hoàn hảo lý tưởng trong một thế giới thiếu hoàn hảo”. Với độc giả, những cuốn sách của bà đều rất “vui nhộn, thú vị, cảm động, đẹp đẽ, cao cả với những ước lệ cổ điển”.
+
+Năm 1988, bà cho ra đời cuốn tiểu thuyết đầu tay Reasonable Doubt, do Harlequin Intrigue xuất bản. Hai cuốn tiểu thuyết sau đó của bà là Sun Kissed và Morning Light đã lọt vào top 5 trong danh sách 10 cuốn sách bán chạy nhất của New York Times. Ngoài ra, Catherine Anderson đã chín lần được đề cử giải Bình chọn của các nhà phê bình Romantic Times, trong đó có một lần chiến thắng với tác phẩm Cherish. Bà cũng từng được trao giải Thành tựu trọn đời của Romantic Times.
+
+Tháng 5 năm 2008, tác phẩm Comanche Moon đã được tái xuất bản và lọt vào danh sách các tác phẩm ăn khách nhất của New York Times.
+
+Cuốn sách Giai điệu của Annie (Annie’s song) của Catherine Anderson được Avon Books xuất bản tháng 1 năm 1996. Một trong số các tác phẩm của bà, Điệu Waltz dưới ánh trăng (Phantom Waltz), đã được Bách Việt phát hành Quý IV năm 2013 và Summer Breeze cũng sẽ được Bách Việt giới thiệu đến độc giả trong thời gian tới.
+
+BachvietBooks
+
+Gửi đến con trai John tuyệt vời của chúng tôi và con dâu mới, Deanna. Cầu chúc các con có một tương lai tràn ngập niềm vui, tiếng cười và ước mơ sẽ thành sự thật.
+
+PHẦN MỞ ĐẦU
+
+H
+ooperville, Oregon
+
+Chủ nhật, ngày mùng 6 tháng 4 năm 1890
+
+Khi Douglas Montgomery tỉnh táo, mọi người vẫn có thể chịu đựng được việc ở bên cạnh hắn, nhưng một khi hắn say thì Alan Dristol lại thấy rất sợ. Tại sao ư, Alan cũng không rõ. Nhưng anh biết, Douglas chẳng bao giờ làm chuyện gì quá độc ác với người khác. Dẫu vậy, Alan vẫn không thể nào thoát khỏi cảm giác sợ hãi ấy.
+
+Ý nghĩ đó làm Alan bận lòng khi buộc anh phải xét lại chính con người mình. Nếu không ưa Douglas thì tại sao anh lại giao du với hắn, đấy là chưa kể việc rượu chè cùng hắn nữa? Alan đã tự vấn câu hỏi đó hàng chục lần, và câu trả lời thì kể cũng khó chấp nhận, rằng anh rất sợ nói không với Douglas. Không - một từ thật đơn giản. Nhưng nói với kẻ như Douglas thì thật chẳng đơn giản chút nào.
+
+Ghìm ngựa chậm lại, ánh nắng sớm khiến Alan phải nheo mắt mới thấy được tấm lưng bốn người bạn đồng hành lúc họ cưỡi ngựa đi lên trước anh. Dẫn đầu đoàn là Douglas Montgomery, kẻ cao hơn những người khác một cái đầu và có bờ vai rộng hơn. Như thể để khẳng định quyền làm chủ của mình, cứ chốc chốc hắn lại giáng một cú thúc vào hai bên sườn con ngựa thiến và không ngừng giật mạnh dây cương của con thú tội nghiệp. Chứng kiến cảnh ngược đãi đó, Alan cảm thấy hơi ớn. Con ngựa vẫn ngoan ngoãn và Douglas hoàn toàn không nhất thiết phải đối xử khắc nghiệt với nó đến thế.
+
+Alan đưa mắt về phía James Radwich, Roddy Simms và Sam Peck, ba chàng trai trẻ đang đi trước anh. Họ là bạn thân của anh lâu lắm rồi, từ cái thuở mặc quần xà lỏn, đến độ anh cảm giác mình hiểu rõ họ như chính bản thân mình. Anh ngờ rằng cả ba người họ đều sợ Douglas giống mình. Thật đáng thương làm sao khi đêm qua họ đã từ bỏ mọi thứ được dạy dỗ để lẽo đẽo theo sau Douglas như đàn vịt con xếp hàng theo mẹ, cùng hắn vào nhà thổ, chôn vùi tội lỗi trong men rượu để rồi sáng nay phải trả giá bằng những trận đau đầu như búa bổ. Chúa ơi, hôm nay là Chủ nhật. Mọi thành viên trong gia đình các anh chắc đang ở nhà thờ, rồi họ sẽ thắc mắc rằng các anh đang ở đâu? Không ai trong số các anh có chút lập trường nào sao?
+
+Douglas đẩy con ngựa sang bên đường để chặn lối đi rồi bỏ chiếc mũ quả dưa bằng nỉ xám ra và lấy tay áo lau những giọt mồ hôi trên trán. Tháng Tư năm nay khô hanh đến bất thường, hai tuần trước trời mưa lắc rắc nên đường đầy bụi bặm. Hắn nhăn mặt khi thấy bụi bẩn trên trán dính đầy vào cổ tay áo trắng của mình. “Giờ chúng ta đi bơi cho tỉnh táo”, hắn nói với giọng thách thức, “Đứa nào xuống sau là thằng nhãi bám váy mẹ ”.
+
+Thác Misty và hồ bơi ưa thích của họ cách không bao xa. Gần như không tin vào tai mình, Alan liếc theo hướng đó. Douglas rất khoái làm những điều hoang dại và điên rồ. Càng mạo hiểm càng tốt. Nhưng ngay sau đêm qua thì chuyện này thật quá đáng. “Bơi ư? Mày mất trí rồi sao? Chúng ta sẽ chết cóng mất thôi.”
+
+“Chúa ơi, Alan, mày đúng là cái đồ công tử bột. Ngoài này đang nóng chảy mỡ ra. Tao đang mướt mát mồ hôi và mày cũng có khác gì đâu.”
+
+“Với mớ quần áo đầy đủ và khô ráo này, ờ phải, tao đang vã mồ hôi”, Alan thừa nhận, “Nhưng nếu nhảy xuống hồ bơi đó, tao sẽ không thế nữa”.
+
+“Nước trong hồ đó là tuyết tan từ trên núi chảy xuống”, Roddy chỉ ra. “Cái lạnh đúng là không dễ chịu chút nào đâu, Douglas.”
+
+“Cái lạnh không dễ chịu ư? Mày có còn là một thằng đàn ông không, Roddy? Hay là một con đàn bà tối ngày rên rỉ rồi ăn mặc cho giống thằng đàn ông thôi?”
+
+Mặt Roddy đỏ gay vì ngượng, nhưng cũng chẳng nói được gì để bảo vệ cho cái khí chất đàn ông của mình. Không một ai trong số họ từng đứng lên chống lại Douglas.
+
+Douglas khịt mũi vẻ khinh bỉ rồi thúc ngựa tiến vào con mương chạy dọc đường đi. Vừa huơ huơ mũ, hắn vừa gào lên như mèo khi con ngựa thiến của mình nhảy lên bờ mương. Alan hồ nghi nhìn ba người bạn của mình và thừa biết rằng chẳng ai trong số họ muốn bơi lặn gì cả. Nhưng ngặt nỗi, anh cũng biết tất cả bọn họ đều khúm núm trước cái ý thích chợt nảy ra của Douglas vì không một ai có gan chống lại hắn.
+
+“Sao?”, Roddy nói.
+
+Sam thở dài. “Đôi lúc tao ước giá lại chỉ có bọn mình thôi, và chẳng bao giờ dính dáng đến thằng cha kia.”
+
+“Tao tán thành”, James thêm vào.
+
+Alan cũng có chung cảm nhận, nhưng vấn đề đó dường như còn phải bàn cãi. Thực tình thì, Douglas không chỉ gia nhập vào mà còn thâu tóm cả nhóm họ. Bốn người họ cho ngựa quay đầu rồi miễn cưỡng đi về phía ngọn thác. Như thể cảnh báo trước, gió tự dưng nổi lên, lồng lộng và mát lành dễ chịu phả vào mặt Alan. Gió táp vào làn da ẩm ướt khiến Alan cảm thấy lạnh thấu xương.
+
+Thay vì đi theo lối mòn, Douglas băng rừng tiến đến hồ bơi, địa hình thật hiểm trở. Cây Madrone1, nguyệt quế, sồi cằn cỗi và linh sam xoắn chằng chịt lấy nhau như những ngón tay viêm khớp của một bà lão chắn mất lối đi, những thân cây to lớn đầy mấu đâm lên từ các bụi cây rậm rạp. Chẳng thể nào nhìn thấy đường đi. Sợ rằng ngựa không may vấp ngã vào ổ gà nào đó rồi gẫy mất chân trước nên Alan cho nó đi nước kiệu. Còn mấy người bạn của anh vì sợ làm Douglas giận dữ nếu rề rà nên chẳng nhượng bộ gì. Ngoài cái giá phải trả là con ngựa bị hủy hoại, Alan cũng thấy mấy người kia chẳng có chút mảy may nhân đạo nào khi không ngừng thúc ngựa băng qua vùng đất gồ ghề. Nhưng Alan đơn giản chỉ là kẻ đi theo chứ không phải người chỉ huy. Bất cứ thứ gì Douglas khăng khăng muốn thì người khác đều phải phục tùng, và tất nhiên những chú ngựa và mọi thứ khác cũng sẽ phải chịu bị đày đọa.
+
+1 Một loại cây họ thạch nam ở Bắc Mỹ.
+
+Là người đi sau rốt, Alan nghe thấy tiếng của bốn người kia vọng lại qua rặng thông và linh sam. Tiếng thúc ngựa, tiếng la ó. Dù oán giận Douglas nhưng anh vẫn mỉm cười khi tưởng tượng cảnh Sam, Roddy và James trần truồng nhảy xuống hồ nước lạnh cóng. Mấy thằng ngốc điên rồ. Thế nào cũng bị viêm phổi cho coi, và tất cả chỉ để làm tên Montgomery khoái trá. Trời đánh thánh vật dòng họ nhà Montgomery. Trời đánh thánh vật cái ngôi nhà đẹp đẽ trên đồi kia. Trời đánh thánh vật cả tiền bạc của họ nữa. Đôi lúc, Alan tự hỏi liệu có phải cái gã tự xưng là thủ lĩnh kia nảy ra mấy cái trò kỳ quặc chỉ để xem hắn có thể đẩy người khác đi đến đâu không.
+
+Cuối cùng cũng thoát khỏi lùm cây vấn vít, Alan ngạc nhiên khi chưa thấy ai xuống nước. Anh khum bàn tay trên mắt để nhìn cho rõ tất cả những thứ hỗn tạp kia là gì và khẳng định rằng có năm dáng người đang đứng trước hồ bơi, bốn người bạn đồng hành của anh và một cô gái nhỏ nhắn.
+
+Douglas đã lấy chiếc khăn choàng của cô gái và giơ nó quá tầm với của cô. Vẫn như mọi khi. Hễ có cơ hội được hiếp đáp người khác là Douglas chớp lấy liền. Dù thấy khó chịu nhưng Alan cho rằng cách trêu chọc đó không vượt ngưỡng vô hại.
+
+Rồi anh nhận ra cô gái. Đó là Annie Trimble, cô gái thiểu năng trong thị trấn. Dẫu đã gần hai mươi và qua thời trẻ dại từ lâu nhưng trông cô thậm chí càng trẻ con và đáng thương hơn trong bộ váy yếm xanh dương kỳ dị, cùng bít tất dài đen và đôi giày đính cúc cao bê bết bụi bẩn. Mẹ Alan vẫn thường qua nhà Trimble chơi nên anh biết bà Edie Trimble luôn cố gắng giữ cho con gái mình gọn gàng sạch sẽ, nhưng Annie cứ thích chạy đùa trong rừng đến nỗi nó trở thành một nhiệm vụ bất khả thi.
+
+Tim anh thắt lại trước vẻ hốt hoảng trên gương mặt nhỏ nhắn của cô lúc cô điên cuồng chộp lại chiếc khăn. Annie hay quên đồ mặc trong rừng nên người nhà rất nghiêm khắc với cô trong vấn đề phải mang đồ về. Alan biết rằng thế nào cô cũng bị rầy la, tệ hơn là, nếu trở về nhà trong tình trạng không mảnh vải che thân thì cha cô, ngài thẩm phán, vốn đã không tin vào việc kiệm đòn roi và nỗi khổ của Annie nên sẽ trừng trị cô mạnh tay hơn nhiều so với ba đứa con gái lớn của mình.
+
+Alan không vì thế mà trách ngài thẩm phán hay nghĩ ông ta ác độc. Người khờ dại như Annie rất khó kiểm soát, và bố mẹ cô chắc sẽ được ngợi khen vì giữ cô ở nhà. Hầu hết mọi người chắc sẽ tống đứa con như Annie vào nhà thương điên. Nếu chẳng phải vì nhà Trimble xoay xở để giữ cho cô khuất mắt phần lớn thời gian khi có khách đến chơi thì rất có thể ông bà ấy đã bị cái xã hội văn minh này khai trừ rồi. Không ít kẻ thấy khó chịu với những người như Annie. Dẫu vậy, cha mẹ Annie vẫn không muốn đưa cô vào trại từ thiện, mà chọn cách làm mờ nhạt đi sự tồn tại của cô.
+
+Tại sao nhà Trimble lại phải bận tâm, Alan cũng chịu. Tiền bạc thì tất nhiên không thành vấn đề rồi: Gia đình ấy có đủ khả năng cho cô được nhận nuôi và những khát vọng chính trị của ngài thẩm phán khiến mọi người càng thắc mắc rằng sao họ vẫn chưa làm điều đó. Dù ai cũng biết Annie vẫn phát triển bình thường cho đến ngày cô bị cơn sốt hồi nhỏ ảnh hưởng đến trí óc, thế nhưng vẫn có những người trong thị trấn xì xào sau lưng nhà Trimble rằng một trong số các bác của bà Edie Trimble bị điên và chứng rối loạn thần kinh này là do di truyền. Những chuyện rỉ tai đó có thể phá hủy mức độ tín nhiệm của một chính trị gia.
+
+Mẹ kiếp. Douglas phải biết rằng Annie không hiểu hắn chỉ đang đùa giỡn với cô. Điều này hiển hiện qua những nỗ lực điên dại để giành lại chiếc khăn. Dễ thấy rằng sinh vật đáng thương kia đang cạn dần kiên nhẫn. Vẻ hoang mang trong đôi mắt to màu xanh dương của cô cho thấy điều đó, đấy là còn chưa kể đến việc cô cứ bịt lấy đầu một cách lạ lùng mỗi khi Douglas nói gì đó với cô. Hiển nhiên, cô không hiểu bất cứ thứ gì hắn nói.
+
+“Chúng ta vẫn chưa qua cái thời chơi mấy cái trò này sao?”, Alan nói to. “Thôi nào, Douglas. Để cho cô gái đáng thương đó yên đi.”
+
+“Đức Thánh Alan cất tiếng”, Douglas độp lại. “Cứ làm như mình chưa từng trêu con nhỏ này ấy nhỉ?”
+
+Hắn bắt được thóp Alan. “Chúng ta đều có tội chòng ghẹo Annie một hay hai lần, nhưng đó là khi còn trẻ con. Thằng đàn ông thực thụ không làm mấy trò ấy.”
+
+“Đúng rồi đấy. Thôi nào, Douglas”, Roddy dụ. “Để nhỏ đó yên đi.”
+
+Douglas ra vẻ như không thèm nghe. Hắn nhoài người về phía trước, cười nhăn nhở và đu đưa chiếc khăn choàng trong tầm với của cô. “Bé muốn cái này à, cục cưng? Thế thì lại đây mà lấy đi này.”
+
+Khi nhử được cô tới gần hơn, Douglas quét mắt một lượt trên chiếc váy yếm có lẽ bị thác nước ngược dòng làm ướt của cô. Ai ai sống trong và quanh khu Hooperville đều biết Annie đặc biệt hứng thú tha thẩn trên các tảng đá quanh ngọn thác. Tại sao ư? Có Chúa mới biết. Làn sương mù băng giá không ngớt tỏa ra từ dòng thác đổ, nhưng dù thời tiết có thế nào thì cũng chẳng làm cô nản bước.
+
+Những thớ vải ướt sũng nhẽo nhèo vì giặt giũ nhiều dính chặt lấy thân thể cô, thậm chí còn làm lộ ra đường cong cơ thể nảy nở không trói buộc đầy hấp dẫn hơn là phải che đi. Linh cảm sắp có chuyện bất ổn, Alan quăng người xuống ngựa. Hẳn Douglas không thể biết Alan đang lo sợ hắn có thể nghĩ gì. Thậm chí chỉ đùa cợt với ý niệm đó thôi cũng là vô lương tâm rồi, nhưng ai có thể khẳng định rằng Douglas có lương tâm cơ chứ?
+
+Nhìn Douglas, ắt hẳn sẽ nghĩ hắn là một chàng trai trẻ tử tế có mái tóc hung tỉa tót gọn gàng và đôi mắt nâu tươi rói.
+
+Hắn có mọi thứ tốt đẹp, tiền bạc, đặc quyền và được giáo dục đâu vào đấy tại một trường đại học chuyên biệt ở miền Đông. Nhưng với hắn, bấy nhiêu đấy vẫn không đủ và có lẽ chẳng bao giờ đủ. Dường như bên trong hắn luôn có một đòi hỏi quyền lực, đòi hỏi được kiểm soát người khác. Nhu cầu đó từ lâu đã tự phô bày trong mối quan hệ của hắn với Alan cùng những người bạn, và giờ đang được trút lên Annie.
+
+Chỉ có Annie là không có khả năng chống trả.
+
+Alan liếc nhìn đôi mắt xanh hoang mang của Annie rồi quay sang Douglas. “Mày khốn kiếp thật! Nhỏ này đầu óc không bình thường, Douglas, mày biết rõ mà. Chọn một ai khác có thể đáp trả cho mày những gì mà cô ta có đi.”
+
+“Đầu óc có chút vấn đề, nhưng phần còn lại thì vẫn ổn”, Douglas phản pháo, “Ôi cha mẹ ơi, đôi gò bồng đảo đang đập vào mắt tao đây này”. Hắn huýt một tiếng sáo nhẹ như báo điềm chẳng lành cho Annie rồi nói thêm, “Nhìn thôi cũng đủ làm tao nhỏ dãi ra rồi”.
+
+Alan quay sang mấy người bạn tìm kiếm sự giúp đỡ. Sam cúi đầu, di mũi ủng vào đám đất đỏ hung, hai tay đút sâu vào túi quần, có vẻ như anh ta nghĩ cứ phớt lờ đi thì chuyện này sẽ biến mất. Roddy thì cười gượng, và khuôn mặt vốn hồng hào của James đã chuyển sang màu đỏ lựng. Dù rất lúng túng nhưng dường như hết thảy bọn họ chẳng thể rời mắt khỏi thân mình Annie. Alan cũng miễn cưỡng nhìn Annie. Đúng là hai nhũ hoa của cô nhô rõ hẳn lên. Như đổ thêm dầu vào lửa, cái váy còn bó chặt vào đùi. Ghê tởm bản thân vì đã để ý, Alan cố dứt mắt mình ra khỏi vùng cấm kị. Nỗi ái ngại cho Annie hệt như một nắm đấm vô tình siết chặt lấy ruột gan anh.
+
+“Bà già em khùng thật cưng ơi khi để em ăn mặc kiểu nửa vời thế kia rồi lê la khắp chốn này”, Douglas khẽ nói, tay vẫn đu đưa chiếc khăn choàng làm mồi nhử.
+
+“Đầu óc nhỏ này vẫn là một đứa con nít và cũng không phải là một đứa sáng dạ nữa”, Alan nhắc Douglas, chợt cao giọng vì lo lắng. “Tao dám chắc là mẹ con nhỏ mặc cho nó thế này vì nó rất hay chạy vào rừng. Bà ấy tin tưởng vào sự đứng đắn của bất cứ người nào gặp con mình, và đúng là thế. Ghẹo đùa nhỏ này không công bằng đâu, Douglas ạ, mày biết mà. Trả khăn cho con bé rồi để nó về nhà đi.”
+
+“Tao sẽ đưa khăn cho nó”, Douglas quả quyết. “Tất cả những gì nó phải làm là đến mà lấy thôi. Nào bé yêu, đến đây nhìn anh Douglas này.”
+
+Rõ là mù tịt những ý nghĩ đầy nhục dục của kẻ đang hành hạ mình, Annie lao ra giành lấy khăn. Ngay khi Annie vào tầm với của mình, Douglas túm lấy eo cô. Cô không hét lên nhưng tiếng hổn hển nho nhỏ kinh hãi còn đáng sợ hơn. Ruột gan Alan rối như tơ vò. Anh ghét điều này, ghét vô cùng. Nét mặt Douglas thật xấu xa. Xấu xa và độc ác. Đôi mắt đỏ ngầu của hắn chứa đầy niềm phấn khích ghê tởm.
+
+Alan bước lên. “Để con nhỏ đi đi, Douglas. Tao không đùa đâu.”
+
+“Con nhỏ à?” Con mồi đã sập bẫy, Douglas quăng chiếc khăn choàng đi rồi bóp lấy cặp mông tròn lẳn của Annie. Nhìn cái cách hắn nhấn sâu ngón tay cũng đủ biết hắn cố tình mạnh tay. “Bị đui à, anh bạn. Con nhỏ cái mốc gì, một cô em lớn đẫy đà rồi đấy.”
+
+Hắn cười nhẹ rồi cố cưỡng hôn cô, Annie bất lực đẩy vai Douglas ra, mái tóc đen mềm xõa xuống tấm lưng mảnh mai, rối tung, đôi mắt vần vũ những hỗn loạn, cố gắng ưỡn lưng tránh cái hôn của hắn. Douglas chuyển tư thế để nhấm nháp dọc cổ cô.
+
+“Mẹ ơi, con bé này ngọt thật”, hắn xì xầm cùng lúc mạnh tay nắm trọn bầu ngực cô với cú siết nhức nhối y như lúc hắn nắm mông hồi nãy.
+
+Máu điên sôi lên trong Alan. Anh sẽ bị nguyền rủa nếu cứ đứng ngoài nhìn cô chịu đau đớn. Thế này là quá đủ rồi. Anh nắm lấy cánh tay lực lưỡng của Douglas. “Tao đã bảo để con nhỏ…”
+
+Dù Alan có đang cố nói điều gì thì cũng bị cắt ngang bởi ánh sáng lóe lên từ một mũi dao. Anh trừng trừng nhìn trong nỗi sững sờ câm lặng lúc Douglas rời tay khỏi Annie để tạo tư thế sẵn sàng chiến đấu và đe dọa anh bằng thứ vũ khí không biết lôi ở đâu ra.
+
+“Đừng bao giờ xía mũi vào chuyện của tao”, Douglas cảnh cáo bằng một giọng nhẹ nhàng đầy dối trá.
+
+Chỉ nghĩ đến lúc lưỡi dao kia phanh bụng mình ra cũng đủ làm hai đầu gối Alan gần như khuỵu xuống. Niềm an ủi duy nhất của Alan vào lúc này là có vẻ như trong cơn giận, Douglas đã quên mất Annie. Alan muốn hét lên bảo cô chạy đi nhưng anh biết nếu làm vậy, Douglas sẽ lại nhớ ra điều mình sắp làm và túm lấy cô. Anh chỉ có thể hy vọng Annie đủ nhận thức để tự giải thoát cho mình.
+
+“Thôi nào Douglas, mày say rồi”, Alan run rẩy dõi theo.
+
+Chạy đi, Annie. Biến khỏi chỗ này đi! Alan cảm nhận được mồ hôi đang chảy dọc sống lưng mình. Từ khóe mắt, anh thấy được Annie đang cuống cuồng xoay xở tứ lung tung để tìm khăn. Hơi thở của cô trở thành tiếng hổn hển nông và khẽ, chẳng khác gì tiếng mèo con kêu. Rõ là cô đang sợ và muốn bỏ chạy. Nhưng cô sẽ không rời đi nếu không có tấm khăn choàng. Ruột gan Alan chộn rộn khi nhận ra rằng, với Annie, chiếc khăn choàng là thứ tối quan trọng. Nếu cô về nhà mà không có nó, cha cô sẽ trừng phạt. Sinh vật đáng thương này sao hiểu nổi mức độ nguy hiểm mà mình đang lâm vào. Cũng chẳng lấy gì làm ngạc nhiên. Anh ngờ rằng bất cứ gã đàn ông nào từng nhìn cô đầy dâm dật cũng từng động vào cô. Cô không thể lường trước những gì mình chưa từng trải qua. Trong thời khắc đó, Alan đã định nghĩa từ “ngây thơ” theo một nét nghĩa mới, mà Annie là ví dụ điển hình.
+
+Trở lại tập trung vào Douglas, Alan quyết định sẽ cố nói lý với hắn. Nếu không được, ít nhất anh cũng có thể kéo dài chút thời gian cho Annie. “Bình tĩnh nào Douglas, mày không muốn bị pháp luật sờ gáy chứ? Chòng ghẹo một con ngốc, thì chắc chắn mày đụng đến pháp luật rồi. Vì Chúa, nó là con gái ngài thẩm phán Trimble đấy. Nghỉ hưu rồi hay chưa thì ông ta vẫn sẽ treo ngược mày lên cột cờ ở Main nếu động vào con bé.” “Sao ông ta biết được? Nhỏ này không nói được, mày quên à?”
+
+Lời nhận xét không thể chối cãi của Douglas làm Alan khiếp hoảng. Annie không nói được. Thậm chí nếu cô có nhận ra họ thì rất có thể không biết tên mà nếu có thì cũng không thể nói ra. Anh liều mình liếc nhanh về phía cô và thấy cô đang giật mạnh khăn khỏi một rễ cây trồi lên. Chúa ơi. Cha mẹ huấn luyện cô tốt quá. Tốt đến nỗi cô thà mất cơ hội trốn đi còn hơn là để lại cái khăn len vô dụng ấy. Alan biết phần lớn cuộc đời mình, Annie đã phải chịu đựng những trò chòng ghẹo tàn nhẫn. Nhưng cô nào biết lần trêu đùa hôm nay lại khác, rằng Douglas còn toan tính nhiều hơn chứ không đơn giản chỉ có ghẹo đùa. Nhiều hơn nữa.
+
+James ban nãy ngồi xuống khúc cây bị đốn đổ giờ lại nhỏm lên ngồi xổm, đôi mắt xám của cậu ta chất đầy nỗi hoài nghi, với mũi dao kia hay với kế hoạch ghê gớm của Douglas thì Alan không chắc.
+
+“Douglas, chắc chắn là mày đang đùa”, James nói lớn. “Con bé có kể hay không thì mày cũng phải tính đến mặt đạo đức mà.”
+
+“Đạo đức gì chứ?”, Douglas cười ha hả. “Bốn đứa chúng mày đúng là một lũ ủy mị. Không hiểu sao tao lại tốn thì giờ với bọn mày. Con nhỏ chắc cũng thèm khát cái này rồi. Mẹ kiếp, ít nhất cũng mười tám, mười chín rồi còn gì. Hầu hết con gái tuổi này đều đã lấy chồng và có một, hai con rồi. Đây có thể là cơ hội lớn cho nhỏ này được vui vẻ chút ít.”
+
+Vui vẻ. Từ đó lửng lơ trên không trung, xấu xa và chát tai. Alan cầu nguyện mình có thể giữ sự chú ý của Douglas, dù chỉ một chút nữa thôi. Đằng sau hắn, Annie cuối cùng cũng đã giật được cái khăn. Cứ như có mắt sau gáy, Douglas với tay ra sau rồi túm lấy cổ tay lúc cô xoay người tháo chạy. Cô loạng choạng vì lực kéo của Douglas. Thấy con dao hắn cầm, mặt cô tái mét đi. Alan đoán cuối cùng thì cái đầu bé nhỏ kém thông minh của cô cũng thấm thía rằng Douglas có thể là mối nguy hiểm thật sự.
+
+Bằng mũi dao sắc bóng, Douglas ngắt quãng lời cảnh báo Alan, “Ai trong số chúng mày muốn chống lại tao thì nhảy vào đây”.
+
+Chẳng ai trong số họ dại dột đến vậy. Douglas có thể giết người. Tia sáng trong mắt hắn chứng tỏ điều đó. Hắn tiếp tục vung vẩy con dao, điệu cười lạnh lùng chất chứa kế hoạch trả đũa bất cứ ai trong số họ dám thách thức hắn. Thỏa mãn khi không ai có gan liều mình, hắn nhét dao vào bao phía thắt lưng và trở lại chú ý vào Annie. Cô quằn quại bất lực, cố cạy những ngón tay đang bấu chặt của hắn.
+
+“Mày không thể làm thế”, Alan hét lên. “Thằng nào ngăn tao?”
+
+Không phải Annie, chắc chắn rồi. Cô quá nhỏ con còn Douglas lại vạm vỡ, cao hơn mét tám. Chỉ với một cú xoay mình nhanh lẹ, hắn quẳng cô xuống đất, tốc váy và hãm hiếp cô dễ dàng như làm với một đứa trẻ.
+
+CHƯƠNG MỘT
+
+N
+âng chiếc đèn lên cao để rọi rõ đường đi, Alex Montgomery rảo bước trên con hẻm cắt ngang chuồng ngựa. Mùi phân mới hăng hăng quyện với mùi cỏ linh lăng khô phảng phất tạo nên một thứ mùi nồng đặc quánh không gian đêm hanh dịu. Từ phía mấy ngăn chuồng ngựa trong bóng tối, những tiếng hí chào đón vọng đến tai anh. Nếu vào lúc khác, Alex chắc hẳn đã dừng lại nhưng đêm nay anh không có thời gian và cũng không định cho mấy chú ngựa vài cục đường.
+
+Ánh sáng vàng xóc nảy phát ra từ chiếc đèn cùng với dáng đi nhanh lẹ đổ bóng trên ván tường cho thấy anh đang giận dữ đến thế nào. Nghiến chặt răng ngăn lại những tiếng gầm gừ, anh đi đến cuối hành lang rồi đá chân mở cửa kho chuồng ngựa. Đúng như trông đợi, thằng Douglas, em trai anh, đang nằm ườn trên đống rơm rải dọc chân tường, một trong những chỗ ngủ giã rượu ưa thích của nó.
+
+Nuốt xuống trước khi cất tiếng để kiềm chế cơn giận trong giọng mình, Alex nói, “Dậy đi, em trai, ta cần nói chuyện”.
+
+Một tay cầm bình rượu uýt-ki, tay kia che mắt, đứa em trai rên rỉ rồi lăn đi, quay lưng về phía Alex, “Phắn đi. Đang nửa đêm”.
+
+Bảy giờ tối sao gọi là nửa đêm được, nhìn Douglas tay cầm chai rượu, Alex tự nhủ đã đến lúc thôi coi đứa em trai hai mươi tuổi của mình là một cậu bé.
+
+“Anh bảo dậy đi cơ mà.” Alex bước sâu vào phòng rồi treo đèn lên móc xà nhà. “Có người buộc em một tội rất nghiêm trọng đấy, chàng trai trẻ, và anh muốn làm chuyện này cho ra ngô ra khoai.”
+
+Douglas lại rên rỉ, “Để nói sau được không anh?”.
+
+Hai tay chống nạnh, Alex giạng hai chân mặc quần jean rồi hếch cằm, “Ông thẩm phán già Trimble vừa tới gặp anh. Annie, con gái ông ta, đã bị cưỡng bức, và Alan Dristol khẳng định em là người gây ra chuyện này”.
+
+Có vẻ câu nói của Alex làm Douglas chú ý, hắn vật ngửa ra, ngó qua kẽ ngón tay đang khum lại. Alex vẫn đầy hy vọng. Nói láo, tất cả là nói láo. Đó chỉ là sự hiểu nhầm quá đáng rồi em trai anh sẽ nói vài điều làm sáng tỏ. Không một đấng nam nhi dòng họ Montgomery nào hạ thấp phẩm giá của mình để đi chú ý đến một phụ nữ, nói gì đến một người khuyết tật như Annie Trimble. Vả lại, sao Douglas phải bận tâm? Nó trẻ đẹp, con nhà giàu. Hầu như mọi đứa con gái trong thị trấn này đều giành giật nhau để được nó sủng ái.
+
+Douglas hấp háy mắt như để cố hiểu những gì vừa nghe được. “Alan khẳng định cái gì cơ?” Lát sau, hắn cười nhếch mép. “Thằng nhãi ranh phản bội. Cứ chờ đến lúc em động đến nó mà xem.”
+
+Những gì Douglas nói chẳng khác gì những ngón tay băng giá ướt át tắt phụt tia hy vọng cuối cùng của Alex. Phải mất một lúc, Alex chỉ đứng đó, chìm trong nghi hoặc. Giọng Douglas chẳng mảy may thương cảm cho Annie Trimble, và cũng không thèm bác bỏ lời buộc tội.
+
+Bụi từ đống rơm xộc lên mũi Alex cay cay. Mắt anh có cảm giác bỏng rát. “Vì Chúa, hãy nói là em không làm chuyện đó đi”, anh khản đặc giọng yêu cầu. Ngay cả khi nói, anh cũng nghe được nỗi tuyệt vọng trong giọng điệu của chính mình.
+
+“Em không làm. Giờ thì chúng ta có thể để sáng mai nói tiếp được không anh?”
+
+“Không, tất nhiên là không.” Alex tiến lại gần hơn, người anh căng cứng, hai bên thái dương bất giác giật mạnh. “Là chuyện hãm hiếp một đứa con gái đấy. Để đến sáng mai nói tiếp được ư? Ông thẩm phán già Trimble đang loạn lên, mà ai trách ông ấy được. Anh muốn sự thật, Douglas, ngay bây giờ. Chuyện quái quỷ gì đã xảy ra vậy? Sao thằng Alan lại nói thế?”
+
+“Vì nó là một thằng oắt con phản bội gan chuột nhắt, thế đấy. Em đã quá chén và mọi chuyện vượt khỏi tầm kiểm soát. Thế thôi.”
+
+“Thế thôi á?” Với Alex lúc này cây đèn xách dường như cứ chập chờn lúc mờ lúc tỏ. “Lạy Chúa, con bé bị xâm hại đấy, Douglas.”
+
+“Đâu phải em gây tổn hại mãi mãi cho nó.”
+
+Tổn hại mãi mãi? “Chúa ơi, chúng ta đang nói về chuyện cưỡng hiếp.”
+
+“Cưỡng hiếp.” Douglas khẽ gắt gỏng cứ như lời cáo buộc hắn thật lố bịch. “Theo định nghĩa, thì cưỡng hiếp xảy ra khi một thằng đàn ông ép một con đàn bà phải chấp nhận sự để ý không mong muốn của hắn. Annie Trimble đã có chính xác những gì nó cố kiếm.”
+
+“Cái gì?”
+
+“Cứ nhìn vào cách nó ăn mặc, cách nó xử sự đi! Chẳng gì ngoài một bộ váy với cái áo chẽn mỏng dính, cái quần ống túm dưới váy, chẳng có coóc xê, cũng chẳng có váy lót che thân. Nhông nhông như một nữ thần rừng xanh không người kèm cặp! Từ lúc mới có ngực nó đã là miếng mồi ngon cho bất cứ thằng nào ở khu Hooper County này rồi. Một gã trai còn làm gì được nữa, vờ mù tịt à? Em đã nói là em say. Đàn ông chỉ cưỡng lại được mức độ cám dỗ vừa đủ. Bà già nó phải biết rõ điều đó hơn là để con nhỏ chạy nhông nhông rồi ăn mặc như thế mà không có ai trông.”
+
+“Chúa ơi”, Alex thì thào. “Mày đã làm chuyện đó đúng không? Mày đã hiếp con bé khốn khổ ấy.”
+
+Cơ hàm Douglas giật lên, hắn nghiêng cẳng tay ra trước đôi mắt vàng nâu của mình. “Alex, anh đúng là đa cảm rồi. Đầu con bé Annie có vấn đề nhưng từ cổ trở xuống vẫn nuột nà. Nó cũng muốn chuyện đó nhiều như em vậy. Mà thậm chí nếu nó không muốn thì có làm sao? Nó còn chẳng nhớ nổi tên mình huống chi nhớ chuyện gì xảy ra năm phút trước. Cái cách anh hành động như thể nghĩ là em làm thịt con Amy Widlow, con gái lão mục sư ấy.”
+
+“Amy Widlow, Annie Trimble thì có khác gì nhau đâu? Cưỡng hiếp là cưỡng hiếp.”
+
+Douglas lại khịt khịt mũi khinh thường. Trong Alex bùng lên cơn thôi thúc mãnh liệt phải lôi nó ra khỏi ổ rơm rồi lắc cho đến khi nó tỉnh táo. Thế nhưng anh chỉ trân trối đứng nhìn, cầu nguyện đây chỉ là một cơn ác mộng. Douglas trước giờ vẫn là trung tâm gây rối, nhưng trong tất cả hành động vô phép tắc của mình, nó chưa khi nào làm ai bị tổn thương nghiêm trọng. Vì thế nên Alex đã tự dối lòng rằng em trai mình sẽ không bao giờ làm điều đó. Rồi nó sẽ lớn lên và dần không còn gây sự nữa, Alex tự bảo đảm hết lần này đến lần khác. Chỉ là nó sốc nổi. Giờ thì Alex đã biết rõ hơn. Rằng dù có ở độ tuổi nào đi chăng nữa thì một người hoặc là có thể có lòng trắc ẩn hoặc là không. Đó không phải là thứ có thể dạy dỗ được. Điều đè nặng lên Alex nhất là giá sớm vỡ lẽ thì chắc anh đã cứu được Annie Trimble khỏi chuyện đau đớn này. Giá như anh không phủ nhận một sự thật hiển nhiên rằng Douglas chẳng tốt đẹp gì và sẽ chẳng bao giờ tốt lên được.
+
+Người dân ở Hooperville quả quyết rằng Alex và em trai rất giống nhau. Alex đã từng lấy làm hãnh diện vì nét tương đồng đó. Giờ đây, tất cả những gì Alex muốn làm là lột trần những điểm khác nhau giữa hai anh em, anh muốn hét lên cho cả thế giới biết rằng họ chỉ chung nửa dòng máu, với cha chung là ông Bartholomew Montgomery nhưng được sinh ra từ hai người mẹ khác nhau. Bà Sarah, mẹ Alex, chết vì ngộ độc thực phẩm ngay sau khi anh vừa tròn ba tuổi. Là một người gây giống ngựa thuần chủng có tiếng, Alex tin vào dòng dõi huyết thống, và giờ anh vin vào đó như một cái cớ để khẳng định với chính mình rằng Douglas hẳn đã hưởng gen xấu từ mẹ nó, bà Alicia, mẹ kế của Alex.
+
+Nỗi hổ thẹn đắng ngắt nghẹn ứ trong họng anh. Cưỡng hiếp. Có trong mơ anh cũng không dám mơ em trai mình có dính dáng đến từ kinh khủng đó. Em trai anh? Anh không thể tin được, nhưng giờ Douglas nằm đây, mọi hành động của nó đều là bằng chứng tố cáo tội lỗi đó.
+
+“Sao mày có thể?” Alex luồn những ngón tay đang run lẩy bẩy vào tóc, bắt đầu đi tới đi lui, và rồi quay phắt lại nhìn chòng chọc. “Mày là loại quái vật gì vậy? Hại một bé gái bất lực như Annie Trimble sao?”
+
+“Nó không phải là một bé gái.” Rón rén chạm vào vết cào dọc cổ mà đến giờ Alex mới phát hiện ra, Douglas nói thêm, “Và cũng không bất lực đâu”.
+
+Alex buông thõng tay và cuộn chặt thành hai nắm đấm run rẩy. “Còn nói là mày không cưỡng bức con bé sao? Nhìn vết cào kia, tao dám chắc là con bé đã dồn hết sức bình sinh để đánh mày.”
+
+Douglas lắc đầu như muốn giũ sạch mọi thứ, hắn ngồi dậy, uể oải ngáp rồi vòng hai cánh tay ôm lấy đầu gối. Áo sơ mi trắng của hắn dính đầy bụi đất đỏ. Giống như mọi vùng đất chân đồi quanh Hooperville, đất ở gần thác Misty cũng là đất sét màu nâu đỏ. Alex thấy ghê sợ. Và thất bại. Kể từ cái chết do tai nạn của cha và mẹ kế mười bốn năm trước, cái chết mà anh không khi nào thôi tự đổ lỗi, anh đã làm mọi điều mình biết để bù đắp mất mát và nuôi nấng em trai một cách tử tế nhất, anh đã làm tất cả để em trai thấm nhuần những giá trị và đạo đức mà cha sẽ dạy nó nếu ông còn sống. Thế nhưng bao nỗ lực của anh đều đổ xuống sông xuống biển. Ẩn dưới vẻ ngoài bảnh bao kia, Douglas đã thối rữa như những con cá ươn hằng tuần, và Alex không thể làm gì để thay đổi thằng em này.
+
+“Một lời bào chữa khốn khổ cho con người đang biến chất của mày”, Alex lầm bầm. “Tạ ơn Chúa là cha đã khuất, nếu không ông sẽ phải chứng kiến điều này.”
+
+Douglas nheo mắt trước ánh đèn và đối diện với cái nhìn chằm chằm buộc tội của Alex. “Anh có nghe chính mình nói không vậy? Annie Trimble là một con hâm, vì Chúa. Thế nên em mới vui vẻ chút đỉnh. Cá là giờ nó chẳng nhớ gì đâu. Em chẳng thấy có gì phải om sòm lên cả.”
+
+Alex không biết mình đã di chuyển. Anh chỉ biết điều kế đó là mình đang bóp cổ Douglas và đè nghiến nó vào tường. Dù cao lớn và lực lưỡng, Douglas không bao giờ mó tay vào làm việc thực sự. Cố hết sức nhưng Douglas không thể nào thoát ra khỏi cú kìm kẹp của Alex. Mặt Douglas chuyển từ đỏ gay vì tắc thở sang tím ngắt trước khi Alex kịp nhận ra mình đang làm gì và nới lỏng tay.
+
+“Chúa phù hộ cho tao, tao có thể đã bóp chết mày. Máu mủ ruột rà của tao, tao có thể giết mày không một giây do dự.” Douglas quằn quại giữa thân thể căng cứng của Alex và những tấm ván tường thô ráp, đùi hắn kẹp chặt lấy đầu gối của Alex đang đe dọa giáng một cú vào hạ bộ. “Anh điên rồi!”, Douglas rền rĩ.
+
+Muốn làm điều tồi tệ hơn nhưng Alex cố kiểm soát mình, anh xô Douglas đầy thô bạo làm vai hắn đập rung cả ván gỗ. Sau giấc ngủ, hơi thở nồng nặc rượu của Douglas chua nồng phả vào mặt Alex làm anh hiểu ra rằng gã trai trẻ này, đứa em mà anh hết mực yêu thương, giờ đã trở thành một thằng say xỉn, du côn, vô lương tâm. “Không điên đâu, Douglas. Theo cách mà tao thấy, giờ tao mới sáng mắt ra. Tao đã bao biện cho mày, cứu mày khỏi đủ chuyện trong cả đời mày. Nhưng lần này thì không, nếu người ta có treo mày lên, thì tao cũng sẽ chỉ đứng trong đám đông để xem cái bẫy sập xuống thôi.”
+
+“Em bảo anh rồi, em chỉ vui vẻ một chút thôi.” “Để con bé Annie tội nghiệp phải trả giá.”
+
+Alex buông tay khỏi Douglas cứ như động chạm vào nó thật ô uế. Anh chưa bao giờ tiến sát đến ranh giới giết người như thế. Đã có mấy lần thoáng nhìn Annie Trimble từ xa, nhưng giờ anh vẫn không thôi tưởng tượng ra cô gái với thân hình nhỏ bé đến mong manh, một sinh vật bí ẩn, vô hại quanh năm ngày tháng bên bìa rừng, giống cái bóng hơn là một thực thể, và luôn lẩn khuất sau gốc cây mỗi khi đụng phải người lạ. Không biết đêm nay bố mẹ cô sẽ cảm thấy thế nào khi biết con gái bị hành hung dã man đến thế? Lại không phải ai khác mà chính là Douglas Montgomery, em trai của một kẻ giàu có và luôn bảo vệ nó khỏi dây dưa đến pháp luật.
+
+Ồ, đúng. Alex đã trở nên thành thạo việc phát chẩn của hối lộ. Nhiều năm qua, anh đã hiểu ra rằng hầu như ai cũng có thể mua chuộc nếu quà biếu đủ lớn, và một vài lần anh đã cứu Douglas khỏi rắc rối cũng bằng cách này. Nhưng lần này thì không. Lần này Douglas đã đi quá xa so với phép tắc. Lỗi lầm của nó đến cả Alex cũng không bào chữa được, hãm hiếp đầy thú tính một cô gái thậm chí còn không hiểu nghĩa của từ đó.
+
+Cơn cuồng nộ sôi sục trong người Alex, anh biết rõ nếu Douglas không biến đi, nó sẽ mất mạng.
+
+“Đi đi”, Alex nói nhẹ. “Về nhà, lấy ít tiền trong két sắt và quần áo mày muốn rồi đi đi. Nếu còn để tao thấy mày lần nữa, tao sẽ không chịu trách nhiệm về những gì mình làm đâu.”
+
+“Đi á?”, Douglas nói dội lại. “Anh đang đuổi em ra khỏi nhà sao? Đừng có ngớ ngẩn thế chứ, anh Alex. Em là em trai anh mà.”
+
+Em trai. Alex nhìn xoáy vào những đường nét sắc cạnh và mạnh mẽ của Douglas, thật giống anh, cũng mái tóc vàng nâu, cũng làn da sáng bóng, cũng bờ vai vạm vỡ. Sao hai người lại có bề ngoài giống nhau đến thế mà tâm tư thì một trời một vực?
+
+“Tao không có em trai”, Alex nói cộc lốc. “Kể từ giờ, với tao, em tao đã chết rồi. Cút đi cho khuất mắt tao trước khi tao biến nó thành sự thật.”
+
+Trong trí nhớ của Alex, đây là lần đầu tiên thái độ kiêu ngạo của Douglas biến mất. Mặt nó méo xệch đi chỉ có thể là vì hoảng loạn. “Anh chỉ nói đùa.” Hắn đứng dậy, nhún vai cho thẳng lại áo. “Em sẽ đi đâu? Em sẽ làm gì đây?”
+
+“Tao không quan tâm.”
+
+“Nhưng em…” Douglas buông lửng, run run cười. “Thôi mà, Alex. Hãy cho em cơ hội để sửa chữa lỗi lầm. Ai cũng có cơ hội thứ hai mà.”
+
+“Mày hết cơ hội rồi.”
+
+Cơ hàm chùng xuống, Douglas chỉ đứng đó há hốc miệng. “Chúa ơi. Cắt tiền tiêu một tháng! Giam em trong nhà! Hãy làm bất cứ điều gì anh muốn nhưng đừng đuổi em đi.”
+
+“Douglas à, đấy là hình phạt cho mấy đứa con nít”, Alex mệt mỏi nói. “Lần này mày không cầm dùi cui đến phá ruộng bí ngô của mấy nhà nông hay đốt nhà phụ.” Trong nháy mắt, Alex gợi lại hết những trò chơi khăm mà em trai anh đã từng làm suốt những năm qua, hầu hết đều vô hại nhưng luôn ngầm ẩn sự tàn bạo mà anh cố chối bỏ. Đặt những bao tải phân thấm đầy dầu hỏa trước hiên nhà người khác rồi đốt cháy, để cho những người dân quanh đấy không mảy may nghi ngờ sẽ chạy ra dập lửa. Sẩm tối, chuyển nhà xí ra ngay sau lỗ thải để người nào đi vệ sinh sẽ giẫm ngay phải đống phân thối mục. Những trò quấy phá vô hại, Alex luôn tự nhủ vậy, nhưng thật ra anh đã biết hoàn toàn khác. “Tổn hại mày gây ra hôm nay không thể bù đắp bằng tiền, Douglas ạ. Mày không hiểu à?”
+
+Cơ miệng Douglas bắt đầu giật giật. “Nhưng chuyện đó có thể dàn xếp được mà.” Hắn giơ tay lên khẩn khoản. Hôm qua, Alex có thể đã thương hại em trai, giờ thì chẳng còn cảm thấy thế nữa. Hoàn toàn không. “Em thậm chí sẽ cưới con nhỏ ngốc đấy để sửa lỗi lầm, anh Alex à. Chỉ cần nói anh muốn thế thôi.”
+
+“Cưới con bé ư? Một con chó tao còn không mong nó có cái diễm phúc được lấy mày nữa là một con bé thiểu năng.”
+
+Nói xong, Alex xoay người rồi rời kho đồ. Khi đến lối hẻm vào, anh dừng lại một chút đủ để nói, “Nếu mày không cút khỏi đây trước khi tao từ nhà Trimble trở về thì chính tao sẽ nộp mày cho pháp luật xử lý”.
+
+“Nhà Trimble á? Thế quái nào mà anh phải đến đó?”
+
+Ừ đúng, tại sao. “Để cố mà đền bù thiệt hại”, Alex khẽ nói, “dù có Chúa mới biết phải làm thế nào. Là một người họ Montgomery, tao không cho phép mày hủy hoại cuộc đời người khác đâu, Douglas. Vậy là mày xong rồi. Dọn hết đi trước khi họ cho chó săn lùng mày”.
+
+Những bậc thềm cao che chắn cô khỏi những đợt gió đêm lạnh lẽo, Annie nép mình sau bụi cây nhựa ruồi, ép chặt lưng vào hàng gạch móng nhà. Ở đây an toàn. Không ai có thể lần mò đến chỗ cô từ phía sau. Chẳng có bàn tay nào có thể bất thình lình túm lấy cô. Cách duy nhất để ai đó tiến về phía cô là từ đằng trước.
+
+Cô cố nhìn qua làn nước mắt bỏng rát, lấy gấu váy ngủ trắng điên dại lau chân. Bẩn thỉu, nhớp nháp, xấu xa. Cô không thể chịu được khi người khác nhìn mình, ánh mắt buồn xé lòng của mẹ hay cơn thịnh nộ vẫn còn ngùn ngụt cháy trong mắt cha. Cô chẳng làm gì sai cả, chẳng làm gì. Thế nhưng cái cách mọi người nhìn xoáy vào cô làm cô cảm tưởng chính mình là người mắc sai lầm. Ở đây, trong bóng tối, cô không phải chịu đựng vẻ buộc tội trên gương mặt họ. Cô run rẩy lấy một hơi rồi nén lại nơi cuống họng để kìm không nức nở.
+
+Cành cây nhựa ruồi đung đưa trong gió. Cơ tay và cơ lưng của Annie giật lên rồi thắt lại với sức căng tàn bạo. Ánh trăng đêm dát bạc lóng lánh trên sân trước, thêm vài đường nét kỳ quái cho những chiếc bóng và làm những thứ lành tính trở nên đầy đe dọa. Khi đầu giật giật vì thiếu khí, cuối cùng cô buộc phải thở, thở rồi cuống cuồng hít vào thật nhanh để nuốt xuống bất cứ âm thanh nào chẳng may thốt ra. Ai đó sẽ nghe được, rồi cha sẽ đến, cầm theo cái dây da và bắt cô im miệng. Toàn thân đã đủ nhừ tử rồi. Cô không nghĩ mình có thể chịu nổi thêm một cái quất nào nữa, không phải đêm nay.
+
+Đến cả không khí quanh Annie dường như cũng tràn ngập hiểm họa. Biết rằng thật ngớ ngẩn nhưng cô cứ mãi ngước lên, nơm nớp lo sợ rằng người đàn ông xấu xa đã làm cô đau đớn đó chẳng biết từ đâu sẽ sà xuống. Dường như sáng nay chuyện cũng xảy ra như vậy, vừa ngừng soi bóng mình trên mặt nước thì đột nhiên cô thấy mặt hắn hiện ra ngay cạnh mặt mình.
+
+Đáng lẽ ra nên vứt khăn choàng lại mà chạy. Giờ cô đã nhận ra điều đó. Annie ngu ngốc, ngu ngốc. Không chừng vì thế mà cha mẹ nhìn cô như vậy. Họ nổi nóng vì cô cứ nấn ná để tìm khăn choàng. Vào lúc ấy, đó dường như là điều cô phải làm. Nói cho cùng thì Alan đã ở đó. Cô thấy an toàn vì mẹ anh ta hay đến nhà chơi. Chẳng có lý do gì để không thấy thế. Người ta trêu ghẹo cô suốt nhưng chưa có ai thật sự làm cô đau đớn.
+
+Không, cho đến sáng nay.
+
+Cắn chặt vào môi dưới, Annie run rẩy trước nỗi đau đã khắc sâu. Người đàn ông đó. Cô đã từng thấy hắn trước đây. Hắn sống ở một ngôi nhà còn to hơn nhà cô, ở trên đồi với những cánh đồng toàn là ngựa. Cô có thấy hắn cưỡi ngựa ngoài đường từ phía xa. Trông hắn không hề hèn hạ. Cô chẳng có lý do gì để nghĩ rằng hắn có thể làm đau cô.
+
+Hắn có thể ở đâu đó trong bóng tối này. Annie khao khát được nhắm mắt trước những ký ức dìm đắm lấy mình, nhưng không dám. Đôi mắt là vũ khí phòng thủ duy nhất của cô.
+
+Tại sao hắn làm cô đau đớn đến thế? Câu hỏi đó cứ giày vò cô đêm ngày mà chẳng thể trả lời. Cô đâu làm gì sai để hắn phải cáu giận. Cô vẫn nhớ đôi mắt lấp lánh của hắn. Đôi mắt thật đẹp có màu kẹo bơ Giáng sinh của mẹ. Hắn đã cười to lúc làm cô đau. Annie không nghĩ mình có thể gạt những hình ảnh ấy ra khỏi đầu.
+
+Cô ngồi thu lu bó gối. Bụng đau, tê buốt và tan nát cõi lòng. Dù mẹ đã tắm sạch những nhớp nháp trên người, cô vẫn thấy thật bẩn thỉu, cứ như đụng chạm của hắn để lại những vết nhơ chẳng bao giờ có thể gột rửa sạch. Nghĩ đến những gì hắn đã làm, cô muốn nôn mửa.
+
+Chuyển động trong bóng tối làm Annie chú ý. Cô rướn ra trước để nhòm qua những kẽ lá đầy gai. Bóng một người đàn ông cưỡi ngựa đang tiến đến lối vào nhà. Khi anh ta tới gần hơn, lời kinh cầu vang lên trong đầu cô. Đừng là hắn ta. Cầu xin Chúa. Làm ơn, làm ơn, làm ơn. Cô điên cuồng ra sức nhớ lại lời kinh cầu nguyện mẹ đã dạy khi cô còn nhỏ, nhưng giờ tất cả cứ rối tung trong đầu. Cứ như những lời cầu nguyện sẽ giúp được cô. Sáng nay nó đã vô tác dụng.
+
+Người đàn ông dẫn ngựa vào chỗ buộc rồi từ yên ngựa đu xuống. Mũi một chiếc ủng giả da chạm đất làm điểm tựa khi anh ta lấy lại thăng bằng rồi đưa chân trái ra khỏi bàn đạp ngựa. Mặc một chiếc quần túm nỉ nâu vàng kẻ sọc ngắn đến đầu gối cùng với một chiếc áo vải xéc xám dài, chiếc mũ phớt nỉ xứng bộ có vành che gần hết mặt, nên ít ai có thể nhận ra anh ta là ai ngay được. Với thân hình cao lớn và bắp vai cuồn cuộn, người đàn ông này có tướng rất giống kẻ đã hại cô lúc sáng nhưng ăn mặc bình thường hơn rất nhiều. Gấu quần được may bằng vải flannel ca rô đỏ, cặp tất dài đen bó lấy bắp chân là vải cotton chỉ nổi thông thường.
+
+Anh ta buộc dây cương ngựa rồi vừa vào hiên vừa phủi mấy sợi lông ngựa còn dính ở quần. Anh ta dừng lại ở bậc cửa đầu tiên. Annie thấy ngực anh ta nở rộng lúc hít một hơi sâu và chỉnh thẳng vai, điệu bộ ẩn đầy lo lắng. Rồi anh ta bỏ mũ ra.
+
+Mái tóc nâu nhạt ánh dưới bóng trăng không lẫn vào đâu được. Nỗi kinh hoàng xua đuổi mọi ý nghĩ sáng suốt khỏi tâm trí cô. Một cái nhìn vào gương mặt kia sẽ ám ảnh cô trong những đêm ác mộng bao năm tới, rồi Annie quên đi ý định đã vạch kỹ là tiếp tục trốn với tấm lưng được bảo vệ từ mọi phía. Là hắn! Cô phải chạy trốn. Nhưng nếu di chuyển, cô sợ hắn thấy được.
+
+Như cảm giác được có ai đó đang nhìn mình, hắn nheo mắt trước ánh sáng hắt ra từ cửa sổ và xuyên qua hiên nhà. Ánh mắt màu kẹo bơ của hắn xuyên qua bóng tối đang bao phủ cô, hắn hơi nhoài ra trước nhòm qua kẽ lá. Khuôn mặt một phần bị sấp bóng nên khi hắn nói, Annie khó luận ra từ. Có vẻ nhận ra Annie không hiểu, hắn nhích đến gần hơn rồi nhắc lại. Ánh sáng trong nhà nhấp nhoáng lên mặt khi hắn bước tới nên Annie thấy được môi hắn.
+
+“Xin chào.”
+
+Xin chào ư? Sau những gì hắn đã gây ra, Annie khó có thể tin hắn lại chào cô như thể chưa có chuyện gì. Nhớ lại hắn di chuyển nhanh đến thế nào và cú kìm kẹp nhẫn tâm của hắn, cô khiếp sợ rằng hắn có thể sẽ lại túm lấy cô lần nữa. Cô ghì chặt hai nắm đấm trong đất bẩn, nhấn gót chân để có thể chạy ngang sang bên. Sự tĩnh lặng vít đặc hai tai cô đã trở thành một tiếng trống vô thanh lúc hắn tiến đến rẽ những cành cây tạo lùm xung quanh cô.
+
+Không, không, không. Annie dường như có thể cảm nhận được sức nặng thân thể hắn đè nén hơi thở cô. Những vết thâm tím hắn để lại trên thân thể cô giật lên vì mạch đập nhanh làm máu dồn lên bề mặt da. Cô lắc đầu cự tuyệt khi móng vuốt bàn tay khổng lồ của hắn với về phía cô.
+
+Điên dại bò theo hàng gạch móng nhà, cô chẳng còn để ý những chiếc gai nhựa ruồi sắc nhọn chọc qua bộ áo ngủ cào xé da thịt mình. Quay người trên hai tay và đầu gối, cô lao qua khóm hoa hồng, mặc cho tóc giằng đầy vào gai. Cô phải chạy thật xa trước khi hắn túm được và lại làm cô đau đớn.
+
+CHƯƠNG HAI
+
+L
+ục tìm lùm cây để thoáng thấy cô một lần nữa, Alex vẫn sững người, một chân gác lên bậc thềm cuối dưới hiên nhà Trimble. Lùm cây rậm rạp che tầm mắt. Anh thoáng nghe tiếng thở gấp khe khẽ và thấy bụi cây lay động. Tựa người ra sau, anh thấy một bóng trắng. Ngay sau đó, cô xộc ra khỏi tán cây, thân hình mảnh mai như lơ lửng trên cơn gió thoảng.
+
+“Tôi không hại em đâu, Annie. Đừng sợ!” Cô đã biến mất vào đám cây rậm ngập rìa sân trước khi những lời nói của Alex nhỏ dần. “Chết tiệt.”
+
+Chắc rằng thật không an toàn nếu để cô một mình trong rừng ban đêm, Alex suýt đuổi theo. Nhưng rồi anh nghĩ thế lại tốt hơn. Hiển nhiên cô cho rằng anh chính là Douglas, nỗi kinh hãi sẽ càng khiến cô chạy thật nhanh. Thậm chí nếu có đuổi kịp, anh không chắc có thể làm cô hiểu được rằng mình vô hại. Cô gái nhỏ tội nghiệp. Không có chuyện của Douglas thì cuộc đời cô ấy cũng trải đủ đắng cay rồi. Alex không muốn gây thêm rắc rối khi làm cô sợ đến kinh hồn bạt vía. Có lẽ cô không thể hiểu những gì xảy ra hôm nay hay hiểu rằng chuyện đó có thể không xảy ra nữa.
+
+Anh lắc đầu rồi tiếp tục bước lên thềm. Lạy Chúa. Chỉ nghĩ đến việc sinh vật bé nhỏ đáng thương kia nghĩ mình là kẻ hãm hiếp cũng đủ làm Alex muốn xông thẳng về nhà nện cho thằng Douglas mấy đòn chí mạng. Cơn giận bùng lên làm anh gõ cửa nhà Trimble mạnh hơn bình thường. Bởi một giọt máu đào hơn ao nước lã nên anh không muốn thấy em trai mình bị treo cổ. Mặt khác, nếu Douglas bị bắt, nó sẽ phải trả giá việc đã làm gấp bội.
+
+Bà Edie Trimble, vợ ngài thẩm phán, ra mở cửa cho Alex. Thoáng ngạc nhiên vì tưởng sẽ có người hầu dẫn vào, nhưng rồi anh nhận ra với gia đình này, đêm nay khác hẳn, thời điểm cho sự thận trọng và những lời bàn tán phải bị ỉm đi. Có đứa con thiểu năng rõ là cũng đủ cực rồi. Nếu chuyện cưỡng hiếp này lộ ra thì nhà Trimble sẽ rát tai vì những lời đàm tiếu. Đêm nay gia nhân được nghỉ việc để đảm bảo chuyện đó không xảy ra.
+
+Alex nghĩ rằng đến nước này mà nhà Trimble vẫn bận tâm về mấy chuyện ấy thì quả thật đáng thương. Nhưng anh không thể thực sự trách họ. Dẫu rằng phần lớn những người khuyết tật được chấp nhận thì vẫn có những người rất hẹp hòi. Annie chưa khi nào được xuống thị trấn và nghe đâu bố mẹ thường giấu cô đi khi có người đến chơi, thế nhưng Alex nghe nói bà Edie đã mấy lần bị các quý bà khác cùng địa vị làm ê mặt chỉ vì có đứa con như Annie. Nghe phong thanh ba cô con gái kia nhà ông bà Trimble rất ít về ngoại không phải vì nhà xa mà do chồng của mấy cô thấy khó chịu khi phải ở gần Annie.
+
+Bà Edie xuất hiện chỉn chu trong chiếc áo lông alpaca thắt eo màu lục, mái tóc đen ngả màu được búi gọn trên đỉnh đầu, nhưng trông bà mệt mỏi rã rời. Đôi mắt xanh sưng lên vì khóc, khuôn mặt với những nét tạc tinh tế cũng xanh xao, làn da trên đôi gò má cao bị kéo căng, khuôn miệng đẹp bị những vết nứt nẻ dồn lại hơi bĩu ra. Thấy Alex, bà giật mình nhưng giấu nhẹm, chỉ có cái cách ngón tay bứt vào váy đầy lo lắng là nói thật cảm xúc của bà.
+
+“Ngài Montgomery.” Trang trọng và cứng nhắc, bà cúi đầu chào Alex. “Sao chúng tôi lại có được… vinh dự này?”
+
+Những từ cuối nghe như bị bà gằn ra từng tiếng. Nhưng không vì thế mà anh trách bà. Giờ đây với bà Edie, nhà Montgomery sao có thể đứng trên tốp đầu được nữa. Anh cho rằng ước muốn huyễn hoặc nhất của bà là được móc mắt anh ra. Nếu Annie là con gái mình, anh cũng sẽ có chung cảm nhận. Nổi điên. Kịch liệt. Muốn anh chuốc lấy báo ứng.
+
+“Tôi đến để thưa chuyện với chồng bà”, Alex lựa lời. “Chắc ông ấy ở nhà chứ ạ?”
+
+Dù lộ rõ vẻ miễn cưỡng, bà vẫn gật đầu, mở rộng cửa và ra hiệu cho Alex vào phòng chờ. Cảm giác như con mọt trong bao bột mỳ, Alex quay quay mũ trong tay, ước Chúa cho mình ở bất cứ đâu ngoại trừ nơi này. Một kẻ có em trai hành hạ con gái nhà người ta phải nói gì với bố mẹ cô gái đây? Tôi đến để bồi thường thiệt hại à? Giá bồi thường được thật. Lời xin lỗi chẳng thể lấy lại như bát nước đã đổ đi. Trong đời mình, Alex không ít lần phải chịu hổ thẹn nhưng lần này nó đã lên đến tột cùng.
+
+Alex thường rất tự tin và không màng tới những gì người khác nghĩ về mình, nhưng lần này nhìn vào bộ váy cắt tinh tế của bà Edie Trimble, anh tự nhiên ước giá mình dành chút ít thời gian để ăn mặc tử tế hơn. Là anh của kẻ hiếp dâm đã đủ tệ hại và đáng bị tống cổ về rồi, huống chi lại còn ăn mặc khiếm nhã kiểu này.
+
+À, ừ. Giờ cũng không kịp nữa rồi. Được hưởng cả núi tiền và một tòa nhà mà riêng tầng trệt đã có thể ôm trọn cả căn nhà này nhưng Alex ít khi ngơi nghỉ chân tay, lúc thì chăm ngựa, khi thì làm đồng. Thi thoảng lắm anh mới gặp gỡ và trò chuyện với người khác mà chủ yếu là những người nông dân bán mặt cho đất, bán lưng cho trời. Trừ khi định vào thị trấn, còn bình thường anh mặc quần bò, áo sơ mi hở cổ thoải mái, ống tay xắn đến khuỷu. Trước khi đến đây, Alex đã tắm rửa, cạo râu, mặc quần ống túm và áo vest, thấy mình vậy là tươm tất. Đầu óc rối bời đủ thứ làm anh quên khuấy việc ông Trimble là người đặt nặng vẻ bề ngoài. Sau hơn ba mươi năm làm thẩm phán, ông ấy chẳng thèm nuôi lấy đàn gia súc trong nhà nói gì đến việc hạ mình làm mấy việc bẩn tay.
+
+“Ngài thẩm phán ở trong thư phòng”, bà Trimble bảo Alex, cách cư xử của bà lịch sự đến không tỳ vết nhưng thật lạnh lùng.
+
+Thấy rõ bà không ngỏ ý muốn cất mũ giúp, Alex theo bà ra khỏi phòng chờ, đi vào tiền sảnh dài đầy những cánh cửa. Đến nửa hành lang, bà Trimble dừng lại gõ nhẹ vào cánh cửa gỗ sồi bóng loáng. “Ngài thẩm phán? Có người muốn gặp.”
+
+Có tiếng lầm bầm khó nghe từ phía trong. Bà Trimble mở cửa rồi lùi lại cho Alex vào. Bước vào căn phòng, căng thẳng trong anh dịu đi chút ít. Nó rất giống thư phòng của anh, cũng có những chiếc ghế sô pha rộng được cố tình đặt quanh tấm thảm thêu rực sắc màu. Căn phòng để người đàn ông được thư thái và thấy gần gũi. Giá gỗ sồi sáng bóng dựng dọc theo ba bức tường chứa đầy những cuốn sách bọc da, bức còn lại nổi lên chiếc lò sưởi lát đá sông. Ánh lửa reo vui trong khung chắn, nguồn sáng còn lại phát ra từ hai ngọn đèn ga trên mặt lò.
+
+Ông thẩm phán ngồi sau bàn làm việc, áo sơ mi trắng mở cổ nhăn nhúm, cà vạt màu đỏ thẫm được nới lỏng. Làn khói gắt mùi bay lên từ chiếc gạt tàn gần khuỷu tay ông. Alex đăm đăm nhìn điếu xì gà. Đã mười bốn năm trôi qua nhưng chỉ cần nhìn thấy nó là Alex sẽ nghĩ về cha và chìm trong thống khổ.
+
+“Anh Alex”, ông Trimble nói vẻ mệt mỏi. “Tôi đoán anh đã nói chuyện với em trai?”
+
+Chẳng cần có ngoại cảm cũng nhận ra rằng ông thẩm phán tưởng anh sẽ xổ một tràng những lời chối bỏ việc Douglas có dính líu đến vụ tấn công con gái ông. Alex cũng chỉ ước được phủ nhận như thế. “Vâng.” Nhìn chằm chằm những cuốn sách dựng dọc một bên tường, Alex cố luận ra các tựa đề. Dòng chữ in màu vàng nhòa đi, nhảy múa trong mắt anh, rối nát như tâm trí anh vậy. Anh không biết phải bắt đầu từ đâu, hay phải nói cái gì. “Tôi, ừm…” Anh nuốt xuống, lấy mu bàn tay cọ miệng. Rồi lại lấy mũ vỗ vào chân. “Là Douglas đã làm”, cuối cùng anh cũng thốt ra. “Tôi đến mong ngài nhận những lời xin lỗi hèn hạ cho những gì em tôi đã làm và đền bù bằng mọi cách có thể.”
+
+Đáp lại, ông thẩm phán nín thinh.
+
+Alex tiếp lời. “Nếu ngài định khởi tố, tôi sẽ không ngăn cản. Nhưng ngài nên nhanh chóng báo cho cảnh sát vì tôi đã đuổi nó ra khỏi nhà và rất có thể đến giờ nó đã chuồn đi đâu chẳng biết.”
+
+Chống hai tay lên bàn, ông thẩm phán day hai bên thái dương. “Khởi tố?” Ông cười cay đắng. “À, phải, ai cũng sẽ nghĩ thế. Đó là điều tất lẽ phải làm đúng không? Nhưng trong những tình huống thế này vấn đề đúng sai rất mơ hồ.” Ông lại cười phá lên khi thú nhận điều ấy nhưng giọng cười không chút bỡn cợt. “Quá nửa đời làm thẩm phán, tôi nhớ đây là lần đầu tiên ranh giới đen trắng lại mập mờ đến vậy.”
+
+Giọng nói đau khổ của ông thẩm phán làm Alex dồn ánh nhìn xuống sàn nhà. Đó là chỗ an toàn. Anh không phải lãnh những cái nhìn buộc tội dội xoáy vào mình. Anh sẽ không nghĩ ra phải nói gì nên đành ẩn mình vào im lặng.
+
+Cuối cùng thì ông thẩm phán cũng nói tiếp. “Tôi rất cảm kích nếu anh có nhã ý không can thiệp vào chuyện này. Nói cho cùng thì cậu ta cũng là em trai anh. Nhưng tôi không chắc cứ là phải ràng buộc anh.”
+
+Miễn cưỡng nhìn lên, Alex nói, “Tôi e rằng mình không hiểu ý ngài”.
+
+Ông Trimble hạ tay xuống, nhìn vào ánh mắt Alex. “Tôi biết điều này nghe có vẻ thật nhẫn tâm nhưng còn biết bao chuyện cần được xem xét hơn là tổn thương mà Annie phải chịu.” Ông thẩm phán đẩy ghế ra rồi đứng dậy. Là một người nhỏ thó nhưng phong thái của ông rất mạnh mẽ với đôi mắt xanh ngọc bích sắc sảo cùng sự hòa trộn đầy ấn tượng giữa cá tính và sức mạnh trên nét mặt. Alex luôn ngưỡng mộ ông và ca ngợi những phán quyết công minh của ông trên tòa. Ông cứng rắn, nhưng công bằng, là người được người ta tin tưởng theo bản năng.
+
+“Bê bối là nỗi kinh hoàng của chính trị gia, anh Alex ạ”, ông khẽ nói. “Nếu chuyện hôm nay bại lộ, ắt có làn sóng phản đối kịch liệt.” Trông thoáng vẻ tủi hổ, ông thọc tay sâu vào túi quần, chăm chú nhìn mũi đôi giày đen láng bóng. “Không chỉ với mình Annie, mà cả tôi và gia đình tôi.”
+
+Alex vẫn cảm thấy mơ hồ nhưng dằn không nói.
+
+Ông thẩm phán già thở dài, quay về phía ngọn lửa đang lách tách, dồn ánh nhìn về chiếc lò sưởi, phong thái thật chán chường. “Cậu Douglas phải bị treo cổ vì những gì hôm nay đã làm với con gái nhỏ của tôi. Với tôi điều này quá rõ ràng. Nhưng để được cái gì chứ? Annie bị hành hung, sự đã rồi tôi chẳng thể trở tay. Vì thế, tôi không muốn làm gì. Chắc anh cũng biết, tôi vừa nghỉ làm ở tòa và muốn thử vận may trong hoạt động chính trị ở vùng này rồi có thể từ đó lên làm trên bang. Bê bối kiểu gì cũng có thể làm tôi bị hủy hoại.”
+
+Với Alex, dường như vụ việc này bôi nhọ thanh danh nhà Montgomery, chứ không phải nhà Trimble. “Con ngài bị hại. Không ai trách ngài vì điều đó hay bắt ngài phải chịu trách nhiệm. Nếu có gì thì đó là lòng thương cảm của dân tình dấy lên thôi.”
+
+“Thường thì thế. Nhưng con Annie nhà tôi không được bình thường. Rõ là nó bị ảnh hưởng, cơn sốt cao lúc nó còn nhỏ đã gây ra biến chứng. Không may là khi nghe tin đồn, có những người tự suy ra rằng con bé bị đần độn và có ý là bệnh này do di truyền.” Ông khóa cái nhìn trực diện và khắc nghiệt vào Alex. “Gần đây anh bầu cho bao nhiêu chính trị gia bị rối loạn tâm thần rồi?”
+
+Alex không thốt được nửa lời. Sự sáng suốt của một thẩm phán là điều hiển nhiên, nhưng nếu người ta cứ thêu dệt lên tin đồn rằng gia đình ông có gen loạn trí thì lòng tin của những người ủng hộ sẽ lung lay. Mầm mống của ngờ vực là tất cả những gì hủy hoại cơ hội của ông trong cuộc bỏ phiếu.
+
+“Chúng tôi gắng giấu Annie càng kỹ càng tốt để người ta không gièm pha. Nếu bàn dân thiên hạ biết chuyện cậu Douglas gây ra với con bé nhà tôi thì mọi nỗ lực của chúng tôi để bảo vệ con bé khỏi bị chú ý sẽ tan thành mây khói.”
+
+Alex gật đầu. “Vậy ngài định giữ kín chuyện này?”
+
+“Đúng vậy.”
+
+Điều này sẽ cứu rỗi em trai anh nhưng Alex thấy đây là một quyết định lầm lạc, anh thất vọng vì ông thẩm phán làm vậy. Nếu thằng Douglas hại một cô gái thì chẳng có gì đảm bảo rằng nó sẽ không trù dập một cô gái khác. Cách duy nhất để đảm bảo không tái phạm là bắt nó gánh hình phạt nặng nhất của pháp luật.
+
+Khi Alex chỉ ra điều đó, ông thẩm phán đáp lời, “Việc cậu Douglas Montgomery là mối đe dọa cho xã hội không phải là vấn đề hay trách nhiệm của tôi. Tôi còn phải nghĩ cho gia đình, bản thân và cho tương lai của chúng tôi. Tham gia chính trường là mơ ước cả đời tôi, và đó là cái đích tôi vươn đến trong cả sự nghiệp của mình. Sao tôi có thể để hành động của em anh làm tiêu tan tất cả chứ? Tôi không kham nổi vụ tai tiếng này, với tôi, nhẹ nhàng nhất thì đó vẫn sẽ là một vết ô nhục. Kể cả nếu con bé Annie có bình thường, mà thật ra nó đâu có được thế, thì tin đồn cũng sẽ lan nhanh như gió. Trong trường hợp của Annie, tin đồn còn kinh khủng hơn. Tôi không dám liều. Không đâu. Xa mặt cách lòng. Đấy là phương châm nuôi dạy Annie của tôi, và tôi sẽ tiếp tục phương châm này”.
+
+“Ngoài thanh danh hoen ố của tôi, tôi cũng phải nghĩ đến hậu quả mà con bé phải chịu. Đến giờ, trai trẻ vùng này còn để nó yên. Nhưng ai mà đoán được chuyện gì sẽ xảy ra một khi việc này bị hé lộ? Hàng bật nắp, và mọi thứ như thế.”
+
+Alex thấy những suy luận ấy thật kinh khủng, và anh chắc rằng mình đã để lộ cảm nghĩ vì ánh nhìn của ông thẩm phán trở nên cay nghiệt.
+
+“Chết tiệt, anh nghĩ đi, Montgomery. Con gái tôi là đứa ngờ nghệch. Cả đời nó là mục tiêu để người ta chọc ghẹo. Anh nghĩ xem tại sao nó phải lẩn trốn vào rừng mỗi lúc thấy người? Lũ trẻ con ném đá vào nó. Cứ có cơ hội là chúng lại giở mấy trò tai quái ác độc với con bé. Hôm nay, em trai anh đơn giản chỉ đổ thêm giọt nước tràn ly. Nếu ai cũng biết chuyện, thì có thằng thanh niên khác sẽ nghĩ ra rồi lại dễ dàng làm điều tương tự. Để bảo vệ con bé, chúng tôi sẽ luôn phải giấu kín nó, hơn nữa thì phải gửi nó vào trại. Nếu điều ấy xảy ra, bà nhà tôi sẽ đau đớn lắm.”
+
+Alex cạn lời. Hoàn toàn không biết nói gì ngoài, “Tôi xin lỗi, thưa ngài thẩm phán. Tôi thật sự rất xin lỗi”.
+
+Ông già lại thở dài, nghe đến não lòng. “Vâng, tôi biết thế. Nhưng xin lỗi cũng chẳng lấy lại được gạo khi đã nấu thành cơm.” Như thể chợt nhận ra giọng điệu khắc nghiệt của mình, ông nói thêm, “Alex à, đừng nhìn nhận chủ quan quá. Sự thật đau lòng rằng người ta có thể chọn bạn chứ không chọn được anh em”.
+
+“Không.” Alex vô vọng nhìn khắp phòng, lục lọi gì đó trong tâm trí, bất cứ điều gì anh có thể làm để sửa lỗi lầm. Nhưng không có. Anh đã nói những gì mình phải đến để nói. “Liệu tôi có thể làm gì, bất cứ điều gì…”
+
+Ông thẩm phán lắc đầu. “Ta nguyện Chúa giá mà có, con trai à. Vì thế, chúng ta chỉ có thể cầu nguyện sự ngờ nghệch sẽ giúp con bé nhanh quên đi ký ức đó.”
+
+Nhớ lại cách Annie xé bụi cây lấy lối chạy thoát khỏi anh chỉ vài phút trước, Alex có lý do để tự hỏi liệu nỗi kinh hoàng có mang nhiều tính phản xạ hơn những thứ khác không, liệu một cảm xúc bản năng cố hữu ở kẻ ngốc và ở thiên tài có như nhau không. Anh ước cô có thể quên nhanh, nhưng chẳng hiểu sao vẫn không dám chắc.
+
+Cổ họng anh có cảm giác khô cháy. Mùi gỗ đốt thoang thoảng từ lò sưởi quyện với mùi hăng từ điếu xì gà. “Nếu có thêm chuyện phức tạp gì, xin ngài đừng ngại…”
+
+“Lạy Chúa xin đừng.”
+
+Alex không trách khi ông thẩm phán loại bỏ mọi ý nghĩ về chuyện có thai, nhưng đó là hậu quả tự nhiên sau những gì Douglas đã làm, cả hai người không thể hoàn toàn loại bỏ khả năng này. “Tôi cũng mong vậy, xin ngài hãy cho tôi biết nếu lẽ thường tình ấy nảy sinh. Tôi sẽ sẵn lòng giúp đỡ bằng bất cứ cách nào có thể.”
+
+Ông thẩm phán gật đầu chán nản. Tiến đến song hành với Alex, ông với tay vỗ vai anh, nét mặt lộ rõ nỗi chán ngán cùng cực. “Tôi rất cảm kích vì anh ghé qua. Can đảm đấy!”
+
+Không hiểu tại sao. Alex thấy cảm giác nóng rát lan lên cổ anh. Anh không có quyền được treo cổ đứa em mình lên, nhưng anh muốn làm vậy. “Ngài biết phải liên lạc với tôi thế nào rồi đấy.”
+
+“Cứ yên trí, tôi sẽ liên lạc nếu thấy cần thiết.”
+
+Có vẻ chẳng còn gì để nói. Alex ra khỏi nhà Trimble, đầu óc choáng váng. Thật khó tin nhưng Douglas một lần nữa lại thoát tội. Alex biết lẽ ra mình phải thấy nhẹ nhõm. Nhưng không. Thật không công bằng khi một mình Annie trả giá cho điều sai trái đã xảy ra hôm nay. Thật bất công.
+
+CHƯƠNG BA
+
+B
+ốn tháng sau.
+
+Ngày 16 tháng 8 năm 1890.
+
+Thứ Bảy. Gục trán vào đầu gối để mẹ cọ được lưng, Annie mấp máy chính xác từ đó lúc thấy mẹ nói và cố nghĩ xem nó nghe thế nào. Một số từ dễ vì cô nhớ mình đã nghe và nói chúng khi còn nhỏ. Nhưng từ thứ Bảy khó hơn. Trong hồi tưởng của mình, cô chưa bao giờ được nghe từ đó. Nhưng cũng chẳng thành vấn đề nếu cô có tưởng tượng sai âm của chúng. Hễ cô cố nói là mẹ lại vả vào miệng. Annie không chắc tại sao và cũng lâu rồi thôi không thắc mắc. Quy định cho cô khác với cho người khác, và dần dà cô phải chấp nhận rằng có rất nhiều thứ mình không được phép làm.
+
+Cô không mấy quan tâm. Không còn nữa. Khi lên điểm bí mật trên gác mái để chơi đùa, cô có thể làm mọi thứ mình muốn. Trên đó, trừ mấy chú chuột cưng thì chẳng ai thấy cô, bép xép về cô. Trên gác mái cô có thể mặc như một quý cô với những bộ đồ cũ trong rương. Cô có thể có tiệc trà giống mẹ hay làm và giả vờ mình nói được. Có khi cô còn khiêu vũ. Rồi khi thấy chán mấy trò đó, cô có thể vẽ phác họa bằng tệp giấy và bút chì lén lấy từ thư phòng của cha. Gác mái có thật nhiều trò vui, và được làm những điều cấm đoán bù lại việc không được làm chúng phần thời gian còn lại.
+
+Thứ Bảy. Annie lại ghé môi vào đầu gối mấp máy rồi tự hứa ngay lần tới trên gác mái cô sẽ tập nói từ này trước gương. Hồi nhỏ, trước khi thông thạo đọc môi, Annie cho rằng từ thứ Bảy nghĩa là “tắm” vì mẹ luôn nhấn mạnh từ này khi đẩy cô vào bồn. Giờ, Annie hiểu ra thứ Bảy là ngày trước ngày đi lễ nhà thờ, và để chuẩn bị thì tất cả mọi người trong nhà đều phải tắm rửa.
+
+Vì đã lâu lắm rồi Annie không được phép dự nhà thờ nên cô nghĩ việc phải tắm rửa theo mọi người thật không công bằng. Buổi sáng cô không được diện đồ đẹp như mẹ và ba chị gái, đến lúc mọi người đi lễ thì cô phải ở lại với đám gia nhân. Ai sẽ để ý liệu hai tai cô có sạch, nói gì đến chăm sóc? Chắc chắn không phải cô.
+
+Như thể đoán được ý nghĩ của con, mẹ túm lấy dái tai cô rồi kéo mạnh. Annie rụt cổ như rùa rồi nhắm tịt mắt lại. Cô ghét phần này. Ghét, ghét. Để cọ tai cô, mẹ luôn quấn vải vào đầu ngón tay rồi ấn cả đống ấy vào lỗ tai cô. Hầu như lúc nào cũng đau nếu không thì cũng cực kỳ khó chịu. Annie ước giá được tự kì cọ tai mình, nhưng vì lý do gì đó mà mẹ không tin cô có thể làm được trọn vẹn. Đã từ lâu, Annie học cách không chống cự. Cô sẽ ăn cái bạt tai nếu chống lại, mà cuối cùng thì mẹ vẫn bất chấp nhét khăn rửa vào tai cô.
+
+Thịch, thịch. Những khớp ngón tay mẹ gõ mạnh trên đầu làm Annie mở mắt. Biết điều gì đang chờ đợi mình, cô ngẩng lên và chịu cảm giác nghẹt thở khi được rửa mặt. Làm theo tay mẹ ra hiệu, cô nhỏm dậy, nước chảy xuống, để mẹ cọ phần thân và chân. Annie thuộc nằm lòng việc đó và quay đằng này, đằng kia.
+
+Đột nhiên, mẹ ngừng kì cọ. Annie lén nhìn qua mấy lọn tóc đen ướt đẫm của mình, băn khoăn không biết có chuyện gì. Đôi mắt xanh của bà lồi ra, miệng mở rộng như thể có ai cướp đi hơi thở. Annie nhìn xuống mình, ngờ sẽ thấy gì đó khủng khiếp. Nhưng theo cô thấy thì chẳng có vấn đề gì. Cô đưa mắt nhìn mẹ, câm lặng thắc mắc.
+
+Như để trả lời, môi bà mấp máy thành từ, “Ôi lạy Chúa, con đang to ra”.
+
+To ra? Annie không rõ từ đó. Lúc gắng sức phát âm từ ấy trong đầu và xác định nghĩa có thể của nó, cô thấy mẹ đang trân trân nhìn bụng cô. Ngượng, Annie cố hóp lại chỗ hơi phình. Gần đây, cô hay để ý đến phần eo mình đang mập ra và ngay chiều hôm ấy đã quyết định ăn ít đi. Dành rất nhiều thời gian lang thang trong rừng, cô thường quan sát thú hoang khi chúng chuẩn bị ngủ đông và tự luận ra rằng ăn nhiều sẽ làm bọn chúng béo. Annie chỉ có thể cho rằng mình đã lấy trộm quá nhiều bánh quy và bánh mì ngọt trong bếp.
+
+Với Annie, cái bụng đang phình ra là chuyện nhỏ có thể xử lý dễ dàng. Nhưng với mẹ dường như vấn đề nghiêm trọng hơn nhiều. Sau một lúc nhìn cô chằm chằm, mẹ đánh rơi chiếc khăn ướt xuống sàn rồi lấy hai tay ôm mặt. Nhìn vai mẹ giật lên, Annie biết bà đang nức nở. Cô không biết phải làm gì, rồi trước khi cô có thể nghĩ ra, cha xộc vào phòng, gấu áo ngủ bay phần phật quanh mắt cá chân trần đầy lông lá.
+
+Annie đan tay che ngã ba trên đùi rồi chìm lại vào nước. Cha không bao giờ vào phòng ngủ của cô khi cô đang tắm.
+
+“Chuyện quái gì vậy?”, ông hỏi.
+
+Annie đăm đăm nhìn mẹ hy vọng thấy bà đáp lại để cô tự biết câu trả lời cho câu hỏi đó. Nhưng mẹ vẫn vùi mặt vào tay. Những gì bà nói làm cha trông nhợt đi. Ông đưa đôi mắt xanh đau khổ nhìn Annie.
+
+“Lạy Chúa, không.”
+
+Ông chầm chậm tiến về phía bồn tắm, túm lấy cánh tay Annie, kéo cô đứng dậy. Annie không nhớ lần cuối cùng cha nhìn mình trần truồng thế này là khi nào, cảm giác bừng bừng choán lấy cô. Cô khom người lại, lấy tay ghì vào chỗ nhạy cảm. Đáp lại, cha lắc cô thật mạnh. Cô ngước lên đúng lúc thấy ông nói, “Thôi ngay! Đứng lên con, để cha nhìn”.
+
+Annie không muốn nhưng cha đã thấy rồi. Cô thấy ơn Chúa vì giây phút xấu hổ không quá lâu. Cha thả cô ra, tay che lấy mắt, rồi vụt trở ra. Cách cha mẹ xử sự làm Annie lo sợ, cô nẹp chặt hai lòng bàn tay lên bụng. Cô hiếm khi thấy họ đau khổ đến vậy. Chắc chắn cô không béo đến mức đó.
+
+Cha rời phòng trước khi ngoái lại nói điều gì đó mà Annie không hiểu. Mẹ run rẩy lau nước mắt trên má rồi nhặt khăn tắm ra hiệu cho Annie ra khỏi bồn. Lẩy bẩy run, cô bước vào giữa đống vải flannel rồi quấn quanh người. Mẹ chỉ vào chiếc áo ngủ sạch đã được bà đặt sẵn trên giường. Hẳn là mong Annie tự lau người và mặc đồ, bà hớt hải chạy khỏi phòng. Cố lồng chiếc áo ngủ vào, Annie rón rén ra mở hé cửa. Cô cảm nhận sự rung động trên mặt sàn theo những bước chân cha trước khi thấy ông đi xuống hành lang. Cô ngạc nhiên khi cha mặc lại quần áo và đang hấp tấp cài cúc. Dây giày vẩy mạnh theo mỗi bước cha đi nhưng chắc ông chẳng để ý rằng mình quên buộc chúng. Cô quan sát khi ông đi xuống bậc thang. Một lúc sau cô cảm thấy bức tường rung lên khi cha ra ngoài và đóng sập cửa lại.
+
+Annie không thể nghĩ ra cha đi đâu được. Mọi tối thứ Bảy ông đều nghỉ sớm rồi lên giường đọc sách đến lúc thiếp đi. Theo cô nhớ, khi đã đi nghỉ, cha không bao giờ ra ngoài trừ khi xảy ra chuyện không hay.
+
+Sợ mẹ phát hiện mình đang nhòm trộm, cô nhẹ nhàng đóng cửa. Áp lưng vào cánh cửa gỗ, cô ôm lấy eo và tua lại tất cả những gì đã xảy ra. Cha mẹ không thể nào đau buồn đến thế chỉ vì eo cô đang to lên.
+
+Không hiểu nổi chuyện, Annie tắt đèn rồi vội lên giường trong ánh sáng bấc đèn đang tàn dần. Đêm hè ấm áp mà ga giường thật lạnh làm cô run lên rồi rúc sâu vào tấm mền bông.
+
+Khi bóng tối bủa vây, cô nhắm mắt quyết định đi ngủ. Dù cha có đang buồn bực chuyện gì đi nữa thì cũng không bận đến cô. Chắc chắn không. Bao người còn béo hơn cô nhiều mà họ có lo đâu.
+
+Alex nhấm nháp một ngụm brandy, thưởng thức vị rượu chảy tràn trên lưỡi. Đây là thời gian buổi tối anh ưa thích, kết thúc ngày làm việc, dùng xong bữa tối, giờ phút yên bình trước lúc đi ngủ kéo dài trước mắt. Lửa nổ rộn ràng, ngọn lửa màu hổ phách, nhiệt hầu hết được đẩy lên lỗ thông ống khói. Dù đông hay hạ thì Alex luôn thích đốt lửa đêm, để sưởi ấm trong những ngày đông tháng giá, để làm vui tâm trạng khi tiết trời oi ả. Ngọn lửa tỏa rất ít nhiệt, nhưng tia sáng hiền hòa đang bập bùng ở góc xa nhất trong thư phòng của anh.
+
+Sau khi làm ít công việc giấy tờ, anh mong dành chút thời gian để đọc. Báo cả tuần từ Portland đã chất thành chồng bên ghế, chưa tờ nào được mở ra. Ở cả trại ngựa lẫn mỏ đá, mùa xuân và mùa hè là thời điểm anh bận rộn nhất trong năm, bắt đầu từ mùa ngựa sinh sản kéo dài đến tận vụ thu hoạch tháng Chín. Trong những ngày tháng ấy, hết tuần này qua tuần khác phải oằn lưng làm việc, trả đơn hàng đá nghiền, trông ngựa lâm bồn, chăm sóc ngựa con, cày ruộng, rồi trồng trọt, tưới tiêu. Công việc cứ như không hồi kết, nên chẳng có mấy lúc nghỉ ngơi. Họa hoằn lắm có thời gian rảnh, anh thường đến mỏ đá bàn việc với quản đốc.
+
+Alex duỗi đôi chân dài rồi bắt chéo nơi mắt cá. Đắm mình trong ánh lửa, anh thấy mình giống chú mèo lười. Cơn mơ màng lướt đến như tấm chăn bông mềm mại, anh nhắm mắt lại, ly rượu trên tay lơi lỏng tựa vào ngực.
+
+“Thưa cậu?”
+
+Nghe giọng ông quản nô, anh bật thẳng dậy. Rượu tóe vào trước áo, anh rủa thầm.
+
+“Thật xin lỗi vì làm phiền cậu, thưa cậu Alex, nhưng ngài James Trimble đang ở phòng chờ, ông ta cứ nằng nặc đòi gặp cậu vì có chuyện vô cùng khẩn cấp.”
+
+Alex đặt ly rượu lên chiếc bàn cẩm thạch cạnh ghế rồi lấy tay xoa khắp mặt. Ông Trimble? Anh liếc nhìn đồng hồ trên mặt lò sưởi, mới có bảy giờ mười. Lắc người cho tỉnh táo, anh đứng dậy và bắt đầu giắt áo vào. “Cho ông ấy vào đi, chú Frederick.”
+
+Ông quản nô xoay người ra khỏi thư phòng, đuôi áo đen phập phồng bay phía sau. Một lúc sau, cánh cửa gỗ gụ bóng bẩy mở ra, ông Trimble bước vào. Nhìn một cái, Alex biết là có chuyện. Ông thẩm phán quên buộc dây giày bên trái, bít tất bên phải gấp nếp quanh mắt cá chân, một bên quần trùm lên tất. Áo cài đúng khuy nhưng chỉ có một đuôi áo được nhét trong quần.
+
+“Lạy Chúa, ngài thẩm phán, đã xảy ra chuyện gì vậy ạ?”
+
+Ông thẩm phán già đi thẳng vào bàn, cứ sải bước cho đến lúc tay nắm được bình brandy. Chẳng xin phép, ông rót vào cốc thật nhiều, nốc cạn một hơi. Dù đã đến nhà ông thẩm phán một lần vào cái đêm con gái ông bị cưỡng bức nhưng Alex thấy còn nhẹ khi nói hành động của ông khá kỳ quặc. Anh nhướng một bên mày ngạc nhiên khi thấy ông tự rót thêm brandy.
+
+Sau khi uống thêm một ly, ông cuối cùng cũng quay sang Alex. “Con bé có thai.”
+
+Những câu chữ ấy làm Alex hoàn toàn ngỡ ngàng. Bốn tháng đã trôi qua không một lời từ nhà Trimble, và anh đã nghĩ khả năng có thai qua lâu rồi. Hai đầu gối mềm nhũn ra, anh gần như không thể tự ngồi vào ghế. Đôi mắt bỏng rát, cổ họng đông cứng vì sốc, anh chỉ có thể trân trối nhìn ông thẩm phán già. Sau vài giây dài như vô tận, cuối cùng anh cũng cất tiếng, “Ngài vừa mới phát hiện ra sao?”.
+
+Ông thẩm phán xua tay, vô tình làm rượu tung tóe ra miệng ly. Dường như ông chẳng màng vết rượu dây trên tấm thảm Ba Tư. “Mẹ nó có nói gì cho tôi đâu.”
+
+Đột nhiên ông ngừng lại, nhắm mắt một lúc. “Bà ấy đã hy vọng chuyện con bé mất kinh không nói lên điều gì.” Ông ngước hàng mi lên, chằm chằm nhìn Alex đầy thống khổ. “Bà ấy đã nhầm. Con bé đang có thai, không nghi ngờ gì nữa.”
+
+Alex gieo mình xuống ghế. “Khốn kiếp.”
+
+“Vấn đề là giờ ta phải làm gì? Tôi nghĩ cái thai đã lớn, nếu bỏ sẽ nguy hiểm đến tính mạng con bé.”
+
+Alex biết có nhiều thầy thuốc bất chính sẵn sàng làm chuyện này vì tiền, nhưng chỉ nghĩ đến đã đủ làm anh kinh sợ. Con của em trai anh? Cháu trai hoặc cháu gái? Thậm chí nếu cái thai lớn có thể bỏ đi được anh sẽ không cho phép. Với anh, con trẻ là giấc mơ hão huyền, là thứ quý giá không thể đong đếm được.
+
+Như đọc được suy nghĩ của anh, ông thẩm phán uống nốt chỗ rượu rồi run giọng, “Anh Montgomery ạ, con bé Annie nhà tôi không đủ khả năng nuôi dạy đứa trẻ, hai vợ chồng tôi thì già cả không lo chuyện ấy được. Rồi chúng tôi sẽ thành hai ông bà già lẩn thẩn bước đi không vững trước khi nó lớn lên”. Ông lắc đầu. “Nếu thai kỳ chưa quá lâu, tôi sẽ cho bỏ đi mà không việc gì phải xấu hổ. Có lẽ đó là lý do tại sao bà Edie đã không thừa nhận với tôi khả năng này.”
+
+“Ngài quên trách nhiệm của tôi trong chuyện này rồi. Có khi nào ngài nghĩ có thể tôi sẽ sẵn sàng nuôi đứa bé?”
+
+“Đó không phải là một giải pháp.”
+
+“Vì cái quái quỷ gì? Vì sự nghiệp chính trị của ngài ư?” Alex khịt mũi. “Có nhiều cách để xử lý tai tiếng, ngài Trimble ạ.” Dù thật khó thú nhận nhưng Alex biết giờ không phải lúc vòng vo. “Chắc ngài đã nghe tin đồn rằng tôi bị vô sinh. Đúng đấy. Tôi bị quai bị hồi đầu hăm mươi.” Vờ bình thường dù không hề thấy thế, Alex nhún vai. “Vì không thể có con nên tôi không định lấy vợ. Nếu không còn gì nữa, tôi sẵn sàng cưới Annie và nhận đứa bé là con tôi.”
+
+Ông thẩm phán lắc đầu kịch liệt.
+
+Alex vội biện luận tiếp cho quan điểm của mình. “Ngoài mấy thằng chứng kiến vụ cưỡng bức, và tôi ngờ rằng chúng sẽ đoán ra, còn lại sẽ chẳng ai biết đứa bé không phải con tôi. Biết Annie có bệnh, người ta sẽ đoán già đoán non rằng sao tôi lại cưới cô ấy, nhưng điều này sẽ ảnh hưởng xấu đến tôi chứ không phải ngài. Sau khoảng thời gian dài đủ để chấp nhận, tôi sẽ nói rằng có những bất đồng không thể dung hòa và sẽ xin ly thân. Annie có thể về với mẹ. Đây sẽ là giải pháp tuyệt nhất cho tất cả các vấn đề liên quan. Nói cho cùng thì chúng ta đang nói về con của em trai tôi. Tôi có trách nhiệm về phúc lợi của đứa bé cũng như Annie.”
+
+“Không.”
+
+Với lời tuyên bố đó, ông thẩm phán đập chiếc ly xuống mặt tủ. Như bị mù, ông băng ngang căn phòng tiến về ánh lửa, tay dò tìm lưng ghế để vịn lúc đi qua. Khi đến lò sưởi, ông nắm lấy mặt lò, ghì trán vào đá. Alex sốc khi nghe thấy ông nức nở.
+
+“Nếu anh hé răng một lời về chuyện này”, ông Trimble thì thầm đứt đoạn, “Tôi sẽ bị hủy hoại. Hãy thề những gì tôi nói sẽ không lọt khỏi căn phòng này”. Alex đánh mắt ra để đảm bảo cửa đã đóng. “Tất nhiên, tôi thề.”
+
+“Tôi biết anh nghĩ tôi là một thằng đốn mạt máu lạnh khi muốn bỏ đứa bé, nhưng anh đâu biết mọi chuyện. Annie nhà tôi, con bé…” Ông buông lửng, nặng nhọc thở những hơi giật cục. “Chà, anh nghe chuyện cơn sốt hồi nhỏ ảnh hưởng đến đầu óc con bé rồi chứ?” “Vâng.”
+
+Ông thẩm phán quệt má vào vai áo khoác. “Cơn sốt ảnh hưởng nặng đến nó. Điều này đúng. Lúc năm, sáu tuổi, khoảng đấy, nó bắt đầu có biểu hiện lạ, ban đầu chậm, ngày càng tệ đi cho đến khi thành ra như bây giờ.”
+
+Alex không biết phải nói gì hay liệu ông thẩm phán có đợi lời đáp từ anh không.
+
+“Vấn đề là”, ông nói tiếp, “tôi không hoàn toàn chắc chắn tình trạng của con bé là do cơn sốt gây ra. Bà Edie cứ khăng khăng là vậy. Và vì lan truyền câu chuyện sẽ giúp chúng tôi có thể để con bé ở nhà mà không làm ảnh hưởng quá xấu đến gia đình, tôi đã vờ tin điều đó. Nhưng sự thật là bà Edie có một người bác bị điên. Điên hoàn toàn. Rối loạn thần kinh bắt đầu từ lúc bé, cũng giống Annie, rồi tình trạng của ông ấy ngày càng xấu đi đến khi bị giam lại và cho vào trại thương điên”.
+
+Alex nghiến chặt răng, không muốn nghe điều này. Ông thẩm phán chầm chậm đứng thẳng lên, quay ra đối diện với Alex, đôi mắt xanh của ông lóng lánh nước mắt, mặt trắng bệch ra. “Trước đây thì sự thật đó không quan trọng. Tôi chỉ kiên nhẫn chờ đợi và cầu nguyện Annie sẽ không quá tệ đến nỗi tôi buộc phải đưa nó đi. Mẹ nó sẽ đau lòng đến chết nếu phải gửi con bé vào nhà thương điên. Kể cả những trại tốt nhất cũng vẫn là những nơi khủng khiếp.”
+
+Alex đã nghe nhiều chuyện về nơi đó.
+
+Ông thẩm phán nhấc tay lên. “Nhưng giờ… Vâng, tôi không thể tiếp tục phủ nhận sự thật ấy, không khi giờ đã có đứa bé. Bệnh của Annie có thể di truyền. Vì thế, tôi chẳng thể cho phép anh hay bất kỳ ai nhận nuôi đứa bé. Vài năm nữa, nó có thể sẽ bị điên.”
+
+Alex thôi không nhìn, anh thấy hổ thẹn với lương tâm vì không hề hé miệng phản đối. Điên khùng. Lạy Chúa. Ngay cả anh cũng chẳng muốn liều lĩnh nhận trách nhiệm với một đứa bé như thế.
+
+“Giờ anh thấy vấn đề rồi đấy.”
+
+Alex đứng dậy và bắt đầu đi tới đi lui. Anh cầu quỷ thần cho Douglas ở đây ngay lúc này để chứng kiến nỗi đau và thống khổ mà nó đã gây ra, không chỉ cho Annie mà cả những người quanh cô.
+
+Ông thẩm phán bứt sống mũi. “Theo tôi thấy, chỉ có một giải pháp, đó là đưa Annie đi xa đến khi nó sinh rồi có thể gửi đứa bé vào trại mồ côi. Tôi sẽ đảm bảo rằng những người chăm sóc đứa bé hiểu để không cho ai nhận nuôi nó.”
+
+Alex gật đầu. Có lẽ đó cũng là giải pháp duy nhất với anh. “Ngài sẽ gửi Annie đi đâu? Ngài có bà con nào cho cô ấy ở lại không?”
+
+Ông thẩm phán lắc đầu. “Hai bà dì già yếu không giúp được. Mấy người anh của tôi đã mất vì cúm ở độ tuổi bảy mươi, bà Edie là con một, mẹ mang thai bà khi đã ở tuổi mãn kinh và nghĩ mình không sinh nở được nữa. Cũng vì ông bác nên bố mẹ vợ tôi nghĩ tốt nhất là không đẻ thêm vì sợ bệnh điên có thể di truyền.”
+
+Hiểu rõ chuyện, Alex vô cùng muốn biết tại sao vợ chồng ông bà Trimble có đến bốn con gái, nhưng anh kìm không hỏi. Rốt cục thì đó cũng chẳng phải chuyện của anh. “Vậy ngài phải gửi Annie ở nhà người nhận trông một thời gian?”
+
+“Vâng, đó là việc anh sẽ phải ghé vai. Tôi cần giúp một ít về tài chính. Chăm sóc cho con bé sẽ tốn kém, nhất là lại lâu dài như thế.”
+
+“Ngài cứ nói bao nhiêu. Ngay từ đầu tôi đã nói rằng tôi sẽ giúp bằng bất cứ cách nào có thể, và tôi nói nghiêm túc. Thực ra, tiền là thứ tôi không thiếu nên tôi sẵn sàng bao hết mọi chi phí.”
+
+Ông thẩm phán xoa tay lên mặt. “Tôi cũng khá thoải mái, nhưng ngược lại với những gì thiên hạ đồn đại, nguồn tài chính của tôi không phải là vô tận.” Thực sự thương cảm người đàn ông này, Alex siết chặt vai ông. “Ông biết đấy, James, không phải tôi ngờ vực đánh giá của ông nhưng không biết liệu có sáng suốt không nếu cho bác sĩ Muir xác nhận tình trạng của Annie trước khi ta hành động bốc đồng?”
+
+“Con bé có thai, chắc chắn rồi. Vòng eo của nó đang dần phình ra.”
+
+Alex nhớ có nhiều lần nghĩ ngựa cái có thai nhưng sau đó phát hiện là không. “Đôi lúc mọi thứ có thể không như vẻ bề ngoài. Hãy tin tôi. Có thể chúng ta đang hoảng loạn vô cớ.
+
+Có thể cô ấy chỉ đang lên ít cân, vậy thôi.”
+
+“Giá như thế thật. Lạy Chúa. Giá mà thế.”
+
+Alex có chung quan điểm. Sẽ tốt hơn cho mọi người có liên quan nếu Annie không mang thai con của Douglas, đặc biệt là vì đứa bé. Trại mồ côi. Nghĩ đến việc máu mủ của mình bị nhét trong trại từ thiện và bị gán là không thể nhận nuôi, anh thấy xót lòng.
+
+Ông thẩm phán đứng thẳng dậy, lấy một hơi cho khỏe. “Chà, tôi chắc phải đi tìm bác sĩ Muir.”
+
+“Đêm nay?” Alex không giấu nổi ngạc nhiên. Anh cho rằng có thể đợi đến sáng mai rồi mời bác sĩ đến, vì Annie, nếu không thì còn vì điều gì nữa.
+
+“Bà Edie đang rất đau buồn, tôi muốn giải quyết càng nhanh càng tốt”, ông giải thích.
+
+“Tôi hiểu.”
+
+“Tiện nói về bà Edie…” Ông thẩm phán luồn một ngón tay xuống cổ áo, rõ là không thoải mái với điều sắp nói ra. “Tôi sẽ rất cảm kích nếu trước mặt bà ấy anh không đề cập đến bất kỳ điều gì đêm nay chúng ta đã bàn bạc. Ý tôi là về ông bác bà ấy. Tôi, ừm… vâng, việc gia đình bà ấy có người điên, chúng tôi không nói đến vấn đề này.”
+
+Họ không nói về vấn đề này ư? Nghĩ về việc con gái họ có thể bị điên, Alex thấy điều ông Trimble nói thật kỳ lạ hết mức.

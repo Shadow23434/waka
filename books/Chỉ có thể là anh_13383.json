@@ -1,0 +1,208 @@
+{
+  "item_id": 13383,
+  "title": "Chỉ có thể là anh",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:25:26.263Z",
+  "input_book": {
+    "id": 13383,
+    "title": "Chỉ có thể là anh",
+    "price": 0,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13383.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      {
+        "id": 4,
+        "code": "Tủ sách thanh niên",
+        "type": "waka_youth",
+        "text_color": "#FF0000",
+        "background_color": "#fed9d9"
+      }
+    ],
+    "description": "<p>Lai một phần ch&oacute; l&ugrave;n, một phần ch&oacute; săn, c&ugrave;ng ph&uacute;c tinh từ thần &Aacute;i t&igrave;nh&hellip; liệu một ch&uacute; ch&oacute; đ&oacute;ng vai người mai mối c&oacute; thể t&igrave;m thấy t&igrave;nh y&ecirc;u mới cho chủ nh&acirc;n hay kh&ocirc;ng?</p>\r\n<p>Với Nina Askew, tuổi bốn mươi đồng nghĩa với tự do &ndash; khi c&ocirc; ly dị người chồng cũ lu&ocirc;n đặt sự nghiệp l&ecirc;n h&agrave;ng đầu v&agrave; rời bỏ ng&ocirc;i nh&agrave; ngột ngạt ở ngoại &ocirc;. Tự do sở hữu một căn hộ của ri&ecirc;ng m&igrave;nh trong th&agrave;nh phố, tự do chuy&ecirc;n t&acirc;m v&agrave;o ước muốn của bản th&acirc;n v&igrave; một sự thay đổi. V&agrave; những g&igrave; c&ocirc; muốn l&agrave; thứ m&agrave; chồng cũ lu&ocirc;n cấm cản &ndash; một ch&uacute; c&uacute;n. Một ch&uacute; c&uacute;n hoạt b&aacute;t l&agrave;m c&ocirc; thấy vui vẻ. Thay v&agrave;o đ&oacute;, c&ocirc; lại c&oacute;&hellip; Fred.</p>\r\n<p>&Uacute; na &uacute; nần, bốc m&ugrave;i v&agrave; r&otilde; r&agrave;ng l&agrave; đang phải chịu đựng chứng trầm cảm n&agrave;o đ&oacute; của lo&agrave;i c&uacute;n, Fred c&ograve;n l&acirc;u mới được xếp v&agrave;o loại \"tr&agrave;n đầy sức sống&rdquo;. Nhưng ch&iacute;nh nhờ tất cả những sai lầm của m&igrave;nh m&agrave; n&oacute; đ&atilde; buộc được Nina phải mặt-đối-mặt với Alex Moore, anh ch&agrave;ng h&agrave;ng x&oacute;m đẹp trai, trẻ tuổi ngụ ở tầng dưới.</p>\r\n<p>Tr&ecirc;n l&yacute; thuyết m&agrave; n&oacute;i, Alex chẳng c&oacute; chỗ n&agrave;o ch&ecirc; được &ndash; vừa gợi t&igrave;nh, vừa c&oacute; vẻ &ocirc;n h&ograve;a &ndash; một b&aacute;c sĩ khoa cấp cứu lu&ocirc;n san sẻ t&igrave;nh y&ecirc;u bị cấm đo&aacute;n d&agrave;nh cho những c&aacute;i b&aacute;nh Oreo của Fred theo c&aacute;ch l&agrave;m người ta kinh ngạc. Nhưng mặc cho nụ cười rạng rỡ tuyệt đẹp của anh, sự kh&aacute;c biệt tuổi t&aacute;c mười năm ấy l&agrave; khoảng c&aacute;ch qu&aacute; lớn để Nina c&oacute; thể san lấp. Lờ đi sự dằng dai của c&ocirc; bạn th&acirc;n nhất, những nh&agrave; cải c&aacute;ch x&atilde; hội kh&ocirc;ng tưởng th&iacute;ch quấy rầy v&agrave; cả Fred lu&ocirc;n c&oacute; mặt khắp mọi nơi &ndash; đấy l&agrave; chưa đả động g&igrave; đến tuyến ho&oacute;c-m&ocirc;n cứ bất th&igrave;nh l&igrave;nh nổi hứng &ndash; Nina cho rằng bất kỳ ai, ngoại trừ Alex, hẳn sẽ l&agrave; v&aacute;n cược kh&aacute; khẩm hơn cho một mối quan hệ. Nhưng sau từng g&atilde; bạc đầu cứng nhắc m&agrave; m&igrave;nh hẹn h&ograve;, c&ocirc; c&agrave;ng ho&agrave;i nghi ch&iacute;nh anh ch&agrave;ng y&ecirc;u ch&oacute; trẻ tuổi kia mới l&agrave; người m&igrave;nh thực sự muốn gắn b&oacute;.</p>\r\n<p>Tr&acirc;n trọng giới thiệu</p>",
+    "authors": [
+      {
+        "id": "5960",
+        "name": "Jennifer Crusie"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Truyện - Tiểu thuyết_71.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 02:57:05",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 13383,
+      "title": "Chỉ có thể là anh",
+      "content_type": "book",
+      "our_price": 0,
+      "price": 0,
+      "description": "<p>Lai một phần ch&oacute; l&ugrave;n, một phần ch&oacute; săn, c&ugrave;ng ph&uacute;c tinh từ thần &Aacute;i t&igrave;nh&hellip; liệu một ch&uacute; ch&oacute; đ&oacute;ng vai người mai mối c&oacute; thể t&igrave;m thấy t&igrave;nh y&ecirc;u mới cho chủ nh&acirc;n hay kh&ocirc;ng?</p>\r\n<p>Với Nina Askew, tuổi bốn mươi đồng nghĩa với tự do &ndash; khi c&ocirc; ly dị người chồng cũ lu&ocirc;n đặt sự nghiệp l&ecirc;n h&agrave;ng đầu v&agrave; rời bỏ ng&ocirc;i nh&agrave; ngột ngạt ở ngoại &ocirc;. Tự do sở hữu một căn hộ của ri&ecirc;ng m&igrave;nh trong th&agrave;nh phố, tự do chuy&ecirc;n t&acirc;m v&agrave;o ước muốn của bản th&acirc;n v&igrave; một sự thay đổi. V&agrave; những g&igrave; c&ocirc; muốn l&agrave; thứ m&agrave; chồng cũ lu&ocirc;n cấm cản &ndash; một ch&uacute; c&uacute;n. Một ch&uacute; c&uacute;n hoạt b&aacute;t l&agrave;m c&ocirc; thấy vui vẻ. Thay v&agrave;o đ&oacute;, c&ocirc; lại c&oacute;&hellip; Fred.</p>\r\n<p>&Uacute; na &uacute; nần, bốc m&ugrave;i v&agrave; r&otilde; r&agrave;ng l&agrave; đang phải chịu đựng chứng trầm cảm n&agrave;o đ&oacute; của lo&agrave;i c&uacute;n, Fred c&ograve;n l&acirc;u mới được xếp v&agrave;o loại \"tr&agrave;n đầy sức sống&rdquo;. Nhưng ch&iacute;nh nhờ tất cả những sai lầm của m&igrave;nh m&agrave; n&oacute; đ&atilde; buộc được Nina phải mặt-đối-mặt với Alex Moore, anh ch&agrave;ng h&agrave;ng x&oacute;m đẹp trai, trẻ tuổi ngụ ở tầng dưới.</p>\r\n<p>Tr&ecirc;n l&yacute; thuyết m&agrave; n&oacute;i, Alex chẳng c&oacute; chỗ n&agrave;o ch&ecirc; được &ndash; vừa gợi t&igrave;nh, vừa c&oacute; vẻ &ocirc;n h&ograve;a &ndash; một b&aacute;c sĩ khoa cấp cứu lu&ocirc;n san sẻ t&igrave;nh y&ecirc;u bị cấm đo&aacute;n d&agrave;nh cho những c&aacute;i b&aacute;nh Oreo của Fred theo c&aacute;ch l&agrave;m người ta kinh ngạc. Nhưng mặc cho nụ cười rạng rỡ tuyệt đẹp của anh, sự kh&aacute;c biệt tuổi t&aacute;c mười năm ấy l&agrave; khoảng c&aacute;ch qu&aacute; lớn để Nina c&oacute; thể san lấp. Lờ đi sự dằng dai của c&ocirc; bạn th&acirc;n nhất, những nh&agrave; cải c&aacute;ch x&atilde; hội kh&ocirc;ng tưởng th&iacute;ch quấy rầy v&agrave; cả Fred lu&ocirc;n c&oacute; mặt khắp mọi nơi &ndash; đấy l&agrave; chưa đả động g&igrave; đến tuyến ho&oacute;c-m&ocirc;n cứ bất th&igrave;nh l&igrave;nh nổi hứng &ndash; Nina cho rằng bất kỳ ai, ngoại trừ Alex, hẳn sẽ l&agrave; v&aacute;n cược kh&aacute; khẩm hơn cho một mối quan hệ. Nhưng sau từng g&atilde; bạc đầu cứng nhắc m&agrave; m&igrave;nh hẹn h&ograve;, c&ocirc; c&agrave;ng ho&agrave;i nghi ch&iacute;nh anh ch&agrave;ng y&ecirc;u ch&oacute; trẻ tuổi kia mới l&agrave; người m&igrave;nh thực sự muốn gắn b&oacute;.</p>\r\n<p>Tr&acirc;n trọng giới thiệu</p>",
+      "zone": 0,
+      "published_time": "01/06/2012",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/chi-co-the-la-anh-jennifer-crusie-bMxzoW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/chi-co-the-la-anh-jennifer-crusie-bMxzoW.html?std=type%3D1%26data%3D13383%26title%3DCh%25E1%25BB%2589%2Bc%25C3%25B3%2Bth%25E1%25BB%2583%2Bl%25C3%25A0%2Banh%26mini_app%3D5&type=1&data=13383&title=Ch%E1%BB%89+c%C3%B3+th%E1%BB%83+l%C3%A0+anh&mini_app=5",
+      "publishing_houses": [
+        {
+          "id": "8",
+          "name": "NXB Văn Học"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5960",
+          "name": "Jennifer Crusie",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5960.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5960\",\"name\":\"Jennifer Crusie\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5960.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Jennifer Crusie",
+      "author_id": "5960",
+      "category_id": "71",
+      "category_name": "Truyện - Tiểu thuyết",
+      "categories": [
+        {
+          "id": "71",
+          "name": "Truyện - Tiểu thuyết",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "4.9",
+      "total_rate_count": 14,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 43,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=13383&title=chi-co-the-la-anh",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=13383&title=chi-co-the-la-anh#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1466673061,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/13383.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 1,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 853,
+      "number_view": 4821,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/GYU5",
+      "read_link": "https://ebook.waka.vn/chi-co-the-la-anh-rMxzoW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 13
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 1,
+        "owner": 0,
+        "button_buy": 0,
+        "message": "Chúc bạn đọc truyện vui vẻ"
+      },
+      "file_path": "https://307a0e78.vws.vegacdn.vn/static/ebook/0/0/0/13383_3_drm.epub",
+      "file_version": 3,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 0,
+      "message": "Thành công",
+      "data": {
+        "file_version": 3,
+        "auto_update": true,
+        "id": 13383,
+        "name": "Chỉ có thể là anh",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13383_3/OEBPS/content.opf?token=0c0a8z92606ff2d5814018288dce1f29769ea713383",
+        "pdf_url": "",
+        "epub_version": 3,
+        "pdf_version": null,
+        "chapter_trail": 0
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/chi-co-the-la-anh-rMxzoW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13383_3/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/13383_3/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Đề tặng\n\nDành tặng Meg Ruiey, mẹ đỡ đầu của Fred và là cộng sự của tôi trong khóa Tội phạm và Văn học.\n\nLời cảm ơn\n\nChân thành cảm ơn những giúp đỡ chuyên môn của Laurie Grant về hồi sức cấp cứu."
+    }
+  ],
+  "full_text": "Mục lục\nChương 1\nChương 2\nChương 3\nChương 4\nChương 5\nChương 6\nChương 7\nChương 8\n\nĐề tặng\n\nDành tặng Meg Ruiey, mẹ đỡ đầu của Fred và là cộng sự của tôi trong khóa Tội phạm và Văn học.\n\nLời cảm ơn\n\nChân thành cảm ơn những giúp đỡ chuyên môn của Laurie Grant về hồi sức cấp cứu."
+}

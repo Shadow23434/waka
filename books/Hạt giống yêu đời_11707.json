@@ -1,0 +1,240 @@
+{
+  "item_id": 11707,
+  "title": "Hạt giống yêu đời",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T05:07:50.002Z",
+  "input_book": {
+    "id": 11707,
+    "title": "Hạt giống yêu đời",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11707.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Giới thiệu cuốn s&aacute;ch <strong>Hạt Giống Y&ecirc;u Đời </strong>của t&aacute;c giả <strong>Robert Fulghum:</strong></p>\r\n<p><strong>Robert Fulghum</strong> kh&ocirc;ng chỉ l&agrave; nh&agrave; văn m&agrave; c&ograve;n l&agrave; một triết gia, một diễn giả được mến mộ. Fulghum l&agrave; t&aacute;c giả của nhiều ấn phẩm b&aacute;n chạy nhất do New York Times b&igrave;nh chọn. &Ocirc;ng hiện đang sống ở Seattle, Washington.</p>\r\n<p><strong>Hạt Giống Y&ecirc;u Đời </strong>được <strong>Robert Fulghum</strong> viết trong suốt nhiều năm. Những b&agrave;i viết n&agrave;y l&uacute;c đầu &ocirc;ng viết chủ yếu d&agrave;nh cho bạn b&egrave;, gia đ&igrave;nh, c&aacute;c sinh vi&ecirc;n của &ocirc;ng, sau đ&oacute; được tập hợp th&agrave;nh một quyển s&aacute;ch mang t&ecirc;n \"All I really need to know I learned in Kindergarten\". Quyển s&aacute;ch n&agrave;y được bạn đọc ưu &aacute;i d&agrave;nh cho nhiều t&igrave;nh cảm v&agrave; l&agrave; một trong những quyển s&aacute;ch b&aacute;n chạy của International best seller.</p>\r\n<p><strong>Hạt Giống Y&ecirc;u Đời </strong>bao gồm những mảnh gh&eacute;p th&uacute; vị từ cuộc sống, những c&acirc;u chuyện h&agrave;i hước &yacute; nhị, những triết l&yacute; sống s&acirc;u sắc m&agrave; bất kỳ ai cũng cần suy ngẫm. Ch&uacute;ng ta c&oacute; thể t&igrave;m thấy những b&agrave;i học qu&yacute; gi&aacute; ẩn đ&acirc;u đ&oacute; trong bao điều quanh ta. V&agrave; với những c&acirc;u chuyện trong cuốn s&aacute;ch n&agrave;y, ta c&agrave;ng thấy cuộc đời n&agrave;y c&oacute; gi&aacute; trị v&agrave; đ&aacute;ng y&ecirc;u hơn gấp bội&hellip;</p>\r\n<p>Bạn sẽ bị chinh phục ngay khi đọc những trang s&aacute;ch đầu ti&ecirc;n, bởi những nội dung mới mẻ, trong s&aacute;ng v&agrave; khiến mọi người y&ecirc;u đời hơn. Cuốn s&aacute;ch thực sự xứng đ&aacute;ng được, cảm nhận v&agrave; lan truyền.</p>\r\n<p>Waka tr&acirc;n trọng giới thiệu tới bạn đọc cuốn s&aacute;ch &ldquo;<strong>Hạt Giống Y&ecirc;u Đời&rdquo;!</strong></p>",
+    "authors": [
+      {
+        "id": "5029",
+        "name": "Robert Fulghum"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Phát triển cá nhân_94.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-01 20:28:53",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 11707,
+      "title": "Hạt giống yêu đời",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Giới thiệu cuốn s&aacute;ch <strong>Hạt Giống Y&ecirc;u Đời </strong>của t&aacute;c giả <strong>Robert Fulghum:</strong></p>\r\n<p><strong>Robert Fulghum</strong> kh&ocirc;ng chỉ l&agrave; nh&agrave; văn m&agrave; c&ograve;n l&agrave; một triết gia, một diễn giả được mến mộ. Fulghum l&agrave; t&aacute;c giả của nhiều ấn phẩm b&aacute;n chạy nhất do New York Times b&igrave;nh chọn. &Ocirc;ng hiện đang sống ở Seattle, Washington.</p>\r\n<p><strong>Hạt Giống Y&ecirc;u Đời </strong>được <strong>Robert Fulghum</strong> viết trong suốt nhiều năm. Những b&agrave;i viết n&agrave;y l&uacute;c đầu &ocirc;ng viết chủ yếu d&agrave;nh cho bạn b&egrave;, gia đ&igrave;nh, c&aacute;c sinh vi&ecirc;n của &ocirc;ng, sau đ&oacute; được tập hợp th&agrave;nh một quyển s&aacute;ch mang t&ecirc;n \"All I really need to know I learned in Kindergarten\". Quyển s&aacute;ch n&agrave;y được bạn đọc ưu &aacute;i d&agrave;nh cho nhiều t&igrave;nh cảm v&agrave; l&agrave; một trong những quyển s&aacute;ch b&aacute;n chạy của International best seller.</p>\r\n<p><strong>Hạt Giống Y&ecirc;u Đời </strong>bao gồm những mảnh gh&eacute;p th&uacute; vị từ cuộc sống, những c&acirc;u chuyện h&agrave;i hước &yacute; nhị, những triết l&yacute; sống s&acirc;u sắc m&agrave; bất kỳ ai cũng cần suy ngẫm. Ch&uacute;ng ta c&oacute; thể t&igrave;m thấy những b&agrave;i học qu&yacute; gi&aacute; ẩn đ&acirc;u đ&oacute; trong bao điều quanh ta. V&agrave; với những c&acirc;u chuyện trong cuốn s&aacute;ch n&agrave;y, ta c&agrave;ng thấy cuộc đời n&agrave;y c&oacute; gi&aacute; trị v&agrave; đ&aacute;ng y&ecirc;u hơn gấp bội&hellip;</p>\r\n<p>Bạn sẽ bị chinh phục ngay khi đọc những trang s&aacute;ch đầu ti&ecirc;n, bởi những nội dung mới mẻ, trong s&aacute;ng v&agrave; khiến mọi người y&ecirc;u đời hơn. Cuốn s&aacute;ch thực sự xứng đ&aacute;ng được, cảm nhận v&agrave; lan truyền.</p>\r\n<p>Waka tr&acirc;n trọng giới thiệu tới bạn đọc cuốn s&aacute;ch &ldquo;<strong>Hạt Giống Y&ecirc;u Đời&rdquo;!</strong></p>",
+      "zone": 1,
+      "published_time": "01/04/2026",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/hat-giong-yeu-doi-robert-fulghum-bZONDW.html",
+      "content_detail_url": "https://open.waka.vn/ebook/hat-giong-yeu-doi-robert-fulghum-bZONDW.html?std=type%3D1%26data%3D11707%26title%3DH%25E1%25BA%25A1t%2Bgi%25E1%25BB%2591ng%2By%25C3%25AAu%2B%25C4%2591%25E1%25BB%259Di%26mini_app%3D1&type=1&data=11707&title=H%E1%BA%A1t+gi%E1%BB%91ng+y%C3%AAu+%C4%91%E1%BB%9Di&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "36",
+          "name": "NXB Trẻ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5029",
+          "name": "Robert Fulghum",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5029.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5029\",\"name\":\"Robert Fulghum\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5029.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Robert Fulghum",
+      "author_id": "5029",
+      "category_id": "94",
+      "category_name": "Phát triển cá nhân",
+      "categories": [
+        {
+          "id": "94",
+          "name": "Phát triển cá nhân",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 13,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 0,
+      "total_wishlist": 251,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "Thu Trang",
+      "isbn": "",
+      "seo": {
+        "title": "Đọc sách: Hạt Giống Yêu Đời, tác giả  Robert Fulghum",
+        "description": "Hạt Giống Yêu Đời, bao gồm những mảnh ghép thú vị từ cuộc sống, những câu chuyện hài hước ý nhị, những triết lý sống sâu sắc. Đọc sách online trên Waka.vn",
+        "keyword": "hat giong yeu doi, hat giong yeu doi  Robert Fulghum, hat giong yeu doi online, doc sach, doc truyen, ebook, waka",
+        "news_keyword": "hat giong yeu doi, hat giong yeu doi  Robert Fulghum, hat giong yeu doi online, doc sach, doc truyen, ebook, waka"
+      },
+      "meta_ios": "vwaka://open?type=1&data=11707&title=hat-giong-yeu-doi",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=11707&title=hat-giong-yeu-doi#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1454056983,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/11707.jpg?v=2&w=480&h=700",
+      "share_thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book_fb/0/0/0/11707.jpg?v=1&w=1200&h=632",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 0,
+      "number_view": 4018,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/6XXY",
+      "read_link": "https://ebook.waka.vn/hat-giong-yeu-doi-rZONDW.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 13
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 6,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 6,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/content.opf?token=0c4a3z294ea979dc1b60ae9779a0d2ba7f073511707",
+        "id": 11707,
+        "chapter_trail": 4,
+        "name": "Hạt giống yêu đời",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 6,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/hat-giong-yeu-doi-rZONDW.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nCon nhện\nGào thét\nCông việc thời vụ\nVũng nước\nNước\nHiện thân của Haiho Lama\nCác thiên thần\nTrò chơi trốn tìm\nDiễn viên Charles Boyer\nĐôi gấu mèo\nLarry Walters\nSự thật về Larry Walters\nChuyện giặt giũ\nTủ thuốc\nDây sạc ắc quy và người làm phúc được việc\nCâu chuyện quầy bar\nGiúp đỡ\nBồ hóng\nMáy hút bụi\nNàng tiên cá\nTaxi\nWeiser, Idaho\nCâu chuyện về cuốn Kinh thánh\nTên gọi của vạn vật\nTam cứu\nDonnie\nGà Clucky Lucky\nXe cộ\nĐường cụt\nBài kiểm tra\nQuán rượu Con Trâu\nCái hộp cưng\nMẹ Teresa\nÂn nghĩa trao tay\nÔng\nBầy ngài\nSuýt chết\nNấm\nGiới hạn nhiệm kỳ\nBút sáp màu\nÔng già Noel bé nhỏ\nQuy tắc tặng quà\nĐồng hồ cúc cu\nCây thông Giáng sinh vào ngày lễ Tình nhân\nGiáng sinh tháng Tám\nBản giao hưởng số 9 của Beethoven\nLễ kỷ niệm bí mật - tháng Giêng\nHọp mặt lớp cũ\nSở thú San Diego\nÔng hàng xóm cạnh nhà\nHoa bồ công anh\nĐánh bóng cây gậy\nCá cược\nTuyết về đâu?\nTóc\nPhần kết của câu chuyện\nDanh sách niềm tin\nTrường mẫu giáo uyên thâm\nNhìn lại\nChú thích"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu\nCon nhện\nGào thét\nCông việc thời vụ\nVũng nước\nNước\nHiện thân của Haiho Lama\nCác thiên thần\nTrò chơi trốn tìm\nDiễn viên Charles Boyer\nĐôi gấu mèo\nLarry Walters\nSự thật về Larry Walters\nChuyện giặt giũ\nTủ thuốc\nDây sạc ắc quy và người làm phúc được việc\nCâu chuyện quầy bar\nGiúp đỡ\nBồ hóng\nMáy hút bụi\nNàng tiên cá\nTaxi\nWeiser, Idaho\nCâu chuyện về cuốn Kinh thánh\nTên gọi của vạn vật\nTam cứu\nDonnie\nGà Clucky Lucky\nXe cộ\nĐường cụt\nBài kiểm tra\nQuán rượu Con Trâu\nCái hộp cưng\nMẹ Teresa\nÂn nghĩa trao tay\nÔng\nBầy ngài\nSuýt chết\nNấm\nGiới hạn nhiệm kỳ\nBút sáp màu\nÔng già Noel bé nhỏ\nQuy tắc tặng quà\nĐồng hồ cúc cu\nCây thông Giáng sinh vào ngày lễ Tình nhân\nGiáng sinh tháng Tám\nBản giao hưởng số 9 của Beethoven\nLễ kỷ niệm bí mật - tháng Giêng\nHọp mặt lớp cũ\nSở thú San Diego\nÔng hàng xóm cạnh nhà\nHoa bồ công anh\nĐánh bóng cây gậy\nCá cược\nTuyết về đâu?\nTóc\nPhần kết của câu chuyện\nDanh sách niềm tin\nTrường mẫu giáo uyên thâm\nNhìn lại\nChú thích"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "Lời giới thiệu",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU\n\nT\nôi viết quyển sách này trong suốt nhiều năm và cũng đã cân nhắc, chỉnh sửa rất nhiều lần. Trong thời gian đó, tôi đã sống ở nhiều nơi, làm nhiều nghề và đi nhiều chỗ. Những bài viết này lúc đầu tôi viết chủ yếu dành cho bạn bè, gia đình, các sinh viên của tôi và cho chính bản thân tôi, bởi khi ấy tôi chưa có ý định tập hợp chúng thành sách. Tôi vẫn coi như đó là những câu chuyện vặt vãnh của riêng mình – giống như một nơi để tôi gửi gắm những tư tưởng và những trải nghiệm cuộc đời tôi.\n\nKhi tập hợp thành sách, tôi đã đổi tên một số nhân vật và thông tin cá nhân để bảo đảm bí mật đời tư của họ. Ngoài ra, tôi đã vận dụng trí tưởng tượng để sắp xếp những mảnh ghép ký ức cùng mớ kiến thức hỗn độn để viết nên một câu chuyện, miễn đảm bảo nó phản ánh sự việc một cách chân thực nhất. Tôi tin độc giả sẽ đồng cảm với những cảm xúc này của tôi.\n\n– Robert Fulghum"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Con nhện",
+      "progress": null,
+      "text": "CON NHỆN\n\nH\nàng xóm của tôi là một phụ nữ duyên dáng. Sáng hôm đó cô bước ra khỏi nhà trong bộ cánh chỉnh tề để chuẩn bị đi làm. Cô khóa cửa và mang theo lỉnh kỉnh các thứ cần thiết cho một ngày: túi xách, túi đựng đồ ăn trưa, túi đựng quần áo tập aerobic và cả một túi rác. Cô quay sang, bắt gặp tôi, cười toe toét và nói \"Xin chào\" rồi bước xuống tam cấp ở mái hiên. Nhưng ngay sau đó là tiếng cô hét lên thất thanh \"Áááaaaaaa!\" (trích nguyên văn), với âm lượng ngang ngửa còi xe cứu hỏa hụ hết cỡ.\n\nMột cái mạng nhện! Cô vừa máng thẳng vào một cái mạng nhện. Câu hỏi lớn không lời đáp: Bây giờ, con nhện ở đâu?\n\nCô ném đồ tứ tung, nhảy cẫng lên như đỉa phải vôi, vò đầu bứt tóc và tiếp tục\n\n\"Aaaaaaaaaaaaaaaa!!!!!\" vẫn thống thiết không kém. Cô quýnh quáng tông cửa vô nhà mà quên không mở khóa. Ráng lần nữa. Vội vàng làm sao mà gẫy cả chìa đang tra trong ổ. Cô cuống cuồng chạy quanh nhà và tìm cách chui vào bằng cửa sau. Tiếng thét vẫn chưa dứt \"Aaaaaaaaaaaaaa\".\n\nNhưng với một kẻ khác, chuyện lại không giống vậy. Ấy là con nhện. Nó trông cũng bình thường, màu xam xám. Một nàng nhện cái tuổi trung niên. Nó đã nằm đó từ lúc bình minh và đang chăm chỉ dệt mạng. Mọi chuyện thật suôn sẻ vì hôm nay đẹp trời, không gió, mạng dệt cũng vừa khô. Nàng nhện đi vòng quanh kiểm tra các đầu dây, vừa miên man suy nghĩ về bữa sáng với những con muỗi nhỏ yêu thích. Cảm giác thật tuyệt. Mọi thứ sẵn sàng. Bỗng nhiên, tất cả sụp đổ – động đất, lốc xoáy hay núi lửa? Cái mạng bị xé rách toang và bọc quanh một mớ cỏ khô đang nhảy chôm chổm như điên dại. Còn khối thịt sống khổng lồ được sơn vẽ bên cạnh đang phát ra thứ âm thanh chói tai mà loài nhện chưa nghe thấy bao giờ: \"Aaaaaaaaaaaa!!!!\".\n\nCon mồi này quá to nên mình không thể quấn lại để ăn dần. Nó lại còn giãy giụa đến mức không thể kìm được.\n\n\"Mình có nên nhảy xổ vào nó chăng? Hay cứ nằm chờ và hy vọng? Hay là chui vô hang?\"\n\nĐó là một con người. Con nhện vừa bắt được một con người. Dĩ nhiên, chắc nó cũng muốn hỏi: Con người kia đi đâu mà vướng vào nhà mình, rồi nó sẽ làm gì với cái lưới của mình đây?\n\nCô hàng xóm của tôi nghĩ con nhện to cỡ con tôm hùm với đôi môi thừ lừ và mấy cái nanh đầy nọc độc. Chắc chắn cô ấy sẽ muốn cởi hết đồ ra, tắm rửa, gội đầu thật kỹ để chắc chắn rằng con vật gớm ghiếc đó đã biến mất. Sau đó, cô sẽ mặc một bộ đồ mới để đảm bảo là con vật không ẩn náu đâu đó trên người mình.\n\nCòn con nhện thì sao? Nếu sống sót sau chuyện này, chắc chắn nó sẽ có rất nhiều điều để kể – \"Con mồi mình để sổng ấy, nó to BẰNG NÀY\" và \"Giá mà mọi người được tận mắt chứng kiến CÁI MỒM của nó!\".\n\nLoài nhện. Loài sinh vật kỳ diệu. Có mặt trên trái đất này vào khoảng 350 triệu năm trước, và chúng có thể đương đầu với bất cứ điều gì. Chúng lại đông nữa – 60.000 đến 70.000 con trên diện tích 0,4 héc-ta. Đúng vậy. Nhưng mạng nhện mới là thứ đáng thèm muốn nhất. Hãy thử hình dung cuộc sống sẽ ra sao nếu con người cũng được trang bị thứ vũ khí như mạng của loài nhện? Sẽ ra sao nếu ta cũng có 6 lỗ thoát tơ ở đốt xương cụt và ta có thể làm ra hàng chục mét sợi long lanh như thủy tinh? Nếu thế, việc gói quà sẽ như trở bàn tay. Leo núi là chuyện nhỏ. Việc \"yêu\" và sinh con đẻ cái cũng mang một màu sắc khác. Ta có thể suy diễn ra vô vàn thứ. Nhưng còn mặt trái của nó, hãy thử hình dung việc thu dọn những cái mạng khổng lồ do con người tạo ra sẽ vất vả đến thế nào.\n\nNói chuyện này chợt khiến tôi nhớ tới một bài hát mà chắc các bạn đều biết, cha mẹ và con cái bạn cũng biết. Đó là bài hát về chú nhện bé tí teo, nó trèo lên ống nước. Cơn mưa đổ xuống và cuốn chú nhện đi. Nắng lên, hong khô những giọt nước mưa. Và chú nhện tí hon lại trèo lên ống nước. Chắc bạn cũng còn nhớ giai điệu.\n\nĐiều cốt lõi ở đây là gì? Tại sao tất cả chúng ta đều biết bài hát đó? Và tại sao chúng ta dạy lại bài hát đó cho con cháu mình? Đặc biệt là bài hát thể hiện sự yêu mến, ngưỡng mộ đối với con nhện. Khi hát bài này, đâu có nghe ai thét lên \"Aaaaaaaa!\". Có lẽ vì nó miêu tả những thử thách cuộc đời bằng một cách vô cùng đơn giản và dễ hiểu. Sinh vật nhỏ bé này thật sống động và nó muốn đi chu du. Nó thấy cái máng xối – một đường hầm dài dẫn lên một nguồn sáng. Nhưng con nhện không mấy bận tâm, nó cứ thế bò lên. Bỗng nhiên thảm họa xảy ra – mưa, lụt lội, những thế lực ghê gớm. Và con nhện bị hất văng khỏi cái ống, té nhào xuống trở về xuất phát điểm. Liệu con nhện có thốt lên \"Chuyện quái quỷ gì vậy?\". Không. Mặt trời lên – vạn vật bình thường – con nhện cũng được hong khô. Và sinh vật bé nhỏ này lại tiếp tục bò lên ống nước, nó ngẩng lên và nghĩ mình thật sự muốn biết cái gì ở trên đó. Vậy là giờ nó đã khôn ngoan hơn một chút – trước hết, phải kiểm tra thời tiết, kiếm chỗ bám chân tốt hơn, đọc kinh cầu nguyện của loài nhện và ngẩng cao đầu vượt qua mọi thử thách đang chờ đợi để hướng đến ánh sáng trên kia.\n\nCuộc sống là chuỗi dài những nỗ lực như thế. Chúng ta phải không ngừng vượt qua những gian nan, khó khăn và nghịch cảnh để tồn tại. Và ta dạy cho con cháu mình bài học đó. Biết đâu, loài nhện cũng dạy con cháu của chúng như vậy, theo cách của loài nhện.\n\nVề cô hàng xóm của tôi, cô chắc sẽ vượt qua và thận trọng hơn mỗi khi bước ra cửa. Còn con nhện, nếu sống sót, nó cũng sẽ khôn ra giống vậy. Nếu nó không sống được, thì vẫn còn nhiều con nhện khác, và chúng sẽ rỉ tai nhau. Đặc biệt nếu âm thanh chúng nghe được là: \"Áááááaaaaaaaaa!\".\n\nThông thường, mỗi khi phát biểu trước đám đông, tôi sẽ bắt đầu bài diễn thuyết của mình bằng cách bảo mọi người là tôi sẽ hát thầm một bài. Để giúp mọi người đoán được bài hát đó, tôi sẽ dùng tay làm vài động tác và yêu cầu khán giả làm tương tự nếu họ hiểu bài hát tôi đang nói đến. Dĩ nhiên, đó là bài hát về chú nhện. Tôi vẫn nhớ như in bao kỷ niệm tuyệt vời về căn phòng chật kín người, ai nấy lặng lẽ hát bài hát về con nhện bé tí teo, vừa làm động tác vừa nhăn răng cười. Lần nào khán giả cũng cười. Và lần nào họ cũng vỗ tay tự khen mình khi bài hát kết thúc.\n\nBạn có biết rằng bài chú nhện tí teo đó có thể hát bằng giai điệu của hồi \"Hướng tới Niềm vui\" trong bản giao hưởng Số 9 của Beethoven? Chỉ cần thay đổi vài quãng thứ là bạn có thể hát được rồi. Bạn có thể gọi sự kết hợp đó là bản hùng ca của loài người. Tôi đã từng thuyết phục được hàng ngàn người cùng hát, cùng làm động tác.\n\nCả phần lời và giai điệu của bài hát đều nói lên một điểm chung: khả năng chiến thắng nghịch cảnh trong cuộc sống để vươn tới niềm vui – bền bỉ đi hết cuộc hành trình, của loài nhện và cả của loài người!"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Gào thét",
+      "progress": null,
+      "text": "GÀO THÉT\n\nN\người dân tại quần đảo Solomon ở Nam Thái Bình Dương có một cách đốn gỗ rất đặc biệt. Nếu cái cây quá to và không thể dùng rìu để chặt, họ sẽ hét vào cây. (Dù hiện giờ tôi không có bài báo đó trong tay nhưng xin thề là tôi đã từng đọc được như vậy.) Những tiều phu có năng lực nhiệm màu sẽ leo lên cây ngay lúc bình minh và lấy hết gân sức hét thật to vào ngọn cây. Họ làm như thế suốt ba mươi ngày. Cái cây sẽ chết và đổ xuống. Người ta cho rằng tiếng hét của người đốn gỗ đã giết chết nhựa sống và tinh thần của cây. Theo kinh nghiệm của dân làng thì cách làm này luôn hiệu quả.\n\nÔi những con người khờ khạo khốn khổ với thói quen đốn cây kỳ lạ. Thời này mà họ còn hét vào cây. Cách làm đó mới nguyên thủy làm sao. Thật đáng buồn là họ không có những công nghệ hiện đại, và đầu óc thì cũng không khoa học tí nào.\n\nTôi thì chẳng hét với cái cây làm gì. Tôi gào thét lên với vợ mình. Hét vào điện thoại và hét cả với máy cắt cỏ. Tôi cũng hét vào cái tivi, tờ báo và cả con cái của tôi nữa. Thậm chí, tôi còn giương nắm đấm và gào lên trời xanh.\n\nTrong khi đó, người hàng xóm của tôi thường thét gào chiếc xe hơi của mình. Thậm chí hồi mùa hè này, tôi nghe thấy anh ta liên tục mắng nhiếc chiếc thang gấp suốt cả buổi chiều.\n\nChúng ta – những người dân thành thị hiện đại và có học thức – thường hét ầm lên mỗi khi tắc đường, hét vào trọng tài, hét vào hóa đơn, ngân hàng và máy móc. Đặc biệt là cái khoản cuối – máy móc. Máy móc và người thân thường là nạn nhân của chúng ta. Nhưng chưa bao giờ ta hét vào cây.\n\nKhông biết nếu ta hét vào cây thì có mang lại ích lợi gì không, nhưng với máy móc, dù ta làm gì, chúng vẫn ở yên một chỗ. Thậm chí, ta có đá thật mạnh vào chúng thì chúng vẫn im lìm đứng đó.\n\nNhưng về tác động của tiếng gào thét lên con người thì có lẽ người Solomon nghĩ đúng. Tiếng gào thét có tác dụng hủy diệt linh hồn của sinh vật.\n\nĐá và gậy gộc có thể làm ta gãy xương, còn những lời nói không hay sẽ làm trái tim ta tan nát."
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/11707_6/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Công việc thời vụ",
+      "progress": null,
+      "text": "CÔNG VIỆC THỜI VỤ\n\nT\nối thứ Năm tuần trước, có hai chàng trai trẻ túng quẫn đến trước cửa nhà tôi.\n\n- Tụi cháu túng quẫn quá! – Họ bảo.\n\nNhưng trông chúng chẳng có vẻ gì là đang túng quẫn cả. Chúng ăn mặc gọn gàng và sạch sẽ với quần jeans, áo thun, đi giày tennis và đội mũ bóng chày.\n\nHóa ra, nguồn gốc của sự tuyệt vọng này chính là \"Tụi cháu mới 15 tuổi\".\n\nChúng muốn tìm một công việc để làm thêm vào mùa hè nhưng không ai thuê, vì chúng chưa đủ 16 tuổi.\n\nMột cậu nói:\n\n- Mười lăm tuổi chưa đủ điều kiện để được đi làm.\n\nTuổi 15 đúng thật là cái tuổi \"lập lờ\", thời kỳ chuyển giao giữa trẻ vị thành niên và tuổi trưởng thành.\n\nTôi hỏi chúng:\n\n- Vậy các cháu túng thiếu đến đâu?\n\n- Túng thiếu ghê lắm. Tụi cháu sẽ làm bất cứ việc gì để có tiền.\n\nTuyệt. Hai anh chàng này thuộc đúng mẫu người mà tôi đang cần tìm. Bấy lâu nay, một người hàng xóm thường xuyên than phiền tôi chỉ vì tôi dự trữ quá nhiều củi. Anh ta cho rằng chỗ củi đó quá nặng, sẽ làm cong mấy tấm ván trên bến ở trước nhà thuyền của chúng tôi, và vì sàn bến là tài sản chung nên cũng có quyền lợi của anh ta ở trong đó. Ngoài ra, anh ta còn cho rằng việc đốt củi trong lò sẽ gây ô nhiễm nghiêm trọng bầu không khí và rằng tôi là kẻ vô trách nhiệm khi không biết chọn một cách sưởi ấm nào khác thân thiện với môi trường hơn. Anh ta nói đúng. Tôi cũng phải thừa nhận là như vậy. Chính vì lý do này mà tôi còn rất nhiều củi tồn đọng. Đơn giản là vì tôi không đốt củi nữa. Nhưng anh chàng vẫn tiếp tục lèng èng khiến tôi rất bực.\n\nRồi tôi chợt nảy ra một giải pháp tuyệt vời để giải quyết xích mích giữa tôi và anh bạn hàng xóm.\n\nTôi nói với hai chàng nhóc:\n\n- Các chàng trai, chú có một công việc cho hai cháu đây. Hai cháu có nhìn thấy đống củi dọc bến tàu không?\n\n- Có ạ.\n\nTrông chúng rất hào hứng.\n\n- Ta muốn hai cháu mang tất cả chỗ củi kia tới nhà hàng xóm, trước cửa nhà đó có một cái xe Buick màu xanh rất lớn có bốn cửa. Chú muốn các cháu cho đầy củi vào cái xe ô tô đó.\n\n- Nhưng cái xe đó không thể chứa hết đống củi này.\n\n- Chính xác. Thế nên ta mới cần các cháu chất củi đầy ắp cái xe đó. Phải chất kín hết, kín từ cửa bên này sang cửa bên kia, từ sàn tới trần xe, không chừa chỗ nào. Nếu vẫn còn thừa củi, các cháu có thể chất lên nóc xe và mui xe. Các cháu hãy nhớ làm thật cẩn thận.\n\n- Tụi cháu không làm như thế được. Tụi cháu sẽ gặp rắc rối mất.\n\n- Thế nếu ta trả các cháu 10 đô-la mỗi lần và các cháu sẽ làm việc đó vào buổi tối, các cháu thấy thế nào?\n\n- Vậy thì được ạ. Nhưng nếu tụi cháu bị bắt gặp thì sao?\n\n- Chú sẽ trả thêm các cháu 5 đô-la để các cháu làm thật cẩn thận sao cho không bị bắt gặp.\n\n- Thế thì được ạ.\n\n- Ngoài ra, các cháu mới 15 tuổi, tức là còn ở tuổi vị thành niên. Người ta sẽ không bắt các cháu ngồi ghế điện vì đã để sai chỗ một ít củi đâu. Cứ yên tâm mà làm.\n\nTôi đã quá mệt mỏi vì luôn phải tỏ ra kiên nhẫn, biết điều và phải bận tâm tới những điều vụn vặt trong cuộc sống. Biện pháp mạnh và dứt khoát là phong cách của thời nay. Tôi chính là đội phản ứng nhanh một thành viên. Vì thế, đừng có gây hấn với tôi. Tôi không chất củi lên trước thềm nhà anh hàng xóm và châm lửa là đã may cho anh ta lắm rồi. Suy cho cùng, ai có thể tin được rằng một người đàn ông tốt bụng như tôi có thể làm một việc tồi tệ như vậy? Nhiều năm qua, tôi luôn làm việc chăm chỉ trong vẻ ngoài của một con người hiền lành, lịch thiệp. Nhưng bây giờ, đã đến lúc người làm phúc xấu bụng tháo bỏ chiếc mặt nạ và hành động rồi.\n\nTrong ngày cuối tuần này, anh hàng xóm của tôi sẽ vắng nhà. Và tôi vô tình biết chỗ anh ta cất giấu chìa khóa. Chỗ giấu thật ngu ngốc: ngay dưới cái hãm xung của chiếc xe Buick. Chính mắt tôi đã trông thấy anh ta bỏ chìa khóa ở đó. Tôi chỉ cần đảm bảo là cái xe không khóa và trong đêm, tôi sẽ nghe thấy âm thanh thú vị khi hai cậu nhóc 15 tuổi túng quẫn chuyển đống củi vào đó.\n\nBuổi sáng hôm sau, tôi rất vui khi đống củi không còn và chiếc xe trông như một cái sân để củi di động. Tôi thật là thông minh. Chắc hẳn khi về nhà, anh chàng hàng xóm sẽ phát điên khi nhìn thấy cảnh đó. Nghĩ đến đó thôi mà tôi đã thấy tức cười.\n\nNhưng chuyện này có thực sự xảy ra không?\n\nMột phần là có và một phần là không. Chuyện hai chàng trai tới trước cửa nhà tôi là thật. Chuyện về anh chàng hàng xóm và đống củi cũng là thật. Và tất cả những viễn cảnh kể trên cũng thực sự lướt qua trí não tôi. Thậm chí, nó còn mang nhiều chi tiết đáng sợ hơn trong cơn mơ lúc nửa đêm của tôi. Nếu tôi trẻ tuổi hơn, chắc tôi đã thực hiện kế hoạch đó.\n\nNhưng bây giờ, tạ ơn Chúa, tôi nhiều tuổi hơn và cũng sáng suốt hơn.\n\nTôi đã bảo hai chàng trai dừng lại và trả tiền cho họ.\n\nTôi nghĩ rằng anh chàng hàng xóm của tôi đúng là một gã ranh mãnh xấu bụng. Nếu biết tôi làm thế, chắc chắn anh ta sẽ trả thù. Anh ta cũng sẽ trả tiền cho mấy cậu choai choai để chất củi vào phòng tắm của tôi. Chẳng hay ho chút nào.\n\nCó lẽ, tôi đang trải qua một giai đoạn chuyển đổi khó khăn như những cậu chàng tuổi 15. Ở tuổi đó, tôi thường nảy ra những ý tưởng thật điên rồ và đã suýt thực hiện chúng.\n\nNhưng, Có lẽ, và Tuy nhiên.\n\nThi thoảng, những tưởng tượng như vậy cũng rất hữu ích.\n\nNếu bạn có thể hình dung ra chúng, bạn không bao giờ phải biến chúng thành hiện thực."
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu\nCon nhện\nGào thét\nCông việc thời vụ\nVũng nước\nNước\nHiện thân của Haiho Lama\nCác thiên thần\nTrò chơi trốn tìm\nDiễn viên Charles Boyer\nĐôi gấu mèo\nLarry Walters\nSự thật về Larry Walters\nChuyện giặt giũ\nTủ thuốc\nDây sạc ắc quy và người làm phúc được việc\nCâu chuyện quầy bar\nGiúp đỡ\nBồ hóng\nMáy hút bụi\nNàng tiên cá\nTaxi\nWeiser, Idaho\nCâu chuyện về cuốn Kinh thánh\nTên gọi của vạn vật\nTam cứu\nDonnie\nGà Clucky Lucky\nXe cộ\nĐường cụt\nBài kiểm tra\nQuán rượu Con Trâu\nCái hộp cưng\nMẹ Teresa\nÂn nghĩa trao tay\nÔng\nBầy ngài\nSuýt chết\nNấm\nGiới hạn nhiệm kỳ\nBút sáp màu\nÔng già Noel bé nhỏ\nQuy tắc tặng quà\nĐồng hồ cúc cu\nCây thông Giáng sinh vào ngày lễ Tình nhân\nGiáng sinh tháng Tám\nBản giao hưởng số 9 của Beethoven\nLễ kỷ niệm bí mật - tháng Giêng\nHọp mặt lớp cũ\nSở thú San Diego\nÔng hàng xóm cạnh nhà\nHoa bồ công anh\nĐánh bóng cây gậy\nCá cược\nTuyết về đâu?\nTóc\nPhần kết của câu chuyện\nDanh sách niềm tin\nTrường mẫu giáo uyên thâm\nNhìn lại\nChú thích\n\nMục lục\nLời giới thiệu\nCon nhện\nGào thét\nCông việc thời vụ\nVũng nước\nNước\nHiện thân của Haiho Lama\nCác thiên thần\nTrò chơi trốn tìm\nDiễn viên Charles Boyer\nĐôi gấu mèo\nLarry Walters\nSự thật về Larry Walters\nChuyện giặt giũ\nTủ thuốc\nDây sạc ắc quy và người làm phúc được việc\nCâu chuyện quầy bar\nGiúp đỡ\nBồ hóng\nMáy hút bụi\nNàng tiên cá\nTaxi\nWeiser, Idaho\nCâu chuyện về cuốn Kinh thánh\nTên gọi của vạn vật\nTam cứu\nDonnie\nGà Clucky Lucky\nXe cộ\nĐường cụt\nBài kiểm tra\nQuán rượu Con Trâu\nCái hộp cưng\nMẹ Teresa\nÂn nghĩa trao tay\nÔng\nBầy ngài\nSuýt chết\nNấm\nGiới hạn nhiệm kỳ\nBút sáp màu\nÔng già Noel bé nhỏ\nQuy tắc tặng quà\nĐồng hồ cúc cu\nCây thông Giáng sinh vào ngày lễ Tình nhân\nGiáng sinh tháng Tám\nBản giao hưởng số 9 của Beethoven\nLễ kỷ niệm bí mật - tháng Giêng\nHọp mặt lớp cũ\nSở thú San Diego\nÔng hàng xóm cạnh nhà\nHoa bồ công anh\nĐánh bóng cây gậy\nCá cược\nTuyết về đâu?\nTóc\nPhần kết của câu chuyện\nDanh sách niềm tin\nTrường mẫu giáo uyên thâm\nNhìn lại\nChú thích\n\nLỜI GIỚI THIỆU\n\nT\nôi viết quyển sách này trong suốt nhiều năm và cũng đã cân nhắc, chỉnh sửa rất nhiều lần. Trong thời gian đó, tôi đã sống ở nhiều nơi, làm nhiều nghề và đi nhiều chỗ. Những bài viết này lúc đầu tôi viết chủ yếu dành cho bạn bè, gia đình, các sinh viên của tôi và cho chính bản thân tôi, bởi khi ấy tôi chưa có ý định tập hợp chúng thành sách. Tôi vẫn coi như đó là những câu chuyện vặt vãnh của riêng mình – giống như một nơi để tôi gửi gắm những tư tưởng và những trải nghiệm cuộc đời tôi.\n\nKhi tập hợp thành sách, tôi đã đổi tên một số nhân vật và thông tin cá nhân để bảo đảm bí mật đời tư của họ. Ngoài ra, tôi đã vận dụng trí tưởng tượng để sắp xếp những mảnh ghép ký ức cùng mớ kiến thức hỗn độn để viết nên một câu chuyện, miễn đảm bảo nó phản ánh sự việc một cách chân thực nhất. Tôi tin độc giả sẽ đồng cảm với những cảm xúc này của tôi.\n\n– Robert Fulghum\n\nCON NHỆN\n\nH\nàng xóm của tôi là một phụ nữ duyên dáng. Sáng hôm đó cô bước ra khỏi nhà trong bộ cánh chỉnh tề để chuẩn bị đi làm. Cô khóa cửa và mang theo lỉnh kỉnh các thứ cần thiết cho một ngày: túi xách, túi đựng đồ ăn trưa, túi đựng quần áo tập aerobic và cả một túi rác. Cô quay sang, bắt gặp tôi, cười toe toét và nói \"Xin chào\" rồi bước xuống tam cấp ở mái hiên. Nhưng ngay sau đó là tiếng cô hét lên thất thanh \"Áááaaaaaa!\" (trích nguyên văn), với âm lượng ngang ngửa còi xe cứu hỏa hụ hết cỡ.\n\nMột cái mạng nhện! Cô vừa máng thẳng vào một cái mạng nhện. Câu hỏi lớn không lời đáp: Bây giờ, con nhện ở đâu?\n\nCô ném đồ tứ tung, nhảy cẫng lên như đỉa phải vôi, vò đầu bứt tóc và tiếp tục\n\n\"Aaaaaaaaaaaaaaaa!!!!!\" vẫn thống thiết không kém. Cô quýnh quáng tông cửa vô nhà mà quên không mở khóa. Ráng lần nữa. Vội vàng làm sao mà gẫy cả chìa đang tra trong ổ. Cô cuống cuồng chạy quanh nhà và tìm cách chui vào bằng cửa sau. Tiếng thét vẫn chưa dứt \"Aaaaaaaaaaaaaa\".\n\nNhưng với một kẻ khác, chuyện lại không giống vậy. Ấy là con nhện. Nó trông cũng bình thường, màu xam xám. Một nàng nhện cái tuổi trung niên. Nó đã nằm đó từ lúc bình minh và đang chăm chỉ dệt mạng. Mọi chuyện thật suôn sẻ vì hôm nay đẹp trời, không gió, mạng dệt cũng vừa khô. Nàng nhện đi vòng quanh kiểm tra các đầu dây, vừa miên man suy nghĩ về bữa sáng với những con muỗi nhỏ yêu thích. Cảm giác thật tuyệt. Mọi thứ sẵn sàng. Bỗng nhiên, tất cả sụp đổ – động đất, lốc xoáy hay núi lửa? Cái mạng bị xé rách toang và bọc quanh một mớ cỏ khô đang nhảy chôm chổm như điên dại. Còn khối thịt sống khổng lồ được sơn vẽ bên cạnh đang phát ra thứ âm thanh chói tai mà loài nhện chưa nghe thấy bao giờ: \"Aaaaaaaaaaaa!!!!\".\n\nCon mồi này quá to nên mình không thể quấn lại để ăn dần. Nó lại còn giãy giụa đến mức không thể kìm được.\n\n\"Mình có nên nhảy xổ vào nó chăng? Hay cứ nằm chờ và hy vọng? Hay là chui vô hang?\"\n\nĐó là một con người. Con nhện vừa bắt được một con người. Dĩ nhiên, chắc nó cũng muốn hỏi: Con người kia đi đâu mà vướng vào nhà mình, rồi nó sẽ làm gì với cái lưới của mình đây?\n\nCô hàng xóm của tôi nghĩ con nhện to cỡ con tôm hùm với đôi môi thừ lừ và mấy cái nanh đầy nọc độc. Chắc chắn cô ấy sẽ muốn cởi hết đồ ra, tắm rửa, gội đầu thật kỹ để chắc chắn rằng con vật gớm ghiếc đó đã biến mất. Sau đó, cô sẽ mặc một bộ đồ mới để đảm bảo là con vật không ẩn náu đâu đó trên người mình.\n\nCòn con nhện thì sao? Nếu sống sót sau chuyện này, chắc chắn nó sẽ có rất nhiều điều để kể – \"Con mồi mình để sổng ấy, nó to BẰNG NÀY\" và \"Giá mà mọi người được tận mắt chứng kiến CÁI MỒM của nó!\".\n\nLoài nhện. Loài sinh vật kỳ diệu. Có mặt trên trái đất này vào khoảng 350 triệu năm trước, và chúng có thể đương đầu với bất cứ điều gì. Chúng lại đông nữa – 60.000 đến 70.000 con trên diện tích 0,4 héc-ta. Đúng vậy. Nhưng mạng nhện mới là thứ đáng thèm muốn nhất. Hãy thử hình dung cuộc sống sẽ ra sao nếu con người cũng được trang bị thứ vũ khí như mạng của loài nhện? Sẽ ra sao nếu ta cũng có 6 lỗ thoát tơ ở đốt xương cụt và ta có thể làm ra hàng chục mét sợi long lanh như thủy tinh? Nếu thế, việc gói quà sẽ như trở bàn tay. Leo núi là chuyện nhỏ. Việc \"yêu\" và sinh con đẻ cái cũng mang một màu sắc khác. Ta có thể suy diễn ra vô vàn thứ. Nhưng còn mặt trái của nó, hãy thử hình dung việc thu dọn những cái mạng khổng lồ do con người tạo ra sẽ vất vả đến thế nào.\n\nNói chuyện này chợt khiến tôi nhớ tới một bài hát mà chắc các bạn đều biết, cha mẹ và con cái bạn cũng biết. Đó là bài hát về chú nhện bé tí teo, nó trèo lên ống nước. Cơn mưa đổ xuống và cuốn chú nhện đi. Nắng lên, hong khô những giọt nước mưa. Và chú nhện tí hon lại trèo lên ống nước. Chắc bạn cũng còn nhớ giai điệu.\n\nĐiều cốt lõi ở đây là gì? Tại sao tất cả chúng ta đều biết bài hát đó? Và tại sao chúng ta dạy lại bài hát đó cho con cháu mình? Đặc biệt là bài hát thể hiện sự yêu mến, ngưỡng mộ đối với con nhện. Khi hát bài này, đâu có nghe ai thét lên \"Aaaaaaaa!\". Có lẽ vì nó miêu tả những thử thách cuộc đời bằng một cách vô cùng đơn giản và dễ hiểu. Sinh vật nhỏ bé này thật sống động và nó muốn đi chu du. Nó thấy cái máng xối – một đường hầm dài dẫn lên một nguồn sáng. Nhưng con nhện không mấy bận tâm, nó cứ thế bò lên. Bỗng nhiên thảm họa xảy ra – mưa, lụt lội, những thế lực ghê gớm. Và con nhện bị hất văng khỏi cái ống, té nhào xuống trở về xuất phát điểm. Liệu con nhện có thốt lên \"Chuyện quái quỷ gì vậy?\". Không. Mặt trời lên – vạn vật bình thường – con nhện cũng được hong khô. Và sinh vật bé nhỏ này lại tiếp tục bò lên ống nước, nó ngẩng lên và nghĩ mình thật sự muốn biết cái gì ở trên đó. Vậy là giờ nó đã khôn ngoan hơn một chút – trước hết, phải kiểm tra thời tiết, kiếm chỗ bám chân tốt hơn, đọc kinh cầu nguyện của loài nhện và ngẩng cao đầu vượt qua mọi thử thách đang chờ đợi để hướng đến ánh sáng trên kia.\n\nCuộc sống là chuỗi dài những nỗ lực như thế. Chúng ta phải không ngừng vượt qua những gian nan, khó khăn và nghịch cảnh để tồn tại. Và ta dạy cho con cháu mình bài học đó. Biết đâu, loài nhện cũng dạy con cháu của chúng như vậy, theo cách của loài nhện.\n\nVề cô hàng xóm của tôi, cô chắc sẽ vượt qua và thận trọng hơn mỗi khi bước ra cửa. Còn con nhện, nếu sống sót, nó cũng sẽ khôn ra giống vậy. Nếu nó không sống được, thì vẫn còn nhiều con nhện khác, và chúng sẽ rỉ tai nhau. Đặc biệt nếu âm thanh chúng nghe được là: \"Áááááaaaaaaaaa!\".\n\nThông thường, mỗi khi phát biểu trước đám đông, tôi sẽ bắt đầu bài diễn thuyết của mình bằng cách bảo mọi người là tôi sẽ hát thầm một bài. Để giúp mọi người đoán được bài hát đó, tôi sẽ dùng tay làm vài động tác và yêu cầu khán giả làm tương tự nếu họ hiểu bài hát tôi đang nói đến. Dĩ nhiên, đó là bài hát về chú nhện. Tôi vẫn nhớ như in bao kỷ niệm tuyệt vời về căn phòng chật kín người, ai nấy lặng lẽ hát bài hát về con nhện bé tí teo, vừa làm động tác vừa nhăn răng cười. Lần nào khán giả cũng cười. Và lần nào họ cũng vỗ tay tự khen mình khi bài hát kết thúc.\n\nBạn có biết rằng bài chú nhện tí teo đó có thể hát bằng giai điệu của hồi \"Hướng tới Niềm vui\" trong bản giao hưởng Số 9 của Beethoven? Chỉ cần thay đổi vài quãng thứ là bạn có thể hát được rồi. Bạn có thể gọi sự kết hợp đó là bản hùng ca của loài người. Tôi đã từng thuyết phục được hàng ngàn người cùng hát, cùng làm động tác.\n\nCả phần lời và giai điệu của bài hát đều nói lên một điểm chung: khả năng chiến thắng nghịch cảnh trong cuộc sống để vươn tới niềm vui – bền bỉ đi hết cuộc hành trình, của loài nhện và cả của loài người!\n\nGÀO THÉT\n\nN\người dân tại quần đảo Solomon ở Nam Thái Bình Dương có một cách đốn gỗ rất đặc biệt. Nếu cái cây quá to và không thể dùng rìu để chặt, họ sẽ hét vào cây. (Dù hiện giờ tôi không có bài báo đó trong tay nhưng xin thề là tôi đã từng đọc được như vậy.) Những tiều phu có năng lực nhiệm màu sẽ leo lên cây ngay lúc bình minh và lấy hết gân sức hét thật to vào ngọn cây. Họ làm như thế suốt ba mươi ngày. Cái cây sẽ chết và đổ xuống. Người ta cho rằng tiếng hét của người đốn gỗ đã giết chết nhựa sống và tinh thần của cây. Theo kinh nghiệm của dân làng thì cách làm này luôn hiệu quả.\n\nÔi những con người khờ khạo khốn khổ với thói quen đốn cây kỳ lạ. Thời này mà họ còn hét vào cây. Cách làm đó mới nguyên thủy làm sao. Thật đáng buồn là họ không có những công nghệ hiện đại, và đầu óc thì cũng không khoa học tí nào.\n\nTôi thì chẳng hét với cái cây làm gì. Tôi gào thét lên với vợ mình. Hét vào điện thoại và hét cả với máy cắt cỏ. Tôi cũng hét vào cái tivi, tờ báo và cả con cái của tôi nữa. Thậm chí, tôi còn giương nắm đấm và gào lên trời xanh.\n\nTrong khi đó, người hàng xóm của tôi thường thét gào chiếc xe hơi của mình. Thậm chí hồi mùa hè này, tôi nghe thấy anh ta liên tục mắng nhiếc chiếc thang gấp suốt cả buổi chiều.\n\nChúng ta – những người dân thành thị hiện đại và có học thức – thường hét ầm lên mỗi khi tắc đường, hét vào trọng tài, hét vào hóa đơn, ngân hàng và máy móc. Đặc biệt là cái khoản cuối – máy móc. Máy móc và người thân thường là nạn nhân của chúng ta. Nhưng chưa bao giờ ta hét vào cây.\n\nKhông biết nếu ta hét vào cây thì có mang lại ích lợi gì không, nhưng với máy móc, dù ta làm gì, chúng vẫn ở yên một chỗ. Thậm chí, ta có đá thật mạnh vào chúng thì chúng vẫn im lìm đứng đó.\n\nNhưng về tác động của tiếng gào thét lên con người thì có lẽ người Solomon nghĩ đúng. Tiếng gào thét có tác dụng hủy diệt linh hồn của sinh vật.\n\nĐá và gậy gộc có thể làm ta gãy xương, còn những lời nói không hay sẽ làm trái tim ta tan nát.\n\nCÔNG VIỆC THỜI VỤ\n\nT\nối thứ Năm tuần trước, có hai chàng trai trẻ túng quẫn đến trước cửa nhà tôi.\n\n- Tụi cháu túng quẫn quá! – Họ bảo.\n\nNhưng trông chúng chẳng có vẻ gì là đang túng quẫn cả. Chúng ăn mặc gọn gàng và sạch sẽ với quần jeans, áo thun, đi giày tennis và đội mũ bóng chày.\n\nHóa ra, nguồn gốc của sự tuyệt vọng này chính là \"Tụi cháu mới 15 tuổi\".\n\nChúng muốn tìm một công việc để làm thêm vào mùa hè nhưng không ai thuê, vì chúng chưa đủ 16 tuổi.\n\nMột cậu nói:\n\n- Mười lăm tuổi chưa đủ điều kiện để được đi làm.\n\nTuổi 15 đúng thật là cái tuổi \"lập lờ\", thời kỳ chuyển giao giữa trẻ vị thành niên và tuổi trưởng thành.\n\nTôi hỏi chúng:\n\n- Vậy các cháu túng thiếu đến đâu?\n\n- Túng thiếu ghê lắm. Tụi cháu sẽ làm bất cứ việc gì để có tiền.\n\nTuyệt. Hai anh chàng này thuộc đúng mẫu người mà tôi đang cần tìm. Bấy lâu nay, một người hàng xóm thường xuyên than phiền tôi chỉ vì tôi dự trữ quá nhiều củi. Anh ta cho rằng chỗ củi đó quá nặng, sẽ làm cong mấy tấm ván trên bến ở trước nhà thuyền của chúng tôi, và vì sàn bến là tài sản chung nên cũng có quyền lợi của anh ta ở trong đó. Ngoài ra, anh ta còn cho rằng việc đốt củi trong lò sẽ gây ô nhiễm nghiêm trọng bầu không khí và rằng tôi là kẻ vô trách nhiệm khi không biết chọn một cách sưởi ấm nào khác thân thiện với môi trường hơn. Anh ta nói đúng. Tôi cũng phải thừa nhận là như vậy. Chính vì lý do này mà tôi còn rất nhiều củi tồn đọng. Đơn giản là vì tôi không đốt củi nữa. Nhưng anh chàng vẫn tiếp tục lèng èng khiến tôi rất bực.\n\nRồi tôi chợt nảy ra một giải pháp tuyệt vời để giải quyết xích mích giữa tôi và anh bạn hàng xóm.\n\nTôi nói với hai chàng nhóc:\n\n- Các chàng trai, chú có một công việc cho hai cháu đây. Hai cháu có nhìn thấy đống củi dọc bến tàu không?\n\n- Có ạ.\n\nTrông chúng rất hào hứng.\n\n- Ta muốn hai cháu mang tất cả chỗ củi kia tới nhà hàng xóm, trước cửa nhà đó có một cái xe Buick màu xanh rất lớn có bốn cửa. Chú muốn các cháu cho đầy củi vào cái xe ô tô đó.\n\n- Nhưng cái xe đó không thể chứa hết đống củi này.\n\n- Chính xác. Thế nên ta mới cần các cháu chất củi đầy ắp cái xe đó. Phải chất kín hết, kín từ cửa bên này sang cửa bên kia, từ sàn tới trần xe, không chừa chỗ nào. Nếu vẫn còn thừa củi, các cháu có thể chất lên nóc xe và mui xe. Các cháu hãy nhớ làm thật cẩn thận.\n\n- Tụi cháu không làm như thế được. Tụi cháu sẽ gặp rắc rối mất.\n\n- Thế nếu ta trả các cháu 10 đô-la mỗi lần và các cháu sẽ làm việc đó vào buổi tối, các cháu thấy thế nào?\n\n- Vậy thì được ạ. Nhưng nếu tụi cháu bị bắt gặp thì sao?\n\n- Chú sẽ trả thêm các cháu 5 đô-la để các cháu làm thật cẩn thận sao cho không bị bắt gặp.\n\n- Thế thì được ạ.\n\n- Ngoài ra, các cháu mới 15 tuổi, tức là còn ở tuổi vị thành niên. Người ta sẽ không bắt các cháu ngồi ghế điện vì đã để sai chỗ một ít củi đâu. Cứ yên tâm mà làm.\n\nTôi đã quá mệt mỏi vì luôn phải tỏ ra kiên nhẫn, biết điều và phải bận tâm tới những điều vụn vặt trong cuộc sống. Biện pháp mạnh và dứt khoát là phong cách của thời nay. Tôi chính là đội phản ứng nhanh một thành viên. Vì thế, đừng có gây hấn với tôi. Tôi không chất củi lên trước thềm nhà anh hàng xóm và châm lửa là đã may cho anh ta lắm rồi. Suy cho cùng, ai có thể tin được rằng một người đàn ông tốt bụng như tôi có thể làm một việc tồi tệ như vậy? Nhiều năm qua, tôi luôn làm việc chăm chỉ trong vẻ ngoài của một con người hiền lành, lịch thiệp. Nhưng bây giờ, đã đến lúc người làm phúc xấu bụng tháo bỏ chiếc mặt nạ và hành động rồi.\n\nTrong ngày cuối tuần này, anh hàng xóm của tôi sẽ vắng nhà. Và tôi vô tình biết chỗ anh ta cất giấu chìa khóa. Chỗ giấu thật ngu ngốc: ngay dưới cái hãm xung của chiếc xe Buick. Chính mắt tôi đã trông thấy anh ta bỏ chìa khóa ở đó. Tôi chỉ cần đảm bảo là cái xe không khóa và trong đêm, tôi sẽ nghe thấy âm thanh thú vị khi hai cậu nhóc 15 tuổi túng quẫn chuyển đống củi vào đó.\n\nBuổi sáng hôm sau, tôi rất vui khi đống củi không còn và chiếc xe trông như một cái sân để củi di động. Tôi thật là thông minh. Chắc hẳn khi về nhà, anh chàng hàng xóm sẽ phát điên khi nhìn thấy cảnh đó. Nghĩ đến đó thôi mà tôi đã thấy tức cười.\n\nNhưng chuyện này có thực sự xảy ra không?\n\nMột phần là có và một phần là không. Chuyện hai chàng trai tới trước cửa nhà tôi là thật. Chuyện về anh chàng hàng xóm và đống củi cũng là thật. Và tất cả những viễn cảnh kể trên cũng thực sự lướt qua trí não tôi. Thậm chí, nó còn mang nhiều chi tiết đáng sợ hơn trong cơn mơ lúc nửa đêm của tôi. Nếu tôi trẻ tuổi hơn, chắc tôi đã thực hiện kế hoạch đó.\n\nNhưng bây giờ, tạ ơn Chúa, tôi nhiều tuổi hơn và cũng sáng suốt hơn.\n\nTôi đã bảo hai chàng trai dừng lại và trả tiền cho họ.\n\nTôi nghĩ rằng anh chàng hàng xóm của tôi đúng là một gã ranh mãnh xấu bụng. Nếu biết tôi làm thế, chắc chắn anh ta sẽ trả thù. Anh ta cũng sẽ trả tiền cho mấy cậu choai choai để chất củi vào phòng tắm của tôi. Chẳng hay ho chút nào.\n\nCó lẽ, tôi đang trải qua một giai đoạn chuyển đổi khó khăn như những cậu chàng tuổi 15. Ở tuổi đó, tôi thường nảy ra những ý tưởng thật điên rồ và đã suýt thực hiện chúng.\n\nNhưng, Có lẽ, và Tuy nhiên.\n\nThi thoảng, những tưởng tượng như vậy cũng rất hữu ích.\n\nNếu bạn có thể hình dung ra chúng, bạn không bao giờ phải biến chúng thành hiện thực."
+}

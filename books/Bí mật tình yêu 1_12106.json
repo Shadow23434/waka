@@ -1,0 +1,234 @@
+{
+  "item_id": 12106,
+  "title": "Bí mật tình yêu 1",
+  "content_type": "book",
+  "crawl_time": "2026-04-03T06:05:14.090Z",
+  "input_book": {
+    "id": 12106,
+    "title": "Bí mật tình yêu 1",
+    "price": -1,
+    "content_type": "book",
+    "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/12106.jpg?v=2&w=350&h=510",
+    "mini_app_search": [
+      {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      }
+    ],
+    "description": "<p>Đ&atilde; th&agrave;nh một quy luật tự nhi&ecirc;n, từ khi ra đời cho đến khi rời khỏi thế gian, con người vẫn m&atilde;i miết dấn th&acirc;n v&agrave;o cuộc h&agrave;nh tr&igrave;nh t&igrave;m kiếm t&igrave;nh y&ecirc;u v&agrave; hạnh ph&uacute;c, dẫu chỉ l&agrave; trong v&ocirc; thức. Đ&oacute; l&agrave; một cuộc h&agrave;nh tr&igrave;nh d&agrave;i, đầy trắc trở, v&agrave; đ&ocirc;i khi thật c&ocirc; độc, v&agrave; h&agrave;nh trang b&ecirc;n m&igrave;nh l&agrave; những c&acirc;u hỏi mu&ocirc;n thuở chưa lời giải đ&aacute;p:\"T&igrave;nh y&ecirc;u l&agrave; g&igrave;?\", \"T&igrave;nh y&ecirc;u của ta giờ ở nơi n&agrave;o?\", \"Ta c&oacute; t&igrave;m được hạnh ph&uacute;c khi c&oacute; được t&igrave;nh y&ecirc;u?\", \"L&agrave;m sao giữ cho t&igrave;nh y&ecirc;u m&atilde;i m&atilde;i trường tồn, bất chấp mọi thăng trầm của cuộc sống v&agrave; d&ograve;ng chảy vĩnh cửu của thời gian?\".........Sẽ kh&ocirc;ng c&oacute; một c&acirc;u trả lời đ&uacute;ng tuyệt đối cho những c&acirc;u hỏi tr&ecirc;n. C&acirc;u trả lời đến từ cảm nhận, từ vốn sống, nh&acirc;n sinh quan v&agrave; sự lựa chọn của mỗi người.</p>\r\n<p>&nbsp;Trong <strong>B&iacute; mật t&igrave;nh y&ecirc;u</strong>, Tiến sĩ Leo Buscaglia đ&atilde; chỉ ra một c&aacute;ch tinh tế v&igrave; sao ch&uacute;ng ta c&oacute; được hạnh ph&uacute;c trong t&igrave;nh y&ecirc;u, hoặc tyu đ&atilde; nỗ lực nhiều m&agrave; vẫn chưa gặp được t&igrave;nh y&ecirc;u đ&iacute;ch thực. Những gợi &yacute; m&agrave; &ocirc;ng mang lại sau 25 năm nghi&ecirc;n cứu về t&igrave;nh y&ecirc;u sẽ cung cấp cho ch&uacute;ng ta một c&aacute;i nh&igrave;n s&acirc;u sắc hơn đối với loại cảm x&uacute;c đặc biệt n&agrave;y kể từ đ&oacute;, bằng những cảm nhận của ri&ecirc;ng mỗi người, ch&uacute;ng ta sẽ t&igrave;m ra lời giải đ&aacute;p cho ch&iacute;nh m&igrave;nh để đạt được một t&igrave;nh y&ecirc;u trọn vẹn, đẹp đẽ v&agrave; một cuộc đời vi&ecirc;n m&atilde;n, hạnh ph&uacute;c.\"Quyển s&aacute;ch n&agrave;y được d&agrave;nh ri&ecirc;ng cho những con người h&aacute;o hức muốn t&igrave;m kiếm t&igrave;nh y&ecirc;u, t&igrave;m kiếm những điều kỳ diệu nhất m&agrave; cuộc sống đ&atilde; ban cho để ch&uacute;ng ta c&oacute; thể sống tốt đẹp hơn, c&oacute; thể kh&aacute;m ph&aacute;, ươm mầm v&agrave; khơi dậy những khả năng tuyệt vời của ch&iacute;nh m&igrave;nh th&ocirc;ng qua t&igrave;nh y&ecirc;u.\"</p>",
+    "authors": [
+      {
+        "id": "5527",
+        "name": "Leo Buscaglia"
+      }
+    ],
+    "liked": 0,
+    "__source_files": [
+      "e:\\Crawl\\waka\\output\\Sách điện tử_Phát triển cá nhân_94.json"
+    ]
+  },
+  "item_info": {
+    "ok": true,
+    "code": 0,
+    "message": "Thành công",
+    "data": {
+      "audio_id": 0,
+      "epub_id": 0,
+      "updated_time": "2026-04-03 11:24:22",
+      "size": 0,
+      "total_chapter": 0,
+      "id": 12106,
+      "title": "Bí mật tình yêu 1",
+      "content_type": "book",
+      "our_price": -1,
+      "price": -1,
+      "description": "<p>Đ&atilde; th&agrave;nh một quy luật tự nhi&ecirc;n, từ khi ra đời cho đến khi rời khỏi thế gian, con người vẫn m&atilde;i miết dấn th&acirc;n v&agrave;o cuộc h&agrave;nh tr&igrave;nh t&igrave;m kiếm t&igrave;nh y&ecirc;u v&agrave; hạnh ph&uacute;c, dẫu chỉ l&agrave; trong v&ocirc; thức. Đ&oacute; l&agrave; một cuộc h&agrave;nh tr&igrave;nh d&agrave;i, đầy trắc trở, v&agrave; đ&ocirc;i khi thật c&ocirc; độc, v&agrave; h&agrave;nh trang b&ecirc;n m&igrave;nh l&agrave; những c&acirc;u hỏi mu&ocirc;n thuở chưa lời giải đ&aacute;p:\"T&igrave;nh y&ecirc;u l&agrave; g&igrave;?\", \"T&igrave;nh y&ecirc;u của ta giờ ở nơi n&agrave;o?\", \"Ta c&oacute; t&igrave;m được hạnh ph&uacute;c khi c&oacute; được t&igrave;nh y&ecirc;u?\", \"L&agrave;m sao giữ cho t&igrave;nh y&ecirc;u m&atilde;i m&atilde;i trường tồn, bất chấp mọi thăng trầm của cuộc sống v&agrave; d&ograve;ng chảy vĩnh cửu của thời gian?\".........Sẽ kh&ocirc;ng c&oacute; một c&acirc;u trả lời đ&uacute;ng tuyệt đối cho những c&acirc;u hỏi tr&ecirc;n. C&acirc;u trả lời đến từ cảm nhận, từ vốn sống, nh&acirc;n sinh quan v&agrave; sự lựa chọn của mỗi người.</p>\r\n<p>&nbsp;Trong <strong>B&iacute; mật t&igrave;nh y&ecirc;u</strong>, Tiến sĩ Leo Buscaglia đ&atilde; chỉ ra một c&aacute;ch tinh tế v&igrave; sao ch&uacute;ng ta c&oacute; được hạnh ph&uacute;c trong t&igrave;nh y&ecirc;u, hoặc tyu đ&atilde; nỗ lực nhiều m&agrave; vẫn chưa gặp được t&igrave;nh y&ecirc;u đ&iacute;ch thực. Những gợi &yacute; m&agrave; &ocirc;ng mang lại sau 25 năm nghi&ecirc;n cứu về t&igrave;nh y&ecirc;u sẽ cung cấp cho ch&uacute;ng ta một c&aacute;i nh&igrave;n s&acirc;u sắc hơn đối với loại cảm x&uacute;c đặc biệt n&agrave;y kể từ đ&oacute;, bằng những cảm nhận của ri&ecirc;ng mỗi người, ch&uacute;ng ta sẽ t&igrave;m ra lời giải đ&aacute;p cho ch&iacute;nh m&igrave;nh để đạt được một t&igrave;nh y&ecirc;u trọn vẹn, đẹp đẽ v&agrave; một cuộc đời vi&ecirc;n m&atilde;n, hạnh ph&uacute;c.\"Quyển s&aacute;ch n&agrave;y được d&agrave;nh ri&ecirc;ng cho những con người h&aacute;o hức muốn t&igrave;m kiếm t&igrave;nh y&ecirc;u, t&igrave;m kiếm những điều kỳ diệu nhất m&agrave; cuộc sống đ&atilde; ban cho để ch&uacute;ng ta c&oacute; thể sống tốt đẹp hơn, c&oacute; thể kh&aacute;m ph&aacute;, ươm mầm v&agrave; khơi dậy những khả năng tuyệt vời của ch&iacute;nh m&igrave;nh th&ocirc;ng qua t&igrave;nh y&ecirc;u.\"</p>",
+      "zone": 1,
+      "published_time": "04/01/2012",
+      "order": null,
+      "detail_url": "https://waka.vn/ebook/bi-mat-tinh-yeu-1-leo-buscaglia-bG8N8W.html",
+      "content_detail_url": "https://open.waka.vn/ebook/bi-mat-tinh-yeu-1-leo-buscaglia-bG8N8W.html?std=type%3D1%26data%3D12106%26title%3DB%25C3%25AD%2Bm%25E1%25BA%25ADt%2Bt%25C3%25ACnh%2By%25C3%25AAu%2B1%26mini_app%3D1&type=1&data=12106&title=B%C3%AD+m%E1%BA%ADt+t%C3%ACnh+y%C3%AAu+1&mini_app=1",
+      "publishing_houses": [
+        {
+          "id": "36",
+          "name": "NXB Trẻ"
+        }
+      ],
+      "authors": [
+        {
+          "id": "5527",
+          "name": "Leo Buscaglia",
+          "avatar": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5527.jpg?v=1&time=0&w=720&h=720"
+        }
+      ],
+      "authors_json": "[{\"id\":\"5527\",\"name\":\"Leo Buscaglia\",\"avatar\":\"https://307a0e78.vws.vegacdn.vn/view/v2/image/img.author/0/0/0/5527.jpg?v=1&time=0&w=720&h=720\"}]",
+      "author": "Leo Buscaglia",
+      "author_id": "5527",
+      "category_id": "94",
+      "category_name": "Phát triển cá nhân",
+      "categories": [
+        {
+          "id": "94",
+          "name": "Phát triển cá nhân",
+          "parent_id": 0
+        }
+      ],
+      "categories_vn": [],
+      "sub_category": "",
+      "tags": "",
+      "in_wistlist": 0,
+      "rate_value": 0,
+      "rate_time": "",
+      "avg_rate_value": "5.0",
+      "total_rate_count": 48,
+      "last_read": 0,
+      "read_percentages": 0,
+      "short_content": 0,
+      "content_status": "PUBLISHED",
+      "lock_message": "",
+      "show_watermark": 0,
+      "scroll_disable": 0,
+      "label_type": "",
+      "total_comment": 2,
+      "total_wishlist": 121,
+      "show_popup_wishlist": 1,
+      "language": "",
+      "translator": "",
+      "isbn": "",
+      "meta_ios": "vwaka://open?type=1&data=12106&title=bi-mat-tinh-yeu-1",
+      "meta_android": "waka://ebook.waka.vn?type=1&data=12106&title=bi-mat-tinh-yeu-1#Intent;scheme=waka;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;package=anim.dqh.tvw;end",
+      "created_time": 1460372744,
+      "thumb": "https://307a0e78.vws.vegacdn.vn/view/v2/image/img.book/0/0/0/12106.jpg?v=2&w=480&h=700",
+      "share_thumb": "",
+      "is_brief": 0,
+      "book_related_id": 0,
+      "ranking_top": 0,
+      "rate_content": "",
+      "book_type": 0,
+      "link_review": null,
+      "product_id": 0,
+      "bit_code": 55,
+      "status_xbol": 1,
+      "parent_xbol_id": 0,
+      "partner_content_id": 0,
+      "number_view": 7114,
+      "publishing_house_type": "",
+      "is_publishing_house_owner": false,
+      "is_freelancer": 0,
+      "amount_compare": 30,
+      "mini_app": {
+        "id": 1,
+        "code": "Sách truyện",
+        "type": "waka_ebook",
+        "text_color": "#0BAFFF",
+        "background_color": "#E0F1FF"
+      },
+      "first_chapter_id": 0,
+      "short_link": "https://tywd4.app.goo.gl/sA34",
+      "read_link": "https://ebook.waka.vn/bi-mat-tinh-yeu-1-rG8N8W.html",
+      "chapter_newest": null,
+      "collection_status": "",
+      "meta_rate": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 48
+      },
+      "flashsale": null,
+      "permission": {
+        "read": 0,
+        "owner": 2,
+        "button_buy": 0,
+        "message": "Vui lòng đăng nhập tài khoản của bạn để đọc nội dung này."
+      },
+      "file_path": "",
+      "file_version": 4,
+      "auto_update": true,
+      "label_gift": ""
+    }
+  },
+  "read_flow": {
+    "clickInfo": {
+      "clicked": true,
+      "text": "Đọc sách",
+      "tag": "BUTTON",
+      "className": "flex items-center justify-center py-2 rounded-full cursor-pointer text-white-default text-16-16 whitespace-nowrap w-[233"
+    },
+    "downloadStatus": 200,
+    "downloadJson": {
+      "code": 4,
+      "message": "Ebook giá -1đ. Vui lòng truy cập website http://waka.vn để mua cuốn ebook này !",
+      "data": {
+        "file_path": "",
+        "file_version": 4,
+        "auto_update": true,
+        "epub_url": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/content.opf?token=0c4a4z65f50ad5573e9e484f6fe376809c844a12106",
+        "id": 12106,
+        "chapter_trail": 4,
+        "name": "Bí mật tình yêu 1",
+        "status_xbol": 1,
+        "parent_xbol_id": null,
+        "pdf_url": "",
+        "epub_version": 4,
+        "pdf_version": null
+      }
+    },
+    "currentUrl": "https://waka.vn/reader/bi-mat-tinh-yeu-1-rG8N8W.html",
+    "inReader": true
+  },
+  "chapters": [
+    {
+      "chapterIndex": "page0001.xhtml",
+      "chapterHref": "contents/page0001.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/contents/page0001.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu - Bí mật của tình yêu\nLời tựa của tác giả - Bí mật tình yêu\nTình yêu cần phải được nuôi dưỡng\nThất bại trong tình yêu\nCuộc sống không tình yêu chưa phải là cuộc sống đích thực\nSự mềm dẻo trong tình yêu\nTình yêu và tuổi tác\nBạn muốn có một tình yêu như thế nào?\nHãy gửi con thuyền tình yêu đến những chân trời mới\nTình yêu là sự sống\nĐừng sợ bị tổn thương\nTha thứ cho chính mình\nLạc quan trong tình yêu\nTình yêu biết rõ điều gì là quan trọng\nSự nhàm chán - kẻ thù của tình yêu\nĐừng bỏ lỡ cơ hội\nĐiều kiện cần của một tình yêu vô điều kiện\nTình yêu là đích đến của cuộc đời\nDòng chảy tự nhiên của tình yêu\nCuộc hành trình tìm kiếm tình yêu\nĐừng bao giờ mệt mỏi khi nói \"anh yêu em!\"\nNghệ thuật của con tim\nTình yêu và sự hoàn hảo\nĐể tình yêu sống mãi\nBí mật của cuộc sống\nHãy đón nhận tình yêu\nSự thẳng thắn và nhã nhặn\nƯu tiên trong tình yêu\nNét riêng biệt\nTình yêu là tấm gương phản chiếu con người\nSự bình đẳng trong tình yêu\nGiá trị thực của tình yêu\nNgọn lửa yêu thương\nTình yêu và những biểu hiện tình cảm\nỨng xử với tình yêu\n\"Tôi\" và \"chúng ta\" trong tình yêu\nThông điệp tình yêu\nBiết cách vượt qua bất hạnh\nThay đổi bản thân để giải quyết vấn đề\nĐừng cố gắng thay đổi người mình yêu\nTình yêu cũng cần được cứu rỗi\nTình yêu và niềm tin\nCân bằng nỗi sợ hãi\nHãy chủ động mở cửa lòng mình\nCó hay không tình yêu hoàn hảo?\nSự chiếm hữu tình yêu\nKhi người yêu lỗi hẹn\nĐối nhân xử thế\nNhững lời khen chân thành\nNghịch lý tình yêu\nTình yêu và niềm say mê\nÝ chí trong tình yêu\nTình yêu và lòng tự trọng\nTình yêu không có tuổi\nKết hợp sự khác biệt\nTình yêu và lòng tự hào bản thân\nHãy thành thật với bản thân\nĐừng \"đào tạo\" người yêu!\nLòng biết ơn\nPhân tích tình yêu\nThổ lộ nỗi lòng\nTính kiên nhẫn trong tình yêu\nTình yêu mênh mông"
+    },
+    {
+      "chapterIndex": "page0002.xhtml",
+      "chapterHref": "contents/page0002.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/contents/page0002.xhtml",
+      "chapterLabel": null,
+      "progress": null,
+      "text": "Mục lục\nLời giới thiệu - Bí mật của tình yêu\nLời tựa của tác giả - Bí mật tình yêu\nTình yêu cần phải được nuôi dưỡng\nThất bại trong tình yêu\nCuộc sống không tình yêu chưa phải là cuộc sống đích thực\nSự mềm dẻo trong tình yêu\nTình yêu và tuổi tác\nBạn muốn có một tình yêu như thế nào?\nHãy gửi con thuyền tình yêu đến những chân trời mới\nTình yêu là sự sống\nĐừng sợ bị tổn thương\nTha thứ cho chính mình\nLạc quan trong tình yêu\nTình yêu biết rõ điều gì là quan trọng\nSự nhàm chán - kẻ thù của tình yêu\nĐừng bỏ lỡ cơ hội\nĐiều kiện cần của một tình yêu vô điều kiện\nTình yêu là đích đến của cuộc đời\nDòng chảy tự nhiên của tình yêu\nCuộc hành trình tìm kiếm tình yêu\nĐừng bao giờ mệt mỏi khi nói \"anh yêu em!\"\nNghệ thuật của con tim\nTình yêu và sự hoàn hảo\nĐể tình yêu sống mãi\nBí mật của cuộc sống\nHãy đón nhận tình yêu\nSự thẳng thắn và nhã nhặn\nƯu tiên trong tình yêu\nNét riêng biệt\nTình yêu là tấm gương phản chiếu con người\nSự bình đẳng trong tình yêu\nGiá trị thực của tình yêu\nNgọn lửa yêu thương\nTình yêu và những biểu hiện tình cảm\nỨng xử với tình yêu\n\"Tôi\" và \"chúng ta\" trong tình yêu\nThông điệp tình yêu\nBiết cách vượt qua bất hạnh\nThay đổi bản thân để giải quyết vấn đề\nĐừng cố gắng thay đổi người mình yêu\nTình yêu cũng cần được cứu rỗi\nTình yêu và niềm tin\nCân bằng nỗi sợ hãi\nHãy chủ động mở cửa lòng mình\nCó hay không tình yêu hoàn hảo?\nSự chiếm hữu tình yêu\nKhi người yêu lỗi hẹn\nĐối nhân xử thế\nNhững lời khen chân thành\nNghịch lý tình yêu\nTình yêu và niềm say mê\nÝ chí trong tình yêu\nTình yêu và lòng tự trọng\nTình yêu không có tuổi\nKết hợp sự khác biệt\nTình yêu và lòng tự hào bản thân\nHãy thành thật với bản thân\nĐừng \"đào tạo\" người yêu!\nLòng biết ơn\nPhân tích tình yêu\nThổ lộ nỗi lòng\nTính kiên nhẫn trong tình yêu\nTình yêu mênh mông"
+    },
+    {
+      "chapterIndex": "page0003.xhtml",
+      "chapterHref": "contents/page0003.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/contents/page0003.xhtml",
+      "chapterLabel": "Lời giới thiệu - Bí mật của tình yêu.",
+      "progress": null,
+      "text": "LỜI GIỚI THIỆU - BÍ MẬT CỦA TÌNH YÊU\n\nĐ\nã thành một quy luật tự nhiên, từ khi ra đời cho đến khi rời khỏi thế gian, con người vẫn mải miết dấn thân vào cuộc hành trình tìm kiếm tình yêu và hạnh phúc, dẫu chỉ là trong vô thức.\n\nĐó là một cuộc hành trình dài, đầy trắc trở, và đôi khi thật cô độc, và hành trang bên mình là những câu hỏi muôn thuở chưa lời giải đáp: \"Tình yêu là gì?\", \"Tình yêu của ta giờ ở nơi nào?\", \"Ta có tìm được hạnh phúc khi có được tình yêu?\", \"Làm sao giữ cho tình yêu mãi trường tồn, bất chấp mọi thăng trầm của cuộc sống và dòng chảy vĩnh cửu của thời gian?\"…\n\nSẽ không có một câu trả lời đúng tuyệt đối cho những câu hỏi trên. Câu trả lời đến từ cảm nhận, từ vốn sống, nhân sinh quan và sự chọn lựa của mỗi người.\n\nQua quyển sách Bí mật Tình yêu, Tiến sĩ Leo Buscaglia muốn gửi gắm đến chúng ta một cách nhìn thật mới mẻ về tình yêu sau 25 năm dài nghiên cứu. Với những chiêm nghiệm sâu sắc về cuộc sống, tác giả đã chỉ ra cho ta thấy vì sao ta có được hạnh phúc trong tình yêu, hoặc tuy đã nỗ lực rất nhiều mà vẫn chưa gặp được tình yêu đích thực. Đó phần lớn phụ thuộc vào cách nghĩ, cách nhìn, và cách chúng ta ứng xử trong tình yêu. Nếu ta có thể lựa chọn một thái độ sống tích cực cho cuộc đời mình, thì chúng ta nhất thiết cũng phải lựa chọn một thái độ đúng đắn đối với tình yêu. Chỉ có như vậy, tình yêu trong ta mới không mau chóng lụi tàn khi những phút đắm say ban đầu đã qua, mới có thể mãi xanh tươi và nồng thắm theo thời gian, và sẽ trở thành nguồn cổ vũ tinh thần mạnh mẽ nhất giữa những thăng trầm của cuộc sống.\n\nKhông như một số quyển sách khác, các bạn sẽ không tìm thấy trong \"Bí mật Tình yêu\" những câu chuyện tình diễm lệ với những kết thúc hoàn hảo, mà tác giả đã làm ta bất ngờ trước sự tinh tế của ông. Tình yêu ở đây được nhìn nhận, phân tích, soi xét một cách thẳng thắn và thấu đáo. Mọi khía cạnh, mọi ngõ ngách sâu khuất nhất của tình yêu đều được cái nhìn sắc sảo, toàn diện của Tiến sĩ Leo\n\nBuscaglia phát hiện và mổ xẻ đến tận cùng. Ông chỉ cho ta thấy rõ những thuộc tính cơ bản của tình yêu và cả những yếu tố song hành không thể thiếu của nó. Những gợi ý mà ông mang lại đã cung cấp cho ta một cái nhìn sâu sắc hơn về tình yêu, và với những cảm nhận riêng của mỗi người, chúng ta sẽ phần nào tìm ra lời giải đáp cho chính mình để có thể có được một tình yêu trọn vẹn, đẹp đẽ và một cuộc đời viên mãn, hạnh phúc.\n\nFirst News xin trân trọng giới thiệu đến bạn đọc quyển sách này như một món quà nhỏ nhưng thật ý nghĩa đối với một khái niệm thiêng liêng luôn được cả nhân loại say mê tìm hiểu. Bạn hãy đọc quyển sách này để thấy rằng tình yêu thật giản dị. Nó tồn tại ở khắp mọi nơi, trong những biểu hiện nhỏ nhất của cuộc sống. Và ở vị trí tuyệt tác tinh thần của tạo hóa, tình yêu vẫn rất cần được nuôi dưỡng và chăm sóc, cần được thể hiện bằng hành động và sự sáng tạo, cần được sẻ chia và thấu hiểu. Quyển sách một lần nữa khẳng định một chân lý muôn thuở của tình yêu và cuộc sống: Hãy cho đi và bạn sẽ nhận lại được những gì mình mong muốn. Hãy yêu đi và bạn sẽ được yêu, hãy sống hết mình và cuộc đời sẽ luôn mỉm cười với bạn, hãy yêu thương con người và chuẩn bị đón nhận sự ấm áp và niềm vui trong trái tim bạn, bởi vì \"Không có gì đền đáp được tình yêu bằng chính tình yêu\".\n\nFIRST NEWS"
+    },
+    {
+      "chapterIndex": "page0004.xhtml",
+      "chapterHref": "contents/page0004.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/contents/page0004.xhtml",
+      "chapterLabel": "Lời tựa của tác giả - Bí mật tình yêu.",
+      "progress": null,
+      "text": "LỜI TỰA CỦA TÁC GIẢ - BÍ MẬT TÌNH YÊU\n\nT\nôi thường đón chào ngày mới bằng cách nghe tin tức. Ở khắp nơi trên thế giới này, mỗi ngày xảy ra biết bao nhiêu điều đau lòng.\n\nTôi nghe nói về một người chạy bộ bị trấn lột trong công viên, một gã tâm thần bắn bị thương một đứa trẻ tội nghiệp, một anh chàng bóp cổ vợ mình vì ghen tuông mù quáng, rồi những vụ bạo động, giết người...\n\nMặc dầu ngày nào cũng phải nghe những tin tức đáng buồn này, tôi vẫn chọn lựa cách đối mặt với thế giới trong tư thế của một người tràn đầy tình yêu.\n\nMột số người khó có thể chấp nhận ý nghĩ tình yêu là một sự lựa chọn. Điều này dường như trái ngược với lý thuyết chung về tình yêu lãng mạn, trong đó cho rằng tình yêu là một bản tính bẩm sinh và có thể chiếm lĩnh tâm hồn ta vào bất kỳ lúc nào, bất kể ta có muốn hay không. Lý thuyết này luôn khẳng định tình yêu là một sức mạnh kỳ diệu sẽ giúp chúng ta thoát khỏi đau khổ và giải quyết mọi rắc rối, vì bản chất tình yêu là như thế. Đúng là trong một phạm vi nào đó, tình yêu là do cơ duyên, nhưng nó cần được gợi lên, được học hỏi và chiêm nghiệm nếu muốn nó mang lại cho chúng ta nguồn hạnh phúc đích thực và dài lâu.\n\nNhìn vào cuộc sống của bản thân, tôi thấy mình có được niềm hạnh phúc và vui sống đến thế là nhờ vào hơn 25 năm nghiên cứu về tình yêu của mình. Tôi vẫn thường bị nhiều người cho là quá lãng mạn, lãng mạn đến mức không thể cứu chữa được. Nhưng cho đến tận bây giờ tôi vẫn có thể nói với bạn rằng đó là một lợi thế, chứ không phải là một sự thiệt thòi. Tình yêu chính là phương cách diệu kỳ đã biến cuộc đời tôi thành một tuyệt tác sống động và lý thú nhất. Thỉnh thoảng tình yêu cũng làm cho cuộc sống của tôi bị xáo trộn, nhưng tôi phát hiện ra rằng cũng chính tình yêu sẽ chữa lành những vết thương đau khổ nhất. Và dù cho có phải sống với một trái tim rỉ máu thì vẫn còn tốt hơn là một trái tim không có cảm xúc.\n\nNhưng tôi cũng không quá lãng mạn để tin rằng một người nào đó có thể thành công chỉ với sự dẫn dắt đơn thuần của con tim. Ngoài tình yêu chúng ta còn có lý trí. Tình yêu chỉ có thể mang lại hạnh phúc khi chúng ta biết học hỏi, phân tích và nghiên cứu nó một cách nghiêm túc vì những khát khao của chính mình.\n\nĐa số chúng ta thường thụ động chờ đợi, cho đến khi tự phát hiện ra rằng mình đang tuyệt vọng, đơn độc và đồng thời bị chế ngự bởi cảm giác bất lực trước những cảm xúc của riêng mình. Trong trường hợp đó, nhiều người chọn cách lao vào tình yêu vội vã và thiếu suy nghĩ như những con thiêu thân lao vào ánh lửa. Và kết quả là gì? Cô đơn và tuyệt vọng ngày càng lớn hơn, họ trở nên băng giá, ganh ghét và sợ hãi hơn với cuộc sống, bị suy nhược nhiều hơn cả về tinh thần và thể chất… Nói chung là khi chất chồng thất vọng trong tình yêu và không tìm ra được lối thoát, con người sẽ sống lãnh đạm hơn, phó mặc đời mình cho những nghi kị, thành kiến và đau khổ.\n\nTôi mong muốn quyển sách này có thể giúp chúng ta thoát khỏi thế tiến thoái lưỡng nan đó. Quyển sách đưa ra những ý tưởng mà tôi hy vọng là sẽ gợi ý cho các bạn phân tích về tình yêu của mình một cách nghiêm túc, đem đến cảm giác phấn chấn và cuối cùng dẫn đến những hành động khích lệ sự đổi mới để chúng ta có được sự thành công trong tình yêu của các bạn. Tôi cố gắng diễn đạt những ý tưởng này theo những cách đơn giản và rõ ràng, nhấn mạnh bằng cách lặp lại một số những ý tưởng.\n\nMặc dù trong quyển sách này gợi ý vô số điều suy ngẫm, nhưng quả thực tất cả những điều đó đều là các bộ phận của một khái niệm: TÌNH YÊU. Đúng vậy, tình yêu không phải là một ý niệm trừu tượng, thần bí và phức tạp. Nó là điều mà con người có thể đạt được bằng những kinh nghiệm hằng ngày, nhất là qua những lần thất bại và cả trong những khoảnh khắc thăng hoa của cảm xúc.\n\nQuyển sách này được dành riêng cho những con người háo hức tìm kiếm tình yêu, tìm kiếm những điều kỳ diệu nhất mà cuộc sống đã ban cho để chúng ta có thể sống tốt đẹp hơn, có thể khám phá, ươm mầm và khơi dậy những khả năng tuyệt vời của chính mình thông qua tình yêu.\n\nTiến sĩ LEO BUSCAGLIA"
+    },
+    {
+      "chapterIndex": "page0005.xhtml",
+      "chapterHref": "contents/page0005.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/contents/page0005.xhtml",
+      "chapterLabel": "Tình yêu cần phải được nuôi dưỡng.",
+      "progress": null,
+      "text": "TÌNH YÊU CẦN PHẢI ĐƯỢC NUÔI DƯỠNG\n\nY\nêu và được yêu - đó là niềm khao khát, là hạnh phúc và là ước mong của tất cả mọi người trên thế gian này. Nhưng một khi đã có được tình yêu, thì làm cách nào để giữ nó luôn sống mãi?\n\nTình yêu sẽ không chết đi vì bệnh tật, vì thời gian, sự xa cách hay khó khăn, thử thách của cuộc sống... mà nó chết đi vì sự thờ ơ và lãnh đạm, vì sự ghen tuông mù quáng hay thái độ chiếm hữu, cho rằng tình yêu là một món quà để cất giữ. Tình yêu cũng sẽ lụi tàn vì cảm giác nhàm chán và vì ý nghĩ sai lầm rằng nó tự đến, là sự hiển nhiên vốn phải có để rồi không cần nâng niu, trân trọng.\n\nCũng giống như tất cả những vật thể sống khác, tình yêu rất cần được sự quan tâm và chăm sóc. Khi yêu, tức là hai người đang cùng chăm sóc một hạt mầm nhỏ bé. Sự quan tâm, những cử chỉ yêu thương, sự chia sẻ chân thành chính là làn nước mát lành giúp hạt mầm ấy đâm chồi, vươn lên một cách khỏe mạnh. Để hương hoa tình yêu của bạn luôn nồng thắm và tươi đẹp, hãy luôn làm mới mối quan hệ của mình, luôn nuôi dưỡng nó bằng tất cả trái tim và tâm hồn của bạn!"
+    },
+    {
+      "chapterIndex": "page0006.xhtml",
+      "chapterHref": "contents/page0006.xhtml",
+      "chapterUrl": "https://store.waka.vn/static/enterprise/bokzxef/0/0/0/12106_4/OEBPS/contents/page0006.xhtml",
+      "chapterLabel": "Thất bại trong tình yêu.",
+      "progress": null,
+      "text": "THẤT BẠI TRONG TÌNH YÊU\n\nThành công sẽ không bao giờ đến với những người chưa bao giờ gặp thất bại trong đời.\n\n- Elbert Hubbard\n\nT\nrong tình yêu không bao giờ có chỗ cho sự thất bại. Nếu bạn không có cái may mắn được đáp lại tình yêu - điều đó không có nghĩa là bạn đã thua cuộc. Khi chưa một lần yêu bằng chính trái tim mình, ta sẽ không bao giờ được nếm trải hương vị ngọt ngào của nó.\n\nCảm giác hạnh phúc đến từ việc ta có một người để quan tâm, để chăm sóc, để yêu thương và nghĩ đến hằng ngày, cho dù chỉ là trong thầm lặng. Có người đánh đồng tình yêu với sự chiếm hữu, và họ luôn cho rằng mỗi khi có được tình yêu, tức là họ đã giành được một chiến công đáng tự hào. Đó là một quan niệm sai lầm, bởi tình yêu đích thực khiến ta vui cùng niềm vui của người ấy, hạnh phúc khi người ấy hạnh phúc và đau buồn khi người ấy thất bại. Hãy cứ yêu thương, cho dù bạn biết rằng có thể mình chẳng bao giờ được đền đáp. Những ai cố gắng thực hiện một việc gì đó mà không thành công, vẫn còn tốt hơn những người vì sợ hãi thất bại mà không dám làm bất cứ điều gì trong đời.\n\nCon người có được kinh nghiệm từ những thất bại. Qua những lần thất bại và phải bắt đầu lại từ đầu, chúng ta trở nên khôn ngoan và cẩn trọng hơn. Ông cha ta có câu: \"Thất bại là mẹ thành công\", nhưng có mấy khi chúng ta có được suy nghĩ tích cực như thế. Khi gặp thất bại, phản ứng đầu tiên của con người là chán nản, buồn phiền. Chúng ta luôn nghĩ thất bại như một điều đáng hổ thẹn. Không hẳn thế! Thành công thường náu mình đâu đó trong thất bại. Hãy chấp nhận thất bại và tìm kiếm nguyên nhân, tìm con đường mới cho một sự việc cũ và một định hướng khác cho tương lai. Đó là cách để thay đổi, để nhìn thấu sự vật và làm cho cuộc sống của mình tốt đẹp hơn. Khi bạn học được điều đó, tức là bạn đã học được cách để yêu."
+    }
+  ],
+  "full_text": "Mục lục\nLời giới thiệu - Bí mật của tình yêu\nLời tựa của tác giả - Bí mật tình yêu\nTình yêu cần phải được nuôi dưỡng\nThất bại trong tình yêu\nCuộc sống không tình yêu chưa phải là cuộc sống đích thực\nSự mềm dẻo trong tình yêu\nTình yêu và tuổi tác\nBạn muốn có một tình yêu như thế nào?\nHãy gửi con thuyền tình yêu đến những chân trời mới\nTình yêu là sự sống\nĐừng sợ bị tổn thương\nTha thứ cho chính mình\nLạc quan trong tình yêu\nTình yêu biết rõ điều gì là quan trọng\nSự nhàm chán - kẻ thù của tình yêu\nĐừng bỏ lỡ cơ hội\nĐiều kiện cần của một tình yêu vô điều kiện\nTình yêu là đích đến của cuộc đời\nDòng chảy tự nhiên của tình yêu\nCuộc hành trình tìm kiếm tình yêu\nĐừng bao giờ mệt mỏi khi nói \"anh yêu em!\"\nNghệ thuật của con tim\nTình yêu và sự hoàn hảo\nĐể tình yêu sống mãi\nBí mật của cuộc sống\nHãy đón nhận tình yêu\nSự thẳng thắn và nhã nhặn\nƯu tiên trong tình yêu\nNét riêng biệt\nTình yêu là tấm gương phản chiếu con người\nSự bình đẳng trong tình yêu\nGiá trị thực của tình yêu\nNgọn lửa yêu thương\nTình yêu và những biểu hiện tình cảm\nỨng xử với tình yêu\n\"Tôi\" và \"chúng ta\" trong tình yêu\nThông điệp tình yêu\nBiết cách vượt qua bất hạnh\nThay đổi bản thân để giải quyết vấn đề\nĐừng cố gắng thay đổi người mình yêu\nTình yêu cũng cần được cứu rỗi\nTình yêu và niềm tin\nCân bằng nỗi sợ hãi\nHãy chủ động mở cửa lòng mình\nCó hay không tình yêu hoàn hảo?\nSự chiếm hữu tình yêu\nKhi người yêu lỗi hẹn\nĐối nhân xử thế\nNhững lời khen chân thành\nNghịch lý tình yêu\nTình yêu và niềm say mê\nÝ chí trong tình yêu\nTình yêu và lòng tự trọng\nTình yêu không có tuổi\nKết hợp sự khác biệt\nTình yêu và lòng tự hào bản thân\nHãy thành thật với bản thân\nĐừng \"đào tạo\" người yêu!\nLòng biết ơn\nPhân tích tình yêu\nThổ lộ nỗi lòng\nTính kiên nhẫn trong tình yêu\nTình yêu mênh mông\n\nMục lục\nLời giới thiệu - Bí mật của tình yêu\nLời tựa của tác giả - Bí mật tình yêu\nTình yêu cần phải được nuôi dưỡng\nThất bại trong tình yêu\nCuộc sống không tình yêu chưa phải là cuộc sống đích thực\nSự mềm dẻo trong tình yêu\nTình yêu và tuổi tác\nBạn muốn có một tình yêu như thế nào?\nHãy gửi con thuyền tình yêu đến những chân trời mới\nTình yêu là sự sống\nĐừng sợ bị tổn thương\nTha thứ cho chính mình\nLạc quan trong tình yêu\nTình yêu biết rõ điều gì là quan trọng\nSự nhàm chán - kẻ thù của tình yêu\nĐừng bỏ lỡ cơ hội\nĐiều kiện cần của một tình yêu vô điều kiện\nTình yêu là đích đến của cuộc đời\nDòng chảy tự nhiên của tình yêu\nCuộc hành trình tìm kiếm tình yêu\nĐừng bao giờ mệt mỏi khi nói \"anh yêu em!\"\nNghệ thuật của con tim\nTình yêu và sự hoàn hảo\nĐể tình yêu sống mãi\nBí mật của cuộc sống\nHãy đón nhận tình yêu\nSự thẳng thắn và nhã nhặn\nƯu tiên trong tình yêu\nNét riêng biệt\nTình yêu là tấm gương phản chiếu con người\nSự bình đẳng trong tình yêu\nGiá trị thực của tình yêu\nNgọn lửa yêu thương\nTình yêu và những biểu hiện tình cảm\nỨng xử với tình yêu\n\"Tôi\" và \"chúng ta\" trong tình yêu\nThông điệp tình yêu\nBiết cách vượt qua bất hạnh\nThay đổi bản thân để giải quyết vấn đề\nĐừng cố gắng thay đổi người mình yêu\nTình yêu cũng cần được cứu rỗi\nTình yêu và niềm tin\nCân bằng nỗi sợ hãi\nHãy chủ động mở cửa lòng mình\nCó hay không tình yêu hoàn hảo?\nSự chiếm hữu tình yêu\nKhi người yêu lỗi hẹn\nĐối nhân xử thế\nNhững lời khen chân thành\nNghịch lý tình yêu\nTình yêu và niềm say mê\nÝ chí trong tình yêu\nTình yêu và lòng tự trọng\nTình yêu không có tuổi\nKết hợp sự khác biệt\nTình yêu và lòng tự hào bản thân\nHãy thành thật với bản thân\nĐừng \"đào tạo\" người yêu!\nLòng biết ơn\nPhân tích tình yêu\nThổ lộ nỗi lòng\nTính kiên nhẫn trong tình yêu\nTình yêu mênh mông\n\nLỜI GIỚI THIỆU - BÍ MẬT CỦA TÌNH YÊU\n\nĐ\nã thành một quy luật tự nhiên, từ khi ra đời cho đến khi rời khỏi thế gian, con người vẫn mải miết dấn thân vào cuộc hành trình tìm kiếm tình yêu và hạnh phúc, dẫu chỉ là trong vô thức.\n\nĐó là một cuộc hành trình dài, đầy trắc trở, và đôi khi thật cô độc, và hành trang bên mình là những câu hỏi muôn thuở chưa lời giải đáp: \"Tình yêu là gì?\", \"Tình yêu của ta giờ ở nơi nào?\", \"Ta có tìm được hạnh phúc khi có được tình yêu?\", \"Làm sao giữ cho tình yêu mãi trường tồn, bất chấp mọi thăng trầm của cuộc sống và dòng chảy vĩnh cửu của thời gian?\"…\n\nSẽ không có một câu trả lời đúng tuyệt đối cho những câu hỏi trên. Câu trả lời đến từ cảm nhận, từ vốn sống, nhân sinh quan và sự chọn lựa của mỗi người.\n\nQua quyển sách Bí mật Tình yêu, Tiến sĩ Leo Buscaglia muốn gửi gắm đến chúng ta một cách nhìn thật mới mẻ về tình yêu sau 25 năm dài nghiên cứu. Với những chiêm nghiệm sâu sắc về cuộc sống, tác giả đã chỉ ra cho ta thấy vì sao ta có được hạnh phúc trong tình yêu, hoặc tuy đã nỗ lực rất nhiều mà vẫn chưa gặp được tình yêu đích thực. Đó phần lớn phụ thuộc vào cách nghĩ, cách nhìn, và cách chúng ta ứng xử trong tình yêu. Nếu ta có thể lựa chọn một thái độ sống tích cực cho cuộc đời mình, thì chúng ta nhất thiết cũng phải lựa chọn một thái độ đúng đắn đối với tình yêu. Chỉ có như vậy, tình yêu trong ta mới không mau chóng lụi tàn khi những phút đắm say ban đầu đã qua, mới có thể mãi xanh tươi và nồng thắm theo thời gian, và sẽ trở thành nguồn cổ vũ tinh thần mạnh mẽ nhất giữa những thăng trầm của cuộc sống.\n\nKhông như một số quyển sách khác, các bạn sẽ không tìm thấy trong \"Bí mật Tình yêu\" những câu chuyện tình diễm lệ với những kết thúc hoàn hảo, mà tác giả đã làm ta bất ngờ trước sự tinh tế của ông. Tình yêu ở đây được nhìn nhận, phân tích, soi xét một cách thẳng thắn và thấu đáo. Mọi khía cạnh, mọi ngõ ngách sâu khuất nhất của tình yêu đều được cái nhìn sắc sảo, toàn diện của Tiến sĩ Leo\n\nBuscaglia phát hiện và mổ xẻ đến tận cùng. Ông chỉ cho ta thấy rõ những thuộc tính cơ bản của tình yêu và cả những yếu tố song hành không thể thiếu của nó. Những gợi ý mà ông mang lại đã cung cấp cho ta một cái nhìn sâu sắc hơn về tình yêu, và với những cảm nhận riêng của mỗi người, chúng ta sẽ phần nào tìm ra lời giải đáp cho chính mình để có thể có được một tình yêu trọn vẹn, đẹp đẽ và một cuộc đời viên mãn, hạnh phúc.\n\nFirst News xin trân trọng giới thiệu đến bạn đọc quyển sách này như một món quà nhỏ nhưng thật ý nghĩa đối với một khái niệm thiêng liêng luôn được cả nhân loại say mê tìm hiểu. Bạn hãy đọc quyển sách này để thấy rằng tình yêu thật giản dị. Nó tồn tại ở khắp mọi nơi, trong những biểu hiện nhỏ nhất của cuộc sống. Và ở vị trí tuyệt tác tinh thần của tạo hóa, tình yêu vẫn rất cần được nuôi dưỡng và chăm sóc, cần được thể hiện bằng hành động và sự sáng tạo, cần được sẻ chia và thấu hiểu. Quyển sách một lần nữa khẳng định một chân lý muôn thuở của tình yêu và cuộc sống: Hãy cho đi và bạn sẽ nhận lại được những gì mình mong muốn. Hãy yêu đi và bạn sẽ được yêu, hãy sống hết mình và cuộc đời sẽ luôn mỉm cười với bạn, hãy yêu thương con người và chuẩn bị đón nhận sự ấm áp và niềm vui trong trái tim bạn, bởi vì \"Không có gì đền đáp được tình yêu bằng chính tình yêu\".\n\nFIRST NEWS\n\nLỜI TỰA CỦA TÁC GIẢ - BÍ MẬT TÌNH YÊU\n\nT\nôi thường đón chào ngày mới bằng cách nghe tin tức. Ở khắp nơi trên thế giới này, mỗi ngày xảy ra biết bao nhiêu điều đau lòng.\n\nTôi nghe nói về một người chạy bộ bị trấn lột trong công viên, một gã tâm thần bắn bị thương một đứa trẻ tội nghiệp, một anh chàng bóp cổ vợ mình vì ghen tuông mù quáng, rồi những vụ bạo động, giết người...\n\nMặc dầu ngày nào cũng phải nghe những tin tức đáng buồn này, tôi vẫn chọn lựa cách đối mặt với thế giới trong tư thế của một người tràn đầy tình yêu.\n\nMột số người khó có thể chấp nhận ý nghĩ tình yêu là một sự lựa chọn. Điều này dường như trái ngược với lý thuyết chung về tình yêu lãng mạn, trong đó cho rằng tình yêu là một bản tính bẩm sinh và có thể chiếm lĩnh tâm hồn ta vào bất kỳ lúc nào, bất kể ta có muốn hay không. Lý thuyết này luôn khẳng định tình yêu là một sức mạnh kỳ diệu sẽ giúp chúng ta thoát khỏi đau khổ và giải quyết mọi rắc rối, vì bản chất tình yêu là như thế. Đúng là trong một phạm vi nào đó, tình yêu là do cơ duyên, nhưng nó cần được gợi lên, được học hỏi và chiêm nghiệm nếu muốn nó mang lại cho chúng ta nguồn hạnh phúc đích thực và dài lâu.\n\nNhìn vào cuộc sống của bản thân, tôi thấy mình có được niềm hạnh phúc và vui sống đến thế là nhờ vào hơn 25 năm nghiên cứu về tình yêu của mình. Tôi vẫn thường bị nhiều người cho là quá lãng mạn, lãng mạn đến mức không thể cứu chữa được. Nhưng cho đến tận bây giờ tôi vẫn có thể nói với bạn rằng đó là một lợi thế, chứ không phải là một sự thiệt thòi. Tình yêu chính là phương cách diệu kỳ đã biến cuộc đời tôi thành một tuyệt tác sống động và lý thú nhất. Thỉnh thoảng tình yêu cũng làm cho cuộc sống của tôi bị xáo trộn, nhưng tôi phát hiện ra rằng cũng chính tình yêu sẽ chữa lành những vết thương đau khổ nhất. Và dù cho có phải sống với một trái tim rỉ máu thì vẫn còn tốt hơn là một trái tim không có cảm xúc.\n\nNhưng tôi cũng không quá lãng mạn để tin rằng một người nào đó có thể thành công chỉ với sự dẫn dắt đơn thuần của con tim. Ngoài tình yêu chúng ta còn có lý trí. Tình yêu chỉ có thể mang lại hạnh phúc khi chúng ta biết học hỏi, phân tích và nghiên cứu nó một cách nghiêm túc vì những khát khao của chính mình.\n\nĐa số chúng ta thường thụ động chờ đợi, cho đến khi tự phát hiện ra rằng mình đang tuyệt vọng, đơn độc và đồng thời bị chế ngự bởi cảm giác bất lực trước những cảm xúc của riêng mình. Trong trường hợp đó, nhiều người chọn cách lao vào tình yêu vội vã và thiếu suy nghĩ như những con thiêu thân lao vào ánh lửa. Và kết quả là gì? Cô đơn và tuyệt vọng ngày càng lớn hơn, họ trở nên băng giá, ganh ghét và sợ hãi hơn với cuộc sống, bị suy nhược nhiều hơn cả về tinh thần và thể chất… Nói chung là khi chất chồng thất vọng trong tình yêu và không tìm ra được lối thoát, con người sẽ sống lãnh đạm hơn, phó mặc đời mình cho những nghi kị, thành kiến và đau khổ.\n\nTôi mong muốn quyển sách này có thể giúp chúng ta thoát khỏi thế tiến thoái lưỡng nan đó. Quyển sách đưa ra những ý tưởng mà tôi hy vọng là sẽ gợi ý cho các bạn phân tích về tình yêu của mình một cách nghiêm túc, đem đến cảm giác phấn chấn và cuối cùng dẫn đến những hành động khích lệ sự đổi mới để chúng ta có được sự thành công trong tình yêu của các bạn. Tôi cố gắng diễn đạt những ý tưởng này theo những cách đơn giản và rõ ràng, nhấn mạnh bằng cách lặp lại một số những ý tưởng.\n\nMặc dù trong quyển sách này gợi ý vô số điều suy ngẫm, nhưng quả thực tất cả những điều đó đều là các bộ phận của một khái niệm: TÌNH YÊU. Đúng vậy, tình yêu không phải là một ý niệm trừu tượng, thần bí và phức tạp. Nó là điều mà con người có thể đạt được bằng những kinh nghiệm hằng ngày, nhất là qua những lần thất bại và cả trong những khoảnh khắc thăng hoa của cảm xúc.\n\nQuyển sách này được dành riêng cho những con người háo hức tìm kiếm tình yêu, tìm kiếm những điều kỳ diệu nhất mà cuộc sống đã ban cho để chúng ta có thể sống tốt đẹp hơn, có thể khám phá, ươm mầm và khơi dậy những khả năng tuyệt vời của chính mình thông qua tình yêu.\n\nTiến sĩ LEO BUSCAGLIA\n\nTÌNH YÊU CẦN PHẢI ĐƯỢC NUÔI DƯỠNG\n\nY\nêu và được yêu - đó là niềm khao khát, là hạnh phúc và là ước mong của tất cả mọi người trên thế gian này. Nhưng một khi đã có được tình yêu, thì làm cách nào để giữ nó luôn sống mãi?\n\nTình yêu sẽ không chết đi vì bệnh tật, vì thời gian, sự xa cách hay khó khăn, thử thách của cuộc sống... mà nó chết đi vì sự thờ ơ và lãnh đạm, vì sự ghen tuông mù quáng hay thái độ chiếm hữu, cho rằng tình yêu là một món quà để cất giữ. Tình yêu cũng sẽ lụi tàn vì cảm giác nhàm chán và vì ý nghĩ sai lầm rằng nó tự đến, là sự hiển nhiên vốn phải có để rồi không cần nâng niu, trân trọng.\n\nCũng giống như tất cả những vật thể sống khác, tình yêu rất cần được sự quan tâm và chăm sóc. Khi yêu, tức là hai người đang cùng chăm sóc một hạt mầm nhỏ bé. Sự quan tâm, những cử chỉ yêu thương, sự chia sẻ chân thành chính là làn nước mát lành giúp hạt mầm ấy đâm chồi, vươn lên một cách khỏe mạnh. Để hương hoa tình yêu của bạn luôn nồng thắm và tươi đẹp, hãy luôn làm mới mối quan hệ của mình, luôn nuôi dưỡng nó bằng tất cả trái tim và tâm hồn của bạn!\n\nTHẤT BẠI TRONG TÌNH YÊU\n\nThành công sẽ không bao giờ đến với những người chưa bao giờ gặp thất bại trong đời.\n\n- Elbert Hubbard\n\nT\nrong tình yêu không bao giờ có chỗ cho sự thất bại. Nếu bạn không có cái may mắn được đáp lại tình yêu - điều đó không có nghĩa là bạn đã thua cuộc. Khi chưa một lần yêu bằng chính trái tim mình, ta sẽ không bao giờ được nếm trải hương vị ngọt ngào của nó.\n\nCảm giác hạnh phúc đến từ việc ta có một người để quan tâm, để chăm sóc, để yêu thương và nghĩ đến hằng ngày, cho dù chỉ là trong thầm lặng. Có người đánh đồng tình yêu với sự chiếm hữu, và họ luôn cho rằng mỗi khi có được tình yêu, tức là họ đã giành được một chiến công đáng tự hào. Đó là một quan niệm sai lầm, bởi tình yêu đích thực khiến ta vui cùng niềm vui của người ấy, hạnh phúc khi người ấy hạnh phúc và đau buồn khi người ấy thất bại. Hãy cứ yêu thương, cho dù bạn biết rằng có thể mình chẳng bao giờ được đền đáp. Những ai cố gắng thực hiện một việc gì đó mà không thành công, vẫn còn tốt hơn những người vì sợ hãi thất bại mà không dám làm bất cứ điều gì trong đời.\n\nCon người có được kinh nghiệm từ những thất bại. Qua những lần thất bại và phải bắt đầu lại từ đầu, chúng ta trở nên khôn ngoan và cẩn trọng hơn. Ông cha ta có câu: \"Thất bại là mẹ thành công\", nhưng có mấy khi chúng ta có được suy nghĩ tích cực như thế. Khi gặp thất bại, phản ứng đầu tiên của con người là chán nản, buồn phiền. Chúng ta luôn nghĩ thất bại như một điều đáng hổ thẹn. Không hẳn thế! Thành công thường náu mình đâu đó trong thất bại. Hãy chấp nhận thất bại và tìm kiếm nguyên nhân, tìm con đường mới cho một sự việc cũ và một định hướng khác cho tương lai. Đó là cách để thay đổi, để nhìn thấu sự vật và làm cho cuộc sống của mình tốt đẹp hơn. Khi bạn học được điều đó, tức là bạn đã học được cách để yêu."
+}

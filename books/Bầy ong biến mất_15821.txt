@@ -1,0 +1,604 @@
+Mục lục
+Lời giới thiệu
+Lời cảm ơn
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+
+LỜI GIỚI THIỆU
+
+D
+enise Mina sinh năm 1966 tại Glasgow. Vì công việc kỹ sư của ông bố, gia đình bà trôi theo dòng chảy tìm dầu ở biển bắc trong những năm 70 của thế kỷ 20 khắp Châu Âu, từ Paris tới Hague, rồi London, Scotland và Bergen. Mười sáu tuổi, bà phải nghỉ học và làm nhiều công việc tay chân khác nhau như bồi bàn, phụ bếp, đầu bếp... Dần dà, bà ổn định với công việc chăm sóc người già và các bệnh nhân hấp hối.
+
+Ở tuổi hai mươi mốt, bà thi đỗ ngành Luật của Đại học Glasgow và tiếp tục học lên. Trong thời gian viết luận án tiến sĩ ở trường Đại học Strathclyde về đề tài bệnh tâm thần của các nữ phạm nhân, đồng thời giảng dạy môn Tội phạm học và Luật Hình sự, bà nảy ra ý định viết cuốn tiểu thuyết đầu tay. Cuốn sách được nhà xuất bản Transworld phát hành năm 1998, mang tên Garnethill.
+
+Cuốn Garnethill đã đoạt giải thưởng John Creasy Dagger của Hiệp hội các nhà văn viết truyện trinh thám cho cuốn tiểu thuyết đầu tay xuất sắc nhất sau đó. Đây cũng là cuốn đầu trong bộ ba tiểu thuyết Garnethill, Exile và Resolution.
+
+Cuốn tiểu thuyết thứ tư đứng độc lập, được đặt tên Sanctum (tạm dịch: Đất thánh) ở Anh và Deception (Lừa dối) ở Mỹ.
+
+Năm 2005, cuốn The Field of Blood (Cánh đồng máu) được xuất bản, đây là cuốn mở đầu trong bộ năm cuốn nói về sự nghiệp và cuộc đời của nhà báo Paddy Meehan trong phòng biên tập tin tức từ đầu những năm 80, qua các sự kiện trọng yếu của những năm 90. Cuốn thứ hai của serie này được xuất bản năm 2006, đặt tựa là The Dead Hour (Giờ tử) và cuốn thứ ba nối tiếp nó ra đời năm 2007.
+
+Bà cũng viết truyện tranh và là tác giả cuốn Hellblazer, serie John Constantine cho Vertigo trong một năm, sắp tới đây sẽ được xuất bản dưới dạng tiểu thuyết bằng tranh với tên gọi Empathy is the Enemy (Nhân từ là Kẻ thù) và The Red Right Hand (Bàn tay phải màu đỏ).
+
+Denise Mina cũng đã viết một cuốn tiểu thuyết bằng tranh độc lập về giết người hàng loạt và giá bất động sản mang tên A Sickness in the Family (Gia đình bệnh hoạn) sắp được nhà xuất bản DC Comics phát hành.
+
+Ngoài ra bà còn tham gia viết kịch, kịch bản cho BBC radio và đang viết kịch bản chuyển thể thành phim cho vở kịch Ida Tamson.
+
+BachvietBooks
+
+Tặng Louise.
+
+LỜI CẢM ƠN
+
+T
+ôi xin được gửi lời cảm ơn sâu sắc tới Jon, Jade và Reagan vì đã sắp xếp lại nửa sau có phần hơi... rối rắm của cuốn sách này. Cảm ơn tất cả mọi người ở Orion vì đã chịu khó dỗ dành tôi, cảm ơn Peter và Henry vì những việc làm vất vả cùng sự động viên to lớn của hai người.
+
+Tôi cũng xin cảm ơn Stevo, Edith, Fergus và Ownie.
+
+Nói thẳng vào mặt nhà Jock: Cầu cho các người bị thiêu đốt dưới địa ngục vì những điều đã làm với tôi.
+
+1
+
+S
+ự tĩnh lặng khiến Sarah choàng tỉnh khỏi giấc ngủ mê mệt. Cô mở mắt nhìn ánh đèn nhấp nháy màu đỏ trên đồng hồ điện tử chỉ 16:32.
+
+Tiếng sủa của lũ chó con từ một trong những khu vườn dưới chân đồi vẳng lên dai dẳng, nẩy lại qua trần nhà và quanh căn phòng hình cánh cung.
+
+Không gian im ắng. Tiếng đài đã ngưng bặt. Sarah có thói quen bật đài kênh 4 và để nó trong trong bếp mỗi khi tới đây. Tiếng kể chuyện đều đều trên đài khiến cảm giác trống trải bớt ghê gớm hơn. Âm thanh ấy nếu được nghe từ một phòng khác sẽ cho ta ấn tượng về một ngôi nhà đầy những người Hampshire dễ thương và ưa tán dóc. Bọn trộm chắc sẽ thấy điều đó thật lạ ở Glasgow, nhưng có vẻ như trong cái làng Thorntonhall độc nhất vô nhị này thì việc ấy là hoàn toàn bình thường. Sarah cũng bật đèn ở những vị trí chiến lược: Hành lang, cầu thang, bất kể nơi nào bên ngoài không thể nhìn xuyên vào trong được. Cô có biệt tài dựng cảnh kiểu như thế này.
+
+Mọi thứ lặng như tờ. Đây không phải là giờ vàng của bọn trộm. Ngôi nhà nằm trên đỉnh đồi, có thể thấy rõ vào ban ngày, đặc biệt lúc này lại là thời điểm mà hàng xóm láng giềng đang ở ngoài sân, chê bai công việc của các thợ vườn hay dẫn bọn chó nòi béo ị của mình đi dạo loanh quanh. Tên trộm nào đột nhập vào giờ này thì hoặc là rất tự tin, hoặc quá ngu ngốc.
+
+Kiệt sức và tha thiết muốn ngủ lại, Sarah cân nhắc đến một giả thuyết vô thưởng vô phạt: Hoặc nhà bếp đã bị cháy cầu chì hoặc cuối cùng thì cái đài cũ rích cũng ngừng hoạt động. Mọi thứ trong nhà này đều đã cũ kỹ và cần được sửa chữa.
+
+Vì thế cô mặc định là do cái đài đã hỏng, mỉm cười và nhắm mắt lại, cuộn tròn bên dưới lớp chăn xốp mềm, lấy làm vui sướng khi bị tỉnh giấc chỉ để lại được vùi mình vào giấc ngủ một cách ngon lành.
+
+Cô để mặc cho tâm trí mình trượt nhẹ nhàng vào bóng tối ấm áp.
+
+Đột nhiên, tiếng sàn nhà kêu răng rắc dưới chân cầu thang khiến cô mở choàng mắt.
+
+Cô ngỏng đầu lên để nghe rõ hơn.
+
+Tiếng giày miết trên thảm vọng lên từ khu cầu thang cùng với tiếng rít của hai từ chỉ dẫn. Giọng một người phụ nữ cất cao: “Đi tiếp!”.
+
+Vẫn còn mụ mị vì giấc ngủ, Sarah ngồi dậy, tưởng tượng ra mẹ mình trên chiếc xe lăn đang trượt trên tay vịn xuống bậc nghỉ cầu thang và không sao điều khiển cho nó ngừng để tiếp đất được. Mẹ cô là một người kiệm lời và độc đoán, bà muốn có câu trả lời cho các câu hỏi: Tại sao họ lại sắp đặt kế hoạch chăm sóc đó? Tại sao Sarah không bao giờ về tắm cho bà? Tại sao Hồng y Geoffrey lại không cử hành tang lễ cho bà?.
+
+Thật vô nghĩa!
+
+Cô tung chăn và thả chân xuống sàn để đứng dậy nhưng hai đầu gối uể oải đã phản lại ý định của cô, khiến cô bị loạng choạng về phía sau, ngã uỵch xuống giường với một cú nẩy không lấy gì làm duyên dáng.
+
+Bất lực với chính mình, cô thấy yếu đuối mỗi khi ở nhà. Sarah từng đến những nơi lạ lẫm, đáng sợ, song cô luôn nỗ lực cảnh giác và giữ được bình tĩnh. Lúc nào cô cũng nhắm trước lối thoát hiểm ngay trên đường vào, luôn đến và đi một cách chủ động, nhưng ở đây, cô bị mất khả năng tự vệ.
+
+Tuy nhiên, nơi này khác với những căn phòng lạ bởi vì ở đây, cô là một vị chủ nhà hợp pháp. Cô có thể gọi cảnh sát và đề nghị họ tới giúp.
+
+Thấy đã bớt căng thẳng, cô bật hai đầu gối về phía trước và với tay vào trong túi xách cạnh giường. Những ngón tay sợ sệt của cô lục lọi qua đống khăn giấy, hóa đơn và hộ chiếu để dò tìm phần lưng lạnh ngắt bằng kim loại của chiếc iPhone. Cô lôi nó ra ngoài, bấm nút và vui mừng khi thấy màn hình sáng lên. Cô đã mở máy trong lúc đứng chờ ở hành lang khoang hạng nhất trước khi ra khỏi sân bay Glasgow. Thường thì cô không làm vậy. Đôi khi, cô tắt nguồn chiếc điện thoại suốt 24/24 giờ để có một giấc ngủ ngon. Lúc này, cô tập trung cả hai tay vào màn hình, mở khóa nó, chọn biểu tượng điện thoại, chọn bàn phím số, bấm 999 rồi ấn nút gọi đúng lúc nghe thấy có tiếng động bên ngoài cửa phòng ngủ của mình.
+
+Nó giống một cảm giác hơn là âm thanh thực, tựa như không khí đang chuyển động trên mặt đất. Có ai đó dựa lưng vào bức tường cạnh cửa rồi cúi xuống, thảng thốt như thể những ngón tay lạnh đặt lên hõm lưng trần.
+
+Cô nhét chiếc iPhone vào khoảng trống nhỏ hẹp trong cái chăn lông rồi đứng dậy.
+
+Cánh cửa khẽ kêu khi mở hẳn ra.
+
+Đó không phải hồn ma của bà mẹ Sarah mà là hai thiếu niên lóng ngóng và kỳ quặc. Chúng mặc quần tập rộng thùng thình cùng với áo sơ mi lộn mặt trái đồng bộ, lộ rõ đường chỉ từ vai áo đến tận ống quần. Cả hai cùng đi một kiểu giày thể thao. Bộ đồng phục kỳ lạ khiến chúng trông như hai thành viên của một giáo phái nào đó.
+
+Bọn trẻ lúc đầu còn ngập ngừng, sau đó thì bước đến đứng chắn hết cửa. Bọn chúng không phải những cậu bé liều lĩnh mà tỏ ra rất tự tin và đầy thách thức.
+
+Thiếu chút nữa thì Sarah phá lên cười vì nhẹ nhõm.
+
+“Các cậu làm gì ở đây?”
+
+Một đứa trong số chúng cao ráo và để đầu trọc. Cậu ta không dám nhìn thẳng vào mắt Sarah và khẽ rúm người lại khi nghe tiếng cô, đứng nghiêng nửa người ở cửa ra vào, vai vẫn hướng ra ngoài như muốn rời đi.
+
+“Này”, Sarah nói, “ra khỏi nhà tôi ngay. Đây không phải nhà hoang, ngôi nhà này...”.
+
+Tên còn lại có mái tóc dài hơn, đen và dày, nhưng không hề tỏ ra do dự. Với vẻ giận dữ, cậu ta đứng chắn ngang ngưỡng cửa và nhìn thẳng vào mặt cô.
+
+Sarah biết mình không hẳn là xinh đẹp, nhưng cô tự biết cách chăm chút cho bản thân, dáng người cô thon thả với mái tóc được cắt tỉa gọn gàng. Dưới thứ ánh sáng kiểu như thế này, cô có thể được coi là một phụ nữ hấp dẫn. Thế nhưng, thằng bé lại không nhận thấy điều đó, thậm chí hình ảnh của cô còn khiến cậu ta ghê tởm.
+
+Thằng bé cao hơn thúc khuỷu tay vào bạn mình. Tên đang tức giận không hề dứt mắt khỏi cô mà hất cằm ra hiệu cho cậu bạn bước vào phòng. Tên cao hơn nhăn mặt, khẽ lắc đầu. Chúng tiếp tục giao tiếp với nhau bằng những cử động nhỏ, thằng bé hung dữ vẫn nhìn xoáy vào cô đầy vẻ căm thù.
+
+“Mẹ tôi vừa mất”, Sarah nói, giọng lạc dần khi vỡ lẽ ra một điều là bọn chúng chẳng hề ngạc nhiên vì tìm được cô ở đây. “Tôi vẫn còn sống...”
+
+“Lũ con của cô đâu?”, thằng bé tức giận hỏi.
+
+“Con nào?”
+
+“Cô có con.” Thằng bé có vẻ rất chắc chắn.
+
+“Không...”, Sarah nói, “tôi không có con”.
+
+“Có, chắc chắn là cô có.” Cậu ta liếc quanh phòng như thể các con cô có thể trốn dưới chăn, trong tủ hay dưới gầm giường vậy.
+
+Giọng cậu ta the thé, đúng là giọng nói cô nghe khi nãy, nhưng cô lại chú ý tới trọng âm trong đó: Không phải là người Glasgow, không hề có chút giọng bờ tây nào. Thậm chí đó cũng không phải là âm giọng nóng nảy, lưỡng lự kiểu Scotland như những đứa trẻ ở đây. Cậu ta có giọng nói giống người vùng bờ đông nhưng thuộc địa phận Anh1, Edinburgh hoặc London gì đó. Bọn chúng đã chủ định tới đây chứ không phải vô tình đi ngang qua ngôi nhà này. Bỗng nhiên cô không còn hiểu chuyện gì đang xảy ra nữa.
+
+1 Tên đầy đủ là Vương quốc Liên hiệp Anh và Bắc Ireland (United Kingdom of Great Britain and Northern Ireland, tên gọi ngắn là United Kingdom, viết tắt là UK), gồm 4 phần chính là Anh (England), Scotland, Wales và Bắc Ireland. Ngoài ra, Vương quốc Liên hiệp Anh và Bắc Ireland còn bao gồm một số hòn đảo và quần đảo khác tại nhiều nơi trên thế giới. Vương quốc này có chung đường biên giới với Cộng hòa Ireland.
+
+Sarah thử nói lại lần nữa:
+
+“Các cậu vào nhầm nhà rồi”.
+
+Nhưng cậu ta nhìn cô và khẳng định:
+
+“Không, tôi không nhầm”.
+
+Khoản tiền đó. Chắc hẳn chúng đến đây vì khoản tiền đó rồi. Nó là thứ duy nhất trong căn nhà này đáng để chúng quan tâm. Thế nhưng, túi tiền lại ở trong bếp, mà căn phòng này thì cách đó một cánh cửa, dọc theo hành lang, đi ngang qua sảnh và lại còn phải lên cầu thang. Đúng là chúng đến đây để tìm cô rồi.
+
+Giờ thì cô thấy tự tin hơn một chút. Sarah lại nhìn bọn trẻ lần nữa. Chúng sẽ không lấy được một đồng nào hết. Cô sẽ phủ nhận tất cả nếu chúng hỏi bởi vì cô sẽ gọi cảnh sát ngay bây giờ, rồi họ sẽ đến và mang bọn chúng đi để thẩm vấn, cô cần phải tỏ ra là người vô tội.
+
+“Này”, cô nói, cố tỏ ra biết điều, “các cậu nên đi đi. Tôi đã gọi cảnh sát cách đây một phút và họ đang trên đường đến. Các cậu có thể gặp rắc rối to nếu còn ở đây”.
+
+Tên đang giận dữ không dời mắt khỏi cô khi tiến thêm một bước vào phòng, ngón chân nó chạm vào rìa chiếc thảm Ba Tư màu vàng, xâm phạm vào lãnh thổ trung lập giữa hai bên. Thằng bé nhìn thấy cô thì cứng người lại cảnh giác, còn cô kịp thấy một thoáng cảm thông trên mặt cậu ta trước khi nó đanh lại, rồi cậu ta hất cằm lên bướng bỉnh. Thằng bé lại bước tới, dù chỉ vài phân, cho đến khi đứng hẳn lên trên mép thảm, hành động này cố ý để cho cô biết rằng cậu ta có thể và chắc chắn chiếm ưu thế hơn cô.
+
+Sự tức giận làm Sarah tỉnh táo hẳn, cô rào trước:
+
+“Tôi biết các cậu đến đây làm gì rồi”, cô nói, tiến đến chỗ cậu ta và vẫy một bàn tay về phía cầu thang. “Các cậu không biết mình đang đối mặt với ai đâu, các cậu đã phạm một sai lầm...”
+
+“DỪNG LẠI”, cậu trai tức giận nhe cả hàm răng ra. “Lùi lại ngay, đồ khốn.” Nó bước một bước nữa về phía cô, giờ nó lại mỉm cười. Hàm răng khô một cách khác thường của nó làm cô sợ hãi.
+
+Sarah lùi về phía giường. Cô có thể trông thấy một phần chiếc điện thoại lộ ra ngoài tấm chăn. Cô co duỗi các đốt ngón tay, một phản xạ như tập bắn súng.
+
+Ánh nhìn của thằng bé chuyển hướng từ mắt cô xuống chiếc áo sơ mi, tới đùi và nhìn đi chỗ khác, bất ngờ thoái lui. Cô nhận ra mình đang không mặc quần lót. Lúc về, cô đã mệt tới mức cứ thế lột áo khoác, thả giày trên sảnh và bò lên cầu thang, cởi hết quần áo cùng đồ lót ở ngưỡng cửa phòng ngủ. Chiếc áo sơ mi cũ cô đang mặc chỉ chạm tới đùi, gần như chẳng che chắn được gì. Cô còn chưa chợp mắt tí nào trong suốt hai mươi tư giờ qua. Mẹ cô mới mất. Cô xứng đáng được ngủ.
+
+Cô hét lớn hết mức có thể:
+
+“CÚT RA KHỎI ĐÂY NGAY LẬP TỨC!”.
+
+Thằng bé cao hơn chỉ nhăn mặt, nhưng tên còn lại thì giận dữ tới mức không buồn chớp mắt. Hàm dưới của nó chìa ra như thể muốn cắn cô. Chính trong cơn cao trào của nỗi tức giận và cay đắng sâu sắc, đột nhiên cô nhận thấy khuôn mặt cậu ta rất quen thuộc.
+
+“Cậu là ai?”, cô hỏi. “Tôi biết cậu”.
+
+Cậu trai cao hơn bị tác động vì câu đó, bất giác thấy sợ hãi, cậu ta nhìn người bạn đang giận dữ của mình.
+
+“Chắc chắn tôi biết cậu”. Mặc dù vậy cô không chắc lắm: Đó chỉ là một ký ức mờ mịt, như thể cậu ta đã có mặt trên truyền hình hay trên báo vậy. “Tôi đã thấy một bức ảnh của cậu.”
+
+Khuôn mặt của thằng bé đang tức giận lấm tấm đỏ và nó lắp bắp:
+
+“Ảnh? Cô đã xem ảnh tôi?”.
+
+Sarah nhún vai lúng túng và thấy rằng cậu ta đang siết chặt hai nắm tay lại.
+
+Cậu ta đưa một tay lên và đấm mạnh vào ngực mình:
+
+“... đã cho cô xem bức ảnh chết tiệt của tôi sao?”.
+
+Giọng cậu ta đay nghiến trên một cấp độ mới. Người bạn kia giật cánh tay cậu ta ra khỏi lồng ngực và kéo nó lùi lại:
+
+“Dừng lại, dừng lại, anh bạn. Thở nào, hít thở nào”.
+
+Sarah liếc trộm chiếc iPhone, tìm kiếm một tia hy vọng nhưng không thấy gì.
+
+Thằng bé tức giận tiếp tục rít lên:
+
+“Cái túi xách chết tiệt! Lấy điện thoại của nó ra khỏi cái túi chết tiệt đó đi!”. Giờ thì khuôn mặt của cậu ta chuyển sang xanh lét, cậu ta đang nhìn xuống sàn nhà dưới chân cô. Thằng bé kia dõi theo ánh mắt bạn mình và thỏa theo yêu cầu của nó, cậu ta sải dài bước chân rồi thu hẹp khoảng cách chỉ bằng hai bước nhanh chóng. Sau đó, cậu ta ngồi thụp xuống chỗ chân cô, thò một bàn tay thô lỗ vào chiếc túi xách yêu thích của cô. Thằng bé chỉ còn cách đùi của Sarah không đầy một bước, cô để lộ mình hoàn toàn trong tư thế hai chân xoạc rộng khiến cậu ta sốc đến mức cứng đờ cả người.
+
+Tuy nhiên, cậu trai giận dữ không hề bị tác động trước hình ảnh ấy.
+
+“Squeak, cử động đi chứ!”
+
+Thằng bé đang ngồi xổm chuyển ánh nhìn sang chỗ khác, bỏ tay ra khỏi chiếc túi. Cậu ta đang cầm một chiếc điện thoại. Nó là loại cục gạch mà mấy ông bà về hưu vẫn hay dùng. Làm bằng nhựa màu đỏ với các nút bấm to, hình ảnh cây cọ hiện trên cái màn hình bé tí. Trông cây cọ không nổi lên vì màn hình không sáng. Đó chỉ là một chiếc điện thoại giả. Sarah chán nản nhận ra mình đã quên béng mất chiếc điện thoại. Cô luôn không để ý tới nó trong những trường hợp lẽ ra cần phải dùng đến.
+
+Thằng bé giơ chiếc điện thoại qua đầu để cho người bạn đang đứng ở cửa chú ý. Khuôn mặt tên kia méo mó vì giận dữ:
+
+“Trong đấy còn gì không?”.
+
+Thằng bé đang ngồi xổm nhét chiếc điện thoại vào túi nó rồi lại thò tay lục lọi chiếc túi của cô. Có vẻ hài lòng khi tìm thấy ví của cô, cậu ta đứng dậy, giơ chiếc ví lên một cách đắc thắng.
+
+Sarah gần như cười lớn vì vui mừng:
+
+“Các cậu muốn lấy tiền à?”.
+
+Nhưng cả hai đều tập trung vào chiếc ví, tên trinh sát cao ráo trở lại với bạn mình, tay vẫn giơ cao chiếc ví. Chúng cũng chỉ hơn bọn trấn lột một tí, hai đứa trẻ ngu ngốc mặc những bộ quần áo lộn trái và giờ cô đã nhận ra là để giấu đi logo của trường.
+
+Cô nhìn thằng bé hung dữ kéo khóa chiếc ví của mình. Cô biết cái mũi kia, chóp mũi ngắn, cánh mũi rộng và tròn. Cô biết rõ chúng. Cô phỏng đoán:
+
+“Tôi biết bố cậu...”.
+
+Cô đã đúng. Cậu ta có vẻ ngập ngừng trong lúc kéo khóa cái ví nên cô nói to hơn:
+
+“Tôi biết bố cậu...”.
+
+Cậu trai cao gầy hoảng hốt, hết nhìn cô lại đến thằng bạn đang giận dữ của mình, còn cô càng cao giọng hơn:
+
+“Tốt nhất cậu nên đi khỏi đây. Cậu nghĩ ông ấy sẽ nói gì khi tôi kể là cậu đã đột nhập vào nhà tôi?”.
+
+Một ông bố. Có thể là bất cứ ai. Một ông bố ẽo uột, đầy uy quyền, hoặc một gã nghiện rượu thảm hại. Có lẽ Lars đã quyết định không tin cậy cô và muốn lấy lại nó. Chính là Lars. Đây đúng là cái mũi của Lars rồi.
+
+“Lars!”, cô buột miệng. Thằng bé hung dữ có vẻ bị tổn thương.
+
+Trong một thoáng, cô đã mong cậu ta bỏ qua chiếc ví, trả nó lại, xin lỗi và đi ra. Trong một thoáng, huyết mạch của cô bị chậm lại khiến hơi thở trở nên bất ổn. Lars cay đắng, tổn thương, Lars thảm hại và ghét cay ghét đắng cô nhưng lại cần cô hơn bất cứ ai. Lars sẽ giết cô mà không buồn chớp mắt nếu việc đó có lợi cho ông ta. Nhưng việc đó không hề có lợi chút nào. Lars đã không cử bọn nhóc này đến.
+
+Cậu trai hung dữ nhìn cô, ánh mắt tổn thương sâu sắc y hệt như ông bố, hai mí mắt sụp xuống đầy vẻ căm thù. Nó tiếp tục nhìn cô trong khi những ngón tay thô bạo lục lọi ví của cô, kẹp vài tờ tiền mệnh giá lớn và một hóa đơn taxi rồi lôi chúng ra.
+
+Sarah tận dụng cơ hội lao tới chỗ chiếc iPhone. Cô nhoài người xuống giường, ngón tay chạm được vào mặt kim loại lạnh ngắt, tóm chặt lấy nó bởi biết rằng nó rất trơn trượt. Cô giơ điện thoại lên, chạm vào màn hình, nó đã tự động khóa trong lúc đang gọi nên cô cố trượt để mở khóa nhưng bị lỗi đến hai lần.
+
+“CẢNH SÁT! CỨU TÔI VỚI! CÓ HAI THẰNG NHÓC ĐANG Ở TRONG NHÀ TÔI...”
+
+Cậu trai hung dữ đã ở ngay cạnh cô. Nó tóm lấy bàn tay đang siết chặt của cô, giật người cô đứng dậy, dễ dàng lôi chiếc điện thoại trơn nhẵn ra khỏi những ngón tay cô, nhưng Sarah vẫn tiếp tục gào thét vào đó:
+
+“... TRONG PHÒNG NGỦ CỦA TÔI. MỘT ĐỨA... TÔI BIẾT NÓ...”.
+
+Tất cả đều bất động nhìn vào chiếc điện thoại, tưởng tượng ra họ đang bị nghe lén, rồi đột nhiên ý thức được rằng có một vị khán giả nào đó đang xem vở kịch của họ. Cậu trai giận dữ là người đầu tiên sực tỉnh: Nó từ từ đưa điện thoại lên tai và lắng nghe.
+
+Một nụ cười nhếch mép hiện trên khuôn mặt. Nó chạm một ngón tay vào màn hình, cúp máy và ném điện thoại lên giường.
+
+Đằng sau cô, thằng bé cao lớn đổi chân, di chuyển lại gần đến khi hơi thở của cậu ta phả vào tóc cô. Cô cảm thấy hơi ẩm của nó chạm vào tai mình. Cậu trai hung dữ nhận ra nỗi thống khổ trên gương mặt cô và cô thấy đôi mắt nó hằn lên tức tối với mình.
+
+Đằng sau vai cô, hơi thở trở nên gấp gáp hơn, đứt quãng hơn.
+
+Có một lần, Sarah gặp gỡ khách hàng trong một khách sạn ở Dubai và ăn tối cùng ông ta. Ông ta rất to béo. Cô nhớ vẻ buồn chán toát ra từ ông, cùng với nỗi tuyệt vọng và vẻ xa cách. Mặc dù cô đã cố bắt chuyện nhưng ông ta chỉ im lặng suốt bữa ăn và uống rất nhiều dù chẳng ích gì. Trong lúc đi thang máy lên phòng, cô đã nhẩm lại bài diễn văn của mình: Chuyện đó đôi khi xảy ra với tất cả mọi người, chỉ sờ mó và nói chuyện thôi không hay hơn à, lần sau ông có thể dùng thuốc nếu muốn... Lúc nằm trên giường úp mặt xuống gối như ông ta bảo, Sarah cũng nghe thấy tiếng thở kiểu này đằng sau mình, hơi thở gấp, bỗng chốc giống như của một loài thú và cô đã quay lại vừa lúc trông thấy một vật bằng kim loại trên tay ông ta. Cô đá ông ta ra khỏi giường, tóm lấy quần áo của mình và bỏ chạy. Cô thoát được là nhờ ông ta béo quá nên không bắt kịp.
+
+“Tôi có tiền...”, cô nói bâng quơ.
+
+“Tiền ư?”, cậu trai giận dữ khẽ nói. “Cô nghĩ chuyện này là vì tiền sao?”
+
+“Vậy thì vì cái gì?”, cô hét lớn hết mức có thể, hy vọng sẽ làm chúng lùi lại. “Các người đang làm cái quái gì ở đây? Đây là căn nhà chết tiệt của tôi.”
+
+Nhưng không có đứa nào lùi lại. Cậu trai giận dữ lại nhìn thẳng vào mắt cô.
+
+Giờ thì cô khóc, đưa hai bàn tay ra khẩn nài:
+
+“Tôi đã làm gì động đến các cậu nào? Tôi sẽ khai hết, tôi hứa đấy”.
+
+Cậu ta đưa mắt sang chỗ khác, nhìn quanh phòng vẻ bất cần.
+
+Đột nhiên Sarah hiểu ra: Cậu ta không sợ bị cô nhớ mặt bởi vì cậu ta tới đây là để giết cô. Cô sẽ không bao giờ rời khỏi căn nhà này được. Cô sẽ không bao giờ thoát khỏi nơi đây.
+
+Cô không thể chết trong căn nhà lạnh lẽo và đổ nát mà cô đã luôn phải vật lộn để thoát khỏi nó. Cô không thể chết trong khi ở truồng dưới tay hai thằng oắt con ở phòng trẻ của chính mình ngày xưa được.
+
+Qua làn nước mắt, cô trông thấy khoảng trống giữa họ, phía sau là cánh cửa mở rộng.
+
+Sarah thụp đầu xuống và chạy.
+
+2
+
+K
+ay ngồi cạnh cửa sổ, nhìn xuống cái bát và mỉm cười với nó. Chắc là đáng tiền lắm, cô nghĩ. Cô thực sự không nên dùng nó làm gạt tàn. Nếu mang nó tới chương trình Antiques Roadshow1 thì cô sẽ là người cuối cùng được đưa lên. Vật giá trị đầy ngạc nhiên này sẽ khiến đám đông phải ồ lên khi vị chuyên gia công bố cái giá của nó ở buổi đấu giá, chỉ để tính phí bảo hiểm.
+
+1 Buổi trình diễn đồ cổ.
+
+Cô thở dài và nhìn ra thành phố xám xịt. Castlemilk2 được xây dựng trên một mé đồi có thể nhìn ra toàn cảnh thành phố Glasgow. Ở bất kỳ thành phố nào khác, tầm nhìn như thế sẽ được dành cho giới nhà giàu, sườn đồi Cathkin sẽ rải rác những ngôi nhà lớn cùng các khu vườn sang trọng, nhưng không phải ở đây. Cô chưa bao giờ thực sự hiểu nổi điều đó. Có lẽ là do quá xa thị trấn chăng?
+
+2 Một quận của thành phố Glasgow, Scotland.
+
+Nhìn từ cửa sổ, thành phố trông xám xịt, đèn đường đã bắt đầu nhấp nháy bật, vàng xỉn. Nhưng có lẽ đó không phải là thành phố màu xám, cửa sổ nhà bếp của cô mới màu xám. Bụi bám trên đó dày tới mức cô không tài nào gột rửa được vì nó ở phía ngoài, mà cánh cửa lại không mở được hết. Cô thường ngước lên nhìn các cửa kính bị bụi đất bám đầy trong lúc vội vã leo lên đồi từ bến đỗ xe buýt và băn khoăn về những cánh cửa không bao giờ được gột rửa. Kẻ chết tiệt nào nghĩ đó là ý hay nhỉ? Vào ngày đẹp trời thì những nhà hoạch định bỏ sót chúng. Nhưng vào ngày xấu trời, họ ghét những kẻ sẽ thành cư dân ở đây, nghĩ rằng họ bẩn thỉu và hạ cấp tới mức không đáng có một cái cửa sổ sạch sẽ với tầm nhìn đẹp nhất trong thành phố này.
+
+Cô gõ điếu thuốc của mình, thật chậm rãi, gõ... gõ... gõ, như tạo ra những dấu chấm câu trong một cuộc nói chuyện với đối thủ vô hình ngồi bên kia bàn. Có hai chỗ ngồi ở đầu bàn. Nhà họ có năm người mà bàn thì chỉ có hai chỗ.
+
+Cô hít một hơi thuốc thật sâu, cảm thấy nó lan xuống tận cổ họng, tràn vào phổi và rồi mỉm cười với chính mình khi nhận ra chính là hơi này rồi. Mỗi ngày cô hút hai mươi điếu, mỗi điếu hít khoảng sáu đến bảy hơi, thế mà cô chỉ tận hưởng được có một hơi trong số chúng. Một trong một trăm hai mươi hơi thuốc hít vào mỗi ngày. Đó là một bài tập để cai thuốc, điều này cho thấy cô chỉ hưởng thụ được rất ít khi hút thuốc và việc ấy vô tác dụng tới mức nào. Thật chẳng ích gì. Cô chỉ càng ham thích cái hơi thuốc duy nhất ấy hơn khi biết nó quý giá đến thế. Gõ... gõ... gõ. Cô mỉm cười với cái gạt tàn. Gõ... gõ. Một chút tàn thuốc đỏ lòe rơi xuống, cô ngừng hút và di đầu mẩu thuốc thành một khối tròn nhỏ nhắn quanh cái viền bát mạ bạc.
+
+Hai cánh cửa muốn rời ra khỏi chạn bát, mặt bàn bếp bằng gỗ dán thì phồng lên vì bị ngấm nước ở phần không còn mặt nhựa. Người ta đã hứa với họ về một cái bếp mới, thậm chí họ còn đến cả văn phòng nhà đất và chọn một trong ba cái bàn bếp có cửa kèm theo, nhưng đấy là mấy tháng về trước.
+
+Kay nghe tiếng cửa phòng ngủ mở ra ngoài hành lang. Marie bước vào bếp, nhìn đi chỗ khác như là con bé chỉ vô tình đi qua. Ở tuổi mười ba, Marie e dè đến mức gần như ru rú cả ngày trong nhà.
+
+Con bé lại tô thêm một lớp sơn móng tay mới, lần này là màu xanh dương tiệp màu với một cái chun buộc tóc. Má nó bóng loáng, hai vòng tròn màu hồng nổi lên trên khuôn mặt bầu bầu.
+
+“Con lại trang điểm hả cưng?”
+
+Marie bỗng dưng xấu hổ một cách khó hiểu.
+
+“Mẹ im đi.”
+
+Rồi con bé chạy ào vào phòng ngủ của mình.
+
+Kay cắn môi để không phá lên cười. Có lần Marie đã khóc vì tủi hổ khi Kay nói con bé thích Ribena trước mặt một bạn cùng lớp của nó.
+
+“Con yêu”, cô gọi to, “chúng ta có bánh giòn này”.
+
+Marie do dự, nó lại đi ngang qua hành lang với cái mặt cúi gằm và không nhìn vào mẹ. Con bé sờ trên mặt bếp và bằng cách nào đó, nó tìm được một lốc bánh rồi lấy ra một gói khoai tây chiên giòn.
+
+“Mẹ thích màu sơn móng tay của con.”
+
+Marie lườm mẹ:
+
+“Con thì không”.
+
+Kay thở dài:
+
+“Tha cho mẹ đi, Marie. Không thì trả mẹ bánh đây”.
+
+Marie cố không cười, khụt khịt mũi làm một ít nước mũi thò ra. Kinh ngạc, con bé chạm vào môi trên bị ướt của mình và nhìn mẹ đổ lỗi.
+
+“Vì Chúa.”
+
+Con bé giận dỗi bỏ đi, không quên mang theo túi khoai của nó.
+
+Kay hít thêm một hơi nữa. Một hơi tồi tệ, vừa chua cay vừa đau đớn. Một trong những lần khiến cô phải ước giá mình không biết hút thuốc.
+
+“Giày của con đâu?”. Joe đang đứng trên ngưỡng cửa, thân hình lỏng khỏng của nó chìm trong bóng tối. “Bánh giòn đấy ạ?”
+
+Không chờ câu trả lời, nó đã ào xuống căn bếp mù mờ, lục lọi túi đồ và lôi ra hai túi bánh phô mai và hành.
+
+“MỘT THÔI!”
+
+Nó thả rơi một túi xuống bàn.
+
+“Giày của con đâu rồi?”
+
+“Sao con không nhìn bằng mắt của mình ấy?”
+
+“Bởi vì nhìn bằng mắt mẹ dễ hơn.” Thằng bé xé túi bánh, lấy ra vài cái và tống hết vào trong miệng.
+
+Joe rất đáng yêu, nhưng điều này cũng gây ra phiền toái. Nó làm mọi người quý tới mức lúc nào cũng làm hộ nó việc này hay việc kia. Kay không muốn khuyến khích điều đó.
+
+“Biến ngay, mẹ đang bực mình vì mãn kinh đấy.”
+
+“Nghiêm trọng quá, thế giày của con đâu?”
+
+Cô quay lại với cánh cửa sổ bẩn thỉu.
+
+“Mẹ?”
+
+Cô gục xuống bàn vì thua thằng con trai.
+
+“Con cởi ra ở đâu?”
+
+“Ở cửa ạ.”
+
+“Thế con đã nhìn ở đó chưa?”
+
+“Chưa ạ. Con tìm ở đấy nhé?”
+
+Cô không trả lời.
+
+Thằng bé quay lại và nhìn xuống cái sọt đựng quần áo bẩn nằm ngay cạnh cửa ra vào. Kay đã để nó ở đó để nhét vào tất tật những thứ bọn trẻ thả xuống sàn. Cái sọt làm bằng nhựa trong và cô có thể thấy đôi giày đang chạm vào cạnh sọt.
+
+Joe cũng nhìn thấy chúng, gầm gừ và chạy ào tới chỗ cái sọt.
+
+Giờ thì thằng bé sẽ đi ra ngoài hàng tiếng đồng hồ. Nó đã ở cái độ tuổi mà việc đứng ở góc phố trở nên thú vị không cưỡng lại được, đồng hành với đám bạn cũng mê muội như nó. Kay nhớ về chính mình ở tuổi này. Thực ra thì những ngày ấy cũng đâu có xa xôi lắm, ngay trước khi cô có bốn đứa con, và cô vẫn còn nhớ cái cảm giác phấn chấn đầy cuốn hút ấy. Giai đoạn thay đổi hoóc môn. Giờ cô đã có bốn đứa trẻ, liền kề kiểu bậc thang, cả bốn đều đang ở tuổi vị thành niên. Chúng cứ nảy tưng tưng như bóng bật vào tường.
+
+“Mẹ này”, Joe gọi cô từ ngoài hành lang. Cô nhìn thấy thằng bé đang ngồi choãi chân xỏ giày trên sàn nhà.
+
+“Gì thế con?”
+
+“Mẹ ngồi trong bóng tối thế có vẻ chán đời quá.”
+
+Một lần nữa bị mờ mắt trước vẻ quyến rũ của thằng con, Kay thấy lòng vui lên.
+
+“Mẹ không sao đâu con trai ạ. Chỉ hơi lạnh thôi.”
+
+“Chắc không mẹ? Con sẽ mang cho mẹ một túi khoai tây chiên nếu mẹ muốn.”
+
+“Không, mẹ ổn mà.”
+
+Cô nhìn thằng bé lôi một chiếc áo khoác ra khỏi sọt rồi mặc vào bằng một cử động duyên dáng đến khó tả. Nó mở cửa bước ra ngoài khiến ánh nắng vàng vọt chiếu vào bậc thềm kèm theo một cơn gió lạnh.
+
+Kay thích Joe nhất. Cô biết mình không nên thiên vị, nhưng thằng bé là trường hợp ngoại lệ. Bọn trẻ đều ở tuổi mới lớn nhưng chỉ có mỗi Joe là để ý tới tâm trạng của cô. Đôi khi thằng bé cố làm cô vui lên.
+
+Kay hít thêm một hơi nữa. Cô thấy trời tối dần qua khung cửa sổ nhưng cũng không buồn đứng dậy bật đèn, mà cứ ngồi trong bóng tối như vậy, tận hưởng cảm giác yên ắng trước khi pha trà và lại bắt đầu một vòng quay mới của các việc không tên. Dưới phố có tiếng bọn con trai hò hét và chạy nhảy, tiếng chân đá vào quả bóng da. Cô tưởng tượng ra cảnh một lũ con gái đang đứng túm tụm ở một bên sân bê tông. Ngắm thành phố phía xa xa, cô thấy một dãy nhà cao tầng ở Gorbals, trung tâm thành phố sáng lạn cùng những ngọn tháp nhọn hoắt của trường đại học.
+
+Đèn hành lang chiếu vào một bên gạt tàn, làm ánh lên những cánh hoa được phủ lớp men đỏ và nổi bật hình ảnh uốn lượn của con rắn bằng bạc được làm bởi bàn tay nghệ nhân Moscow. Cô thở dài, tận hưởng vẻ đẹp của màu sắc. Tra trên Internet, con dấu chất lượng cho biết thông tin: Gustav Klingert, những năm 1880.
+
+Kay ngồi lùi lại để nhìn nó rõ hơn. Đó là một cái bát nhỏ có vành hơi khum vào. Lớp mạ mòn tới mức phần được mạ vàng bên ngoài đã không còn che được lớp bạc phía trong. Bên ngoài chiếc bát là lớp men nền màu vàng với những cánh hoa đỏ và trắng, những chiếc lá xanh dương lộ ra trên lưới. Một dòng chấm xanh nhỏ viền quanh phần vành và đáy bát.
+
+Cô vươn tay chạm vào nó, cảm nhận các viền lưới ở vành bát quanh những lớp men màu sắc rực rỡ. Màu đỏ chính là thứ thu hút cô nhất. Lớp men đỏ gần như trong suốt, cảm giác như nhìn vào bên trong một miếng thạch hoa quả vậy. Cô thậm chí còn không biết phát âm cái phong cách này như thế nào, Ros-tov fin-ift gì đấy. Cô thích việc mình không phát âm được. Nó gợi cảm giác cái bát đến từ một thế giới khác, như là Obi-Wan Kenobi3 vậy.
+
+3 Tên nhân vật chính trong bộ phim khoa học viễn tưởng Star Wars (Chiến tranh giữa các vì sao).
+
+Chiếc bát không dành cho lớp người như cô. Nhưng những mẫu hoa văn Nga này xuất phát từ các tác phẩm thêu thùa của thường dân. Những người phụ nữ nghèo đã thiết kế ra mẫu hoa văn và cách phối màu này, họ thêu chúng vào những chiếc khăn trải bàn và gấu váy của mình trong lúc làm việc vất vả ở các ngôi nhà lạnh lẽo, tối tăm. Họ là những phụ nữ nghèo nhưng tha thiết cần cái đẹp để giúp mình vượt qua bóng tối, khiến họ cảm thấy mình còn đang sống.
+
+Và rồi hàng trăm năm sau, các nhà chế tác trang sức đã lấy mẫu thiết kế của họ và biến chúng thành những vật đắt tiền như chiếc bát này, khảm vào thắt lưng, hộp trà hồi trà vẫn còn là thứ xa xỉ, những thứ đắt đến mức những người phụ nữ nghèo này không bao giờ dám mơ tới. Cô là một trong những người thêu thùa nghèo đói ấy khi ngồi trong bóng tối này và những hoa văn kia đang nói chuyện với cô về một vẻ đẹp được tạo nên từ hư vô, về tầm quan trọng của việc nhìn thấy cái đẹp trong mọi vật và biết trân trọng nó, cho dù là qua một cánh cửa sổ bám đầy bùn đất.
+
+Kay biết rằng trong số tất cả những người từng sở hữu hay sử dụng hoặc nhìn thấy chiếc bát này trong suốt một trăm ba mươi năm qua, không một ai yêu nó nhiều như cô, không ai vuốt ve nó trong những đêm dài mất ngủ, dò theo từng đường viền mạ bạc uốn lượn quanh những chiếc hồ màu sắc của nó.
+
+3
+
+D
+ưới cơn mưa lạnh buốt của buổi sớm mai, Alex Morrow đứng bên một cái mộ mới đào, tay cầm đầu tua rua của sợi dây thừng màu vàng.
+
+Cái kiểu nghi lễ giả này khiến cô khó chịu. Họ đâu có hạ ông ta xuống cái hố sâu tám feet1bằng những sợi dây này, công việc đó thực ra là do những sợi dây nằm dưới đáy quan tài được nối với động cơ thực hiện. Nhưng người tổ chức tang lễ đã thì thào ra lệnh cho họ phải cầm mỗi người một đầu dây: Cô và Danny - một người đàn ông tóc hoa râm vốn là bạn tù hai năm của bố cô, hai người anh em họ, một người bạn từ thời thơ ấu và một trong các nhân viên nhà tang lễ. Họ đứng quanh cái mộ chuẩn bị đưa bố cô xuống và hoàn thành ô chữ, trong lúc một nhân viên khác của nhà tang lễ mới là người thực sự điều hành cỗ máy hạ chiếc quan tài xuống lòng đất.
+
+1 1 feet = 0,3048 mét.
+
+Khi quan tài đã chạm vào đáy hố, tất cả đều ngước lên chờ được hướng dẫn. Người tổ chức tang lễ đang đứng ở một bên mộ và thả đầu dây thừng xuống đó một cách buồn bã, chờ nó uốn éo rút lại rồi hạ xuống mặt gỗ bên dưới một tiếng “thụp”. Ông ta nghiêm nghị gật đầu với cái hố, cứ như là rốt cuộc có thể chấp nhận được cái chết của một người mà mãi đến khi được thuê để chôn cất người đó, ông ta mới quen tên. Ông ta nhìn những người khiêng quan tài khác, trông thấy vẻ mặt băn khoăn không biết làm gì tiếp theo của họ và khoát tay về phía cái mộ, bảo họ làm theo mình.
+
+Một trong hai người anh em họ giơ tay và thả đầu dây thừng của mình thẳng xuống hố, không chạm vào thành. Anh ta nhìn nó rơi, miệng khẽ mở ra như cười và tận hưởng cú rơi đó. Người bạn tù thì cười khúc khích trong lúc làm nhiệm vụ và quay đi trước khi đầu dây kịp chạm mặt gỗ. Danny hất cổ tay như thể đang vứt một miếng giấy gói kẹo khi thừa biết vứt rác là không nên nhưng cứ mặc kệ ấy. Morrow chỉ việc thả tay và để sợi dây rơi xuống hố, cố ra vẻ hành động đó chẳng có ý nghĩa gì. Cô hoàn toàn ý thức được vẻ bất cần cẩn thận ngụy tạo của mình là một minh chứng hùng hồn cho những cảm xúc dành cho bố.
+
+Đằng sau cô, Crystyl khóc thành tiếng. Chị ta đang đội một cái mũ to tướng màu đen với những bông hồng đen bằng lụa khâu xung quanh vành mũ, thi thoảng lại lảo đảo khi đôi giày gót nhọn bị cắm xuống bùn. Danny thấy xấu hổ vì chị ta. Chị ta đã bao giờ gặp người vắn số đâu chứ.
+
+Morrow quay người để bước đi nhưng bị một dải đất mới đào phủ cỏ nhân tạo chặn lại.
+
+Đó là một lễ tang nhỏ và thảm hại, nhưng vẫn còn tươm tất chán so với thứ ông già đáng nhận. Bọn họ không đến đây vì ông ta. Hầu hết những người này là đàn ông và họ có mặt ở đây là vì lòng trung thành với Danny. Morrow khinh bỉ đám đệ tử này. Bọn họ ăn mặc như Danny, để kiểu tóc như anh ta, hỗ trợ đội của anh ta. Đó là thứ lòng trung thành được sinh ra từ lòng tham của đôi bên và tham vọng vụ lợi. Ác ý đến từ cả hai phía: Họ cũng biết cô là cảnh sát.
+
+Danny bắt kịp Morrow trong lúc cô đang cẩn trọng đi qua lớp bùn đến chỗ con đường.
+
+“Cảm ơn vì cô đã đến”, anh ta khách sáo nói, thiếu bước nữa là ngã nhào vào sau lưng cô dù cô bước rất nhanh và quả quyết về phía đường chính.
+
+Morrow kéo lại áo khoác trước mặt anh ta.
+
+“Ông ta cũng là bố tôi mà.”
+
+“Anh biết, nhưng... vẫn cảm ơn cô.”
+
+“Chà, cảm ơn anh đã tổ chức tang lễ.”
+
+“Có gì đâu.” Anh ta đang đứng ngang hàng với cô trong lúc cùng đi lên ngọn đồi dốc để đến chỗ xe ô tô của cô, như thể hai người cùng đến với nhau. Lẽ ra phải đi chậm lại thì cả hai lại rảo bước nhanh trên con đường dốc rải đá giăm màu đen. Danny muốn nói gì đó.
+
+“Sao nào?”
+
+Anh ta nhìn cô bằng cái kiểu “cẩn thận mồm miệng trước mặt tao đấy”.
+
+“Brian không đến à?”
+
+Danny chưa từng gặp Brian và cô không bao giờ muốn anh ta gặp chồng cô.
+
+“Không xin nghỉ được.”
+
+Danny gật đầu và mỉm cười với mặt đất. Cô cảm thấy anh ta biết Brian vẫn chưa đi làm. Cô đã yêu cầu Brian không đến. Cô làm như vậy vì Brian là một người tốt, anh sẽ không đủ sức chống lại sức hút của Danny. Chỉ cần gặp anh ta hai phút là Brian sẽ lại làm giúp anh ta một chuyện nhỏ gì đó rồi bị cuốn theo ngay. Đó là cách Danny vẫn lôi kéo mọi người: Một ân huệ nhỏ, một chút lợi lộc nho nhỏ, cho một người họ hàng túng quẫn nào đó vay khoản tiền nhỏ và rồi, trước cả khi họ kịp hiểu ra chuyện gì, một người trước giờ vẫn sống lương thiện sẽ lái chiếc xe chứa đầy heroin từ Fraserburgh đến. Mối quan hệ an toàn nhất là không quan hệ với ai cả. Hai người đi đến chỗ ô tô của cô, một chiếc Honda cũ mà Brian đã mua trong một lần hoài niệm về thời lãng mạn của hai vợ chồng và Morrow lục lọi tìm chìa khóa trong túi xách.
+
+Đằng sau họ, ở dưới chân đồi bên ngôi mộ, Crystyl đang khóc nấc lên trong thương tiếc và một trong các tay sai của Danny trong bộ tang phục đen đang đứng cách đó một sải tay đưa cho chị ta túi khăn giấy Handy Andies.
+
+“Crystyl khổ sở quá nhỉ”, Morrow nói, cho phép mình cạnh khóe một câu trong lúc lôi chùm chìa khóa ra.
+
+Cô có thể liếc thấy cằm Danny hơi chìa ra ngoài.
+
+“Alex, sắp tới sẽ có một người phụ nữ gọi cho cô. Bác sỹ tâm lý. Về chuyện của John.”
+
+Morrow dừng tay và nhìn vào anh ta. John chứ không phải Johnny, không phải JJ, không phải Wee John. Mà là tên thánh của nó. Có vẻ nghiêm trọng đây.
+
+“Anh cho người lạ biết tôi có liên quan đến John à?”
+
+Danny nghiến răng khó chịu và nhìn đăm đăm xuống lớp đá giăm dưới chân. John là đứa con trai Danny sinh ra từ hồi mười bốn tuổi. Người mẹ mười tám tuổi và là một biểu tượng gợi tình trên phố South Side, một chiếc cúp dành cho các chàng trai mới lớn. Alex nhớ đã nghe về chuyện đó từ hồi cô cũng mười bốn và cảm thấy tự hào về Danny một cách kỳ lạ. Lúc đó, cô mười bốn tuổi và chuyện ai đó cùng tuổi với cô mà lại có con dường như có vẻ thạo đời quá đáng. Nhưng cuộc đời của John không phải là hoa thơm quả ngọt từ những ông bố bà mẹ tuổi teen. Thằng bé bị ép lớn sớm và trưởng thành trong hoang dã.
+
+“Thằng bé gặp khó khăn trong đó à?”, cô hỏi, cố ra vẻ quan tâm.
+
+“Ừm”, Danny siết hàm lại chặt tới mức khó có thể nói chuyện.
+
+Anh ta nhìn đi chỗ khác và cố mở lời.
+
+“Cái... với đứa con gái đó...”
+
+“Mười lăm tuổi còn chưa phải là con gái, Danny.”
+
+Anh ta nhìn thẳng vào Morrow và cô trông thấy nỗi căm hận trong mắt anh ta. Hơi thở của anh ta nông và dồn dập, cứ như anh ta sẵn sàng đánh cô nếu có thể.
+
+“Cô không chịu thôi đi à?”
+
+Morrow nhìn vào chìa khóa xe mình.
+
+“Nó là thằng con trai chết tiệt của tôi. Đó không phải là lý do cả hai ta ghét ông ấy hay sao?” Anh ta chỉ vào cái mộ trên đất ướt, “bởi ông ta không thèm quan tâm quái gì đến chúng ta? John là con trai tôi và tôi đang cố gắng một cách chết tiệt đây”.
+
+Gáy anh ta đỏ ửng lên và Morrow nhìn đi chỗ khác, cầu xin anh ta đừng khóc. Danny hắng giọng và thì thầm:
+
+“Tôi đang cố đây”.
+
+Cố gắng quan tâm tới một thằng con trai hiếp dâm và rạch đùi của một cô bé mười lăm tuổi bằng con dao Stanley trong một bữa tiệc. Đó chính là phần mà các báo không bao giờ có thể bỏ qua được: Bữa tiệc vẫn diễn ra bên ngoài cánh cửa trong lúc John làm việc đó ở ngay trong phòng tắm thông với phòng ngủ của bố mẹ cô bé. Đó là con gái của một gia đình trung lưu đi học ở trường tư. Một cô gái thông minh, đã uống quá nhiều và mở cửa cho bọn giai hư vào nhà. Báo chí đã gây ra một chuỗi hoảng loạn: Trẻ vị thành niên uống rượu, băng nhóm, bạo lực với dao, tình dục ở tuổi teen. Người ta cảm giác như câu chuyện sẽ không bao giờ kết thúc cho đến khi John bị bắt và mọi bài báo ấy đều trở thành định kiến với thằng bé trước tòa.
+
+Danny có thể đã cố gắng giúp John nhưng chính anh ta cũng trở thành vấn đề: Mọi người trong thành phố đều biết John phạm tội bởi Danny chính là bố nó. Nếu Danny có chút xíu nghi ngờ nào về tội ác của con mình thì những thằng bé đã khai tên anh ta với cảnh sát sẽ biến mất ngay. Bản án thực ra đã được tuyên từ trước đó rất lâu rồi.
+
+“Trong tù nó có được giúp đỡ không?”
+
+Danny nhún vai.
+
+“Tại sao anh lại bảo họ liên lạc với tôi? Tôi sẽ không nói dối giúp nó đâu, Danny. Đằng nào tiểu sử của nó chẳng được cung cấp cho tòa rồi.”
+
+“Chuyện này không phải vì cô là cảnh sát, mà vì cô là người thân. Họ muốn nghe lịch sử của nó, chỉ là những chi tiết thật.”
+
+Morrow tặc lưỡi trong lúc tra chìa khóa vào ổ.
+
+“Danny, chúng ta gần như chẳng phải là anh em.”
+
+Anh ta gật đầu với câu đó.
+
+“Nhưng cô vẫn là người thân duy nhất của anh.”
+
+“Bọn họ không nói chuyện với mẹ thằng bé được à?”
+
+Danny lắc đầu.
+
+“Trong viện. Điên rồi.”
+
+“Còn bà nó? Bà ta còn sống phải không nhỉ?”
+
+“Bà ta... không thiết tha gì.”
+
+“Hừm.” Morrow cũng không nói lên điều mình nghĩ: JJ đã đá bà mình túi bụi và từng bị bắt vì việc đó. Chắc bà nó còn có nhiều điều tồi tệ để nói về nó hơn cả cô.
+
+Cả hai lại nhìn xuống Crystyl, lúc này chị ta vẫn còn đang khóc lóc khi được dẫn đi khỏi nấm mộ. Những gã đàn ông hời hợt đang đứng quanh đó nhìn đi nơi khác và thấy xấu hổ trong lúc nghĩ ngay cả một gã điên đã chết cũng đáng được hưởng sự đúng mực hơn như thế.
+
+“Nếu anh nói chuyện với bác sỹ”, Danny nói, “thì mọi chuyện sẽ xoáy vào anh. Anh đang cố đứng ngoài lề hết sức có thể để tạo khoảng cách, nếu không thằng bé sẽ bị giết trong tù vì một thằng ngu nào đó muốn làm lễ ra mắt. Chuyện này rất phức tạp. Bà bác sỹ chỉ muốn tìm hiểu thông tin ngoài lề một chút”.
+
+“Bà ta muốn nói về chuyện gì?”
+
+“Chuyện ngoài lề trong cuộc sống của John. Thông tin về cuộc sống của nó. Nó đã ở đâu, với ai, đại loại như vậy.” Danny xoay người, tránh đối mặt với cô, hơi thở của anh ta ngắn và ngập ngừng, “anh không lừa cô đâu, Alex. Anh chỉ đang cố gắng làm việc đúng đắn. Nhờ cô làm việc đó với anh còn khó khăn hơn”.
+
+Cô đã nghĩ xấu cho Danny. Điều anh ta muốn chỉ là giúp John. Nhưng hầu hết những thông tin cô biết đều nằm cả trong hồ sơ của thằng bé rồi. Chắc hẳn họ đã phải điều tra các báo cáo của nhân viên xã hội ngay khi thằng bé bị bắt vì tấn công bà mình. Cô nhìn xuống tay mình. Chìa khóa đang nằm trong ổ, tay cô thì đặt trên chìa, cô chỉ việc xoay nó, vào trong xe và bỏ đi.
+
+“Tôi cũng đâu có biết gì nhiều về tiểu sử của...”
+
+“Đây không phải chuyện trị liệu tâm lý, đây là thông tin cho phiên tòa... Bao nhiêu phần trăm khả năng nó sẽ lại gây ra chuyện đó cho một cô bé khác? Chúng ta không muốn nó được thả trừ khi...”
+
+Morrow ngừng lại một lúc để hít vào. Danny thực sự biết cách thuyết phục cô: Cứu các cô gái, đừng giết JJ, làm người tốt hơn bố của họ. Anh ta biết cô quan tâm đến chuyện gì và phải tác động như thế nào. Trong một phút, cô chợt nghĩ có lẽ lần này mối quan tâm của cả hai người là như nhau, rằng đó là một việc nên làm. Cô cân nhắc chuyện ấy cho đến khi sự nhiệt tình thái quá đối với con cái này làm cô thấy giật mình. Cô đã không đào thoát khỏi cái gia đình hỗn tạp này và gia nhập lực lượng cảnh sát nhờ việc biết điều. Cô đã không tránh xa được thế giới đó và cưới một người tốt như Brian nhờ làm những việc Danny cho là tốt nhất.
+
+Cô xoay chìa khóa, mở cửa về với thế giới của mình và đặt một chân vào trong ô tô.
+
+“Không, tôi không muốn như thế. Và Danny này, sau chuyện này...” Cô mở tay ra và lặp lại động tác đã làm bên mộ khi thả rơi sợi dây thừng vàng. Cô thụp người xuống ghế lái xe và đóng cửa lại.
+
+Danny nhìn cô qua kính chắn gió trong một giây. Cơ thể chắc nịch, đầu cạo trọc hếu và vai ngang bè, phong cách của anh ta là để đe dọa người khác. Và giờ thì anh ta đang đứng đó với hàm răng nhe ra để lộ cái miệng mỏng dính, ép cằm xuống và trừng trừng lườm cô.
+
+Cô chưa bao giờ trông thấy biểu hiện ấy trên mặt anh ta và cảm thấy một nỗi sợ hãi bất chợt xuyên qua người, qua cả cặp song sinh trong bụng, qua cả chiếc xe cũ xinh đẹp của cô. Danny đấm vỡ cằm người ta và đập phá cửa xe bằng tay không. Danny đâm vào mặt một người đàn ông bằng chiếc chai thủy tinh. Danny làm những việc ấy khi cảm thấy người ta nợ anh ta hay khi anh ta muốn có gì đó. Alex cảm nhận sâu sắc rằng đây sẽ là lần cuối cùng họ nói chuyện tử tế với nhau và cô cũng biết mình chính là người lựa chọn việc dứt tình.
+
+Giữ hơi thở điều hòa, cô khởi động xe và lái đi qua anh ta, cẩn thận chọn con đường dốc đi xuống mé bên kia của nghĩa trang và mừng rỡ khi không còn trông thấy đoàn người viếng mộ ở gương chiếu hậu của mình.
+
+Cô đi đến cổng thì điện thoại reo vang một giai điệu vui vẻ. Là Bannerman. Cô ấn nút rảnh tay và giọng ông ta tràn trong khoang xe:
+
+“Cô đang ở đâu đấy?”.
+
+Không có khâu chào hỏi, mào đầu gì hết, chỉ độc một câu cắm cảu. Cô còn chưa kịp nói gì với ông ta mà ông ta đã có vẻ cáu tiết với cô rồi.
+
+“Rời khỏi nghĩa trang.”
+
+“Tốt.”
+
+“Thưa sếp, sếp phải hỏi tôi là mọi chuyện thế nào chứ.”
+
+“Thế à?” Đó không phải một lời thách thức mà là câu hỏi đúng nghĩa. Bannerman được chọn thăng chức thay vì Alex, và mặc dù quyết định đó không có gì bất ngờ, nó lại tác động đến ông ta một cách lạ lùng. Họ từng chung một văn phòng trong nhiều tháng trời và Morrow biết ông ta thấy bất an, cô đoán ra chuyện đó từ cách cư xử giả tạo mà Bannerman cố ý trưng ra, từ mái tóc rối bù, hai gò má rám nắng cũng như nhu cầu tha thiết được nổi tiếng và nổi bật của ông ta. Điều cô không ngờ được là kể từ đó, ý kiến của cấp dưới đột nhiên trở nên vô giá trị với ông. Ông ta mặc kệ tất cả vì giờ đã phải diễn cho những khán giả khác xem. Giờ lúc nào ông ta cũng giận dữ, độc đoán, cay nghiệt và hay chỉ trích. Cánh đàn ông trong đội ghét cay ghét đắng ông ta nhưng ông ta lại thấy đó là một niềm tự hào. Kỳ quái hơn, cô bỗng trở nên được bọn họ ưa thích, có lẽ nhờ sự chua ngoa của cô ít nhất còn là cảm xúc thật.
+
+“Tại sao tôi lại phải hỏi cô điều đó?”
+
+“Bởi vì giả vờ quan tâm đến một đám tang gia đình là hành động lịch sự.”
+
+“Được rồi, lễ tang của bà dì cô thế nào?”
+
+“Tốt.”
+
+“Bà ta bao nhiêu tuổi?”
+
+“Ừm, khá già rồi. Tầm tám mươi, tôi nghĩ thế.”
+
+“Vậy thì cũng đến tuổi rồi...”, Bannerman nói.
+
+“Vâng”, cô liếc nhìn vào gương và trông thấy một ông già thọc sâu hai tay vào túi đang tập tễnh trèo lên con đường đằng sau lưng cô. “Tôi cho là vậy.”
+
+“À...”, ông ta chần chừ, làm như khó mà tìm được những lời chia buồn sáo rỗng về cái chết vậy. “Tốt lắm. Thế này, chúng ta vừa có một vụ án mạng ở Thorntonhall, nếu cô đã xong việc ở đó.”
+
+Cô nhìn vào gương chiếu hậu và mỉm cười.
+
+“Tôi xong việc rồi, sếp ạ.”
